@@ -1,0 +1,16 @@
+Disadvantage: Split Personality
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPLIT PERSONALITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You have two or more distinct personalities, each with its own set of behavior patterns. They may interpret their memories differently, and even use different names.
+
+{{Indent}}For each personality, select a &quot;package&quot; of mental disadvantages and up to five quirks. The GM may also permit variations in IQ, Perception, Will, and mental advantages, where these would make sense. Each package of mental traits must be worth the same number of points. When calculating the value of your character, count the &quot;package price&quot; once - not once for each personality. All your personalities have the same physical traits and skills (although some personalities might not use certain skills), and share any mental trait that is not part of one of these packages.
+
+{{Indent}}Example: Bob Smith has three personalities. &quot;Col. Smith&quot; is a stern disciplinarian with Delusion (&quot;I am a military officer&quot;) [-10], Code of Honor (Soldier's) [-10], and the quirk &quot;Stands on ceremony&quot; [-1]. &quot;Bobby&quot; is a party animal with -2 to Will [-10], Compulsive Carousing (6) [-10], and the quirk &quot;Sleeps all day and goes out at night&quot; [-1]. &quot;Smitty&quot; is a troublemaker with Overconfidence (12) [-5], Trickster [-15], and the quirk &quot;Steals for fun&quot; [-1]. All three personalities share all of Bob's other traits. Each package totals -21 points. Bob's player claims the -21 points once. With -15 points for Split Personality (12), the total point value is -36 points.
+
+{{Indent}}You must make a self-control roll in any stressful situation (but no more than once per hour of game time). On a failure, one of your other personalities emerges, and you behave according to its mental disadvantages and quirks. If there are several possibilities, the GM should either choose a personality appropriate to the situation or roll randomly.
+
+{{Indent}}All your personalities are somewhat shallow and affected, which gives -1 to reactions at all times. Those who witness a personality change will feel (possibly with justification) that you are a dangerous nutcase, and react at -3.
+|}

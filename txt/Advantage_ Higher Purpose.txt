@@ -1,0 +1,10 @@
+Advantage: Higher Purpose
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HIGHER PURPOSE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points''&lt;/font&gt;
+|-
+|{{Indent}}You are driven to exceed your normal limits in one specific pursuit. You must state this exactly as if it were a Code of Honor disadvantage (p. 127): &quot;Defend all women,&quot; &quot;Slay all demons,&quot; etc. If, in the GM's judgment, you are unfaltering in your pursuit of your Higher Purpose, you get &quot;+1 to all die rolls that pertain directly to the pursuit of your cause. If you deviate from your Higher Purpose, you lose this bonus . . . and the GM is free to penalize you for bad roleplaying just as if you had ignored a Code of Honor.
+
+{{Indent}}A Higher Purpose must be specific. Higher Purposes such as &quot;Fight evil&quot; or &quot;Oppose authority figures&quot; are too broad to be balanced. In addition, a Higher Purpose must entail genuine risk and inconvenience. The GM should not allow pragmatic Higher Purposes like &quot;Faithfully serve my superiors.&quot; All Higher Purposes are subject to GM approval.
+|}

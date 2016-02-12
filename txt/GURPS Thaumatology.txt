@@ -1,0 +1,811 @@
+GURPS Thaumatology
+[[Category:GURPS Reference]]
+
+=REALMS=
+
+The second type of syntactic magic divides the magical
+universe into Realms, and focuses on the degree of power
+the magician possesses over each Realm. To compare this
+approach to the verb-noun model: Realms are quite similar
+to nouns (although some define methods and effects as
+much as they define things), while the magician’s level of
+power in a Realm identifies the verbs available to him.
+However, Realm-using casters don’t have to worry about
+the exact magical description of their intended effect – only
+whether they have the power to accomplish it. For an
+example of a Realm-based magic system, see [[Oceanic Magic]]
+(pp. 232-233).
+
+==More Levels: Lower and Higher Mysteries==
+
+Having more levels per Realm allows finer subdivisions
+and greater subtlety – although too much subtlety may lead
+to confusion and arguments about exactly what each level
+can accomplish. The question of exactly how many levels
+are “enough” is left to the GM’s judgment, but anything
+beyond six is probably too complex. One possible structure:
+
+Level 1: Detection and Measurement. This is much the
+same as level 1 in the three-level system discussed above,
+but strictly limited to passive sensing.
+
+Level 2: Control and Diversion. The magician has limited
+control over anything that falls within the Realm. This
+includes the ability to encourage its natural growth and to
+calm it, but not to create it or suppress it much below its
+natural level. Weather/2 might allow a ship’s wizard to save
+the vessel from being blown onto rocks by turning the
+winds around a few points, and maybe stopping them from
+growing much worse, but the ship would still have to run
+before the wind until it blows itself out. Objects can only be
+reshaped within their natural limits, although perhaps a little
+faster than usual; wood warps naturally, so Plants/2
+could make a door twist loose from its frame in a few minutes.
+Likewise, ghosts are always bound by rules and
+restrictions, so it’s not hard for a wizard with
+Necromancy/2 to create a barrier that prevents them from
+entering a room. If a force or a power permeates the entire
+universe, then level 2 in the associated Realm permits its
+exploitation in straightforward ways. The magician’s person
+and identity may be easier to manipulate than something
+external; Health/2 might, with GM permission, let the
+user heal his own minor wounds, but not regenerate lost
+limbs or help others.
+
+Level 3: Command and Simple Creation. With substantial
+control over the Realm on a local level, the magician can
+call up things that might exist, make them go away, repair
+them, or change their appearance or capabilities. This also
+permits the creation of simple manifestations of the Realm.
+The GM decides what’s “simple,” but while a lightning bolt
+or a rock should qualify, and a tree or an insect might, a living
+person certainly won’t. Humanity/3 might, however,
+grant the ability to heal (or inflict) wounds, influence someone
+else’s emotions and thoughts, and cause the nearest
+human beings to approach. Likewise, Motion/3 could grant
+the power of flight, or Magic/3 could enable the user to dispel
+most other magics by suppressing their magical nature.
+
+Level 4: Authority. Anything that lies within the Realm is
+open to command, and the magician can create all but the
+most complex manifestations of this aspect of reality. He
+can also negate use of lesser levels of the same Realm by
+commanding that working’s subject not to be affected.
+Decay/4 might let him not only cause the destruction of
+anything that’s subject to decline (living or not), but also
+make something that has already decayed work “as new” by
+suppressing all consequences of the decay. Biology/4 might
+enable him to change the sex of living things, make them
+physically older or younger, or grant them special abilities
+borrowed from other, similar species.
+
+Level 5: Complete Power. At this level, the magician’s
+control of the Realm appears more-or-less complete. He
+can turn it off or on, perform the most radical transformations
+(although he may need access to another Realm for
+this; e.g., turning a tree into a horse might require not
+only Plant/5 but also Animal/4), or create the most complex
+forms from nothing (albeit still subject to any fundamental
+rules of magic concerning permanent creations).
+He can also remove or change individual features of the
+target, often in complex ways. For example, Image/5
+might permit him to make someone appear to be a man
+to one observer, a horse to another, and invisible to a third
+– simultaneously.
+Level 6: Transcend Limitations. This is a legendary level
+of power over the Realm, achieved by few mortals. It could
+be nothing more than a wild rumor, or achieving it may be
+the lifetime ambition of every wizard. The GM is free to
+require large Unusual Backgrounds for PCs who wish to
+attain it. Essentially, an expert can adjust the nature of the
+Realm itself, at least locally. Energy/6 might permit a magician
+to turn electricity into a purple liquid, while Love/6
+might make indifference into the highest expression of
+love. Primarily, though, level 6 in a Realm is the point at
+which anything is possible – temporarily, and if the GM
+approves. The potential dangers of such power are as great
+as the benefits.
+
+==Level Costs==
+
+Power over each Realm is a separate advantage, bought
+in levels. The cost per level depends on the breadth of the
+Realms, and on how much control each level adds. Some
+suggested guidelines for determining this cost:
+1. Basic cost per level, in a system that grants complete
+control over the Realm at the highest level, is 60 points
+divided by the total number of levels per Realm. If magicians
+enjoy only partial control over each Realm at the
+highest level, then calculate cost as if there were further levels
+with similar gradations of power, up to whatever hypothetical
+level would grant total control.
+2. Decide how many Realms the campaign features.
+Include Realms that aren’t widely known to magicians.
+3. Assess how much of the universe Realm-based magic
+can control – aside from any transcendent or omnipotent
+gods – and count how many distinct and substantial
+aspects of reality it can’t influence. This judgment is necessarily
+subjective, but the GM should have a fair idea how
+many problems these weaknesses will cause. Minor flaws
+and glitches in the laws of magic don’t count here, but can
+justify small cost reductions, or at least rounding down.
+4. Add the number of Realms from step 2 to the number
+of inaccessible aspects of reality from step 3, and modify the
+cost per level from step 1 as follows:
+
+ 1-2,   x5
+ 3-4,   x3
+ 4-6,   x2
+ 7-9,   x1
+ 10-12, x2/3
+ 13+,   x1/2
+
+==DEFINING EFFECTS==
+
+Having decided what he wants to achieve through a
+Realm-based working, the wizard must determine whether he
+can accomplish it.
+
+===Appropriate and Multiple Realms===
+
+The main question is which Realm or Realms apply. In
+general, this ought to be fairly clear. A Realm-using wizard
+should have a good enough idea about his abilities that the
+player can simply ask whether something is possible at a given
+level. Still, the occasional working will require negotiation and
+discussion between player and GM.
+Many workings involve more than one Realm. This might
+increase range or effective duration, or permit transformations
+from one Realm to another (see below). It may also
+make the magic harder to counter (see Countermagic, p. 194),
+in that an opponent must have power over every Realm used.
+However, multiple-Realm workings are inevitably somewhat
+harder.
+
+
+===Transformations===
+
+Effects that transform one thing into another are tricky –
+especially if they change the target into something from a
+different Realm, which calls for a significant level of power
+over both Realms. In general, the caster requires whatever
+level permits transformations in the Realm corresponding to
+the subject’s current state (this level is campaign-specific, but
+invariably high), plus a sufficiently high level in the other
+Realm to perform at least minor creations (a suggested minimum:
+one level less than the first Realm level, or level 2,
+whichever is higher). The GM can assign significant skill
+penalties or energy costs for especially radical transformations,
+even within a Realm.
+
+===Realms and Damage===
+
+In general, a caster needs at least level 2 in a Realm to use
+it to inflict damage, and even level 2 workings (assuming that
+higher levels are available) tend to be limited to small, localized
+harmful effects: electrical sparks, flammable materials
+catching light, nauseating rather than lethal toxicity, and so
+on. The GM may rule that such damage is rolled at -1 to -3 per
+die, allows the target an attribute roll to avoid it, etc. Level 3+
+in Realms such as Energy and Cold can permit more effective
+attacks.
+Damaging things that fall within the Realm directly –
+rather than using the Realm’s power to generate a minor ad
+hoc weapon – requires a moderate to high level in the Realm,
+or a combined working that includes another, destructive
+Realm such as Decay or Death. For example, in a system with
+four or five levels per Realm, Plant/3 might serve to shatter a
+wooden door; Plant/2 combined with Decay/3 might rot it, so
+that it crumbles after a few seconds; and Decay/4 could conjure
+pure entropic destruction from nowhere, destroying the
+door with a touch.
+
+
+===Enhanced Damage at High Levels===
+
+Given high levels of control over a Realm, the caster can do
+things that fall within it more serious damage, by disrupting
+their fundamental nature. A simple general rule: for every level
+by which the magician’s power in the Realm exceeds that
+required to damage the target, give his attacks +1 damage per
+die. Alternatively, the GM may define these attacks as having
+an armor divisor of (2), or decree that the injury they inflict
+heals more slowly or even not at all unless treated with equally
+powerful healing magics.
+
+
+==PERFORMING THE WORKING==
+
+A Realm-based working always requires a single skill roll,
+with the modifiers noted under Parameter Effects (pp. 181-
+183), plus those for modified casting time, distraction, etc.
+When more than one Realm is involved, use the caster’s lowest
+skill in any of them, at -1 per Realm after the first. For
+example, a wizard with the skills Thoughts Realm-15 and
+Distance Realm-13, trying to communicate telepathically with
+someone on another continent by combining the two Realms,
+would have an effective skill of 12 before other modifiers. Use
+this roll to find any margin of success needed to determine
+effects or resistance.
+
+===Energy Cost for Realm-Based Magic===
+
+Base energy cost for Realm-based magic usually equals
+twice the level of the highest-level Realm involved, plus the
+level of any other Realms used. See also Determining Base
+Energy Cost (pp. 180-181).
+
+==REALM-BASED ENCHANTMENT==
+
+
+A magician who wishes to create a permanent magic
+item using Realm-based magic must imbue it with the
+Realm’s nature and power. The resulting artifact has one or
+more specific functions that a wizard employing the Realm
+could perform or enable. This kind of enchantment
+requires command of the Realm itself, and may also
+require power over one or more additional Realms, such as
+Magic (to bind supernatural forces into a new shape) or
+Matter (to adjust the object’s structure to hold its new
+power). The GM can impose whatever supplementary
+requirements he sees fit, as a general rule or in specific
+cases – including knowledge of other skills (whether those
+related to magical operations or mundane craft skills to
+shape the item) and use of special materials.
+The enchantment process can use the standard rules for
+spell-based magic (see Magic Items, pp. B480-483, and
+Enchanting Items, pp. 107-113); either Quick and Dirty or
+Slow and Sure enchantment is possible. The enchanter
+rolls against the lowest relevant Realm skill, which also
+defines the artifact’s Power. His skill with every Realm
+involved must therefore be at 15+ if the item is to work in
+normal or better mana – or at 20+, if it’s to function in low
+mana. The energy cost for this purpose is equal to the sum
+of the levels of the Realms involved in the process, multiplied
+by 150 if only a mage can use the item, or by 250 if
+anyone can use it. If a Realm plays multiple roles in the
+enchantment, then count it once per application.
+Example: Carbuncle the Barely Sane manufactures an
+Amulet of Commanding Giant Ants. The GM rules that
+preparing the amulet uses Matter/2 (to transform it to carry
+this puissant effect) and Magic/2 (to make it magical); the
+actual function requires Insects/3 (to control the ants) and
+Magic/3 (to make the amulet self-powered). The total of all
+these levels is 10; therefore, the energy cost is 2,500.
+
+===Draining Enchantment===
+In some settings, Realm-wizards can permanently transfer
+a portion of their magical power to an item, making
+enchantment faster – or perhaps achieving results that
+aren’t possible by any other means. Use the rules given in
+Spending of Yourself (pp. 109-110). The points required usually
+come from a relevant Realm advantage.
+
+==PARAMETERS==
+Every syntactic working has a set of parameters: numerical
+values and modifiers that define how it takes effect. The
+exact form these take can vary from setting to setting; the
+GM customizes them to set the flavor of the game. Either
+the caster decides beforehand exactly what he wants the
+working to do, and this determines modifiers to the skill roll
+and/or energy cost, or he makes a skill roll with no modifiers
+for this parameter, and the margin of success determines
+the working’s power. The former approach makes magic
+more reliable and predictable; the latter may grant more
+raw power, but with the problem that the precise effectiveness
+of any casting is unpredictable.
+However, some options – those that must be determined
+before attempting the effect – always produce skill modifiers.
+For example, if magic normally takes several seconds
+to work and involves speaking in a loud voice, then casting
+in a hurry and only speaking in a whisper will inevitably
+penalize the attempt. Of course, penalties will reduce margin
+of success on a successful working.
+
+===Determining Base Energy Cost===
+An effect’s base energy cost is usually defined as the energy
+needed to affect a single target of SM 0 or less – or the
+base area, for an Area effect – instantaneously or for one
+standard duration interval. The GM can take this from a
+standard spell with a similar effect, or derive it as follows.
+Under no circumstances does a syntactic working get an
+energy cost reduction for high skill!
+
+====Realm-Based Workings====
+The base cost usually equals twice the level of the
+highest-level Realm involved, plus the level of any other
+Realms used. For example, a delayed-action explosion created
+using Fire/3 and Time/1 would have a base cost of (2 x
+3) + 1 = 7. If the Realms have few levels that are relatively
+broad in scope, then the GM may opt to increase this cost.
+
+===Parameter Effects===
+Any parameter can generate a skill penalty or an
+increase in the magic’s energy cost, or require a particular
+margin of success on the casting roll. Applying both penalties
+and energy costs makes useful magic very difficult. The
+GM should normally opt for one or the other – or use margin
+of success instead of either.
+If margin of success does determine certain parameters,
+then apply the entire margin separately to each such parameter;
+don’t divide it up among them. For example, if the caster’s
+effective skill is 15, and he rolls a 9, then the effect can
+have 6 points’ worth of range, and 6 points’ worth of area,
+and 6 points’ worth of duration, and so on. The magician
+never has to use his full margin – if he wants a 10-yarddiameter
+effect, then he doesn’t have to let his magic spread
+over 100 yards just because he rolled well! For resistible
+effects, the GM may opt to subtract the margin of success on
+the target’s resistance roll from the caster’s margin, in effect
+meaning that such castings use margin of victory.
+Effects determined by margin tend to be somewhat
+more powerful, but they’re less predictable, and a working’s
+power might be greatly reduced if the subject’s resistance
+diminishes effective margin. In general, the caster must
+define the desired result in fairly specific terms. If he doesn’t
+get a large enough margin, then the casting simply fizzles
+out – although the GM may permit magicians to leave
+some parameters open, to be determined by the margin
+rolled.
+
+====Range and Familiarity====
+Regular or Area syntactic workings typically take a skill
+modifier of -1 per yard of distance to the target or to the
+nearest edge of the area of effect. If the GM prefers to
+increase energy cost, then such effects cost +1 energy per
+two full yards of range; e.g., +3 to cost for a casting at seven
+yards. If margin of success determines range, then use the
+following table:
+
+{|
+|'''Margin of Success'''
+|'''Range'''
+|-
+|0
+|Touch Only
+|-
+|1
+|2 Yards
+|-
+|2
+|5 Yards
+|-
+|3
+|10 Yards
+|-
+|4
+|20 Yards
+|-
+|5
+|50 Yards
+|-
+|6
+|100 Yards
+|}
+
+Greater margins follow the same “2-5-10” progression.
+
+Melee, Missile, and Blocking effects have no range
+parameter; the effect is generated in the caster’s hand or
+immediate vicinity. Enchantment effects, too, generally
+involve direct contact with the subject – but where the GM
+deems it appropriate for these to work at a distance, they
+take modifiers as for a Regular effect.
+Information effects – and magic incorporating nouns or
+Realms such as Distance or Space – can often transcend
+distance. In such cases, apply Long-Distance Modifiers
+(p. B241) to skill, or change the sign of those penalties to
+get increases in energy cost (e.g., casting from three miles
+away costs +3 energy). More powerful uses of such magic,
+including most applications with results determined by
+margin of success, ignore range penalties entirely but
+require some degree of familiarity or contact. To determine
+the appropriate skill penalty, energy cost, or margin of success,
+use these guidelines:
+
+
+Currently close enough to touch, or in line of sight (if
+there’s any doubt, make a Vision+4 roll), or mystical True
+Name known: 0.
+
+Close family member, lover, favorite possession, or something
+with which the caster has carefully set up a strong mystical
+link: 1.
+
+Friend, well-established possession, some mystical connection
+established: 2-3.
+
+Place or person the caster can identify by a unique “common
+name,” a thing he has handled and studied at length, or
+something he can view simultaneously over a television link
+or by scrying magic: 4-5.
+
+Casual acquaintance, something handled for a few minutes
+in the last week, something with a good photograph
+available: 6-8.
+
+Anything clearly identifiable in the same world: 9+.
+
+
+For something merely vaguely “known of,” the GM can
+require a modifier/margin of 10+ or even 20+.
+
+
+====Extradimensional Range====
+Sending magical effects into other dimensions usually
+calls for the incorporation of Words or Realms such as Spirit
+or Gate. Creating a gate or a portal to another dimension normally
+takes no range modifier and requires no margin in itself
+– although it may need an area and a duration to be useful –
+but it might be harder if the otherworld in question is especially
+hard to reach (GM’s option). However, sending a ranged
+effect into another plane of existence, other than through an
+existing portal, gives -10 to skill or +10 to energy cost, or
+requires a margin of success of 5, per dimensional boundary
+crossed. Halve these values where planes intersect or intermix
+(see Casting Interdimensionally, p. 86). If the target isn’t at a
+point corresponding to the caster’s position in the dimension
+he presently occupies, then penalties for the ordinary physical
+distance covered in the other plane also apply.
+
+
+====Range in Time====
+“Range in time” is a required parameter for magic involving
+perception (or possibly travel) through time, whether in
+the form of prophecy or precognition, retrocognition, or
+“time-slipping.” Such workings must usually incorporate a
+suitable noun or Realm; e.g., Time. For skill penalties, use
+Long-Distance Modifiers (p. B241), substituting “days” for
+“miles.” For energy costs, do the same thing but convert the
+negative values into positive extra energy costs. If margin of
+success applies, use the following table:
+
+
+{|
+|Margin of Success
+|Range in Time
+|-
+|0 
+|Moments Only
+|-
+|1
+|Up to 10 minutes
+|-
+|2
+|Up to 1 hour
+|-
+|3
+|Up to 1 day
+|-
+|4
+|Up to 1 week
+|-
+|5
+|Up to 1 month
+|-
+|6
+|Up to 1 year
+|-
+|7
+|Up to 10 years
+|-
+|8
+|Up to 20 years
+|-
+|9
+|Up to 100 years
+|-
+|10
+|Up to 1,000 years
+|}
+
+
+For larger margins, each +1 multiplies maximum range
+in time by a factor of 10.
+
+====Duration====
+Extended-duration effects normally have an increased
+energy cost rather than a skill penalty; they function like a
+standard spell with a maintenance cost. Having set up such
+an effect, the caster can keep it going for as long as he can
+spare the energy. Temporary but non-instantaneous effects
+usually have a base duration of a minute, but the GM may
+increase this (to 10 minutes, an hour, or even a day) – especially
+if similar spells have greater durations. Optionally, if
+temporary effects do require continuing energy input to
+maintain, the GM may permit magicians to increase the base
+duration by a factor of 10 by taking -5 to skill. Whatever the
+duration, the caster can typically maintain a temporary
+effect by paying half the casting cost per additional time
+increment.
+
+If the GM prefers to use skill modifiers, then the suggested
+penalty is -2 per duration interval after the first. Not having
+to pay ongoing energy costs to maintain the effect can be
+convenient for the caster, but it also means that the magic
+will end at the set time. The only way to keep it going for
+longer is to recast it.
+
+Some effects are instantaneous, but it may be possible to
+convert these into ongoing, temporary effects (e.g., to turn a
+flaming blast into a continuously burning flame). Whether
+using energy costs or skill modifiers, this gives -2 to skill.
+Base duration then becomes 10 seconds.
+
+Other effects are intrinsically “lasting” – they don’t
+require maintenance, but continue until some condition is
+met (the Bless spell is such an effect). They may still have a
+time limit, after which they simply fade. The caster can give
+more-temporary effects a similar quality by adding a noun
+or a Realm such as Time or Conditionality. For these, see the
+Duration Effect Modifiers Table (p. 243) and Variant
+Durations: Conditional Termination (p. 242). This sort of
+thing should be tricky, possibly having both an energy cost
+and a skill penalty. Genuinely permanent effects are effectively
+enchantments; rules for this appear where applicable.
+
+If the GM would rather use margin of success to determine
+duration, then he should once again consult the
+Duration Effect Modifiers Table and Variant Durations:
+Conditional Termination rules. Find the modifier there equal
+to the margin, and read off the corresponding duration; e.g.,
+success by 4 gives a maximum duration of a day. If the
+desired effect wasn’t defined as something that could plausibly
+endure for this long, then the GM should reduce the
+actual duration. Lasting effects may require “fuel” or special
+conditions, diminish over time, or fail when supernatural
+conditions shift.
+
+====Area of Effect====
+Extending an area of effect generally calls for extra energy
+rather than a skill penalty. If the effect covers a circular
+area, then treat it like an Area spell, multiplying the base
+cost by radius in yards. The GM can increase this for especially
+powerful or damaging effects, and reduce it significantly
+for subtle effects involving large-area phenomena
+such as weather or long-term plant growth. For example, a
+working that merely creates light rain might have a cost
+multiplier equal to the radius affected divided by 20 or even
+50; thus, producing rain over a 100-yard radius might cost
+only 5¥ or just 2¥ base cost. However, the GM may also
+choose to impose skill penalties for huge areas, as even if the
+energy is available, it could be hard to channel and stabilize.
+
+If using skill modifiers for all area effects, then the suggested
+penalty is -1 per two yards of radius. This, too, can be
+increased for especially powerful or damaging effects, and
+reduced for subtle effects and large-area phenomena such
+as weather. Area Effect Modifiers (p. 242) might apply in
+some cases.
+
+When using margin of success, determine the area affected
+by treating the margin as a Size Modifier on the Size and
+Speed/Range Table (p. B550) and then reading off the corresponding
+diameter. For example, success by 6 gives a maximum
+diameter of 20 yards.
+
+In all cases, for noncircular areas, use the modifier or
+margin for the smallest circle inside which the desired
+region could fit completely. Effects designed to conform to
+strange or complex shapes may suffer an extra skill penalty
+(usually -1 to -3) due to the fine control required.
+----
+
+For a circular area of effect, find the circle’s diameter on
+the Size and Speed/Range Table (p. B550). If that gives a positive
+Size Modifier, use SM as the relevant modifier. Small
+areas don’t receive a negative modifier; 0 is the minimum.
+For example, areas of 2 yards or less in diameter have a
+modifier of 0, an area 30 yards across has a modifier of 7,
+and one 25 miles across has a modifier of 26.
+For noncircular areas, use the modifier for the smallest
+circle into which the area could fit; e.g., a square area 15
+yards across the diagonal would have a modifier of 5. For
+something like a building that’s taller than it is wide, use
+the longest dimension in any direction to determine the
+modifier.
+
+====Damage====
+For damaging effects, base energy cost with no skill modifier
+yields 1d of burning crushing, piercing, or toxic damage.
+As with duration and area, the standard way to increase
+this parameter is to pay extra energy – not to accept skill
+penalties. Simply multiply the base cost by the number of
+dice. If the GM prefers to focus on skill modifiers, then he
+can give the effect a base -3 to skill per die of damage after
+the first. When using margin of success, damage becomes
+1d per 2 points or fraction thereof in the margin; a margin
+of 0 gives only 1d-2.
+For different damage types, multiply the added cost or
+the penalty by the values on the Damage Type Table (p. 243),
+or divide damage calculated from margin of success by the
+same factor. For example, a 3d cutting attack would cost
+4.5¥ base value, or take -9 to skill, or drop to 2d if using margin
+of success; a 4d small piercing explosive attack would
+cost 3¥ base, or give -7 to skill, or increase to 5d+1 if using
+margin of success. If the effect delivers multiple shots, then
+simply divide damage by RoF; e.g., a 4d attack could
+become a 1d attack with RoF 4.
+
+====Healing====
+In the case of healing effects, base energy cost with no
+skill modifier restores 1d HP. Either multiply energy cost
+by the number of dice or take -3 to skill per die after the
+first. If using margin of success, then healings repair 1d
+HP per 3 points or fraction thereof in the margin, with a
+minimum of 1d.
+
+At the GM’s option, certain categories of severe injury
+(such as burns) or “magic-defying” wounds (those caused by
+silver weapons qualify in some settings) may further
+increase the penalties or required margins. These workings
+might even require access to different Words or higher levels
+in a Realm. If the GM wants to keep healing hard, then
+he can reduce all such effects – perhaps halving the number
+of dice.
+
+====Personal Abilities====
+A successful casting at base energy cost with no skill
+modifier can add or remove attributes, secondary characteristics,
+advantages, and disadvantages worth a total of 10
+character points (positive or negative). If using skill penalties,
+apply -1 per additional 5 points of modifications. For
+example, lowering or raising the subject’s Basic Speed by 2
+would give -6, while granting him Unkillable 1 would be -8.
+If using energy costs, simply multiply cost proportionally.
+Thus, adjusting the target’s Per by 3 would cost 1.5¥ the
+base, while afflicting him with Bad Temper (6) would cost
+2¥ the base.
+
+When using margin of success, each point of success
+adds or removes traits worth 10 character points, with a
+minimum effect of 10 points. Hence, a strengthening effect
+that succeeds by 2 can raise the subject’s ST (and thus HP)
+by 2, while a curse of stupidity that succeeds by 7 can lower
+his IQ (and with it, Per and Will) by 3.
+
+====Weight Affected====
+Where the target’s weight is directly related to the magic’s
+effectiveness (as is usually the case for telekinetic effects,
+teleportation, transmutation of matter, etc.) and the magic
+must be cast on the entire target, the basic, unmodified version
+should affect up to about 10 lbs. of matter. Working
+with smaller quantities gives no benefit. For greater weights,
+find the relevant modifier on the Weight Affected Modifiers
+Table (p. 243) and treat it as a skill penalty, energy cost
+increase, or required margin of success; e.g., 5 tons would
+give -6 to skill, cost +6 energy, or require a margin of 6.
+Radical transmutations and bizarre effects may have steeper
+requirements, perhaps doubling or tripling the value
+from the table (GM’s option).
+
+====Multiple Targets====
+When an effect can be aimed at many distinct targets,
+find the number of targets on the Multiple Target Modifiers
+Table (p. 243) and treat the associated modifier as a skill
+penalty, energy cost increase, or required margin of success.
+
+====Multiple Elements====
+For an especially complex or subtle effect, the GM should
+decide how many distinct tasks, commands, or objects it
+involves, look up this number on the Multiple Constituent
+Modifiers Table (p. 243), and interpret the corresponding
+modifier as a skill penalty, extra energy cost, or required
+margin of success. For example, assembling a structure
+from 20 discrete components, or instilling a mental suggestion
+that can influence 20 different actions, would give -6 to
+skill, cost +6 energy, or require a margin of 6.
+
+
+==CASTING TIME==
+The base casting time for syntactic magic is largely a
+matter of campaign style. Each working may involve an
+intricate ritual . . . or a momentary effort of will.
+Furthermore, a required practice (see Practices, pp. 192-
+193) might take longer than the actual casting. Below are
+some general guidelines.
+
+===Verb-Noun Casting Times===
+Each Word has an associated time to cast (see Suggested
+Verbs and Nouns, p. 185). The working’s base time requirement
+is the sum of the casting times for the constituent
+Words. Thus, complex workings involving several Words
+(e.g., transformations) can take substantially longer than
+simple “one verb, one noun” effects. If the same noun
+applies to the subject before and after a transformation,
+then count it twice. Magic that manipulates the target in
+detail, through verbs such as Control, is trickier; double the
+time for the affected noun.
+
+
+===Realm-Based Casting Times===
+The suggestion here is seconds equal to (highest-level
+Realm employed + 2). For example, a Birds/3, Mind/2 casting
+would take five seconds.
+
+
+===Modifying Casting Time===
+It may be possible to adjust casting time through skill
+modifiers:
+
+Reduced Casting Time: In many settings, syntactic castings
+cannot be rushed. If haste is possible, then the suggested
+penalty is -3 per halving of casting time (round time up).
+The GM may forbid reductions below one second, or he
+might permit this occasionally; e.g., for emergency Blocking
+effects. Where such “instant” casting is possible, calculate
+the penalty to reduce casting time to one second, and then
+apply another -2.
+
+Extra Casting Time: Magicians might be able to work better
+by taking longer (GM’s option). The recommended limit
+is +1 to skill, requiring at least double casting time.
+
+
+It usually isn’t possible to change casting time by varying
+energy expenditure, but the GM might permit casters to
+halve time by adding 50% to energy cost. Conversely, taking
+extra time may reduce energy requirements, with each doubling
+of time giving -1 to cost, to a minimum of half the
+working’s original cost.
+
+===Extended Workings===
+An “extended” working is one involving several skill rolls
+over a longer-than-usual period, producing a cumulative
+effect. This isn’t possible in every setting. If the GM chooses
+to allow it, then he should combine it with effects based
+on margin of success.
+
+In an extended working, the caster can make repeated
+rolls – in effect performing a lengthy, repetitive ritual – until
+he accumulates enough effectiveness to do what he wants.
+Simply add together the margin of success on each roll,
+counting a margin of 0 as 1. If the effect is resistible, then
+the subject gets a single roll that’s compared to the total of
+all the margins. Thus, extended workings can be difficult to
+resist, although good resistance rolls may at least reduce
+the magic’s overall effectiveness.
+
+To prevent extended workings from being an easy path
+to world-shattering effects, each roll after the first can cost
+an extra 1 FP – or even the working’s full energy cost, for a
+severely limited version. This caster may have to pay this
+added cost out of his FP rather than from external sources;
+hammering away at the same problem repeatedly is tiring.
+In some settings, castings grow harder with time, too, suffering
+a cumulative -1 or -2 to skill per roll. Combined with
+the possibility of side effects (see below), this can make
+extended workings very chancy!
+
+Another obvious drawback is that, if magic requires
+expendable resources, then each roll uses these up.
+Multiple rolls also offer extra possibilities for disaster. Any
+critical failure spoils the whole attempt (and has its usual
+consequences). If using Errors and Side Effects: Reality Bites
+Back (pp. 193-194), then each roll faces those risks. The GM
+who still feels that this rule makes wizards too powerful
+should note that enemies or meddlers can interrupt at any
+time, probably scrambling the working – and anyone able
+to detect magical forces may be able to identify lengthy
+extended rituals from vast distances.
+
+==DISTRACTION==
+Syntactic magic is as likely as any other kind – perhaps
+more likely – to put demands on the magician’s attention.
+
+
+===Interruptions===
+If someone attacks the caster or otherwise tries to disrupt
+the magic while it’s being cast, then Distraction and
+Injury (p. B236) applies.
+
+
+===Casting While Maintaining Other Effects===
+The GM may apply the penalties from Casting Spells
+While Maintaining Other Spells (p. B238) if the magician
+has any other effects, spells, etc., currently active and
+requiring any kind of input or attention. He can also rule
+that some procedures require the caster’s full attention and
+either can’t be cast at all in these circumstances, or take
+larger penalties – or that certain effects are self-sustaining,
+and cause no actual distraction.

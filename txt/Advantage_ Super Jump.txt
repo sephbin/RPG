@@ -1,0 +1,32 @@
+Advantage: Super Jump
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUPER JUMP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can make superhuman leaps! Each level of Super Jump doubles the distance and height you can achieve when jumping (see Jumping, p. 352). Your Move while jumping is the greater of your normal ground Move and 1/5 your maximum long jump distance (thus, your maximum jump never takes more than five seconds). For instance, if your long jump were 100 yards, your jumping Move would be the greater of 20 and your normal ground Move.
+
+{{Indent}}You can jump at a foe in order to slam him. Figure the slam at your maximum jumping Move! You don't need to make a separate roll to jump accurately.
+
+{{Indent}}Finally, if you fall a distance less than or equal to your maximum high jump, you take no damage. You can increase this distance by five yards with a successful Acrobatics roll.
+
+{{Indent}}Jets: Jets of energy or matter powerful enough to provide Super Jump are sufficiently noisy and dangerous to rate Nuisance Effect (-5%). A rocket with a fixed burn has Full Power Only (-10%) - and one of Horizontal Only (-25%), Projectile (-20%), or Vertical Only (-25%), if it can't be steered.
+
+{{Indent}}Levitation: Telekinetics and gravitycontrolling supers not gifted enough to fly can still make amazing leaps. Most have either Lighter Than Air (-10%) or Maneuverable (+50%), and those that use antigravity should take Planetary (-5%), too.
+
+{{Indent}}Bouncing: You can rebound like a rubber ball. Your Super Jump works normally, but you also get a roll against the best of DX, Acrobatics, or Jumping when you experience a fall or collision - deliberate or otherwise. Roll at -5 per multiple of your jumping Move, or fraction thereof, by which your velocity exceeds your jumping Move. Success means you take no damage and rebound with 90% of your impact velocity. If this doesn't exceed your jumping Move, you can choose to stop instead; otherwise, you must bounce. Failure means you take normal damage and stop (&quot;Splat!&quot;). +50%.
+
+{{Indent}}Maneuverable: You can make midair course corrections. Calculate distance and &quot;hang time&quot; as usual, but while airborne, treat your jumping Move as air Move, exactly as if you had Flight. For instance, if you can jump 100 yards at 20 yards per second, you can &quot;fly&quot; at Move 20 for five seconds before landing. Maneuverable is mutually exclusive with all of the special limitations below except Planetary. +50%.
+
+{{Indent}}Full Power Only: You must always jump your maximum distance when you use Super Jump. The only way to make shorter hops is to jump without using this advantage. -10%.
+
+{{Indent}}Horizontal Only: You can only increase your horizontal (broad jump) distance. Your ability doesn't benefit high jumps, and has no special effect on falling damage. -25%.
+
+{{Indent}}Lighter Than Air: You jump by becoming lighter than air. For each second you're airborne, your landing zone drifts a yard in the direction the wind is blowing per 5 mph of wind speed. For instance, if you're in the air for three seconds in a 20 mph wind from the west, you'll land 12 yards east of your intended target. -10%.
+
+{{Indent}}Planetary: You jump by &quot;pushing off&quot; against a planet's gravitational or magnetic field. Your ability is useless in the absence of a planet. -5%.
+
+{{Indent}}Projectile: You can only launch yourself directly at your objective. You're an unguided missile, spinning out of control! You can do nothing while airborne, and have no active defenses. Make a DX or Jumping roll on landing. Failure means you collide with your target or the ground - unless you intended to do so, in which case you miss and crash into something nearby. In either case, you suffer full normal collision damage. -20%.
+
+{{Indent}}Vertical Only: You can only increase your vertical (high jump) distance and reduce falling damage. Your ability doesn't benefit broad jumps. This is mutually exclusive with Horizontal Only. -25%.
+|}

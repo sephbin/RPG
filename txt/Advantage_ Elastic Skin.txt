@@ -1,0 +1,8 @@
+Advantage: Elastic Skin
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ELASTIC SKIN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points''&lt;/font&gt;
+|-
+|{{Indent}}You can alter your skin and facial features (but not clothing or makeup) to duplicate those of another member of your race or a very similar race. This takes 10 seconds, and requires a Disguise roll if you try to duplicate a particular individual. It takes three seconds to return to your original form. This ability gives +4 to all Disguise rolls.
+|}

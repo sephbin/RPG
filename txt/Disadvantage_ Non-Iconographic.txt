@@ -1,0 +1,10 @@
+Disadvantage: Non-Iconographic
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NON-ICONOGRAPHIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You are incapable of processing abstract images and symbols. Graphical computer interfaces, maps, heraldic devices, and magical runes are completely meaningless to you. Like Dyslexia (p. 134), this is a structural shortcoming of your brain; you cannot normally buy it off.
+
+{{Indent}}You cannot learn Cartography, Heraldry, Symbol Drawing, or any similar skill used mainly to design or arrange patterns and symbols. You also cannot use graphical computer interfaces; you are limited to text interfaces and immersive virtual realities. Finally, since you cannot grasp magical symbols, you cannot learn magic save through oral tradition. Note that you can process text without difficulty, and may learn written languages normally (see Language, p. 23).
+|}

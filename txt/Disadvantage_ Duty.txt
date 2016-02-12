@@ -1,0 +1,38 @@
+Disadvantage: Duty
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DUTY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}If your occupation and social situation saddle you with a significant personal obligation toward others, and occasionally require you to obey hazardous orders, you have a &quot;Duty.&quot; Duty most often accompanies Rank (p. 29), a Patron (p. 72), or one of the traits discussed under Privilege (p. 30).
+
+{{Indent}}A particularly arduous job might qualify as a Duty, but most ordinary jobs would not. A wholly self-imposed feeling of duty is not a Duty, either (but it can still be a disadvantage; see Sense of Duty, p. 153). Finally, you cannot claim points for a Duty toward Dependents (p. 131); the points you get for Dependents already reflect your obligations in this regard.
+
+{{Indent}}The GM may restrict the Duties allowed in a campaign, or even forbid them entirely, if he feels they would unduly disrupt the flow of the adventure.
+
+{{Indent}}If you have a Duty, the GM rolls at the beginning of each adventure to see whether it comes into play. Being &quot;called to duty&quot; could delay your plans . . . or be the reason for the adventure! Alternatively, your master might give you a secret agenda to pursue, or his associates might harass you while you are officially &quot;on leave.&quot; If you try to avoid your Duty, your GM is within his rights to penalize you for bad roleplaying.
+
+{{Indent}}The basic point cost of a Duty depends on the frequency with which comes up in play:
+
+{{Indent}}Almost all the time (roll of 15 or less): -15 points. At this level, the GM may rule that you are always on duty.
+
+{{Indent}}Quite often (roll of 12 or less): -10 points.
+
+{{Indent}}Fairly often (roll of 9 or less): -5 points.
+
+{{Indent}}Quite rarely (roll of 6 or less): -2 points.
+
+{{Indent}}This cost is for an occasionally hazardous Duty imposed through normal social means. If this does not describe your Duty, you should modify the cost:
+
+{{Indent}}Extremely Hazardous: You are always at risk of death or serious injury when your Duty comes up. There are significant penalties if you refuse to take these risks: dismissal in disgrace, imprisonment, perhaps even death. The GM has the final say as to whether a given Duty is &quot;extremely hazardous&quot; in his campaign. -5 points.
+
+{{Indent}}Involuntary: Your Duty is enforced by threats to you or your loved ones, or is imposed by exotic mind control, a curse, etc. This is unrelated to how hazardous the Duty is when you carry it out - the danger here lies in what will happen if you don't carry it out! A Duty can be Involuntary and either Extremely Hazardous or Nonhazardous. -5 points.
+
+{{Indent}}Nonhazardous: Your Duty never requires you to risk your life. This option is mutually exclusive with Extremely Hazardous. +5 points. (If this raises the cost of your Duty to 0 points or more, the obligation is too trivial to qualify as a Duty.)
+
+{{Indent}}Examples
+
+{{Indent}}Example 1: A mayor is indebted to the crime lord who got him elected. His benefactor rarely calls on him for favors (-2 points), but since the mayor faces blackmail or violence if he refuses to comply, his Duty is Involuntary. Duty (Crime Lord, 6 or less; Involuntary) is worth -7 points.
+
+{{Indent}}Example 2: A commando is always on duty (-15 points). He might see only a handful of combat assignments in his whole career, but these will be deadly. And his daily routine calls for him to jump out of planes, hike through snake-infested jungles, and train with live ammo. A commando has Duty (Army, 15 or less; Extremely Hazardous), for -20 points.
+|}

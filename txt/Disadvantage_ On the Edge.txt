@@ -1,0 +1,12 @@
+Disadvantage: On the Edge
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ON THE EDGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You take grossly unreasonable risks in the face of mortal danger. Make a self-control roll whenever you face a life-threatening situation: piloting a burning vehicle, staring down an entire street gang while armed only with a toothbrush, etc. If you fail, you may not back down from the challenge - but you may roll again after every success roll or reaction roll relating to the situation. This might be once per second in a potential combat situation but only once per day on a dangerous space mission.
+
+{{Indent}}In combat, make a self-control roll every time you take your turn. If you fail, you must make an All-Out attack or engage in some other kind of nearinsane, suicidal behavior.
+
+{{Indent}}Most people think you're crazy if they witness this behavior, giving -2 on reaction rolls. Individuals who value bravery over self-preservation (GM's decision) will react at +2.
+|}

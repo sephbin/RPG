@@ -1,0 +1,14 @@
+Skill: Ventriloquism
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''VENTRILOQUISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to disguise and &quot;throw&quot; your voice a short distance. A successful roll lets you throw your voice well enough to fool your audience
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +5 if you have a dummy or confederate to distract your audience (it's easier to &quot;see&quot; a face talk than it is to believe the voice comes from an immobile object); -3 if the audience has reason to be suspicious.&lt;/i&gt;&lt;/font&gt;
+|}

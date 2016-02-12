@@ -1,0 +1,11 @@
+Iron Downs
+[[Category:Locations]]
+The Iron Downs is a very wet place. Sitting below the Svell Mountains, the whole spur of land recieves gushings rapids and plentiful rivers from the thawing peaks. Not only that, the mountains create strong changes in air preasure, resulting in charged storms and heavy rain.  Apart from the weather, the downs are made up of rolling hills covered in well fed grasses, craggy ravines with gushing rapids, and silent forests filled with sleeping beasts and waiting secrets.
+
+==The Vault==
+Of the few libraries on Eorith, the vault is by far the largest. Run by Iron Down Dwarves, it is efficient and rigorous in its attempt to store and maintain knowledge.
+The Vault itself is predominantly subterranean, taking advantage of an abandoned chalk mine, origionally, The Vault was the home to the mines charters and records, soon growing to the state it is in when the chalk ran out. 
+The librarians and scribes strive for perfection in their replication of the texts. Scribes are usually polyglots, and have extreme calligraphic precision. Each scribe is expected to copy each page exactly, replicating each mark and stroke as if the original writer would have placed them. Only a few originals survive in The Vault, most scribes copy copies. If a text is fortunate enough to have been copied perfectly over and over again, the words within the text inherit the age and temporal wisdom bound to the original. With no attempt in making these texts special, apart from meticulous copying, the books form magical capabilities. They are a source of mana, and overflow after periods of time without being read. Many a scribe has worked in The Vault, only to find that they have inherited some capabilities with magic purely from reading or copying the right texts.
+
+
+{{Template:GURPS Vault Scribe}}

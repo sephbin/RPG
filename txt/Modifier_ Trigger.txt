@@ -1,0 +1,18 @@
+Modifier: Trigger
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRIGGER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your advantage requires exposure to a specific substance or condition (e.g., a dose of a drug) to function. One dose or exposure is required per one-minute &quot;use.&quot; Cost depends on the rarity of the Trigger:
+
+{{Indent}}Very Common (available almost anywhere): -10%.
+
+{{Indent}}Common (expensive, somewhat hard to find): -20%.
+
+{{Indent}}Occasional (very expensive and hard to find): -30%.
+
+{{Indent}}Rare (cannot be bought; must be found or made): -40%.
+
+{{Indent}}Multiply the limitation value by 1.5 if the Trigger is illegal, addictive, or otherwise dangerous.
+|}

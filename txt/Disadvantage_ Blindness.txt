@@ -1,0 +1,12 @@
+Disadvantage: Blindness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BLINDNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-50 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot see at all. In unfamiliar territory, you must travel slowly and carefully, or have a companion or guide animal lead you. Many actions are impossible for you; the GM should use common sense.
+
+{{Indent}}You are at -6 to all combat skills. You can use hand weapons, but you cannot target a particular hit location. If using a ranged weapon, you can only attack randomly, or engage targets so close that you can hear them. All this assumes you are accustomed to blindness. If you suddenly lose your eyesight, you fight at -10, just as if you were in total darkness. In either case, you suffer no extra penalties for operating in the dark.
+
+{{Indent}}If you have Blindness, you cannot purchase superhuman vision abilities. If you see in a spectrum other than the visible one, you have the 0-point version of Infravision (p. 60) or Ultravision (p. 94) - not Blindness and the 10-point version of one of those advantages. Note that Scanning Sense (p. 81) and Vibration Sense (p. 96) are not vision; you may take either of these traits in conjunction with Blindness, at the usual point costs.
+|}

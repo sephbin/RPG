@@ -1,0 +1,20 @@
+Skill: Observation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OBSERVATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Perception-5 or Shadowing-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the talent of observing dangerous or &quot;interesting&quot; situations without letting others know that you are watching. Use this skill to monitor a location, a group of people, or your immediate surroundings for concealed or tactically significant details. This is not the same as gathering clues or making a hands-on search (use Forensics and Search, respectively) - you always use Observation from a distance
+
+{{Indent}}A successful skill roll lets you gather information that is not specifically hidden. For instance, you could case a bank for obvious cameras before a robbery, learn the schedule of sentries, estimate the size of a crowd, or gauge the strength of troops moving in the open. The GM may require an Intelligence Analysis roll to interpret what you observe
+
+{{Indent}}To spot deliberately hidden details - e.g., someone trying to sneak up on you, an armed man hiding in the crowd, or a concealed machine-gun nest - you must win a Quick Contest of Observation skill vs. the Stealth, Shadowing, or Camouflage skill (as appropriate) of the other party. The GM should roll the Contest in secret, and should not say, &quot;You don't see the machine gun nest concealed in the bushes.&quot;
+
+{{Indent}}If your attempt fails, you get no details on an obvious item, or fail to spot a hidden one. On a critical failure, someone spots you and reacts poorly to the attention . . 
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Acute Senses (p. 35), as appropriate; modifiers for cover, darkness, or size; -1 to -10 if the target is concealed by high-tech camouflage or &quot;stealth&quot; technology; +1 to +10 if you possess suitable surveillance devices (a thermograph to spot a concealed sniper, binoculars to observe troop movements, etc.) and succeed at the skill roll to operate them.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,20 @@
+Disadvantage: Phantom Voices
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHANTOM VOICES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are plagued by whispered phrases that only you can hear. These voices might be unintelligible, or they might repeat the same words over and over. Eventually, your sanity (such as it is) will start to erode.
+
+{{Indent}}In any situation that the GM feels is stressful, he may roll 3d. On a 6 or less, you hear voices. The GM will always roll whenever you miss a Fright Check or make the roll exactly, and whenever you fail a self-control roll for another stress-related disadvantage. The voices occur in addition to any other results!
+
+{{Indent}}Point value depends on the nature of the voices:
+
+{{Indent}}Annoying: You hear voices, but you are reasonably sure that they are not real, and they do not harm you directly. Still, most people who see you responding to unheard noises will react at -2. -5 points.
+
+{{Indent}}Disturbing: As above, but in addition, the voices can drown out normal sounds, and may even startle and frighten you (possibly requiring a Fright Check). -10 points.
+
+{{Indent}}Diabolical: The voices tell you to kill - yourself or others - or perform other terrible deeds. If you are already under stress, or under the influence of drugs, you might need to make a Will roll to avoid carrying out the &quot;orders&quot; (GM's discretion). -15 points.
+
+{{Indent}}Phantom Voices are usually due to mental problems, but they may also be symptomatic of some form of supernatural possession. If so, psychotherapy cannot reveal the cause, much less cure the problem. If you manage to exorcise the evil spirits, you are cured and must buy off this disadvantage.
+|}

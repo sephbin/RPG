@@ -1,0 +1,18 @@
+Disadvantage: Trademark
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRADEMARK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a special symbol - something that you leave at the scene of action, as a way of &quot;signing your work.&quot; The classic fictional example is the carved initial &quot;Z&quot; of Zorro.
+
+{{Indent}}Simple: Your Trademark takes very little time to leave and cannot be used to trace your identity, but you absolutely must leave it. You cannot leave the scene until you do, even if your enemies are breaking down the door. A typical example is something left at the scene - a playing card, a small stuffed animal, etc. - as long as it can't be traced and takes little time. -5 points.
+
+{{Indent}}Complex: As above, but leaving your Trademark measurably increases your chances of being caught - initial carving, notes, traceable clues, etc. Leaving this sort of Trademark takes a minimum of 30 seconds. Anyone searching the scene receives +2 to Criminology and Forensics rolls to trace or identify you. -10 points.
+
+{{Indent}}Elaborate: Your trademark is so elaborate - dousing the captured thugs with a certain cologne, painting the entire crime scene pink, writing a long poem to the police - that it virtually ensures your eventual capture. The GM may give investigators clues without a successful Criminology or Forensics roll! -15 points.
+
+{{Indent}}You may have only one Trademark. Multiple actions (e.g., binding your victims with purple phone wire, painting a frog on the wall, and wrecking every computer in the building) simply give you a higher level of Trademark - they are not multiple Trademarks.
+
+{{Indent}}Note also that a Trademark is an action separate from capturing the crooks, committing the crime, etc. It's the particular way that it is done. Destroying files on a computer is not a Trademark; trashing them by substituting a &quot;7&quot; for each &quot;5&quot; is.
+|}

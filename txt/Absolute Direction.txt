@@ -1,0 +1,40 @@
+Absolute Direction
+
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;'''ABSOLUTE DIRECTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 or 10 Points''&lt;/font&gt;
+|-
+|
+You have an excellent sense of
+direction. This ability comes in two
+levels:
+
+''Absolute Direction:'' You always
+know which way is north, and you can
+always retrace a path you have
+followed within the past month, no
+matter how faint or confusing. This
+ability does not work in environments
+such as interstellar space or the limbo
+of the astral plane, but it does work
+underground, underwater, and on
+other planets. This gives +3 to Body
+Sense and Navigation (Air, Land, or
+Sea). (Note: The navigational sense
+that guides migratory creatures to
+their destination is too crude to qualify;
+treat it as a 0-point feature.) ''5 points.''
+
+''3D Spatial Sense:'' As above, but
+works in three dimensions. This ability
+is useful in deep space – although it
+does not help you if you travel across
+dimensions. You get the skill bonuses
+given for Absolute Direction, plus +1
+to Piloting and +2 to Aerobatics, Free
+Fall, and Navigation (Hyperspace or
+Space). ''10 points.''
+|}
+
+[[Category:GURPS Advantages]]

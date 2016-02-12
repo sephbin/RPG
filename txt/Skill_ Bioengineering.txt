@@ -1,0 +1,20 @@
+Skill: Bioengineering
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BIOENGINEERING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Biology-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to engineer living organisms with specific characteristics, or to create biotechnological products. You must specialize:
+
+{{Indent}}&lt;i&gt;Cloning:&lt;/i&gt; The creation and growth of clones
+
+{{Indent}}&lt;i&gt;Genetic Engineering:&lt;/i&gt; The manipulation and modification of genes
+
+{{Indent}}&lt;i&gt;Tissue Engineering:&lt;/i&gt; The manufacture of organs and tissues
+
+{{Indent}}These specialties default to each other at -4
+|}

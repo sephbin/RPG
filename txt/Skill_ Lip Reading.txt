@@ -1,0 +1,14 @@
+Skill: Lip Reading
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIP READING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Perception-10.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to see what others are saying. You must be within seven yards, or have some means of bringing your point of view this close. A successful skill roll lets you make out one sentence of a discussion - assuming, of course, that you know the language. If your subjects suspect that you can read lips, they can hide their mouths or subvocalize to thwart you. A critical failure on a Lip Reading roll - if you are where your victims could see you - means that you stared so much you were noticed!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: All Vision modifiers (see Vision, p. 358).&lt;/i&gt;&lt;/font&gt;
+|}

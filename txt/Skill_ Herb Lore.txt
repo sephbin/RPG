@@ -1,0 +1,14 @@
+Skill: Herb Lore
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HERB LORE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Naturalist
+
+{{Indent}}This is the ability to manufacture herbal concoctions that have magical effects - healing balms, love potions, etc. It only exists in magical game worlds, where it functions much as Alchemy skill (p. 174). Unlike Alchemy, Herb Lore does not include the ability to analyze &quot;elixirs.&quot; On the other hand, an expert at this skill can locate magical ingredients for free in the wild by making a few Naturalist rolls, while an alchemist requires rare and expensive materials (such as alkahest, dragon's blood, gemstones, and gold) to do his work
+|}

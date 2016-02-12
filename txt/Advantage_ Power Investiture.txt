@@ -1,0 +1,22 @@
+Advantage: Power Investiture
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POWER INVESTITURE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}A deity - god, demon lord, great spirit, cosmic power, etc. - has empowered you to cast &quot;clerical&quot; spells. Add your Power Investiture to your IQ when you learn spells granted by the deity who bestowed this advantage. For instance, IQ 12 and Power Investiture 2 (Thor) would let you learn spells granted by the god Thor (and only Thor) as if you had IQ 14.
+
+{{Indent}}You may only learn clerical spells from a fixed list set by your deity, who may even dictate which specific spells you learn. The GM determines this list and takes on the role of your deity when you wish to learn new spells. However, because you are channeling divine will as opposed to studying magic, clerical spells do not have prerequisites.
+
+{{Indent}}In general, the more Power Investiture you have, the &quot;holier&quot; you are. The maximum level of Power Investiture depends on your deity, as determined by the GM. Minor deities who have a limited ability to transfer power to their chosen, or a small range of possible spell effects, might grant only one level, while major deities might be more generous.
+
+{{Indent}}Note that Power Investiture is a measure of your bond with your deity, while Clerical Investment (p. 43) and Religious Rank (p. 30) measure social power. These need not be related. Power Investiture might be restricted to high-ranking clerics . . . but a deity can grant power to anyone it wants (possibly to the chagrin of the church!).
+
+{{Indent}}In some cases, you can add or increase Power Investiture in play. What this entails depends on the deity. To gain, keep, or improve Power Investiture, you nearly always have to take and adhere to one or more of the traits listed under Self-Imposed Mental Disadvantages (p. 121). If you break these vows, you will lose some or all of your powers - perhaps until you have made proper penance, perhaps permanently. In effect, Power Investiture comes with a built-in Pact limitation (see p. 113); do not apply this modifier again.
+
+{{Indent}}You may also need to meet certain physical requirements. Some deities only empower men, women, eunuchs, virgins . . . the GM should be creative. Should you lose a special requirement (such as virginity), your Power Investiture may be diminished or lost, reducing your point value accordingly.
+
+{{Indent}}You can have both Magery and Power Investiture (unless your deity forbids this), but Magery does not improve clerical spells and Power Investiture does not aid magical spells. The clerical and magical versions of a given spell are entirely different spells, and clerical spells never count as prerequisites for magical spells. If you know both versions of a spell, they do not affect one another.
+
+{{Indent}}Power Investiture is one possible way to handle &quot;holy powers.&quot; It is most appropriate in settings where priests are divinely inspired wizards. For other views of divine gifts, see Blessed (p. 40) and True Faith (p. 94).
+|}

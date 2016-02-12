@@ -1,0 +1,45 @@
+Attribute: Status
+{{Attribute Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STATUS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Status is a measure of social standing. In most game worlds, Status levels range from -2 (serf or street person) to 8 (powerful emperor or godking), with the average man being Status 0 (freeman or ordinary citizen). If you do not specifically buy Status, you have Status 0. Status costs 5 points per level. For instance, Status 5 costs 25 points, while Status -2 is -10 points. Status also costs money to maintain (see p. 516).
+
+{{Indent}}Status is not the same as personal popularity (see Reputation, p. 26) or the popularity of your racial or ethnic group (see Social Regard, p. 86, and Social Stigma, p. 155). Status can sometimes influence others’ reactions, but its main effect is to spell out where you stand in the social pecking order. In short, Status represents power.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''High Status'''&lt;/font&gt;
+
+{{Indent}}Status greater than 0 means you are a member of the ruling class in your culture. Your family may be hereditary nobles (e.g., Plantagenet, Windsor), successful businessmen or politicians (Rockefeller, Kennedy), or some other type of big shots. You may even have achieved Status by your own efforts. As a result, others in your culture only defer to you, giving you a bonus on all reaction rolls.
+
+{{Indent}}High Status carries various privileges, different in every game world; your GM will give you this information. Note that any high-Status person is a likely target for kidnappers and social climbers, and that some criminal types hate “the ruling class.”
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Low Status'''&lt;/font&gt;
+
+{{Indent}}Status less than 0 means you are a serf or a slave, or simply very poor. This is not the same thing as Social Stigma (p. 155). In medieval Japan, for instance, a woman could have high Status, but still get a -1 on reactions due to the Social Stigma of being female. A modern-day criminal could theoretically have any level of Status in conjunction with the Social Stigma of a criminal record.
+
+{{Indent}}The interaction of Status, Social Stigma, and Reputation can give interesting results. For instance, a person who is obviously from a lower social class, or even a disdained minority group, might earn such a reputation as a hero that others react well to him.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Status as a Reaction Modifier'''&lt;/font&gt;
+
+{{Indent}}When the GM makes a reaction roll (see p. 494), the relative Status of the characters involved can affect the reaction. The GM can roleplay NPCs as he likes, of course, but here are some general guidelines:
+Higher Status usually gives a reaction bonus. When dealing with a social inferior, apply the difference between your Status levels as a reaction bonus – except, of course, when dealing with someone who resents Status. For instance, if you have Status 3, those of Status 1 react to you at +2, and those of Status 0 react at +3.
+Lower Status may give a penalty. If you are dealing with a higher-Status NPC who is basically friendly, your Status doesn’t matter (as long as it’s positive). After all, the king has a far higher Status than his knights, but he reacts well to them . . . most of the time. But if the NPC is neutral or already angry, lower Status makes it worse (“How dare you, a mere knight, tell me my battle plan is foolish?”). Again, apply the difference in Status levels as a reaction modifier, but in this case it gives a penalty.
+
+{{Indent}}Negative Status usually gives a penalty. If your Status is so low as to be negative, those of higher Status always react badly to you. Apply the difference between your Status and the NPC’s as a reaction penalty, but no worse than -4.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Recognizing Status'''&lt;/font&gt;
+
+{{Indent}}Status only affects reaction rolls if it is obvious to those around you. In some settings, your bearing, dress, and speech communicate your Status. Indeed, if you have very high Status, your face may be easily recognized – or perhaps the gaggle of servants that surrounds you gets the message across.
+
+{{Indent}}In other societies, you will have to produce physical proof (ID cards, signet rings, etc.), pass a test, or submit to ultra-tech or magical scans before you will be recognized. Status costs no fewer points in such societies; you may get fewer reaction bonuses, but you can also live a normal life, and it is far more difficult for someone to impersonate you.
+|}
+[[Category:GURPS Advantages]][[Category:GURPS Disadvantages]]

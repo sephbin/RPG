@@ -1,0 +1,10 @@
+Disadvantage: Bloodlust
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BLOODLUST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You want to see your foes dead. In battle, you must go for killing blows, and put in an extra shot to make sure of a downed foe. You must make a self-control roll whenever you need to accept a surrender, evade a sentry, take a prisoner, etc. If you fail, you attempt to kill your foe instead - even if that means breaking the law, compromising stealth, wasting ammo, or violating orders. Out of combat, you never forget that a foe is a foe.
+
+{{Indent}}This may seem a truly evil trait, but many fictional heroes suffer from it. The hero is not a fiend or sadist; his animosity is limited to &quot;legitimate&quot; enemies, be they criminals, enemy soldiers, or feuding clansmen. He often has a good reason for feeling as he does. And, in an ordinary tavern brawl, he would use his fists like anyone else. On the other hand, a gladiator or duelist with Bloodlust would be very unpopular, a policeman would soon be up on charges, and a soldier would risk a court-martial.
+|}

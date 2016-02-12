@@ -1,0 +1,16 @@
+Skill: Strategy
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STRATEGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Intelligence Analysis-6, or Tactics-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to plan military actions and predict the actions of the enemy. In most settings, only the military teaches this skill
+
+{{Indent}}A successful Strategy roll lets you deduce, in advance, enemy military plans unless another person with this skill leads them. In that case, the GM rolls a Quick Contest of Strategy. The amount of information gained depends on how well you roll (but not on the quality of the foe's plans). If you fail an uncontested roll or lose a Quick Contest, the GM gives you false information
+
+{{Indent}}You must specialize in a type of strategy - Land, Naval, Space, etc. These specialties default to one another at -4. The specific units being commanded are less important; even the units of another nation or tech level would give -1 or -2 at most (GM's judgment), as long as you had accurate information about their capabilities
+|}

@@ -1,0 +1,8 @@
+Modifier: Underwater
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNDERWATER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%''&lt;/font&gt;
+|-
+|{{Indent}}Attacks are assumed to be usable in air or in vacuum, but ineffective in liquid. This enhancement lets an attack work underwater at 1/10 range.
+|}

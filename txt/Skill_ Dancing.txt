@@ -1,0 +1,16 @@
+Skill: Dancing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DANCING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to perform dances appropriate to your own culture, and to learn new dances quickly. Note that certain physical handicaps make this skill effectively impossible!
+
+{{Indent}}Exotic dances abound in fiction and history: blade dancing, bull dancing, fire dancing, snake dancing, etc. The GM may decide that each is a separate DX/Average skill that defaults to Dancing-5
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Cultural Familiarity modifiers (p. 23); -5 if the dance is unfamiliar (a dance is familiar once you have successfully performed it three times).&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,16 @@
+Disadvantage: Bad Sight
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BAD SIGHT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-25 points''&lt;/font&gt;
+|-
+|{{Indent}}You have poor vision. This applies to all your visual senses: regular vision, Infravision, Ultravision, etc. You may be nearsighted or farsighted - your choice.
+
+{{Indent}}Nearsighted: You cannot read small print, computer displays, etc., more than a foot away, or road signs, etc., at more than about 10 yards. You are at -6 to Vision rolls to spot items more than one yard away. When making a melee attack, you are at -2 to skill. When making a ranged attack, double the actual distance to the target when calculating the range modifier. -25 points.
+
+{{Indent}}Farsighted: You cannot read text except with great difficulty (triple normal time). You are at -6 to Vision rolls to spot items within one yard, and you have -3 to DX on any close manual task, including close combat. -25 points.
+
+{{Indent}}Special Limitations
+
+{{Indent}}Mitigator: At TL5+, you can acquire glasses that compensate totally for Bad Sight while they are worn. At TL7+, contact lenses are available. In both cases, remember that accidents can happen . . . and that enemies can deprive you of these items. If you are starting at a tech level in which vision can be corrected, you must take this limitation. -60%.
+|}

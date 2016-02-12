@@ -1,0 +1,8 @@
+Disadvantage: Extra Sleep
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXTRA SLEEP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You need more sleep than most people. A normal human requires 8 hours of sleep per night. Each level (maximum of four levels) means you need one additional hour of sleep. Thus, you must go to bed early or sleep in for a few hours each day. This gives you less time each day in which to study or work on other projects.
+|}

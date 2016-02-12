@@ -1,0 +1,12 @@
+Disadvantage: Gullibility
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GULLIBILITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}There's one born every minute, and you're it. You believe everything you hear. You'll swallow even the most ridiculous story, if it's told with conviction. Make a self-control roll, modified by the plausibility of the story, whenever you are confronted with a lie - or an improbable truth, for that matter. If you fail, you believe what you were told!
+
+{{Indent}}A lie well told, or involving something you have no familiarity with (&quot;My father is the chief of police in this town, and he won't stand for this!&quot;) gives -6 to the self-control roll. A lie concerning a topic you are familiar with (&quot;Didn't you know they bred ducks in your village, Torg?&quot;) gives -3. You believe even a totally outlandish tale (&quot;Of course the Eskimos are descended from Spanish conquistadors; everyone knows that!&quot;), if you fail an unmodified self-control roll.
+
+{{Indent}}You also suffer a -3 penalty on any Merchant skill roll, or in any situation in which your credulity might be exploited. You can never learn the Detect Lies skill.
+|}

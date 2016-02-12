@@ -1,0 +1,14 @@
+Skill: Anthropology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ANTHROPOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Paleontology&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}(Paleoanthropology)-2, or Sociology-3
+
+{{Indent}}This is the science of evolution and culture. An anthropologist is knowledgeable in the ways of primitive (and not-so-primitive) societies. An Anthropology roll might explain, or even predict, unusual rituals and folk customs. This skill requires specialization by species (if left unspecified, assume the anthropologist's own species). Specialties usually default to one another at -2 to -5, although there may be no default for completely alien species
+|}

@@ -1,0 +1,16 @@
+Skill: Kiai
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''KIAI'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master.&lt;/font&gt;
+|-
+|{{Indent}}You can channel your chi outward in a mighty shout (kiai) that freezes lesser foes. This counts as an attack, and costs 1 FP per attempt, successful or not
+
+{{Indent}}Roll a Quick Contest: your Kiai skill vs. your target's Will. You are at -1 for every full two yards of distance. Your victim resists at +1 if he is Hard of Hearing, at +2 if Deaf! If you win, your target is mentally stunned (see Effects of Stun, p. 420)
+
+{{Indent}}This skill only works against a single victim; everyone can hear the shout, but your chi is focused on that one foe. However, a successful Kiai roll gives you +2 to Intimidation rolls vs. everyone within earshot
+|}

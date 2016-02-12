@@ -1,0 +1,44 @@
+Advantage: Extra Arms
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXTRA ARMS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}In GURPS, a limb with which you can manipulate objects is an arm, regardless of where it grows or what it looks like. A normal arm can strike a blow that inflicts thrust-1 crushing damage based on ST. The human norm is two arms for 0 points. Extra arms have a base cost of 10 points apiece.
+
+{{Indent}}&quot;&quot;&quot;Coordination&quot;&quot;&quot;
+
+{{Indent}}You can use extra arms freely for multiple noncombat tasks. For instance, with three arms, you could perform a one-handed task (e.g., use a computer mouse) and a two-handed task (e.g., type) simultaneously. You need Enhanced Tracking (p. 53) to perform tasks that require attention to events in more than one place at a time, however.
+
+{{Indent}}You can also use all of your arms in concert for a single combat maneuver where extra arms would be helpful; e.g., grappling in close combat. And if you have at least three arms, you can use a shield normally with one arm and still wield a two-handed weapon, just as a normal human fighter can use a shield and one-handed weapon at the same time.
+
+{{Indent}}No matter how many arms you have, though, you do not get additional attacks (or other extra maneuvers) in combat unless you buy Extra Attacks (see below).
+
+{{Indent}}&quot;&quot;&quot;Close Combat With Extra Arms&quot;&quot;&quot;
+
+{{Indent}}Extra arms give a huge advantage in close combat. You cannot punch with more than one arm at a time unless you have Extra Attack, but you may grapple with all of your arms at once. Each extra arm of regular length or longer, over and above the generic set of two, gives +2 to any attempt to grapple or break free from a grapple. Having more arms than your opponent also gives +3 on any attempt to pin or resist a pin.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Extra-Flexible: Limbs with this enhancement are more flexible than human arms, like tentacles or an elephant's trunk. These limbs can always reach and work with other limbs, regardless of body positioning, general layout, or &quot;right&quot; and &quot;left.&quot; +50%.
+
+{{Indent}}Long: Your arm is longer in proportion to your body than a human arm relative to the human body. This increases your effective SM for the purpose of calculating reach with that arm (see Size Modifier and Reach, p. 402). This does affect the reach of melee weapons wielded in that hand. Each +1 to SM also adds +1 per die to swinging damage. +100% per +1 to SM.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Foot Manipulators: Your &quot;arm&quot; is really an unusually dextrous leg. You cannot walk while you are manipulating objects with it (although you can sit, float, or fly). This is a Temporary Disadvantage limitation, the disadvantage being Legless (p. 141). This kind of arm is usually - but not always - Short (see below). -30%.
+
+{{Indent}}No Physical Attack: The limb can manipulate but cannot punch or wield melee weapons, and gives no bonus in close combat. It can still wield a firearm or similar ranged weapon. -50%.
+
+{{Indent}}Short: The arm has reach &quot;C&quot; (close combat only), and lacks the leverage to use any weapon that must be swung. Subtract one yard from the reach of any melee weapon wielded by that limb. If all of your arms are short, you are at -2 on any attempt to grapple. -50%.
+
+{{Indent}}Weak: The arm has less than your full body ST for lifting, striking, and grappling. -25% if the arm has half your body ST, or -50% if it has 1/4 your body ST (round down in both cases).
+
+{{Indent}}Weapon Mount: Instead of an arm, you have a &quot;hardpoint&quot; where you can mount a weapon. This may be biological, mechanical, or a hybrid of the two, depending on whether you are a living being, a machine, or a cyborg. You cannot use this mount for any purpose other than bearing a weapon. This limitation is incompatible with Feet Manipulator, No Physical Attack, Short, and Weak. -80%. Modifying Beings With One or Two Arms Beings with one or two arms can use the special modifiers above. Point cost is equal to 1/10 the percentile modifier per affected arm. Thus, enhancements become advantages and limitations become disadvantages. For instance, Short is -50%, so it is worth -5 points per arm. Someone with two short arms would have a -10- point disadvantage. Those with one arm can only apply these modifiers once, but also get the -20 points for One Arm (p. 147). For instance, an elephant's trunk would be Extra-Flexible (+50%), Long (+100%), and Weak (-50%). These modifiers total +100%, for a 10-point advantage. The -20 points for One Arm would make the net cost -10 points.
+|}

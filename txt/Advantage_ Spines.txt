@@ -1,0 +1,12 @@
+Advantage: Spines
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPINES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''1 or 3 points''&lt;/font&gt;
+|-
+|{{Indent}}You have sharp spines, like those of a porcupine or an echidna, located on strategic parts of your body. This is defensive weaponry, intended to discourage attackers; you cannot use your Spines actively. However, you get a DX-4 roll to hit each foe in close combat with you once per turn, as a free action. Roll at +2 against foes who attacked you from behind. Those who grapple or slam you are hit immediately and automatically - and those who slam you take maximum damage!
+
+{{Indent}}Short Spines: One or two inches long. Do 1d-2 impaling damage. Reach C. 1 point.
+
+{{Indent}}Long Spines: One or two feet long. Do 1d impaling damage. Reach C. 3 points.
+|}

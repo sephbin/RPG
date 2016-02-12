@@ -1,0 +1,16 @@
+Disadvantage: Terminally Ill
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TERMINALLY ILL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-50, -75, or -100 points''&lt;/font&gt;
+|-
+|{{Indent}}You are going to die . . . soon. This could be due to a nasty disease, a potent curse, an irremovable explosive device embedded in the base of your skull, or something else that will result in certain death. Point cost depends on how much time you have left:
+
+{{Indent}}[[pic]]
+
+{{Indent}}More than two years is worth nothing. Anyone might be hit by a truck in that time!
+
+{{Indent}}If you acquire a &quot;miracle cure,&quot; upload yourself into a new body, or otherwise extend your life past your termination date during the course of the campaign, you must buy off this disadvantage. If you cannot afford to do so, the GM is free to make up the difference with new disadvantages related to your illness or its cure (e.g., Chronic Pain, Dependency, Maintenance, or Susceptible).
+
+{{Indent}}If the GM is running a one-shot adventure or short campaign, he should disallow this disadvantage as meaningless.
+|}

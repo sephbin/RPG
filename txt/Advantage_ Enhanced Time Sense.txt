@@ -1,0 +1,20 @@
+Advantage: Enhanced Time Sense
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENHANCED TIME SENSE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''45 points''&lt;/font&gt;
+|-
+|{{Indent}}You can receive and process information dramatically faster than the human norm. This improves your mental speed - notably your reaction time - but not how fast you physically move once you react. This has several game benefits.
+
+{{Indent}}First, Enhanced Time Sense (ETS) includes Combat Reflexes (p. 43), and provides all the benefits of that advantage. You cannot buy Combat Reflexes if you have ETS; the two advantages are not cumulative.
+
+{{Indent}}In combat, you automatically act before those without ETS, regardless of Basic Speed. If more than one combatant has ETS, they act in order of Basic Speed, and they all get to act before those who lack ETS.
+
+{{Indent}}You can perceive things that happen too fast for most people to discern. For example, you cannot be fooled by a projected image, because you can see the individual frames of the film. If secret information is being sent as a high-speed &quot;burst,&quot; you can detect it if you're monitoring the transmission (you cannot necessarily decipher it, but you know it's there). At the GM's discretion, you get a Sense roll to spot objects moving so fast that they are effectively invisible; for instance, bullets in flight. ETS is extremely valuable if you possess magical or psionic defenses that work at the speed of thought.
+
+{{Indent}}If you have ETS, your rapid thought processes always allow you to ponder a problem thoroughly and respond in the manner you think best. You never suffer skill penalties for being mentally &quot;rushed&quot; - although you still need the usual amount of time to complete a physical task, and suffer the usual penalties for hasty work. The GM can almost never tell you to make up your mind right now. (But don't abuse this privilege by taking half an hour to decide what to do in each turn in combat!) 
+
+{{Indent}}The exception is when something happens so fast that most people can't perceive it at all. In that case, the GM is justified in asking you for an immediate response, since those without ETS get no response.
+
+{{Indent}}ETS does not &quot;slow down&quot; the world from your viewpoint. You can still enjoy a movie by simply ignoring the frames, much as a literate person can choose whether or not to notice the individual letters in the words he's reading. ETS also does not let you violate the laws of physics. Some things (e.g., laser beams) simply travel too fast for you to react.
+|}

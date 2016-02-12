@@ -1,0 +1,14 @@
+Skill: Mental Strength
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MENTAL STRENGTH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master*.&lt;/font&gt;
+|-
+|{{Indent}}* At the GM's option, a mage or psi may also learn this skill
+
+{{Indent}}You can actively focus your mind to resist mental attacks. This skill replaces Will when you resist magic spells, psi powers, Hypnotism, Invisibility Art, Kiai, and similar abilities. Mental Strength does not replace most normal Will rolls. Furthermore, it does not work if you are stunned, asleep, or unconscious - for that, buy the Mind Shield advantage (p. 70)
+|}

@@ -1,0 +1,30 @@
+Advantage: Weapon Master
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WEAPON MASTER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have a high degree of training or unnerving talent with a particular class of muscle-powered weapons (swords, bows, etc. - not guns). Available classes are:
+
+{{Indent}}All muscle-powered weapons. 45 points.
+
+{{Indent}}A large class of weapons. Examples: all bladed weapons, all onehanded weapons. 40 points.
+
+{{Indent}}A medium class of weapons. Examples: all swords, all ninja weapons. 35 points.
+
+{{Indent}}A small class of weapons. Examples: fencing weapons (maingauche, rapier, saber, and smallsword), knightly weapons (broadsword, mace, shield, and lance). 30 points.
+
+{{Indent}}Two weapons normally used together. Examples: broadsword and shield, rapier and main-gauche. 25 points.
+
+{{Indent}}One specific weapon. 20 points.
+
+{{Indent}}In all cases, if a weapon can be thrown, the benefits of this advantage also apply when throwing that weapon.
+
+{{Indent}}When using a suitable weapon, add &quot;+1 per die to basic thrust or swing damage if you know the relevant weapon skill at DX+1. Add +2 per die if you know that skill at DX+2 or better. You also have half the usual penalty to make a Rapid Strike (see Melee Attack Options, p. 369), or to parry more than once per turn (see Parrying, p. 376). None of these benefits apply to default use.
+
+{{Indent}}You are familiar with - if not proficient in - every weapon within your class. This gives you an improved default: DX/Easy weapon skills default to DX-1, DX/Average ones to DX-2, and DX/Hard ones to DX-3. Note that these skills are no easier to learn, and may not be &quot;bought up&quot; from the improved defaults in order to save points.
+
+{{Indent}}Finally, you may learn any cinematic skill that names this advantage as a prerequisite (see Chapter 4) - e.g., Blind Fighting and Power Blow - if you could reasonably use that skill with your weapons of choice. The GM is the final arbiter in all cases.
+
+{{Indent}}This trait is best suited to a &quot;cinematic&quot; swashbuckling game. The GM may wish to forbid it in a realistic campaign.
+|}

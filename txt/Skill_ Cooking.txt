@@ -1,0 +1,12 @@
+Skill: Cooking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COOKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Housekeeping-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of being a chef - you do not need it to heat water and open boxes, or to cook rat-on-a-stick over your campfire. A successful skill roll allows you to prepare a pleasing meal. Many chefs have an optional specialty (p. 169), such as baking, beverage making, or a particular variety of ethnic cuisine (e.g., Chinese or Martian)
+|}

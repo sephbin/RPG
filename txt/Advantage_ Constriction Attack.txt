@@ -1,0 +1,10 @@
+Advantage: Constriction Attack
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONSTRICTION ATTACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}Your musculature is optimized for crushing your opponents - whether by &quot;hugging&quot; like a bear or constricting like a python. To use this ability, you must first successfully grapple your intended victim, whose Size Modifier (p. 19) cannot exceed your own. On your next turn, and each successive turn, roll a Quick Contest: your ST vs. your victim's ST or HT, whichever is higher. If you win, your victim takes damage equal to your margin of victory; otherwise, he takes no damage.
+
+{{Indent}}Engulfing: You totally engulf your victim. If he doesn't break free between when you grapple him and when you start to crush him, he's pinned; see Pin (p. B370). This pin is completely &quot;hands free.&quot; Victims with abilities such as Innate Attack and Spines can hit you automatically while engulfed, however. If so, you get no active defense. +60%.
+|}

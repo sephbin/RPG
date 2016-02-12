@@ -1,0 +1,76 @@
+Disadvantage: Phobias
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHOBIAS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable*''&lt;/font&gt;
+|-
+|{{Indent}}You are afraid of a specific item, creature, or circumstance. Many fears are reasonable, but a Phobia is an unreasonable, unreasoning, morbid fear. The point value depends on how common the object of your fear is - fear of darkness is far more troublesome than fear of left-handed plumbers.
+
+{{Indent}}Make a self-control roll whenever you are exposed to the object of your Phobia. If you fail, roll 3d, add the amount by which you failed your selfcontrol roll, and look up the result on the Fright Check Table (p. 360). For instance, if your self-control number is 9 but you rolled a 13, roll 3d+4 on the table. The result from the table affects you immediately!
+
+{{Indent}}If you succeed, you have successfully mastered your Phobia (for now), but you are still shaken, and have a penalty to all DX, IQ, and skill rolls while the cause of your fear persists. The penalty depends on your selfcontrol number.
+
+{{Indent}}[[pic]]
+
+{{Indent}}You must roll again every 10 minutes to see if the fear overcomes you.
+
+{{Indent}}Even the mere threat of the feared object requires a self-control roll, although this is at +4. If your enemies actually inflict the feared object on you, you must make an unmodified self-control roll, as described above. If you fail, you might break down, depending on the Fright Check results, but you won't necessarily talk. Some people can panic and fall apart, but still refuse to talk - just as some people do not talk under torture.
+
+{{Indent}}A phobic situation is by definition stressful. If you have other mental disadvantages that are triggered by stress, you are likely to have these reactions if you fail to resist a Phobia.
+
+{{Indent}}Some common phobias:
+
+{{Indent}}Being Alone (Autophobia): You cannot stand to be alone, and do anything in your power to avoid it. -15 points.*
+
+{{Indent}}Blood (Hemophobia): The sight of blood gives you the screaming willies! You need to make a self-control roll during most combats . . . -10 points.*
+
+{{Indent}}Cats (Ailurophobia): -5 points.*
+
+{{Indent}}Crowds (Demophobia): Any group of over a dozen people sets off this fear unless they are all well known to you. The self-control roll is at -1 for over 25 people, -2 for a crowd of 100 or more, -3 for 1,000, -4 for 10,000, and so on. -15 points.*
+
+{{Indent}}Darkness (Scotophobia): A common fear, but crippling. You should avoid being underground if possible; if something happens to your flashlight or torch, you might well lose your mind before you can relight it. -15 points.*
+
+{{Indent}}Death and the Dead (Necrophobia): You are terrified by the idea of death. Make a self-control roll in the presence of any dead body (animals don't count, but portions of human bodies do). Roll at -4 if the body is that of someone you know, or -6 if the body is unnaturally animated in some way. A ghost (or apparent ghost) also requires a roll at -6. -10 points.*
+
+{{Indent}}Dirt (Mysophobia): You are deathly afraid of infection, or just of dirt and filth. Make a self-control roll when you must do something that might get you dirty. Roll at -5 to eat any unaccustomed food. You should act as &quot;finicky&quot; as possible. -10 points.*
+
+{{Indent}}Dogs (Cynophobia): This includes all canines: foxes, wolves, coyotes, wild dogs, etc. -5 points.*
+
+{{Indent}}Enclosed Spaces (Claustrophobia): A common, crippling fear. You are uncomfortable any time you can't see the sky - or at least a very high ceiling. In a small room or vehicle, you feel the walls closing in on you . . . You need air! This is a dangerous fear for someone who plans to go underground. -15 points.*
+
+{{Indent}}Fire (Pyrophobia): Even a burning cigarette bothers you if it comes within five yards. -5 points.*
+
+{{Indent}}Heights (Acrophobia): You may not voluntarily go more than 15 feet above ground, unless you are inside a building and away from windows. If there is some chance of an actual fall, selfcontrol rolls are at -5. -10 points.*
+
+{{Indent}}Insects (Entomophobia): You are afraid of all &quot;bugs.&quot; Large or poisonous ones give -3 to self-control rolls. Very large ones, or large numbers, give -6. Avoid hills of giant ants. -10 points.*
+
+{{Indent}}Loud Noises (Brontophobia): You avoid any situation where loud noises are likely. A sudden loud noise requires an immediate self-control roll. A thunderstorm is a traumatic experience for you! -10 points.*
+
+{{Indent}}Machinery (Technophobia): You can never learn to repair any sort of machine and refuse to learn to use anything more complicated than a crossbow or bicycle. Any highly technological environment calls for a selfcontrol roll; dealings with robots or computers require a roll at -3, and hostility from intelligent machines requires a roll at -6. -5 points at TL4 or below, -15 points at TL5 or above.*
+
+{{Indent}}Magic (Manaphobia): You can never learn to use magic, and you react badly to any user of magic. Make a self-control roll whenever you are in the presence of magic. This roll is at -3 if you are to be the target of friendly magic, and -6 if you are the target of hostile magic. (The magic does not have to be real, if you believe in it!) -15 points in a setting where magic is common, -10 if it is known but uncommon, -5 if &quot;real&quot; magic is essentially unknown.*
+
+{{Indent}}Monsters (Teratophobia): Any &quot;unnatural&quot; creature sets off this fear. You have -1 to -4 on the self-control roll if the monster seems very large or dangerous, or if there are a lot of them. Note that the definition of &quot;monster&quot; depends on experience. An American Indian would consider an elephant monstrous, while an African pygmy would not! -15 points.*
+
+{{Indent}}Number 13 (Triskaidekaphobia): You must make a self-control roll whenever you have to deal with the number 13 - visit the 13th floor, buy something for $13.00, etc. Roll at -5 if Friday the 13th is involved! -5 points.*
+
+{{Indent}}Oceans (Thalassophobia): You are afraid of any large body of water. Ocean travel, or even air travel over the ocean, is basically impossible for you, and encounters with aquatic monsters are also upsetting. -10 points.*
+
+{{Indent}}Open Spaces (Agoraphobia): You are uncomfortable whenever you are outside, and actually become frightened when there are no walls within 50 feet. -10 points.*
+
+{{Indent}}Psionic Powers (Psionophobia): You are afraid of those with known psionic powers. An actual exhibition of power in your presence requires a self-control roll. You do not voluntarily allow anyone to use a psionic power on you. The power does not have to be real - all that matters is that you believe it is! -15 points if psi powers are common, -10 if they are uncommon, -5 if they are essentially unknown.*
+
+{{Indent}}Reptiles (Herpetophobia): You come unglued at the thought of reptiles, amphibians, and similar scaly slimies. A very large reptile, or a poisonous one, gives -2 to self-control rolls; a horde of reptiles (such as a snake pit) gives -4. -10 points.*
+
+{{Indent}}Sex (Coitophobia): You are terrified by the idea of sexual relations or the loss of your virginity. -10 points*
+
+{{Indent}}Sharp Things (Aichmophobia): You are afraid of anything pointed. Swords, spears, knives, and hypodermic needles all give you fits. Trying to use a sharp weapon, or being threatened with one, requires a self-control roll at -2. -15 points at TL5 or below, -10 at TL6 or above.*
+
+{{Indent}}Spiders (Arachnophobia): -5 points.*
+
+{{Indent}}Strange and Unknown Things (Xenophobia): You are upset by any sort of strange circumstances, and in particular by strange people. Make a self-control roll when surrounded by people of another race or nationality; roll at -3 if the people are not human. If you lose control, you might well attack strangers out of fear. -15 points.*
+
+{{Indent}}Sun (Heliophobia): -15 points.*
+
+{{Indent}}Weapons (Hoplophobia): The presence of any sort of weaponry is stressful. Trying to use a weapon, or being threatened with one, requires a selfcontrol roll at -2. -20 points.*
+|}

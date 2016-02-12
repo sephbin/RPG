@@ -1,0 +1,16 @@
+Skill: Weird Science
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WEIRD SCIENCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill allows you to formulate astonishing new crackpot scientific theories that are far ahead of their time . . . or at least utterly different from the usual assumptions of your tech level. You may attempt a Weird Science roll whenever you work on a new invention (see Chapter 17) or investigate an existing item of weird technology (e.g., a UFO)
+
+{{Indent}}On a success, you get +5 on an invention attempt (but only +1 if using the Gadgeteer advantage, since Gadgeteer already gives you favorable die rolls for thinking &quot;outside the box&quot;). If investigating weird technology, success gives +2 to any skill roll you make for this purpose - and the GM might even allow a default skill roll to operate the device!
+
+{{Indent}}On a critical success, you get these bonuses and some incredible insight into a totally different problem! Critical failures are always spectacular, although not necessarily fatal or even dangerous
+|}

@@ -1,0 +1,26 @@
+Advantage: Clinging
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CLINGING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points''&lt;/font&gt;
+|-
+|{{Indent}}You can walk or crawl on walls and ceilings. You can stop at any point and stick to the surface without fear of falling. Neither feat requires a roll against Climbing skill, provided the surface is one you can cling to. Move while clinging is half your Basic Move.
+
+{{Indent}}If you are falling and try to grab a vertical surface to break your fall, the GM must first decide whether there is anything in reach. If there is, make a DX roll to touch the surface, and then make a ST roll at -1 per 5 yards already fallen. If you succeed, you stop your fall. Otherwise, you continue to fall - but you may subtract 5 yards from the height of the fall thanks to the slowing effect of the failed Clinging attempt. Variations in gravity affect these distances; e.g., in 0.5G, the ST roll would be at -1 per 10 yards.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Attraction: You can cling to a surface with any part of your body - you don't need to assume a crawling posture. You can walk &quot;upright&quot; along a vertical surface, leaving your arms free, or even hang from the top of your head or your back in order to use all of your limbs. +25%. Attraction: You can cling to a surface with any part of your body - you don't need to assume a crawling posture. You can walk &quot;upright&quot; along a vertical surface, leaving your arms free, or even hang from the top of your head or your back in order to use all of your limbs. +25%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Specific: You can only cling to a particular substance. Common materials, such as brick, metal, rock, or wood, are -40%; uncommon materials, such as adobe, ice, or rubber, are -60%; absurd materials, such as chocolate, are -80%.
+
+{{Indent}}Requires Low Gravity: Your ability doesn't function in gravity fields over a certain, maximum strength. For humans, this is typically 0.6G. -5% per 0.1G under 1G (-5% for 0.9G, -10% for 0.8G, and so on - down to -50% for 0G).
+|}

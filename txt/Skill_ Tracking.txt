@@ -1,0 +1,26 @@
+Skill: Tracking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRACKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Perception-5 or Naturalist-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to follow a man or an animal by its tracks. Make a Tracking roll to pick up the trail, then roll periodically to avoid losing it. The frequency and difficulty of these rolls depend on the terrain:
+
+{{Indent}}Jungle, Plains, or Woodlands: Roll every 30 minutes
+
+{{Indent}}Arctic, Desert, Island/Beach, or Mountain: Roll at -2 every 15 minutes
+
+{{Indent}}&lt;i&gt;Swampland:&lt;/i&gt; Roll at -4 every 5 minutes
+
+{{Indent}}&lt;i&gt;Urban:&lt;/i&gt; Roll at -6 every minute!
+
+{{Indent}}You may also use this skill to cover your tracks. This doubles your travel time! A successful roll means you have hidden your tracks well enough that only someone else with this skill can see them. If another tracker follows you, the Tracking rolls above become Quick Contests of Tracking skill. If he loses any of the Contests, he loses your trail
+
+{{Indent}}To stalk game once you have tracked it, use the Stealth skill (p. 222)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -5 if the trail is more than a day old, or -10 if more than a week old. +3 if you are following a man, or +6 if following a group of men. Superior senses help a lot: bonuses for Acute Vision (p. 35) and Discriminatory Smell (p. 49) usually apply, and many superhuman senses (Infravision, Subsonic Hearing, etc.) give situational bonuses.&lt;/i&gt;&lt;/font&gt;
+|}

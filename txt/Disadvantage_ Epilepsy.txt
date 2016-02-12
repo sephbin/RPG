@@ -1,0 +1,14 @@
+Disadvantage: Epilepsy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EPILEPSY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-30 points''&lt;/font&gt;
+|-
+|{{Indent}}You suffer from severe epilepsy. You are subject to seizures during which your limbs tremble uncontrollably and you cannot speak or think clearly.
+
+{{Indent}}Make a HT roll whenever you are in a stressful situation (especially if your life or the life of a friend is threatened). If you have any sort of Phobia, exposure to the object of your fear counts as a stressful situation; roll vs. HT once every 10 minutes. On a failure, you suffer a seizure that lasts 1d minutes and costs you 1d FP. You can do nothing during that time.
+
+{{Indent}}You may attempt to induce a seizure through autohypnosis. This requires one minute of concentration and a successful Will or Autohypnosis roll. Seizures near areas charged with supernatural energies might produce visions. Whether these are useful is up to the GM.
+
+{{Indent}}Low-tech individuals who do not understand &quot;fits&quot; may be awed by them, and perhaps even believe your seizure represents a communication from the gods. Make a reaction roll at +1. A reaction of &quot;Very Good&quot; or better indicates religious awe! &quot;Poor&quot; or worse causes the observers to flee - not to attack (unless they had other provocation).
+|}

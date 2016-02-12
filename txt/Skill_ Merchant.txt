@@ -1,0 +1,20 @@
+Skill: Merchant
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MERCHANT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Finance-6, or Market Analysis-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of buying, selling, and trading retail and wholesale goods. It involves bargaining, salesmanship, and an understanding of trade practices. It covers all types of merchandise, but many merchants have an optional specialty (p. 169) in a single class of goods
+
+{{Indent}}Make a skill roll to judge the value of any piece of common goods, find out where any commodity is bought and sold, find the local fair market value of any commodity, etc
+
+{{Indent}}When two merchants haggle, the GM may settle it with a Quick Contest. The winner adds or subtracts 10% of fair value, depending on whether he was trying to sell or buy
+
+{{Indent}}If you have this skill at any level, you get +1 on reaction rolls when buying or selling. If you have this skill at level 20 or better, you get +2
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -3 for Gullibility (p. 137); -3 for Low Empathy (p. 142); -1 to -4 for Shyness (p. 154). -3 for illegal goods, unless you have Streetwise at 12+ or specialize in such goods; -2 in an unfamiliar area, until you have had time to familiarize yourself with local market conditions; Cultural Familiarity modifiers (p. 23). These last two modifiers &quot;stack,&quot; and frequently occur together.&lt;/i&gt;&lt;/font&gt;
+|}

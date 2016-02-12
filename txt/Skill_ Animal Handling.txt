@@ -1,0 +1,20 @@
+Skill: Animal Handling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ANIMAL HANDLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to train and work with animals. You must specialize in a category of animals - the more intelligent the animals, the narrower the category. Examples of interest to adventurers: Big Cats (jaguars, lions, tigers, etc.), Dogs, Equines (horses and donkeys), and Raptors (eagles, falcons, and hawks). The default between specialties is -2 within the same order (e.g., Dogs to Big Cats), -4 across orders (e.g., Dogs to Equines), and -6 for larger differences (e.g., Dogs to Raptors)
+
+{{Indent}}To train an animal, make an Animal Handling roll once per day of training. A failed roll means the animal learned nothing; a badly failed roll means you are attacked. The time it takes to train an animal depends on the beast's intelligence and tractability (see Chapter 16)
+
+{{Indent}}When working with a trained animal, roll against skill for each task you set the animal. This roll is at -5 if the animal is not familiar with you, -5 if the circumstances are stressful to the animal, and -3 or more if the task is a complex one. To put on an entertaining circus act, snake-charming show, etc., you must make a separate Performance roll!
+
+{{Indent}}This skill can also (sometimes) be used to quiet a wild, dangerous, or untrained animal. This roll is at -5 if the creature is wild or very frightened, or -10 if it is a man-eater or man-killer
+
+{{Indent}}Finally, this skill gives an advantage in combat against animals within your specialty. If you have Animal Handling at level 15, an animal's attack and defense rolls are at -1 against you, because you can predict its behavior. At skill 20, the animal's rolls are at -2
+|}

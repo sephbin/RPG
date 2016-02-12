@@ -1,0 +1,14 @@
+Modifier: Delay
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DELAY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement delays the attack's effects until sometime after you hit the target. This lets you simulate time bombs and the like. You must specify some way to neutralize the effect before it occurs. Work out this detail with the GM.
+
+{{Indent}}A fixed delay (e.g., 2 seconds) is +0%.
+
+{{Indent}}A variable delay is +10% if you can set it for any time from &quot;no delay&quot; to 10 seconds, or +20% if you can set it for longer (minutes, hours, days . . .). You must select the delay before you roll to hit.
+
+{{Indent}}Triggered Delay: Instead of a time delay, the effects are triggered by a simple action: a radio signal, touch, pressure, a metal object passing within a yard, etc. Specify the trigger when you buy the attack. +50%.
+|}

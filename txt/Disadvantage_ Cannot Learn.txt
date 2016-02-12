@@ -1,0 +1,12 @@
+Disadvantage: Cannot Learn
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CANNOT LEARN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-30 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot spend earned character points to add or improve DX, IQ, skills, or mental advantages, nor can you acquire new techniques (see Techniques, p. 229) or familiarities (see Familiarity, p. 169) to accompany existing skills. You are stuck with your starting abilities!
+
+{{Indent}}You can still increase your ST and HT, and add physical advantages (with the GM's permission). As well, Cannot Learn doesn't prevent you from temporarily acquiring skills using the Modular Abilities advantage (p. 71). Those with computer brains often possess both traits.
+
+{{Indent}}This trait is most suitable for golems, mindless undead, robots, and other automata.
+|}

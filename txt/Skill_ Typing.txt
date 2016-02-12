@@ -1,0 +1,14 @@
+Skill: Typing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TYPING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-4 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of using a typewriter. Typing speed is skill x 3 words per minute (wpm) on a manual, skill x 5 wpm on an electric typewriter or computer keyboard
+
+{{Indent}}This skill defaults at -3 to any skill that involves a lot of typing, notably Administration, Computer Operation, Research, and Writing, and Professional Skills such as Journalist. If you have such a skill, Typing skill is redundant (unless you wish to work as a professional typist)
+|}

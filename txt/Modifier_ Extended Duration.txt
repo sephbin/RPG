@@ -1,0 +1,32 @@
+Modifier: Extended Duration
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXTENDED DURATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement increases the normal duration of your ability. &quot;Multiple&quot; applies to the original duration (or changes it to permanent).
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Multiple||Modifier
+|-
+|3x duration||+20%
+|-
+|10x duration||+40%
+|-
+|30x duration||+60%
+|-
+|100x duration||+80%
+|-
+|300x duration||+100%
+|-
+|1,000x duration||+120%
+|-
+|Permanent*||+150%
+|}
+
+{{Indent}}* You must specify a reasonable set of conditions that will dispel the effect (or cure it, for abilities such as Affliction and Mind Control). The GM is the judge of what is &quot;reasonable.&quot; If there is no way to end the effect, the enhancement is +300%. To keep PCs from granting each other free advantages, the GM may wish to forbid this level of Extended Duration on Afflictions with the Advantage modifier.
+
+{{Indent}}To add Extended Duration to an attack, the attack must either have Aura, Persistent, or Wall, or specifically allow this enhancement. You can also add Extended Duration to any advantage that has the Ranged enhancement (p. 107).
+
+{{Indent}}If the modified trait has multiple facets with separate durations, you must specify which duration you are extending. For instance, a cloud of sleeping gas could have this enhancement to extend the duration of the sleep it induces or the length of time the cloud persists; to do both, buy this enhancement twice.
+|}

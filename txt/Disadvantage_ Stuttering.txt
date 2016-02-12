@@ -1,0 +1,8 @@
+Disadvantage: Stuttering
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STUTTERING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You suffer from a stammer or other speech impediment. This gives -2 on any reaction roll where conversation is required, and -2 to Diplomacy, Fast-Talk, Performance, Public Speaking, Sex Appeal, and Singing. Certain occupations (interpreter, newsreader, etc.) are always closed to you.
+|}

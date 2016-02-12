@@ -1,0 +1,14 @@
+Modifier: Side Effect
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SIDE EFFECT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You may only add this enhancement to an Innate Attack, and you cannot combine it with penetration modifiers other than Armor Divisor. If any damage penetrates the target's DR, he must make a HT roll, at -1 per 2 points of penetrating damage, or suffer a &quot;side effect.&quot;
+
+{{Indent}}Choose the side effects from the effects described for Affliction (p. 35). Valid choices are stunning, Attribute Penalty, Disadvantage, and Incapacitation. The cost of Side Effect is a base +50%, plus the cost of the Affliction enhancements. For instance, stunning would be +50%, while Disadvantage (Blindness) would be +100%.
+
+{{Indent}}You may specify more than one side effect. If the victim gets a single resistance roll against all of them, treat them as a single Side Effect enhancement, totaling their cost. If the victim must resist each effect individually, take a separate Side Effect enhancement for each effect.
+
+{{Indent}}Stunning wears off normally, while other effects last (20 - HT) minutes, minimum 1 minute. If Incapacitation is combined with other effects, the other effects last for another (20 - HT) minutes after the Incapacitation wears off.
+|}

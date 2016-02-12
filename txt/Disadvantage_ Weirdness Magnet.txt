@@ -1,0 +1,10 @@
+Disadvantage: Weirdness Magnet
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WEIRDNESS MAGNET'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}Strange and bizarre things happen to you with alarming frequency. You are the one demons stop and chat with. Magic items with disturbing properties find their way to you. The only talking dog on 21st-century Earth comes to you with his problems. Dimensional gates sealed for centuries crack open just so that you can be bathed in the energies released . . . or perhaps the entities on the other side invite you to tea.
+
+{{Indent}}Nothing lethal happens to you, at least not immediately, and occasionally some weirdness is beneficial. But most of the time it is terribly, terribly inconvenient. People who understand what a Weirdness Magnet is (and that you are one) react to you at -2. The exceptions are parapsychologists, fringe cultists, unhinged conspiracy theorists, and thrill-seekers, who follow you around!
+|}

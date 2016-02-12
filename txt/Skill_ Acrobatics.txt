@@ -1,0 +1,22 @@
+Skill: Acrobatics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ACROBATICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to perform gymnastic stunts, roll, take falls, etc. This can be handy on an adventure, as tightrope walking, human pyramids, and trapeze swinging all have useful applications. Each trick requires a separate skill roll, at whatever penalties the GM sees fit. If you are performing stunts on a moving vehicle or mount, roll against the lower of Acrobatics and the appropriate Driving or Riding skill
+
+{{Indent}}You may substitute an Acrobatics roll for a DX roll in any attempt to jump, roll, avoid falling down, etc. As well, you may attempt an Acrobatic Dodge in combat - a jump or roll that avoids an attack in a flashy way (see Acrobatic Dodge, p. 375). Finally, a successful Acrobatics roll will reduce the effective distance of any fall by five yards (see Falling, p. 431)
+
+{{Indent}}Two special versions of Acrobatics are also available:
+
+{{Indent}}&lt;i&gt;Aerobatics:&lt;/i&gt; The ability to execute tight turns, loops, power dives, etc. in flight. You must be able to fly to learn this skill - although how you fly (magic, wings, jet pack, etc.) is irrelevant. Natural fliers might find flight to be as effortless as humans find walking, but they must still learn Aerobatics in order to engage in complex acrobatics. Add +2 to skill if you have 3D Spatial Sense (p. 34)
+
+{{Indent}}&lt;i&gt;Aquabatics:&lt;/i&gt; The ability to engage in underwater acrobatics. &lt;i&gt;Prerequisites:&lt;/i&gt; Swimming, or the Amphibious advantage (p. 40) or the Aquatic disadvantage (p. 145)
+
+{{Indent}}Acrobatics, Aerobatics, and Aquabatics default to one another at -4. Add +1 to these three skills if you have Perfect Balance (p. 74)
+|}

@@ -1,0 +1,20 @@
+Skill: Teamster
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TEAMSTER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Animal Handling (same)-4, or Riding (same)-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of driving a team of animals pulling a wagon, chariot, etc. It includes the ability to harness and care for the beasts, and judge them for quality before purchase. If the animals are ornery or badly trained (GM's judgment), you must make a successful Animal Handling roll before you can attempt a Teamster roll
+
+{{Indent}}For normal travel, make a Teamster roll once per day. When moving at a gallop (80% or more of the animals' full Move) or when executing complex maneuvers with a chariot in combat, roll every 10 seconds
+
+{{Indent}}A failure usually means nothing worse than lost time or a wider turn than intended. A critical failure - or any failure at a gallop - spills the wagon or chariot. Treat this as a fiveyard fall for each passenger and animal involved (see Falling, p. 431). As well, roll 2d for each beast; on a 12, a leg is broken! You will have to make Animal Handling rolls to calm the beasts. Time required to reload the cargo depends on the load, terrain, and weather
+
+{{Indent}}You must specialize by animal type; the most common specialty is Teamster (Equines), which covers horses and mules. Teamster specialties default to one another at -3
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 for more than four animals; -2 for a team of unfamiliar animals; up to -5 for bad terrain.&lt;/i&gt;&lt;/font&gt;
+|}

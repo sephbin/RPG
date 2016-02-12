@@ -1,0 +1,8 @@
+Modifier: Reduced Fatigue Cost
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REDUCED FATIGUE COST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%/level''&lt;/font&gt;
+|-
+|{{Indent}}You may only take this enhancement for abilities that cost FP, and never in conjunction with the special modifier &quot;Usually On.&quot; You can take it any number of times. Each level cuts the cost to use the ability by 1 FP. If you must &quot;maintain&quot; the ability by spending FP on a regular basis, reduce this maintenance cost by a like amount.
+|}

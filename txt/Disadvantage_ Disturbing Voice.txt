@@ -1,0 +1,10 @@
+Disadvantage: Disturbing Voice
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DISTURBING VOICE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}Your voice is naturally unpleasant or obviously artificial. Details can vary. You might be a robot, or use a technological aid to mitigate the Mute disadvantage. Your voice might be raspy, hollow, or squeaky, or your speech might be monotonous and without inflection. The game effects in all cases are identical to those of Stuttering (p. 157), although you do not necessarily stutter.
+
+{{Indent}}This trait is the opposite of the Voice advantage (p. 97); you cannot have both.
+|}

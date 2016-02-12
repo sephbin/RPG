@@ -1,0 +1,34 @@
+Modifier: Rapid Fire
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RAPID FIRE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}An Innate Attack's base Rate of Fire (RoF) is 1. Consult the table below to find the cost for a higher RoF:
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|RoF||Cost
+|-
+|2||+40%
+|-
+|3||+50%
+|-
+|4-7||+70%
+|-
+|8-15||+100%
+|-
+|16-30||+150%
+|-
+|31-70||+200%
+|-
+|71-150||+250%
+|-
+|151-300||+300%
+|}
+
+{{Indent}}Two special options are available for attacks with this enhancement:
+
+{{Indent}}Multiple Projectile: Each shot splits into multiple projectiles after you attack, like a shotgun blast or forked lightning. Express this as a multiplier following RoF; for instance, RoF 3x4 means each of three shots fired divides into four individual projectiles. Modifier cost is based on the RoF times the multiplier; e.g., RoF 3x4 costs the same as RoF 12.
+
+{{Indent}}Selective Fire: You may designate a RoF 5+ attack as Selective Fire, allowing it to fire as if it had RoF 1-3. This costs an extra +10%.
+|}

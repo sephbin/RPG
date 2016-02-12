@@ -1,0 +1,28 @@
+Modifier: Preparation Required
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PREPARATION REQUIRED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your ability requires special preparation before you can use it. Perhaps you have to meditate first, or perform some ritual to focus concentration. This limitation is particularly appropriate for supernatural traits such as Channeling (p. 41) and Medium (p. 68).
+
+{{Indent}}You cannot use an unprepared ability. To prepare, take the Concentrate maneuver for the required amount of time. You need not specify how you plan to use your ability while you are preparing it, but you must specify which ability you are preparing if you have more than one trait with this limitation.
+
+{{Indent}}You can use a prepared ability normally - either immediately or at a later time. However, you can only have one advantage with this limitation prepared at a time, and it becomes unprepared immediately after use, regardless of success or failure (but if your ability has continuing effects, you can maintain them once activated).
+
+{{Indent}}The value of this limitation depends on the time required to prepare the ability.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Preparation Time||Modifier
+|-
+|1 minute||-20%
+|-
+|10 minutes||-30%
+|-
+|1 hour||-50%
+|-
+|8 hours||-60%
+|}
+
+{{Indent}}Weakened Without Preparation: Your ability works if you do not prepare it beforehand, but at half duration, range, effect, etc. This does not make sense for all advantages (GM's decision as to when it does). Weakened Without Preparation is worth exactly half as much as listed above.
+|}

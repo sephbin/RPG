@@ -1,0 +1,14 @@
+Skill: Teaching
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TEACHING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to instruct others. If you have Teaching at level 12+, you may act as a teacher for game purposes. For more on teaching and learning, see Improvement Through Study (p. 292)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -3 for Callous (p. 125); -1 to -4 for Shyness (p. 142). Apply both the teacher's and the student's Language penalties (p. 24) in the language of instruction.&lt;/i&gt;&lt;/font&gt;
+|}

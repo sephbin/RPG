@@ -1,0 +1,12 @@
+Advantage: Mimicry
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MIMICRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can duplicate any simple sound (alarm, gunshot, etc.) by listening to it for one second and making a successful IQ roll. You can also imitate voices by spending at least 10 seconds listening to them - live, recorded, or remotely - and making an IQ roll.
+
+{{Indent}}This trait gives you no special ability to stun or deafen others with loud sounds, or to speak unpronounceable magic words. Buy any such capabilities separately.
+
+{{Indent}}Voice Library: You never forget any sound or voice you've successfully mimicked. It's the player's job to maintain this list. To recall a sample, take a Concentrate maneuver and make an IQ roll. +50%.
+|}

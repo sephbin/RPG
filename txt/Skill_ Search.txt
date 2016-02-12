@@ -1,0 +1,18 @@
+Skill: Search
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SEARCH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Perception-5 or Criminology-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to search people, baggage, and vehicles for items that aren't in plain sight. The GM rolls once - in secret - per item of interest. For deliberately concealed items, this is a Quick Contest of your Search skill vs. the Holdout or Smuggling skill used to hide the item. If you fail, the GM simply says, &quot;You found nothing.&quot; (It defeats the purpose to say, &quot;You don't find the gun under his jacket.&quot;)
+
+{{Indent}}If more than one person is searching, roll separately for each searcher
+
+{{Indent}}The GM should avoid unnecessary rolls. For instance, no human can get a sawed-off shotgun through a body search. Likewise, a knife or jewel simply cannot be found on a normally dressed person without an X-ray or skin search. In general, if the net bonus to the concealer's Holdout roll is +3 or more, a skin search is required. If his Holdout is at -2 or worse for size, a skin search will automatically find the hidden item
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 for a &quot;pat-down&quot; of an unresisting person (takes one minute), +3 for a thorough &quot;skin search&quot; of a person's hair and clothing (takes three minutes), or +5 for a complete search, including body cavities (takes five minutes). Bonuses for Acute Touch (p. 35) and Sensitive Touch (p. 83) apply to all hands-on searches. On a successful Electronics Operation (Security) roll, specialized sensors - metal detectors, X-ray machines, etc. - give from +1 to +5 to find items they can detect (a metal detector won't help you find plastic explosives!).&lt;/i&gt;&lt;/font&gt;
+|}

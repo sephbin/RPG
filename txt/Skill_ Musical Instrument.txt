@@ -1,0 +1,14 @@
+Skill: Musical Instrument
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MUSICAL INSTRUMENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to play a musical instrument. With a successful skill roll, you give a competent performance. You must specialize in a particular instrument. Defaults between specialties range from -3 for similar instruments to &quot;no default&quot; for utterly unrelated ones, such as Musical Instrument (Drums) and Musical Instrument (Harp)
+
+{{Indent}}This skill includes the ability to read music in your culture's notation system (if any). Treat different systems as familiarities (see Familiarity, p. 169)
+|}

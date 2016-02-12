@@ -1,0 +1,10 @@
+Disadvantage: Mundane Background
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MUNDANE BACKGROUND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a complete lack of experience with the supernatural and the weird. When you first enter play, you can only have mundane skills and equipment. Magic spells, cinematic skills, etc. are off-limits. So are Hidden Lore and Occultism! You can have supernatural advantages, but you can neither use them nor learn any skills that would allow you to use them. In fact, you have no idea that you possess such talents, save perhaps for the odd dream now and then. You must buy off this disadvantage if you wish to use supernatural advantages actively or learn any skill related to the supernatural or the weird.
+
+{{Indent}}Mundane Background is only available in settings with supernatural or weird elements! It is not a valid disadvantage in perfectly mundane game worlds.
+|}

@@ -1,0 +1,16 @@
+Disadvantage: Increased Consumption
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INCREASED CONSUMPTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''3''&lt;/font&gt;
+|-
+|{{Indent}}One &quot;meal&quot; keeps you going for a much shorter period of time than it would a normal human. This is suitable for small creatures that must eat often, or for machines that rapidly exhaust their fuel or energy supply.
+
+{{Indent}}Increased Consumption 1: You must eat six meals a day. If you have the Machine meta-trait (p. 263), you have a 4-hour endurance.
+
+{{Indent}}Increased Consumption 2: You must eat 12 meals a day. If you have the Machine meta-trait, you have a 2- hour endurance.
+
+{{Indent}}Increased Consumption 3: You must eat 24 meals a day. If you have the Machine meta-trait, you have a 1- hour endurance.
+
+{{Indent}}. . . and so on, doubling consumption and halving endurance for each additional level. A single level of this trait is appropriate for normal humans who have a build of Overweight or heavier (see Build, p. 19), or the Gluttony disadvantage (p. 137).
+|}

@@ -1,0 +1,44 @@
+Disadvantage: Chronic Pain
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CHRONIC PAIN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have an injury, disorder, or illness that leaves you in severe pain on a regular basis - perhaps even constantly. Examples include arthritis, bone cancer, migraines, and pieces of shrapnel embedded in the body (an &quot;old war wound&quot;).
+
+{{Indent}}Roll against the frequency of appearance for your Chronic Pain once per day. If you roll below this number, you suffer a bout of pain. The timing of this attack is up to the GM, but it usually occurs during waking hours - you might wake up with it, or it might be set off by stress (fatigue, exertion, etc.) during the day.
+
+{{Indent}}While in pain, reduce your DX and IQ by the amount specified for the severity of your pain (see below). Reduce self-control rolls to resist disadvantages such as Bad Temper and Berserk by the same amount - someone in pain is more likely to lose his cool. If the GM rules that the attack occurs while you are trying to sleep, you suffer penalties for sleep deprivation instead of the usual effects of this disadvantage.
+
+{{Indent}}Chronic Pain attacks endure for a fixed &quot;interval,&quot; after which you may attempt a HT roll to recover. If you succeed, you have dealt with your pain . . . today. If you fail, the attack continues for another interval, after which you may attempt another HT roll. And so on.
+
+{{Indent}}Find the point cost of Chronic Pain by choosing a severity and then multiplying the given cost to reflect the interval and frequency of attacks. Drop all fractions.
+
+{{Indent}}Severity
+
+{{Indent}}Mild: -2 to DX, IQ, and self-control rolls: -5 points.
+
+{{Indent}}Severe: -4 to DX, IQ, and self-control rolls: -10 points.
+
+{{Indent}}Agonizing: -6 to DX, IQ, and selfcontrol rolls: -15 points.
+
+{{Indent}}Interval
+
+{{Indent}}1 hour: x0.5.
+
+{{Indent}}2 hours: x1.
+
+{{Indent}}4 hours: x1.5.
+
+{{Indent}}8 hours: x2.
+
+{{Indent}}Frequency of Appearance
+
+{{Indent}}Attack occurs on a roll of 6 or less: x0.5.
+
+{{Indent}}Attack occurs on a roll of 9 or less: x1.
+
+{{Indent}}Attack occurs on a roll of 12 or less: x2.
+
+{{Indent}}Attack occurs on a roll of 15 or less: x3.
+|}

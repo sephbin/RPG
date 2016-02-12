@@ -1,0 +1,15 @@
+Disadvantage: Gigantism
+
+
+
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GIGANTISM (+1 SM)'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 points''&lt;/font&gt;
+|-
+|{{Indent}}You are abnormally tall for your species. Regardless of ST, your height falls above the highest value on the Build Table – over 7’, for a human. This gives you Size Modifier +1 and +1 to Basic Move (long legs), and qualifies you to buy ST and HP at a discount. Choose your weight from the last line of the Build Table and increase it by 10%.
+
+{{Indent}}You get -2 to Disguise – or to Shadowing, if you are trying to follow someone in a crowd. On the other hand, height often provides a bonus to Intimidation skill (see p. 202). In backward settings, the GM may require you to take a Social Stigma if you suffer from Gigantism.
+
+{{Indent}}A member of any race may be a giant. Scale your height up by a factor of 1.25 from the racial average, and modify racial SM by +1. Otherwise, the rules remain the same.
+|}

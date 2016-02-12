@@ -1,0 +1,12 @@
+Modifier: Costs Fatigue
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COSTS FATIGUE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your ability costs FP to use. This is worth -5% per FP per use. What constitutes a &quot;use&quot; depends on the underlying trait.
+
+{{Indent}}For abilities that produce instantaneous effects (e.g., Innate Attack), you must pay this FP cost every time you trigger the ability.
+
+{{Indent}}For advantages that produce continuing effects (e.g., Flight), you must pay this FP cost to activate the ability for one minute. However, once you have paid this initial cost, you need only pay half as many FP (round up) per minute to keep the ability active. If an advantage that produces continuing effects only lasts one second, and you must pay the cost to maintain it every second, this doubles the value of the limitation to -10% per FP.
+|}

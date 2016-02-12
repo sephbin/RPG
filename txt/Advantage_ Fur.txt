@@ -1,0 +1,9 @@
+Advantage: Fur
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FUR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''1 point''&lt;/font&gt;
+|-
+|{{Indent}}You have fur. This prevents sunburn. Thicker fur might justify 1-3 levels each of Damage Resistance (p. 46) and Temperature Tolerance (p. 93), while spiky “fur” might grant Spines (p. 88). You must buy these other traits separately.
+|}
+[[Category: Perks]]

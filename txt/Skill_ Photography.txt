@@ -1,0 +1,14 @@
+Skill: Photography
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHOTOGRAPHY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Electronics Operation (Media)-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use a camera competently, use a darkroom (TL5+) or digital imaging software (TL8+), etc., and to produce recognizable and attractive photos. You may roll at default to use a camera, but not to develop film or prints in a darkroom
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -3 for an unfamiliar camera; -3 for a motion-picture camera.&lt;/i&gt;&lt;/font&gt;
+|}

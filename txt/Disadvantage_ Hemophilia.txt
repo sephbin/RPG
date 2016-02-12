@@ -1,0 +1,12 @@
+Disadvantage: Hemophilia
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HEMOPHILIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-30 points''&lt;/font&gt;
+|-
+|{{Indent}}You are a &quot;bleeder.&quot; Even a small wound will not heal unless well-bandaged - and you may bleed to death. Any untreated wound bleeds at a rate equal to its original damage every minute. For instance, an untreated 3 HP wound bleeds for 3 HP of damage per minute until stanched.
+
+{{Indent}}First Aid is enough to staunch most wounds, but an impaling wound to the torso causes slow internal bleeding. It does damage every minute, as above, until you receive First Aid. Furthermore, it continues to do damage equal to its original damage once per day until properly treated. Only a Surgery roll or supernatural healing can stop internal bleeding or restore HP lost to it. If proper treatment is not available, you will soon die.
+
+{{Indent}}If you suffer from this disadvantage, your HT score may not exceed 10.
+|}

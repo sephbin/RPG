@@ -1,0 +1,20 @@
+Skill: Symbol Drawing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SYMBOL DRAWING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the art of scribing magical symbols. Depending on your magical tradition, you might carve these symbols with a ritual dagger, draw them on the ground or an altar using blood or ceremonial powders, write them in ink, trace them in the air with a wand or your fingers, or something else. You must specialize in a particular magical tradition
+
+{{Indent}}In traditions where magical power flows from the caster, nature, spirits, etc. as opposed to the symbols themselves, the symbols provide a focus that aids magic use. Roll against Symbol Drawing before each ritual. On a success, add half your margin of success (round down) to your skill with the next ritual you conduct over the symbols. This kind of Symbol Drawing defaults to Ritual Magic (same)-4. For instance, Symbol Drawing (Voodoo) defaults to Ritual Magic (Voodoo)-4, and lets you draw the vevers used in Voodoo ritual
+
+{{Indent}}In traditions where the symbols themselves imbue items or places (or even people, in the case of tattoos) with magic, the magic is only as good as the symbols. Roll against the lower of Symbol Drawing and your skill with the enchantment itself. This is most common in rune magic. Each runic alphabet is a separate Symbol Drawing skill with no default. For instance, Symbol Drawing (Futhark Runes) would let you scribe the runes used in Norse magic
+
+{{Indent}}More-exotic traditions may have their own rules; see the appropriate worldbook for more information
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -1 or more if using nontraditional means to mark the symbols; -1 or more if placing the symbols on any surface other than those prescribed by your tradition.&lt;/i&gt;&lt;/font&gt;
+|}

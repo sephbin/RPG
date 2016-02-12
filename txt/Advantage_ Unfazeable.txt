@@ -1,0 +1,14 @@
+Advantage: Unfazeable
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNFAZEABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}Nothing surprises you - at least, nothing that's not obviously a threat. The world is full of strange things, and as long as they don't bother you, you don't bother them.
+
+{{Indent}}You are exempt from Fright Checks, and reaction modifiers rarely affect you either way. You treat strangers with distant courtesy, no matter how strange they are, as long as they're well-behaved. You have the normal reaction penalty toward anyone who does something rude or rowdy, but you remain civil even if forced to violence. Intimidation (p. 202) just does not work on you.
+
+{{Indent}}You are not emotionless - you just never display strong feelings. The stereotypical aged kung fu master or English butler has this trait.
+
+{{Indent}}You must roleplay this advantage fully, or the GM can declare that it has been lost. In a campaign where Fright Checks are an hourly occurrence, the GM can charge 20 points - or more! - or disallow Unfazeable altogether. This advantage is incompatible with all Phobias.
+|}

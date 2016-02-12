@@ -1,0 +1,16 @@
+Skill: Throwing Art
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''THROWING ART'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master.&lt;/font&gt;
+|-
+|{{Indent}}This is the cinematic ability to throw anything you are strong enough to lift: knives, medicine balls, televisions . . . anything! Roll against skill to hit. Furthermore, if you know Throwing Art at DX level, add +1 to ST when figuring throwing distance, and +1 per die of damage with thrown weapons. These bonuses increase to +2 if you know Throwing Art at DX+1 or better. If you are a Weapon Master, this bonus is instead of the usual damage bonus for your weapon
+
+{{Indent}}You can use the items you throw as improvised weapons. Treat forks, kitchen knives, and other long, sharp objects as daggers. Any small, blunt object does thrust+1 crushing damage. Baseball bats do swing+1 crushing. Pencils do thrust-3 impaling. Playing cards do thrust-3 cutting
+
+{{Indent}}Throwing Art lets you throw anything covered by the Throwing and Thrown Weapon skills. If you have Throwing Art, you do not need those skills
+|}

@@ -1,0 +1,12 @@
+Disadvantage: Dyslexia
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DYSLEXIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a crippling reading disability. Even simple maps and road signs are beyond you. You start with a written comprehension level of &quot;None&quot; in your native language. This is included in Dyslexia; you get no extra points for it. Furthermore, you may never improve your written comprehension level beyond &quot;None&quot; in any language. For more on language comprehension, see Language (p. 23).
+
+{{Indent}}You can learn &quot;book-learned&quot; skills at normal speed if you have a teacher to substitute for your inability to use texts. Attempts to learn such a skill without a teacher progress at 1/4 speed - if the skill is one you can teach yourself without books. The GM's word is final in all cases. In traditional fantasy settings, magic is a booklearned skill, and Dyslexia prevents you from ever becoming a wizard.
+
+{{Indent}}Note that this is a severe case. Mild dyslexia is not significant in game terms, except possibly as a quirk.
+|}

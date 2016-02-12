@@ -1,0 +1,12 @@
+Advantage: Speak With Plants
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPEAK WITH PLANTS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You can communicate empathically with plants. All earthly plants are IQ 0, but a large tree might be &quot;wiser&quot; than the average ivy, at the GM's whim. A plant might know how recently it was watered or walked on, or something else that directly bears on its well-being, but would be unable to relate an overheard phone conversation. Any normal plant will always cooperate, within the limits of its ability.
+
+{{Indent}}Sapience: The plants you converse with function as if they had your IQ, as described for the enhancement of the same name under Speak With Animals (above). +40%.
+
+{{Indent}}Specialized: You can only communicate with certain plants. &quot;All terrestrial plants&quot; (including all trees, bushes, and herbs) and &quot;All aquatic plants&quot; (including algae, kelp, and seaweed) are -40%; a large subset of either (e.g., &quot;Trees&quot; or &quot;Herbs&quot;), -50%; a smaller subset (e.g., &quot;Evergreens&quot; or &quot;Medicinal Herbs&quot;), -60%.
+|}

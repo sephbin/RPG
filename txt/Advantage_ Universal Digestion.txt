@@ -1,0 +1,10 @@
+Advantage: Universal Digestion
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNIVERSAL DIGESTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have remarkably adaptable digestive processes that let you derive nutrition from any nontoxic animal or plant protein, no matter how alien or fantastic. This enables you to subsist on things that would normally be harmless but non-nutritious. You have no special resistance to poison, though; for that, buy Resistant (p. 80).
+
+{{Indent}}Matter Eater: You can eat anything (organic or inorganic), even if it's corrosive, toxic, or radioactive. Your body instantly disintegrates it or converts it to something harmless - you could even &quot;digest&quot; a live grenade to prevent it from detonating! Only your digestive system is safe from harm, though. Without protective advantages, it can be tricky to get nasty stuff like nerve agents and plutonium to your mouth without touching it with your hands, breathing it, or being irradiated. You can't eat antimatter. +300%.
+|}

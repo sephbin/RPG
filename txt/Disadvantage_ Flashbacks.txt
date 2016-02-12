@@ -1,0 +1,18 @@
+Disadvantage: Flashbacks
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FLASHBACKS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You tend to experience &quot;flashbacks&quot; when under stress. These are vivid hallucinations, full-participation replays of memories, or similar phenomena. You should choose the type of flashback you experience when you take this disadvantage. The content of each episode is up to the GM.
+
+{{Indent}}In any situation that the GM feels is stressful, he will roll 3d. On a 6 or less, you have a flashback. The GM will roll whenever you miss a Fright Check or make the roll exactly, and whenever you fail a self-control roll for another stress-related disadvantage. The flashback occurs in addition to any other results!
+
+{{Indent}}Point value depends on the severity of the flashback:
+
+{{Indent}}Mild: Duration is 2d seconds. The attendant hallucinations give -2 on all skill rolls, but they are minor - you realize that you are experiencing a flashback. -5 points.
+
+{{Indent}}Severe: Duration is 1d minutes. The hallucinations give -5 on all skill rolls, and seem real. -10 points.
+
+{{Indent}}Crippling: Duration is 3d minutes. The hallucinations are so severe that they preclude all skill use. The flashback seems completely, 100% real, and can be potentially fatal, as you are receiving no input from the real world. -20 points.
+|}

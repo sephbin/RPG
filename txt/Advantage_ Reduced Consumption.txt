@@ -1,0 +1,24 @@
+Advantage: Reduced Consumption
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REDUCED CONSUMPTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can go for a long time without food and water, or fuel - although you still require these things. (For indefinite endurance, see Doesn't Eat or Drink, p. 50.) This advantage comes in four levels:
+
+{{Indent}}Reduced Consumption 1: You require 2/3 as much food and water, or fuel, as usual (&quot;two meals a day&quot;). 2 points.
+
+{{Indent}}Reduced Consumption 2: You require 1/3 as much food and water, or fuel, as usual (&quot;one meal a day&quot;). 4 points.
+
+{{Indent}}Reduced Consumption 3: You require food and water only once per week (&quot;one meal a week,&quot; or about 5% as much). 6 points.
+
+{{Indent}}Reduced Consumption 4: You require food and water only once per month (&quot;one meal a month,&quot; or about 1% as much). 8 points.
+
+{{Indent}}Note that one or even two levels of this advantage might be appropriate for ascetics in cinematic games!
+
+{{Indent}}Cast-Iron Stomach: You require the standard amount of food and water, but the quality is irrelevant. You can eat rotten vegetables and fuzzy bluegreen meat, and drink dishwater and sour milk. Instead of reducing how often you must eat, reduce your demands on life support (and your food costs) by a like amount: to 2/3 normal at level 1, 1/3 normal at level 2, 5% normal at level 3, and 1% normal at level 4. You get a bonus equal to your level (+1 to +4) to resist the effects of food-borne poisons or diseases not tailored expressly for you, but -3 on reactions from anyone watching you eat! -50%.
+
+{{Indent}}Food Only: You require less food, but the usual amount of water. -50%.
+
+{{Indent}}Water Only: You require less water, but the usual amount of food. -50%.
+|}

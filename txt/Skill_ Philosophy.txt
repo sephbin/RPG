@@ -1,0 +1,14 @@
+Skill: Philosophy
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHILOSOPHY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of a system of principles to live by. You must specialize in a particular school of philosophy; e.g., Confucianism, Marxism, or Stoicism. (If you study a religious philosophy, buy Theology skill, p. 226.) When confronted with someone who subscribes to this philosophy, a successful Philosophy roll might provide insights into his behavior
+
+{{Indent}}You do not necessarily believe in the ideals of the philosophy you study. If you do, you may ask the GM to make a secret roll against your Philosophy skill when you are faced with a moral dilemma. On a success, the GM will &quot;enlighten&quot; you and provide a hint as to which course of action &quot;feels&quot; right given your beliefs
+|}

@@ -1,0 +1,25 @@
+Advantage: Gizmos
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GIZMOS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/gizmo''&lt;/font&gt;
+|-
+|{{Indent}}You always seem to have just the piece of gear you need. Once per game session per level of this advantage, you may pull out one small item of equipment that you could have been carrying. This &quot;Gizmo&quot; remains undefined until you reveal it. It does not even &quot;enter play&quot; until you take it out; thus, it cannot be damaged, lost, stolen, or found in a search.
+
+{{Indent}}A Gizmo must be small enough to fit in an ordinary coat pocket, and must meet one of three criteria:
+
+{{Indent}}1. An item you own but did not specifically state you were carrying. For instance, if you own a handgun, and get ambushed while driving to church, you could pull out your pistol - even if the police searched your vehicle five minutes ago and found no weapons! 
+
+{{Indent}}2. An item that you probably own, and that is in keeping with your character concept, but that is minor or ignorable enough to leave unspecified. For instance, a policeman might happen to be carrying a spare handcuff key, while a wizard might have some eye of newt. The GM has the final say, but should be lenient if the item you wish to have is consistent with your character story.
+
+{{Indent}}3. An inexpensive device widely available at your tech level. For instance, if you need to light the fuse on some dynamite, you could pull out a box of matches - and they would work, even if you just took an involuntary swim in the creek.
+
+{{Indent}}Each Gizmo you can use per game session (maximum of three) costs 5 points. Note that this ability is not realistic! The GM may wish to limit it further, or forbid it, in a realistic campaign.
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Gadgeteers and Gizmos'''&lt;/font&gt;
+
+{{Indent}}Those with the Gadgeteer advantage (p. 56) have more latitude. In addition to the usual items available, a Gadgeteer may specify that his Gizmo is one of his inventions (which must still be small). Instead of pulling an existing gadget &quot;out of his pocket,&quot; a Gadgeteer can use his Gizmo to let him build what he needs on the spot.
+|}

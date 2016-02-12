@@ -1,0 +1,8 @@
+Disadvantage: Weak Bite
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WEAK BITE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 points''&lt;/font&gt;
+|-
+|{{Indent}}Your jaw is not structured to make full use of your strength while biting. Calculate biting damage normally, then apply an extra -2 per die. This trait is common for large herbivores (e.g., horses), uncommon for small herbivores and omnivores, and very rare for carnivores.
+|}

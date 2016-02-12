@@ -1,0 +1,12 @@
+Skill: Packing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PACKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Animal Handling (Equines)-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to get loads on and off of pack animals quickly and efficiently. It also lets you get the best performance from pack animals on the road, judge such beasts before purchase, and select the best route for a pack train. If the beasts are ornery or badly trained (GM's judgment), you must make a successful Animal Handling roll before you can attempt a Packing roll. A caravan without at least one master packer (Packing at 15+) moves at 80% its normal speed
+|}

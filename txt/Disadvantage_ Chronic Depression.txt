@@ -1,0 +1,14 @@
+Disadvantage: Chronic Depression
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CHRONIC DEPRESSION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You've lost your will to live. You'd commit suicide, but it seems like so much trouble. Make a self-control roll to do anything but acquire and consume the minimum necessities for survival (for instance, to motivate yourself to go to a movie, attend a job interview, or keep a date), or whenever you must choose between two or more actions. If you fail, you take the path of least resistance. This usually means staying put and doing nothing.
+
+{{Indent}}If your self-control number is sufficiently low, you will find it almost impossible to do anything at all for yourself, unless someone physically drags you out of your lair. If somebody shows up and demands that you go out and do something with him, make a self-control roll. If you fail, you go along with his plan out of apathy.
+
+{{Indent}}You may eventually replace this disadvantage with another one of equivalent value that is more conducive to self-esteem. The GM need only allow this evolution if you roleplay it convincingly. The GM may also require you to roleplay both disadvantages (the new one constantly, the Chronic Depression whenever the GM decides to bring it into play) during the transition period.
+
+{{Indent}}You may also acquire this disadvantage in play. If you violate a selfimposed mental disadvantage (see p. 121), or lose a Dependent, the GM may replace that disadvantage with this one.
+|}

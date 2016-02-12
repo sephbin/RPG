@@ -1,0 +1,20 @@
+Disadvantage: Vow
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''VOW'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have sworn an oath to do (or not to do) something. Whatever the oath, you take it seriously; if you didn't, it would not be a disadvantage. This trait is especially appropriate for knights, holy men, and fanatics.
+
+{{Indent}}The point value of a Vow should be directly related to the inconvenience it causes you. The GM is the final judge. Some examples:
+
+{{Indent}}Minor Vow: Silence during daylight hours; vegetarianism; chastity (yes, for game purposes, this is minor). -5 points.
+
+{{Indent}}Major Vow: Use no edged weapons; keep silence at all times; never sleep indoors; own no more than your horse can carry. -10 points.
+
+{{Indent}}Great Vow: Never refuse any request for aid; always fight with the wrong hand; hunt a given foe until you destroy him; challenge every knight you meet to combat. -15 points.
+
+{{Indent}}Note that if you could represent your Vow using another disadvantage, you only get points for one of the two disadvantages (your choice). No one may get points for Vow (Poverty) and Wealth (Dead Broke), Vow (Never kill) and Pacifism (Cannot Kill), etc.
+
+{{Indent}}Many Vows end after a specified period of time. You must buy off such a Vow when it ends. Vows for a period of less than a year are frivolous! If you want to end a Vow before its stated time, the GM may exact a penalty; for instance, in a medieval world, you might have to undertake a quest by way of penance.
+|}

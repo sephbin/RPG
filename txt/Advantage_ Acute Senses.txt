@@ -1,0 +1,20 @@
+Advantage: Acute Senses
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ACUTE SENSES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You have superior senses. Each Acute Sense is a separate advantage that gives +1 per level to all Sense rolls (p. 358) you make - or the GM makes for you - using that one sense.
+
+{{Indent}}With the GM's permission, you may also buy Acute Sense advantages for specialized senses such as Scanning Sense and Vibration Sense.
+
+{{Indent}}You cannot usually buy Acute Senses in play - raise your Perception instead. However, if you lose a sense, the GM may allow you to spend earned points on other Acute Senses to compensate. For instance, if you are blinded, you might acquire Acute Hearing.
+
+{{Indent}}Acute Hearing gives you a bonus to hear something, or to notice a sound (for instance, someone taking the safety off a gun in the dark). 2 points/level.
+
+{{Indent}}Acute Taste and Smell gives you a bonus to notice a taste or smell (for instance, poison in your drink). 2 points/level.
+
+{{Indent}}Acute Touch gives you a bonus to detect something by touch (for instance, a concealed weapon when patting down a suspect). 2 points/level.
+
+{{Indent}}Acute Vision gives you a bonus to spot things visually, and whenever you do a visual search (for instance, looking for traps or footprints). 2 points/level.
+|}

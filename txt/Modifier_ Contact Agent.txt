@@ -1,0 +1,8 @@
+Modifier: Contact Agent
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONTACT AGENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+150%''&lt;/font&gt;
+|-
+|{{Indent}}On an attack with Area Effect or Cone, this is an enhancement. See the Contact Agent limitation (p. 111) for more information.
+|}

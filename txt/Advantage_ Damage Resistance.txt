@@ -1,0 +1,58 @@
+Advantage: Damage Resistance
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DAMAGE RESISTANCE '''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Your body itself has a Damage Resistance score. Subtract this from the damage done by any physical or energy attack after the DR of artificial armor (you can normally wear armor over natural DR) but before multiplying the injury for damage type. By default, natural DR does not protect your eyes (or windows, if you are a vehicle) or help against purely mental attacks, such as telepathy.
+
+{{Indent}}Normal humans cannot purchase DR at all. Creatures with natural armor can buy DR 1 to 5. Thick skin or a pelt would be DR 1; pig hide, armadillo shell, a heavy pelt, or scales like those of a lizard would be DR 2; rhinoceros hide or a pangolin's armor plates would be DR 3; alligator scales or elephant hide would be DR 4; and a giant tortoise would have DR 5. Robots, supers, supernatural entities, etc. can purchase any amount of DR, subject to GM approval.
+
+{{Indent}}Many special modifiers are available to change the basic assumptions of this advantage.
+
+{{Indent}}&quot;&quot;&quot;Egsample&quot;&quot;&quot;
+
+{{Indent}}Active Control: Those with powers - especially elemental ones - can frequently use their gifts to divert or negate incoming energies. Such DR is typically Limited. An entire power source is &quot;Very Common&quot; (-20%), while a specific focus is &quot;Common&quot; (-40%). Many such defenses intercept attacks at a distance from the body, justifying Force Field (+20%). Supers often add Absorption (+80% or +100%) or Reflection (+100%), too. In the case of Absorption, use Extended Duration (+20%/level) to slow the rate at which absorbed points trickle away.
+
+{{Indent}}Damage Tolerance: Some creatures are huge, have redundant organs (or lack organs), or have a reinforced structure that lets them absorb a lot of punishment. To represent this, use Ablative (-80%). This effectively turns DR into Hit Points that don't result in shock, stunning, knockdown, etc. when lost, but that don't increase the damage needed to cause crippling or death.
+
+{{Indent}}Force Field: A close-fitting sheath of energy or matter projected around the body is a common supernatural and superscience defense, and calls for Force Field (+20%). Add Can't Wear Armor (-40%) if this repels anything that gets close to the body, and Temporary Disadvantage, No Fine Manipulators (-30%) if it prevents picking things up. A field that only screens against frontal attacks, like a shield, has Directional (-20%). Add Affects Others (+50%) and Area Effect (+50%/level) for a field that covers an area.
+
+{{Indent}}Natural Armor: Many natural creatures have a hardened, padded, or thickened outer layer that reduces the impact of attacks. Bone or chitin calls for unmodified DR, a thick fat layer requires Flexible (-20%), and leathery skin has Tough Skin (-40%). If this results in a pointy, irregularly shaped, or bulky body that makes clothing impossible, add Can't Wear Armor (-40%).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Absorption: You can absorb damage and use it to enhance your abilities. Each point of DR stops one point of damage and turns it into one character point that you can use to improve traits (anything but skills) temporarily. You store these points in a &quot;battery&quot; with capacity equal to DR (e.g., DR 10 gives a 10-point battery). Once this battery is full, each point of DR will still stop one point of damage, but will not convert it into a character point. You do not have to use stored points immediately, but you cannot reallocate points once used. You lose absorbed points - unused ones first - at the rate of one point per second. You lose enhanced abilities as the points drain away. (Exception: If you are missing HP or FP, you can heal yourself. Restoring one HP drains 2 stored points immediately; restoring one FP drains 3 points. Such healing is permanent. Only HP or FP in excess of your usual scores drain away.) You cannot absorb damage from your own ST or attack abilities. +80% if absorbed points can only enhance one trait (determined when you create your character) or can only heal; +100% if you can raise any trait.
+
+{{Indent}}Force Field: Your DR takes the form of a field projected a short distance from your body. This protects your entire body - including your eyes - as well as anything you are carrying, and reduces the damage from attacks before armor DR. Effects that rely on touch (such as many magic spells) only affect you if carried by an attack that does enough damage to pierce your DR. +20%.
+
+{{Indent}}Hardened: Each level of Hardened reduces the armor divisor of an attack by one step. These steps are, in order: &quot;ignores DR,&quot; 100, 10, 5, 3, 2, and 1 (no divisor). +20% per level.
+
+{{Indent}}Reflection: Your DR &quot;bounces back&quot; any damage it stops at your attacker. The remaining damage affects you normally. The attacker doesn't get an active defense against the first attack you reflect back at him, but gets his usual defenses against subsequent reflected attacks. Reflection only works vs. direct hits! It cannot reflect damage from explosions, fragments, poison gas, or anything else that affects an entire area. This enhancement is mutually exclusive with Absorption. +100%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Ablative: Your DR stops damage once. Each point of DR stops one point of basic damage but is destroyed in the process. Lost DR &quot;heals&quot; at the same rate as lost HP (including the effects of Regeneration, p. 80). Use this to represent supers who can absorb massive punishment but who lack the mass to justify a large HP score. -80%.
+
+{{Indent}}Can't Wear Armor: Your body is designed in such a way that you cannot or will not wear body armor or clothing. -40%.
+
+{{Indent}}Directional: Your DR only protects against attacks from one direction. -20% for the front (F); -40% for the back (B), right (R), left (L), top (T), or underside (U). Humanoids may only take this limitation for front and back.
+
+{{Indent}}Flexible: Your DR is not rigid. This leaves you vulnerable to blunt trauma (see p. 379). -20%.
+
+{{Indent}}Limited: Your DR applies only to certain attack forms or damage types. See Limited Defenses (box) for details. Partial: Your DR only protects a specific hit location. This is worth -10% per -1 penalty to hit that body part (see p. 398). For instance, an animal with butting horns and a thick skull might have &quot;Skull only,&quot; for -70%. &quot;Torso only&quot; is -10%, and also protects the vital organs. When you take this limitation for arms, legs, hands, or feet, the DR protects all limbs of that type. If it only protects one limb, the limitation value doubles (e.g., arms are -2 to hit, so a single arm would be -40%). If you have arms, legs, etc. with different penalties, use the least severe penalty to calculate limitation value. Semi-Ablative: When an attack strikes semi-ablative DR, every 10 points of basic damage rolled removes one point of DR, regardless of whether the attack penetrates DR. Lost DR &quot;heals&quot; as for Ablative (and you cannot combine the two). -20%.
+
+{{Indent}}Tough Skin: By default, Damage Resistance is &quot;hard&quot;: armor plate, chitin, etc. With this limitation, your DR is merely tough skin. Any effect that requires a scratch (e.g., poison) or skin contact (e.g., electrical shock or Pressure Points skill) affects you if the attack carrying it penetrates the DR of any armor you are wearing - even if it does exactly 0 damage! Your natural DR, being living tissue, provides no protection at all against such attacks. This limitation includes all the effects of the Flexible limitation (see above); you cannot take both. It is mutually incompatible with Force Field. -40%. &quot;Layered&quot; Defenses You may have multiple &quot;layers&quot; of DR with different combinations of modifiers. You must specify the order of the layers - from outermost to innermost - when you create your character. You may not change this order once set.
+
+{{Indent}}Partial: Your DR only protects a specific hit location. This is worth -10% per -1 penalty to hit that body part (see p. 398). For instance, an animal with butting horns and a thick skull might have &quot;Skull only,&quot; for -70%. &quot;Torso only&quot; is -10%, and also protects the vital organs. When you take this limitation for arms, legs, hands, or feet, the DR protects all limbs of that type. If it only protects one limb, the limitation value doubles (e.g., arms are -2 to hit, so a single arm would be -40%). If you have arms, legs, etc. with different penalties, use the least severe penalty to calculate limitation value.
+
+{{Indent}}Semi-Ablative: When an attack strikes semi-ablative DR, every 10 points of basic damage rolled removes one point of DR, regardless of whether the attack penetrates DR. Lost DR &quot;heals&quot; as for Ablative (and you cannot combine the two). -20%.
+
+{{Indent}}Tough Skin: By default, Damage Resistance is &quot;hard&quot;: armor plate, chitin, etc. With this limitation, your DR is merely tough skin. Any effect that requires a scratch (e.g., poison) or skin contact (e.g., electrical shock or Pressure Points skill) affects you if the attack carrying it penetrates the DR of any armor you are wearing - even if it does exactly 0 damage! Your natural DR, being living tissue, provides no protection at all against such attacks. This limitation includes all the effects of the Flexible limitation (see above); you cannot take both. It is mutually incompatible with Force Field. -40%. &quot;Layered&quot; Defenses You may have multiple &quot;layers&quot; of DR with different combinations of modifiers. You must specify the order of the layers - from outermost to innermost - when you create your character. You may not change this order once set.
+|}

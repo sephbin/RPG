@@ -1,0 +1,10 @@
+Advantage: Silence
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SILENCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can move and breathe noiselessly. You get +2 per level to Stealth skill when you are perfectly motionless, or +1 if moving (even in armor, etc.). These bonuses help only in the dark, or against listening devices, blind creatures, and others who must rely on hearing to find you.
+
+{{Indent}}Dynamic: Your ability actively cancels out the sounds you make when you move, or helps them blend in with ambient noise. You enjoy your full Stealth bonus (+2 per level) when moving. +40%.
+|}

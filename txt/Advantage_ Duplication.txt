@@ -1,0 +1,34 @@
+Advantage: Duplication
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DUPLICATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''35 points/copy''&lt;/font&gt;
+|-
+|{{Indent}}You can split into two or more bodies (&quot;Dupes&quot;), each possessing your full knowledge and powers (but not copies of your equipment, unless you buy a special enhancement). It takes one second and a Concentrate maneuver to separate or merge. When your Dupes merge, your FP and HP are the average of all your copies' FP and HP at that time. Your combined self remembers everything experienced by any Dupe.
+
+{{Indent}}Dupes have no special ability to coordinate with one another. For that, buy Telesend (see Telecommunication, p. 91). If your Telesend works only with your Dupes, you may take the Racial limitation. You may combine Telesend with a Mindlink (p. 70) with your Dupes, in which case you are in constant telepathic contact - no die rolls required.
+
+{{Indent}}If one of your Dupes dies, all the others immediately take 2d damage and are stunned. This is mental stun if you define Duplication as a mental trait, physical stun if you define it as a physical trait. The IQ or HT roll to recover is at -6. You also lose the points you spent for that Dupe. The GM may allow you to buy back a dead Dupe with unspent points. Alternatively, an Extra Life (p. 55) will let you bring back any one dead Dupe. Your point value drops by the price of the Extra Life, but this is cheaper than buying back a Dupe.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Duplicated Gear: Your Dupes appear with copies of Signature Gear (p. 85) that you are carrying or wearing. Duplicated equipment vanishes when you merge, even if it becomes separated from you. Treat your equipment's HP, ammunition, energy supply, etc. just like your own HP and FP when you merge. +100%.
+
+{{Indent}}No Sympathetic Injury: If one of your Dupes is killed, the others are not stunned or hurt. +20%.
+
+{{Indent}}Construct: Your Dupes are material projections under your mental control. When you dispel them, they vanish, leaving you with your current - not average - FP and HP. You also enjoy all the benefits of No Sympathetic Injury (don't buy it separately). Finally, the death of a Dupe isn't permanent: by taking a Concentrate maneuver and spending 10 FP, you can generate a replacement. But there's only one &quot;true you,&quot; and if you die, all your Dupes die with you! This is incompatible with Digital and Shared Resources. +60%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Digital: Your Dupes are software copies of your mind, not physical copies of your body. They can possess other computers or occupy spare Puppets (p. 78). You may only take this limitation if you have both Digital Mind (p. 48) and Possession (Digital) (p. 75). -60%.
+
+{{Indent}}Shared Resources: Your Dupes do not share your full FP and HP; instead, you must distribute your FP and HP among them. For instance, if you had 15 HP and one Dupe, you could split your HP 7 and 8, 2 and 13, or in any other combination that totaled 15. You need not distribute FP and HP proportionally; with 15 HP and 15 FP, you could give one copy 3 FP and 9 HP and the other 12 FP and 6 HP. When your bodies re-combine, add their FP and HP instead of averaging. -40%.
+
+{{Indent}}Sequential: You and your Dupes are chained together in a specific order. Number them from 1 (the original you) on up. When a Dupe dies, all higher-numbered Dupes vanish, too. This lets you create a character who can summon copies of himself from one possible future, with &quot;later&quot; copies dependent on the survival of &quot;earlier&quot; ones. Add Construct (above) if you can replace dead Dupes with copies from other possible futures. -40%.
+|}

@@ -1,0 +1,22 @@
+Disadvantage: Delusions
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DELUSIONS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You believe something that simply is not true. This may cause others to consider you insane. And they may be right! If you suffer from a Delusion, you must roleplay your belief at all times. The point value of the Delusion depends on its nature:
+
+{{Indent}}Minor: This Delusion affects your behavior, and anyone around you will soon notice it, but it does not keep you from functioning more-or-less normally. Those who notice your Delusion will react at -1. Examples: &quot;Squirrels are messengers from God.&quot; &quot;The Illuminati are watching me constantly - but only to protect me.&quot; &quot;I am the rightful Duke of Fnordia, stolen at birth by Gypsies and doomed to live among commoners.&quot; -5 points.
+
+{{Indent}}Major: This Delusion strongly affects your behavior, but does not keep you from living a fairly normal life. Others will react at -2. Examples: &quot;The government has all phones tapped.&quot; &quot;I have Eidetic Memory and Absolute Direction.&quot; -10 points.
+
+{{Indent}}Severe: This Delusion affects your behavior so much that it may keep you from functioning in the everyday world. Others react to you at -3, but they are more likely to fear or pity you than to attack. A Delusion this severe can keep you from participating meaningfully in the campaign; therefore, you should always clear it with the GM first. Examples: &quot;I am Napoleon.&quot; &quot;I am immortal.&quot; &quot;Ice cream makes machines work better, especially computers. Spoon it right in.&quot; -15 points.
+
+{{Indent}}Depending on your behavior, the same Delusion could be a quirk (-1 point) or worth -5, -10, or -15 points. Consider &quot;Everything colored purple is alive.&quot; If you pat purple things and say hello, that's a quirk. If you won't discuss serious matters with purple things in the room, it's a Minor Delusion. If you picket the Capitol demanding Civil Rights For Purple Things, that's Major. If you attack purple things on sight, that's Severe!
+
+{{Indent}}Regardless of how insane you really are, you may not get more than -40 points, total, from Delusions.
+
+{{Indent}}A GM who wants to shake up his players can have a Delusion turn out to be true. This does not suit all Delusions. Of those listed above, for instance, the ones about squirrels, ice cream, and Napoleon seem unlikely. But the Illuminati might really exist, or Gypsies might really have stolen the heir to the throne of Fnordia . . . Have fun!
+
+{{Indent}}If your Delusion turns out to be true, you don't have to buy it off until the other players realize it's true. (And remember: the GM won't tell you that you are not really crazy. You can be right and still be crazy . . .)
+|}

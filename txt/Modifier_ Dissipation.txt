@@ -1,0 +1,8 @@
+Modifier: Dissipation
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DISSIPATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-0.5''&lt;/font&gt;
+|-
+|{{Indent}}You may only take this limitation in conjunction with Area Effect (p. 102) or Cone (p. 103). The further the victim is from the center of the area or the apex of the cone, the less effective your attack is. See Area and Spreading Attacks (p. 413) for details.
+|}

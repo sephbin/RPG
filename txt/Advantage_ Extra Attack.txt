@@ -1,0 +1,30 @@
+Advantage: Extra Attack
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXTRA ATTACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''25 points/attack''&lt;/font&gt;
+|-
+|{{Indent}}You can attack more than once per turn. The &quot;default&quot; assumption in GURPS is that you can make one attack per turn, no matter how many limbs you have. Each Extra Attack allows one additional attack per turn. You may not have more attacks than you have limbs (arms, legs, etc.), natural weapons (Strikers, Teeth, etc.), and attack powers (Afflictions, Bindings, and Innate Attacks) with which to attack. The GM's word on what constitutes an &quot;attack&quot; is final.
+
+{{Indent}}A normal human can purchase one Extra Attack. This lets him attack with both hands at once, and represents unusually good coordination. Supers and nonhumans have no such limitation. A super-powered cop could buy two Extra Attacks, enabling him to shoot rays from his eyes, fire his pistol, and swing his nightstick all at once. A dragon might take four Extra Attacks and attack five times with any combination of his four clawed limbs, teeth, horns, tail, and fiery breath!
+
+{{Indent}}Extra Attack is exactly that: an extra Attack maneuver on your turn in combat. It does not eliminate the -4 penalty for an &quot;off&quot; hand (see Ambidexterity, p. 39) or let you take multiple Aim maneuvers (see Enhanced Tracking, p. 53). You may use some of your attacks for Feint maneuvers, but you many not take multiple actions of other kinds - that requires Altered Time Rate (p. 38).
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Extra Attacks and All-Out Attack'''&lt;/font&gt;
+
+{{Indent}}When an individual with Extra Attacks makes an All-Out Attack, he must select one type of bonus for all his attacks that turn. He could not, for instance, take All-Out Attack (Determined) with one attack and All- Out Attack (Strong) with another. If he chooses All-Out Attack (Double) to increase his number of attacks, he gets one additional attack.
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Extra Attacks and Rapid Strike'''&lt;/font&gt;
+
+{{Indent}}You may use one of your melee attacks to make a Rapid Strike (see p. 370) on your turn, at the usual penalty. Your remaining attacks are in addition to this Rapid Strike, and receive no penalty. You may not use Rapid Strike with two or more attacks in one turn.
+
+{{Indent}}Multi-Strike: You can strike more than once with the same weapon or body part. This means you can launch more attacks than you have limbs, natural weapons, and attack abilities. You can use your best attack multiple times. +20%.
+
+{{Indent}}Single Skill: Your Extra Attacks apply only to a particular combat skill. For instance, Extra Attack 2 (Single Skill, Karate) lets you attack three times - but at least two of the attacks must be with the Karate skill. To attack more than once using a weapon skill, you need either one weapon per attack or the Multi- Strike enhancement. -20%.
+|}

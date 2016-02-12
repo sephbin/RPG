@@ -1,0 +1,12 @@
+Disadvantage: Wounded
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WOUNDED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an open wound that will not completely heal, for whatever reason (botched surgery, backfired healing spell, etc.). You are not missing any HP, but your wound serves as a path for infection and toxins, and may complicate new injuries.
+
+{{Indent}}A foe who knows about your wound may deliberately target it, at -7 to hit. Such attacks have a wounding multiplier of 1.5 (that is, you take 50% more damage). Blood agents that reach your wound affect you as if carried on a weapon that broke your skin. You must carefully dress your wound each day (requires a First Aid or Physician roll) or get -3 to all HT rolls to resist infection in a plague-ridden area.
+
+{{Indent}}At the GM's option, you may acquire a wound like this in play due to torture, scalping, etc. Certain wounds have other effects; for instance, scalping would cost you a level of appearance.
+|}

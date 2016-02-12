@@ -1,0 +1,16 @@
+Skill: Body Language
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BODY LANGUAGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Detect Lies-4 or Psychology-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to interpret a person's facial expressions and body posture in order to gauge his feelings. You can use it like the Empathy advantage (p. 51) or Detect Lies skill (p. 187), but only on a subject you can see. You can also use it to get a rough idea of what a party member is doing or about to do in a situation where he cannot communicate with you directly (for instance, when using Stealth). You can only observe one subject at a time
+
+{{Indent}}The ability to read body language in combat is a standard part of any Melee Weapon or unarmed combat skill; see Feint (p. 365)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: All Vision modifiers; physiology modifiers (see box); +4 if your subject is Easy to Read (p. 134). Anything that makes the subject harder to &quot;read&quot; gives a penalty: baggy clothing gives -1, a shield or a voluminous cloak gives from -2 to -4, and a mask gives -5 (and makes it impossible to use this skill if you cannot see the rest of the body!).&lt;/i&gt;&lt;/font&gt;
+|}

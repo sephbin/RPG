@@ -1,0 +1,10 @@
+Disadvantage: Timesickness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TIMESICKNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}Time travel, dimension travel, and teleportation make you ill. You cannot have psionic talents, magic spells, or technological skills that have to do with this kind of travel, nor can you learn the Body Sense skill. You must make a HT roll whenever you journey through time or across dimensions, and whenever you teleport. On a failure, you are effectively stunned for 1d hours (doubled on a critical failure!). On a success, you are only stunned for 1dx10 minutes.
+
+{{Indent}}Timesickness is only allowed if dimension travel, teleportation, or time travel occur regularly in the campaign. The GM may wish to permit a variation on this trait in settings with faster-than-light hyperdrives (&quot;Hypersickness&quot;) or jump drives (&quot;Jump Sickness&quot;).
+|}

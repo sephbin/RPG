@@ -1,0 +1,8 @@
+Disadvantage: Greed
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GREED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You lust for wealth. Make a selfcontrol roll any time riches are offered - as payment for fair work, gains from adventure, spoils of crime, or just bait. If you fail, you do whatever it takes to get the payoff. The GM may modify this roll if the money involved is small relative to your own wealth. Small sums do not tempt you much if you are rich, but if you are poor, you get -5 or more on your self-control roll if a rich prize is in the offing. If you have Honesty (p. 138), your self-control roll is at +5 for a shady deal and +10 for outright crime. However, it is almost a foregone conclusion that you will eventually do something illegal.
+|}

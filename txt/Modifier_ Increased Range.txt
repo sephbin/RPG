@@ -1,0 +1,28 @@
+Modifier: Increased Range
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INCREASED RANGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+10%/level''&lt;/font&gt;
+|-
+|{{Indent}}You may add this enhancement to any advantage that has a range; e.g., Innate Attack or Scanning Sense. Each level increases range as follows:
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Range Multiple||Modifier
+|-
+|2x||+10%
+|-
+|5x||+20%
+|-
+|10x||+30%
+|-
+|20x||+40%
+|-
+|50x||+50%
+|-
+|100x||+60%
+|}
+
+{{Indent}}Further levels follow the same &quot;2-5- 10&quot; progression.
+
+{{Indent}}If applied to a ranged attack, each level increases 1/2D and Max. You may increase 1/2D or Max individually at half cost (that is, &quot;Increased 1/2D&quot; and &quot;Increased Max&quot; are +5%/level). However, you cannot increase 1/2D past Max. At most, you can make 1/2D equal to Max - this means the attack has no 1/2D range. For attacks that already have no 1/2D range, you can increase Max for +5%/level.
+|}

@@ -1,0 +1,18 @@
+Disadvantage: Draining
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DRAINING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Once per day, at a specific time - sunrise, noon, sunset, midnight, etc. - you take 2 HP of damage. You can do nothing to prevent this, and cannot heal the damage naturally (even if you have Regeneration!), technologically, or supernaturally. The only way to regain your lost HP is to receive a daily dose of a particular substance. Point cost depends on the rarity of this substance:
+
+{{Indent}}Rare (e.g., a special potion): -15 points.
+
+{{Indent}}Occasional (e.g., virgin's blood): -10 points.
+
+{{Indent}}Common (e.g., human blood): -5 points.
+
+{{Indent}}Add -5 points to these values for items that are illegal in your game world.
+
+{{Indent}}This is not the same as Dependency (p. 130). You can have both!
+|}

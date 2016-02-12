@@ -1,0 +1,60 @@
+Disadvantage: Dependents
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DEPENDENTS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}A &quot;Dependent&quot; is an NPC for whom you are responsible; e.g., your child, kid brother, or spouse. You must take care of your Dependents. Furthermore, your foes can strike at you through them. (If you have both an Enemy and a Dependent, and the dice indicate that both appear, then the GM can build an entire adventure around this theme!)
+
+{{Indent}}If your Dependent ends up kidnapped or otherwise in danger during play, you must go to the rescue as soon as possible. If you don't go to his aid immediately, the GM can deny you bonus character points for &quot;acting out of character.&quot; Furthermore, you never earn any character points for a game session in which your Dependent is killed or badly hurt.
+
+{{Indent}}Three factors determine the disadvantage value of a Dependent: his competence, his importance (to you!), and his frequency of appearance.
+
+{{Indent}}Competence
+
+{{Indent}}Specify the number of points your Dependent is built on. The more points you use to &quot;build&quot; your Dependent, the more competent he will be, and the fewer points he will be worth as a disadvantage. &quot;Point Total&quot; is the Dependent's point total as a fraction of the PC's, except for the last line, which is absolute; &quot;Cost&quot; is the number of character points the disadvantage is worth.
+
+{{Indent}}[[pic]]
+
+{{Indent}}The same person can be both a Dependent and an Ally (p. 36)! Add the cost of Ally and Dependent together, and treat the combination as a single trait: an advantage if the total point cost is positive, a disadvantage if it is negative. You must use the same point total for him in both cases, but frequency of appearance can differ. Roll separately for his appearance as a Dependent and as an Ally. If he appears as a Dependent, he shows up in a way that causes you trouble (e.g., he's captured). If he appears as an Ally, he manages to be helpful and take care of himself. If he appears as both, he is helpful and troublesome at the same time; for instance, he uses his skills to assist you, but also wanders off, is singled out by the enemy, or otherwise causes problems equal to the assistance he offers.
+
+{{Indent}}Importance
+
+{{Indent}}The more important your Dependent is to you, the more you multiply his intrinsic &quot;nuisance value&quot; and worth in points.
+
+{{Indent}}Employer or acquaintance: You feel a responsibility toward this person, but you may weigh risks to him in a rational fashion. x1/2.
+
+{{Indent}}Friend: You must always try to protect this person. You may only risk harm to him if something very important (such as the safety of many other people) is at stake. x1.
+
+{{Indent}}Loved one: The Dependent is a relative or a lover. You may not put anything before his safety! x2.
+
+{{Indent}}Frequency of Appearance
+
+{{Indent}}Choose a frequency of appearance, as explained under Frequency of Appearance (p. 36). This should fit the &quot;story&quot; behind the Dependent. If the Dependent were your infant child, for instance, it would be odd for him to appear &quot;quite rarely&quot;!
+
+{{Indent}}Multiple Dependents
+
+{{Indent}}You cannot earn points for more than two Dependents. However, if you have a group of Dependents, you may count the entire group as your two Dependents. Work out the value of an average member of the group as a Dependent, and then claim twice this point value.
+
+{{Indent}}Example: A vigilante who is a schoolteacher by day could have &quot;generic dependents&quot;: all pupils. They are young (-10 points), around &quot;quite often&quot; (x2), and count as &quot;friends&quot; (x1), for -20 points each. However, the two- Dependent limit lets the hero claim -40 points' worth of Dependents. (And if one gets hurt, there are always others.)
+
+{{Indent}}Dependents in Play
+
+{{Indent}}As you earn points, the GM will scale your Dependent's abilities proportionally to keep his point total a fixed percentage of your own. Thus, his value as a disadvantage will not change. Children grow up, adults earn money, and everyone learns new skills. Dependents who spend a lot of time around you might become adventurers in their own right. You are free to suggest reasonable improvements for your Dependents, but the GM's word is final.
+
+{{Indent}}If your Dependent is killed, or so seriously injured that the GM decides he is effectively out of the campaign, you must make up the bonus points you got for him. You have three options: buy off the amount by spending earned character points, take a new disadvantage (e.g., Chronic Depression, p. 126), or get a new Dependent. New Dependents are usually inappropriate, but a mental disability brought on by the loss is a good solution. (Ever since the octopus got Amy, you've been afraid of the ocean . . .)
+
+{{Indent}}Examples of Dependents
+
+{{Indent}}* For anyone: elderly relatives, teachers, friends, children, younger brothers or sisters, lovers, husbands or wives.
+
+{{Indent}}* For crimefighters: young sidekicks, reporters, or wards.
+
+{{Indent}}* For wizards: apprentices.
+
+{{Indent}}* For ship captains (ocean- or space-going): ensigns or cabin boys.
+
+{{Indent}}* For soldiers: orphans or new recruits.
+
+{{Indent}}* For criminals or mad scientists: incompetent henchmen.
+|}

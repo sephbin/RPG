@@ -1,0 +1,44 @@
+Skill: Area Knowledge
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AREA KNOWLEDGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4 or Geography&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}(Regional)-3*
+
+{{Indent}}* You have an IQ default only for Area Knowledge of a place where you live or once lived. Geography only gives a default for Area Knowledge of the specialty region
+
+{{Indent}}This skill represents familiarity with the people, places, and politics of a given region. You usually have Area Knowledge only for the area you consider your &quot;home base,&quot; whether that's a single farm or a solar system. If information about other areas is available, the GM may allow you to learn additional Area Knowledge skills
+
+{{Indent}}The GM should not require Area Knowledge rolls for ordinary situations; e.g., to find the blacksmith, tavern, or your own home. But he could require a roll to locate a smith to shoe your horse at 3 a.m., or to find the best ambush spot along a stretch of road. &quot;Secret&quot; or obscure information might give a penalty, require a Hidden Lore skill (p. 199), or simply be unavailable - GM's decision. For instance, Area Knowledge of Washington, D.C. gives you the location of the Russian Embassy, but not the KGB's current safe house
+
+{{Indent}}The information covered by Area Knowledge often overlaps such skills as Current Affairs, Geography, Naturalist, and Streetwise. The difference is that Area Knowledge works for a single area: you know the habits of this tiger or gang boss, but have no special insight into tigers or gangs in general
+
+{{Indent}}You can learn Area Knowledge for any sort of area. The larger the territory, the less &quot;personal&quot; and more general your knowledge becomes. Almost everyone will have Area Knowledge of some type. The &quot;canonical&quot; area classes are:
+
+{{Indent}}&lt;i&gt;Neighborhood:&lt;/i&gt; For an urban area: the residents and buildings of a few city blocks. For a rural area: the inhabitants, trails, streams, hiding places, ambush sites, flora, and fauna of a few hundred acres
+
+{{Indent}}Village or Town: All important citizens and businesses, and most unimportant ones; all public buildings and most houses
+
+{{Indent}}&lt;i&gt;City:&lt;/i&gt; All important businesses, streets, citizens, leaders, etc
+
+{{Indent}}Barony, County, Duchy, or Small Nation: General nature of its settlements and towns, political allegiances, leaders, and most citizens of Status 5+
+
+{{Indent}}&lt;i&gt;Large Nation:&lt;/i&gt; Location of its major cities and important sites; awareness of its major customs, ethnic groups, and languages (but not necessarily expertise); names of folk of Status 6+; and a general understanding of the economic and political situation
+
+{{Indent}}&lt;i&gt;Planet:&lt;/i&gt; As for a large nation, but more general; knowledge of people of Status 7+ only
+
+{{Indent}}&lt;i&gt;Interplanetary State:&lt;/i&gt; Location of major planets; familiarity with all known races (but not necessarily expertise); knowledge of people of Status 7+; general understanding of the economic and political situation
+
+{{Indent}}&lt;i&gt;Galaxy:&lt;/i&gt; Location of the capitals of interplanetary states and the homeworlds of major races; general awareness of all major races; knowledge of individuals of Status 8; general understanding of relations between interplanetary states
+
+{{Indent}}Area Knowledge for anything larger than a galaxy would be meaninglessly vague
+
+{{Indent}}Your IQ-4 default applies to any of these classes, as long as you have lived in the area. Defaults are limited by &quot;common knowledge&quot; at your tech level! A TL0 hunter would have a default for every level up to &quot;Village or Town,&quot; while a TL8 student would have defaults up to &quot;Planet&quot; level. You must live in an interplanetary or interstellar state to have defaults for levels above &quot;Planet.&quot;
+
+{{Indent}}In some game worlds, Area Knowledge specialties may exist for parallel realities and other dimensions - Area Knowledge (Cyberspace), Area Knowledge (Dream Realms), etc. The knowledge such skills provide is left to the GM's judgment
+|}

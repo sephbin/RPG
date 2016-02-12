@@ -1,0 +1,24 @@
+Disadvantage: Code of Honor
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CODE OF HONOR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You take pride in a set of principles that you follow at all times. The specifics can vary, but they always involve &quot;honorable&quot; behavior. You will do nearly anything - perhaps even risk death - to avoid the label &quot;dishonorable&quot; (whatever that means).
+
+{{Indent}}You must do more than pay lip service to a set of principles to get points for a Code of Honor. You must be a true follower of the Code! This is a disadvantage because it often requires dangerous - if not reckless - behavior. Furthermore, you can often be forced into unfair situations, because your foes know you are honorable.
+
+{{Indent}}Code of Honor is not the same as Duty (p. 133) or Sense of Duty (p. 153). A samurai or British grenadier marches into battle against fearful odds out of duty, not for his personal honor (though of course he would lose honor by fleeing). The risks you take for your honor are solely on your own account.
+
+{{Indent}}The point value of a particular Code of Honor depends on how much trouble it is liable to get you into and how arbitrary and irrational its requirements are. An informal Code that applies only among your peers is worth -5 points. A formal Code that applies only among peers, or an informal one that applies all the time, is worth -10 points. A formal Code that applies all the time, or that requires suicide if broken, is worth -15 points. The GM has the final say! Some examples:
+
+{{Indent}}Code of Honor (Pirate's): Always avenge an insult, regardless of the danger; your buddy's foe is your own; never attack a fellow crewman or buddy except in a fair, open duel. Anything else goes. This is also suitable for brigands, bikers, etc. -5 points.
+
+{{Indent}}Code of Honor (Professional): Adhere to the ethics of your profession; always do your job to the best of your ability; support your guild, union, or professional association. This is most suitable for lawyers and physicians (Hippocratic Oath), but dedicated tradesmen, merchants, and so forth may have a similar Code. -5 points.
+
+{{Indent}}Code of Honor (Gentleman's): Never break your word. Never ignore an insult to yourself, a lady, or your flag; insults may only be wiped out by an apology or a duel (not necessarily to the death!). Never take advantage of an opponent in any way; weapons and circumstances must be equal (except in open war). This only applies between gentlemen. A discourtesy from anyone of Status 0 or less calls for a whipping, not a duel! -10 points.
+
+{{Indent}}Code of Honor (Soldier's): An officer should be tough but fair, lead from the front, and look out for his men; an enlisted man should look out for his buddies and take care of his kit. Every soldier should be willing to fight and die for the honor of his unit, service, and country; follow orders; obey the &quot;rules of war&quot;; treat an honorable enemy with respect (a dishonorable enemy deserves a bullet); and wear the uniform with pride. -10 points.
+
+{{Indent}}Code of Honor (Chivalry): As Code of Honor (Gentleman's), except that flags haven't been invented. Respond to any insult to your liege-lord or to your faith. Protect any lady, and anyone weaker than yourself. Accept any challenge to arms from anyone of greater or equal rank. Even in open war, sides and weapons must be equal if the foe is also noble and chivalrous. -15 points.
+|}

@@ -1,0 +1,26 @@
+Skill: Mathematics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MATHEMATICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the scientific study of quantities and magnitudes, and their relationships and attributes, through the use of numbers and symbols. You must specialize:
+
+{{Indent}}&lt;i&gt;Applied:&lt;/i&gt; The branch of mathematics that interacts directly with the physical sciences and engineering, dealing with mathematical models of the behavior of physical systems. &lt;i&gt;Defaults:&lt;/i&gt; Engineer (any)-5 or Physics-5
+
+{{Indent}}&lt;i&gt;Computer Science:&lt;/i&gt; The theoretical study of data structures and computation. Roll vs. skill to answer questions about what is possible with computers. This gives you no special ability to use computers! Default: Computer Programming-5
+
+{{Indent}}&lt;i&gt;Cryptology:&lt;/i&gt; The mathematical study of codes and ciphers. This gives you a theoretical understanding of encryption schemes, including how they change with TL and why some schemes are more effective than others. To create or break codes, use Cryptography skill (p. 186). &lt;i&gt;Default:&lt;/i&gt; Cryptography-5
+
+{{Indent}}&lt;i&gt;Pure:&lt;/i&gt; Generic &quot;academic&quot; mathematics. Make a skill roll to answer any math-related question not covered by another specialty. Pure mathematics encompasses dozens of obscure subfields that will never affect the game. If you must be an expert in something like &quot;non-selfadjoint operator algebras,&quot; you may further note an optional specialty (p. 169)
+
+{{Indent}}&lt;i&gt;Statistics:&lt;/i&gt; The science of assembling and analyzing data for the purpose of calculating probabilities, constructing models, and making forecasts. Roll vs. skill to determine the odds of a particular outcome, given sufficient data about similar situations in the past
+
+{{Indent}}&lt;i&gt;Surveying:&lt;/i&gt; The science of determining the area of a portion of the Earth's surface, the lengths and directions of the bounding lines, and the contour of the surface. Make a skill roll to determine the dimensions of any area you can see. More complex determinations require specialized equipment. &lt;i&gt;Defaults:&lt;/i&gt; Cartography-3 or Navigation (any)-4
+
+{{Indent}}These specialties default to one another at -5
+|}

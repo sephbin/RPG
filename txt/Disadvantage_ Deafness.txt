@@ -1,0 +1,8 @@
+Disadvantage: Deafness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DEAFNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot hear anything. You must receive information in writing (if you are literate) or sign language. However, time you spend communicating this way counts at full value for study of the skills used (Gesture, Lip- Reading, etc.); see Chapter 9.
+|}

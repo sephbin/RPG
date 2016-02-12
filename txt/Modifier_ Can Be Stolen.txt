@@ -1,0 +1,18 @@
+Modifier: Can Be Stolen
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CAN BE STOLEN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your foes can take this item from you, depriving you of its benefits. This is only a limitation if the item is obviously powerful and likely to be the target of theft! The value of the limitation depends on how hard it is to steal:
+
+{{Indent}}Easily snatched with an unopposed DX roll (e.g., a hat): -40%.
+
+{{Indent}}Thief must win a Quick Contest of DX (e.g., a bracelet) or ST (e.g., a wand) with you: -30%.
+
+{{Indent}}Can only by taken by stealth or trickery (e.g., a coin in a pocket): -20%.
+
+{{Indent}}Must be forcefully removed (e.g., a suit of armor): -10%.
+
+{{Indent}}Halve the value of the limitation if the gadget will not immediately work for the thief.
+|}

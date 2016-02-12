@@ -1,0 +1,14 @@
+Skill: Running
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RUNNING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents training in both sprints and long-distance running. Roll against the higher of Running or HT to avoid fatigue or injury due to running. When racing someone of equal Move on foot, roll a Quick Contest of Running skill to determine the winner
+
+{{Indent}}Note that you must have legs and be capable of land movement to learn this skill
+|}

@@ -1,0 +1,14 @@
+Advantage: Illuminated
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ILLUMINATED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are an &quot;Illuminatus&quot; in the original sense of the word - you are enlightened. You know what's going on, and you know it intuitively.
+
+{{Indent}}You can discern other Illuminati on sight, with no possibility of error. Furthermore, whenever the GM requires a roll against a skill such as Current Affairs, Hidden Lore, or Intelligence Analysis to tell whether a certain strange occurrence is truly a coincidence or the result of a conspiracy, you may roll against the higher of your IQ and the specific skill in question. Finally, you can perceive and communicate with supernatural beings who are tied to Illuminated conspiracies in your game world (GM's decision). This gives you no special ability to control them, but they recognize you and treat you with a certain respect: +3 on reaction rolls.
+
+{{Indent}}The only drawback is that other Illuminati and spiritual beings are able to perceive your Illuminated nature, and there's nothing you can do about it except stay out of sight.
+
+{{Indent}}This advantage is best suited to mystical or fantastic campaigns. It is rarely appropriate in &quot;mundane&quot; conspiracy campaigns. The GM is the final judge of who may possess this trait.
+|}

@@ -1,0 +1,18 @@
+Skill: Brawling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BRAWLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of &quot;unscientific&quot; unarmed combat. Roll against Brawling to hit with a punch, or Brawling-2 to hit with a kick. Brawling can also replace DX when you attack with teeth, claws, horns, or other &quot;natural weapons.&quot;
+
+{{Indent}}Brawling improves damage: if you know Brawling at DX+2 level or better, add +1 per die to basic thrust damage when you calculate damage with Brawling attacks - punches, kicks, claws, bites, etc. Work out damage ahead of time and record it on your character sheet
+
+{{Indent}}Brawling includes the ability to use the blackjack or sap. An attack with such a fist load is considered a punch at +1 to damage
+
+{{Indent}}When you defend with bare hands, Brawling allows you to parry two different attacks per turn, one with each hand. Your Parry score is (skill/2) + 3, rounded down. Brawling parries are at -3 vs. weapons other than thrusting attacks. For more on barehanded parries, see Parrying Unarmed (p. 376)
+|}

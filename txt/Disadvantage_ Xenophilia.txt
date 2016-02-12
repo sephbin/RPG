@@ -1,0 +1,14 @@
+Disadvantage: Xenophilia
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''XENOPHILIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are instinctively fascinated and attracted by strangers and aliens, no matter how dangerous or frightening they appear to be. Make a self-control roll whenever you meet someone (or something) like this. If you fail, you assume that this person is interested in interacting with you socially. A xenophile finds himself offering drinks to glaring foreign soldiers, making passes at cute vampires, and shaking tentacles with Things Man Was Not Meant To Know while his companions are pointing weapons or running the other way . . .
+
+{{Indent}}As partial compensation, you get a bonus to Fright Checks when meeting strange creatures
+
+{{Indent}}[[pic]]
+
+{{Indent}}NPCs with this trait will react to exotic PCs at a similar bonus.
+|}

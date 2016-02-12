@@ -1,0 +1,12 @@
+Disadvantage: Intolerance
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INTOLERANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You dislike and distrust some (or all) people who are different from you. You may be prejudiced on the basis of class, ethnicity, nationality, religion, sex, or species. Victims of your Intolerance will react to you at -1 to -5 (GM's decision). Point value depends on the scope of your Intolerance.
+
+{{Indent}}If you are thoroughly intolerant, you react at -3 toward anyone not of your own class, ethnicity, nationality, religion, or species (pick one). On a &quot;Good&quot; reaction, you tolerate the person and are as civil as possible (but are stiff and cold toward him). On a &quot;Neutral&quot; reaction, you still tolerate him, but make it plain in words and deeds that you don't care to be around him and consider him inferior or offensive. On any worse reaction, you attack or refuse to associate with the victim. Total Intolerance of this kind is worth -10 points.
+
+{{Indent}}Intolerance directed at only one specific class, ethnicity, nationality, religion, sex, or species is worth from -5 points for a commonly encountered victim to -1 point (a nasty quirk) for a rare victim.
+|}

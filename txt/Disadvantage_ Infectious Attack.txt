@@ -1,0 +1,10 @@
+Disadvantage: Infectious Attack
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INFECTIOUS ATTACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an infectious supernatural condition. This works identically to the Dominance advantage (p. 50), except that you do not control those you infect and cannot add them as Allies. This is a disadvantage, because enemies who survive (or don't survive!) violent encounters with you become stronger through the &quot;gift&quot; of supernatural powers, and are completely free to use their new abilities to seek vengeance for what you have done to them.
+
+{{Indent}}To prevent PCs with this trait from turning their friends into powerful monsters for free, the GM should consider making infected PCs pay points for supernatural racial templates gained this way. If they cannot afford such a template, the GM is free to balance its point cost with supernatural drawbacks such as Cursed, Dread, Revulsion, and Weakness.
+|}

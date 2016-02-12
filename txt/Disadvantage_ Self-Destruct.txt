@@ -1,0 +1,10 @@
+Disadvantage: Self-Destruct
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SELF-DESTRUCT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}As soon as you reach your aging threshold (age 50 for a normal human), your organs and immune system begin to fail. You start to age rapidly, making aging rolls every day at -3 to HT.
+
+{{Indent}}You cannot get points for both this disadvantage and Terminally Ill (p. 158). If you are going to selfdestruct soon, take Terminally Ill instead of Self-Destruct.
+|}

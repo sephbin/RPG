@@ -1,0 +1,12 @@
+Advantage: Supernatural Durability
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUPERNATURAL DURABILITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''150 points''&lt;/font&gt;
+|-
+|{{Indent}}Like a vampire or psycho killer from a horror movie, you can &quot;shake off&quot; most wounds. Injury comes off HP as usual, and you suffer knockback, but you are completely immune to shock, physical stun, and knockout. You don't need High Pain Threshold - this ability includes that one, and is far more potent!
+
+{{Indent}}As long as you have 0 or more HP, you are also immune to crippling injuries, and have your full Move. Below 0 HP, you are at half Move, and can be crippled, but you won't die unless you are wounded by an attack to which you are specifically vulnerable (see below). The sole exception to this is a single attack that inflicts an injury of 10xHP or more. That much damage at once will blow you apart, killing you.
+
+{{Indent}}To die, you must first be wounded to -HP or worse. After that, one specific item can kill you. You must specify this when you buy Supernatural Durability. Valid categories appear under Limited Defenses (p. 46); the item that can kill you must be of &quot;Occasional&quot; rarity or higher. If wounds from this item ever reduce your HP to the point where a normal human would have to make HT rolls to survive, you must make those HT rolls or die. If this item wounds you to -5xHP, you die automatically. If you are already below -5xHP from other damage, any wound from this item will kill you. Any item to which you have a Vulnerability (p. 161) can also kill you in this way.
+|}

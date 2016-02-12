@@ -1,0 +1,12 @@
+Disadvantage: Restricted Vision
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESTRICTED VISION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 or -30 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an unusually narrow field of vision. A normal character can see a 120° arc in front of him without turning his head, and has 30° of peripheral vision to either side, giving him a 180° &quot;arc of vision&quot; for observation and ranged attacks. On a battle map, this means he has three &quot;front&quot; hexes, two &quot;side&quot; hexes (&quot;left&quot; and &quot;right&quot;), and a single &quot;back&quot; hex. Your vision is considerably more restricted. This comes in two levels:
+
+{{Indent}}No Peripheral Vision: Your arc of vision is a 120° wedge to the front. On a map, your &quot;left&quot; and &quot;right&quot; hexes become &quot;back&quot; hexes - that is, you have three &quot;back&quot; hexes, and get no defense against attacks originating from these hexes! -15 points.
+
+{{Indent}}Tunnel Vision: Your arc of vision is a 60° wedge to the front. On a map, your only &quot;front&quot; hex is the one directly ahead of you. The hexes to either side of this are &quot;side&quot; hexes: you are at -2 to defend against attacks from these hexes, and can only attack into those hexes with a Wild Swing. Everything else is a &quot;back&quot; hex, as above. -30 points.
+|}

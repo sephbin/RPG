@@ -1,0 +1,16 @@
+Disadvantage: Revulsion
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REVULSION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an incapacitating supernatural reaction to an ordinarily innocuous substance. If you touch or breathe the substance, you must immediately make a HT roll. On a failure, you are at -5 to all skills and attributes for the next 10 minutes. If you ingest the substance, you are at -5 to attributes and -10 to all skills and Sense rolls for 10 minutes. Point value depends on the rarity of the substance:
+
+{{Indent}}Occasional (leather, soap): -5 points.
+
+{{Indent}}Common (smoke, wood): -10 points.
+
+{{Indent}}Very Common (grass, metal): -15 points.
+
+{{Indent}}This reaction is physical in nature. For mental aversions, see Dread (p. 132).
+|}

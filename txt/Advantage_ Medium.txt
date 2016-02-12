@@ -1,0 +1,16 @@
+Advantage: Medium
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MEDIUM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can perceive and communicate with spirits - particularly spirits of the dead. You don't see them visually, but you know when they're nearby. You can speak with any spirit in your presence, provided you share a language. You can also call spirits to you; there is no guarantee that they will answer your summons, but they will hear it. Note that this trait does not give you a reaction bonus with spirits, or any power to control their behavior.
+
+{{Indent}}Manifestation: Your presence makes it easier for spirits to become visible, if they wish. As long as they're within a yard of you, those with the Spirit meta-trait (p. B263) needn't pay the 1 FP per second demanded by the Usually On limitation on their Invisibility. +100%.
+
+{{Indent}}Universal: You can communicate with any spirit you can sense with Medium, even those with whom you don't share a language. +50%.
+
+{{Indent}}Visual: You can see spirits while communicating with them, even if they would normally be invisible. +50%.
+
+{{Indent}}Specialized: Your ability only works with one specific class of spirits. Possibilities include angels, demons, elementals, faerie creatures, and ghosts. -50%.
+|}

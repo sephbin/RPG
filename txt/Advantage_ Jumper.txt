@@ -1,0 +1,83 @@
+Advantage: Jumper
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''JUMPER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''100 points''&lt;/font&gt;
+|-
+|{{Indent}}You can travel through time or to parallel worlds (sometimes known as &quot;timelines&quot;) merely by willing the &quot;jump.&quot; Decide whether you are a time-jumper or a world-jumper. To do both, you must buy Jumper (Time) and Jumper (World) separately, at full cost.
+
+{{Indent}}To initiate a jump, you must visualize your destination, concentrate for 10 seconds, and make an IQ roll. You may hurry the jump, but your roll will be at -1 per second of concentration omitted (-10 to jump with no preparation at all). Regardless of IQ, a roll of 14 or more always fails. On a success, you appear at your target destination. On a failure, you go nowhere. On a critical failure, you arrive at the wrong destination, which can be any time or world the GM wishes!
+
+{{Indent}}You appear at your destination at exactly the same place you left your previous time or world - or as close as possible. When jumping through time, this means the same place at a different time. When jumping between worlds, this means the same place at the same time, but on a parallel world.
+
+{{Indent}}If there is no corresponding &quot;safe&quot; location within 100 yards of your destination - for instance, if you jump while on an airplane to a destination with no plane at your location, or from a half-mile deep mine to a destination with no corresponding mine - the jump will fail and you will know why it failed. This does not prevent you from jumping into other types of danger, such as radiation, gunfire, or wild animals. If you have Danger Sense, the GM should roll before you make a hazardous jump; on a success, you get a warning.
+
+{{Indent}}This ability always costs at least 1 FP to use, whether it succeeds or fails. Particularly &quot;distant&quot; times or worlds might cost more, perhaps up to 10 FP, at the GM's discretion. If you are a machine, this ability does not cost you FP - but if you have passengers, each of them must pay the FP cost.
+
+{{Indent}}For an example of how Jumper might work in a particular game world, see World-Jumpers (p. 544).
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Carrying Things'''&lt;/font&gt;
+
+{{Indent}}You can carry up to Basic Lift when you travel, plus any Payload (see p. 74). Take the Extra Carrying Capacity enhancement (below) if you wish to carry more weight, or bring along other people.
+
+{{Indent}}However, if multiple Jumpers of the same kind are in physical contact, when one jumps, the others can &quot;hitch a ride&quot; if they wish - even if the Jumper who initiates the jump does not want company. Only the person initiating the jump makes a die roll; wherever he ends up, the others do, too.
+
+{{Indent}}If you are a world-jumper, &quot;hitching a ride&quot; is the only way to visit a new parallel world (save for a critical failure!). However, once you reach a world, you can memorize its &quot;feel&quot; by concentrating and spending character points to &quot;learn&quot; that world as an IQ/Easy skill. This takes one hour per point you wish to spend. Use this skill in place of IQ when you travel to that world in the future. You never have to memorize a world, but if you do not, you roll at IQ-3 to attempt to return.
+
+{{Indent}}Time-jumpers have no similar restriction.
+
+{{Indent}}You can improve this ability with practice, spending points to add enhancements or remove limitations. GMs who do not want the PCs jumping multiple times per adventure are free to impose mandatory limitations (e.g., Limited Use) that cannot be bought off.
+
+{{Indent}}Jumper (Spirit): You can enter and leave the &quot;spirit worlds&quot; in body. In these realms, you're a spirit. You can interact normally with the spirits there and use any ability that's &quot;standard&quot; for spirits in that world. Likewise, anything that affects spirits affects you. To make the transition, use the standard rules for Jumper. Each attempt costs 1 FP. Success on the IQ roll means you shift between realms. Failure means you stay in your current world; you're at -5 to use this ability again in the next 10 minutes. Critical failure results are up to the GM . . . you might attract evil spirits, end up adrift between worlds, or go to the wrong world (e.g., Hell). The special modifiers for Jumper (World) are available to you, although not all of them are meaningful in every setting. 100 points.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Extra Carrying Capacity: You can carry more than your Basic Lift. If your carrying capacity is high enough, you may transport one person with you. Light encumbrance is +10%; Medium, +20%; Heavy, +30%; Extra- Heavy, +50%.
+
+{{Indent}}New Worlds: This is only available for world-jumpers. You can deliberately aim for worlds you haven't visited. The IQ roll is always at -3 or worse (GM's decision). Of course, it is always possible that the desired destination does not exist, in which case the attempt automatically fails - although the GM will not tell you why. All FP costs are doubled when using this enhancement. +50%.
+
+{{Indent}}Omni-Jump: This is only available if you are both a world-jumper and a time-jumper! You must apply it to both Jumper advantages. This lets you move between times and timelines on a single IQ roll - for instance, from the present day in our timeline to 1066 A.D. in a parallel timeline where the Norman invasion of England failed. +10%.
+
+{{Indent}}Tracking: You can travel to the &quot;home&quot; time or world of any manmade artifact you can hold or touch. Time-jumpers will arrive shortly after the item was created; world-jumpers will arrive at the current date on the item's home timeline. Any such attempt is at IQ-2, and each Jumper only gets one try per artifact. +20%.
+
+{{Indent}}Tunnel: You always create a portal (of about your size) when you jump. Others may pass through it, even if they can't jump. The portal lingers for 3d seconds, which can be good or bad - it means enemies can follow you! &quot;+40%.
+
+{{Indent}}Warp Jump: This enhancement is only available if you have the Warp advantage (p. 97). You must apply it to both Jumper and Warp. When you jump, you can simultaneously use Warp to appear anywhere at your destination. Two die rolls are necessary - one per ability - and it is possible for one to succeed while the other fails, or for both to fail. +10%.
+
+{{Indent}}Interplanar: For Jumper (World) or (Spirit). You can enter higher planes of existence - perhaps even the realms of the gods. +100% if you can reach these worlds as well as parallel worlds (world-jumpers) or spirit worlds (spirit- jumpers); +0% if you can only reach higher planes.
+
+{{Indent}}Reliable: Your ability is unusually stable. Each level of this enhancement adds +1 to both the IQ roll to use Jumper and the automatic failure threshold (e.g., Reliable 2 gives +2 to IQ and mean a roll of 16 or more always fails). +5% per +1, to a maximum of +10.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cannot Escort: This is only available for world-jumpers. Other Jumpers cannot &quot;hitch a ride,&quot; even if you want to bring them along. -10%.
+
+{{Indent}}Cannot Follow: This is only available for world-jumpers. You cannot &quot;hitch a ride&quot; with another Jumper. -20%.
+
+{{Indent}}Drift: You do not arrive in exactly the location you left from. You won't arrive in thin air or underground, but you may show up anywhere within 10 miles of your planned destination. The better your IQ roll when you jump, the closer you will be to where you wanted to arrive, but it's the GM's call as to exactly where you appear. -15%.
+
+{{Indent}}Limited Jump: You can only travel a certain distance through time, or a certain number of &quot;removes&quot; between parallel worlds, per jump. To go further, you must make multiple hops. The GM must set the value of this limitation for his campaign; it will be more of a handicap in some settings than in others. A suggested value is -10%.
+
+{{Indent}}Maximum Range: You can only jump a certain total distance through time, or a certain number of &quot;removes&quot; between parallel worlds, no matter how many hops you make. Like Limited Jump, the GM must set the value of this limitation.
+
+{{Indent}}Naked: You can carry nothing when you jump! You always arrive naked. -30%.
+
+{{Indent}}Stunning: You are always mentally stunned after a jump. -10%.
+
+{{Indent}}Limited Access: For Jumper (World) or (Spirit). You can only jump between two particular worlds - your home world and one specific parallel, the material world and Hell, etc. The size of this limitation depends on how many worlds exist in the setting. If there's only one, it's meaningless: -0%. If there are many, it might be worth -20% or more, at the GM's discretion.
+
+{{Indent}}Projection: For Jumper (Time) or (World). You travel in mind, not in body. Your body remains at your departure point, unconscious and vulnerable, while your consciousness appears at your destination as a visible but intangible projection. This form is subject to anything that affects insubstantial beings. See Projection (p. 44) for other rules. If you have Insubstantiality, you can &quot;reverse&quot; it in order to become solid; if you have Possession (Spiritual, -20%), you can possess a resident of the target world. -50% if you can't affect your destination at all without Insubstantiality or Possession; -0% if you can use spells, mental abilities, and Maledictions to affect your destination while projecting. Sending a physical body to your destination as usual, but also leaving behind an unconscious body as described here, is worth -25%.
+
+{{Indent}}Special Movement: You need to move to use your ability. Limitation value depends on how stringent the requirements are. If you merely have to walk a few steps and be free of anything that restricts movement (like manacles), that's -10%. If you need to enter orbit and accelerate past the speed of light with expensive advantages like Flight (Space Flight, +50%) with Enhanced Move 27 (Space), that's -40%.
+
+{{Indent}}Special Portal: You need a particular sort of &quot;gateway&quot; to use your advantage; e.g., a natural cave opening, or a sacred stone circle on a moonlit night. Limitation value depends on the rarity of the required portal. &quot;Any reflective surface&quot; is -20%, as is a relatively common geographic feature. If a summoning ritual that specifically names you creates a &quot;channel&quot; that lets you jump into the presence of your summoner - but nowhere else - that's -60%. One specific spot at a certain time of the year is -80%.
+|}

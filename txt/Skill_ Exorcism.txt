@@ -1,0 +1,24 @@
+Skill: Exorcism
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXORCISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Will-6, Religious Ritual (any)-3, Ritual Magic (any)-3, or Theology (any)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to drive a spirit from a possessed person or haunted location. It is not a magical skill, but a religious ritual. Exorcism is not specific to any one religion. A Malay witch doctor and a Catholic priest can both perform exorcisms; their relative effectiveness depends on the originating culture of the spirit
+
+{{Indent}}The length of the ritual is 15 minutes x the spirit's HT. Some spirits wait patiently through the ritual, anticipating the combat to come; others try to distract or even attack you before you can complete the ritual. Once the ritual is complete, roll against Exorcism skill
+
+{{Indent}}On a failure, the spirit remains and you must wait at least a week before you can repeat the ritual. On a critical failure, immediately roll 3d+10 on the Fright Check Table (p. 360). Even if you keep your sanity, you may never attempt to exorcise this particular spirit again
+
+{{Indent}}On a critical success, you immediately banish the spirit. On a regular success, you meet your opponent in a Quick Contest: your Exorcism skill vs. the higher of the spirit's ST or Will. When fighting a spirit in a living host, add higher of the ST or Will of the possession victim to your Exorcism skill as he tries to &quot;push the spirit out.&quot;
+
+{{Indent}}If the spirit wins or ties, it retains its current status and you must wait at least a week before you can repeat the ritual. If you win, you drive the spirit from its haunt or victim. The spirit of a deceased mortal is laid to rest. For demons and similar entities, make a reaction roll. On a &quot;Poor&quot; or better reaction, the spirit flees in humiliation. On a &quot;Bad&quot; or worse reaction, the spirit immediately uses whatever resources it has to take vengeance on you and those nearby
+
+{{Indent}}If the exorcism fails at any stage, make an IQ roll afterward. A success means that you learned something about the spirit that will help you in your next attempt to banish that foe, giving you +2 on later skill rolls. You may only claim this bonus once for a particular spirit
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -4 if you do not have one or more of Blessed (p. 40), Power Investiture (p. 77), or True Faith (p. 94); you might understand the ritual, but you lack holy support.&lt;/i&gt;&lt;/font&gt;
+|}

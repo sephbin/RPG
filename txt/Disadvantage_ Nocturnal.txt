@@ -1,0 +1,14 @@
+Disadvantage: Nocturnal
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NOCTURNAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You can only be active when the sun is below the horizon. This represents more than a preference for night over day! As soon as dawn starts to break, you become lethargic - and when the sun clears the horizon, you fall paralyzed and comatose until the sun goes down again.
+
+{{Indent}}Note that this is not the same as the biological term &quot;nocturnal.&quot;
+
+{{Indent}}Special Enhancements
+
+{{Indent}}Permanent Paralysis: You turn to stone or suffer some other permanent incapacitation if struck by the sun's rays. Only one specific power or item - most often a powerful magic spell - can reverse this effect. Details are up to the GM. +100%.
+|}

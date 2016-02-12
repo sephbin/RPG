@@ -1,0 +1,16 @@
+Disadvantage: Destiny
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DESTINY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}A disadvantageous Destiny functions identically to an advantageous one (see p. 48), save that it always leads to something bad - but perhaps not immediately, and not without a chance to gain honor by dealing with it well. A fated, tragic death can be an end worthy of a hero! This kind of Destiny comes in three levels:
+
+{{Indent}}Minor Disadvantage: You are fated to play a small part in a larger story, and you will not come off so well. You are guaranteed at least one tragic experience or embarrassing failure - although these things are unlikely to result in your death except under the most desperate and heroic of circumstances. -5 points.
+
+{{Indent}}Major Disadvantage: You are fated to play a key role in a sorry turn of events. For instance, you might be late with a message that could save the day . . . or execute the only competent general in a threatened province, causing its loss to barbarian invaders. Still, you will survive. -10 points.
+
+{{Indent}}Great Disadvantage: Death stalks you. Something out there has your name on it. It knows where you are and it's getting closer all the time. You will either die or be ruined, and your fall will have terrible repercussions for others. This kind of Destiny is not suitable for every campaign! The GM does not have to allow it - and if he does, he should plan on letting the campaign take a radical turn, or end, when the Destiny is fulfilled. -15 points.
+
+{{Indent}}You must buy off a disadvantageous Destiny as soon as it is fulfilled. This is automatic if the outcome strips you of Allies, Status, Wealth, etc. worth the same number of points. If you lack the points to buy off your Destiny, you gain Unluckiness (p. 160), regardless of the point value of the Destiny. It is up to the GM whether you can buy off the Unluckiness! Alternatively, the GM might assign you a new bad Destiny, Divine Curse (below), or other supernatural disadvantage.
+|}

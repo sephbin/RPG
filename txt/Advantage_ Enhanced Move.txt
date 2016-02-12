@@ -1,0 +1,44 @@
+Advantage: Enhanced Move
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENHANCED MOVE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can really move! Each level of Enhanced Move doubles your top speed in one environment: Air, Ground, Space, or Water. You may also take a half-level of Enhanced Move, either alone or with any whole number of levels; this costs 10 points and multiplies Move by 1.5.
+
+{{Indent}}Example 1: A super buys Enhanced Move 4 (Ground), for 80 points. He multiplies his Move by 2 x 2 x 2 x 2 &quot; 16. If his Basic Move were 8, he could run at 128 yards/second (262 mph).
+
+{{Indent}}Example 2: An avian race has Enhanced Move 2.5 (Air), for 50 points. All members of the race multiply their top airspeed by 2 x 2 x 1.5 = 6.
+
+{{Indent}}Your multiplied Move is your top speed. Record it in parentheses after your Enhanced Move trait; for instance, the super in the example above would write &quot;Enhanced Move 4 (Ground Speed 128).&quot; You can always choose to accept a slightly lower top speed if you want your speed to match that of a real-world or fictional creature or vehicle with a known top speed. This does not give you back any points.
+
+{{Indent}}Enhanced Move does not affect Basic Speed, Basic Move, or Dodge. Its benefits apply only when moving along a relatively straight, smooth course (see Sprinting, p. 354). It does have some defensive value, however: those who attack you with ranged attacks must take your speed into account when calculating speed/range modifiers (see p. 550).
+
+{{Indent}}Most forms of Enhanced Move have prerequisites. Enhanced Move (Water) requires Amphibious (p. 40) or Aquatic (p. 145). Enhanced Move (Air) requires Flight (p. 56). Enhanced Move (Space) requires Flight with the Space Flight or Newtonian Space Flight enhancement, and affects movement in space - not airspeed. To move faster in air and in space, buy both Enhanced Move (Air) and Enhanced Move (Space).
+
+{{Indent}}Physiological: Adaptations such as fins, wings, or a streamlined body often imply such traits as Amphibious, Flight (Small Wings or Winged), and/or No Legs (Aerial or Aquatic), in addition to Enhanced Move. The fastest land creatures aren't bipeds, and tend to have Extra Legs - or possibly Extra Arms or Strikers. Creatures that can only use Enhanced Move for a short time before they tire should add Costs Fatigue (-5%/level).
+
+{{Indent}}Technological: Wheels, tracks, jets, rockets, propellers, etc. are likely for robots and vehicles. Such options often suggest additional traits - No Legs (Wheeled) for wheels, Burning Attack for a rocket that doubles as a weapon, and so on. Many of them make the user obvious while in use, which is a Nuisance Effect (-5%).
+
+{{Indent}}Superhuman: Those with powers often have more unusual justifications. These can be invisible (an ordinary- looking man who runs very fast, speedy psychokinetic levitation, etc.) or glaringly obvious (e.g., creating and gliding along a strip of ice). Costs Fatigue and Nuisance Effect are both appropriate.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Handling Bonus: You get a bonus to DX or vehicle operation skill (e.g., Driving) for the sole purpose of maintaining control at speeds above your Basic Move. +5% per +1, to a maximum of +5.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Handling Penalty: You have a penalty to DX or vehicle operation skill at high speeds. -5% per -1, to a maximum of -5.
+
+{{Indent}}Newtonian: This is a limitation for Enhanced Move (Space). Your space &quot;top speed&quot; is actually your &quot;delta-v&quot;: the total velocity change you can manage before running out of reaction mass. Once you have made velocity changes equal to your top speed, you must refuel before you can change velocity again. -50%.
+
+{{Indent}}Road-Bound: This is a limitation for Enhanced Move (Ground). Your Enhanced Move is effective only on a smooth, flat surface, such as a road or building floor. This is often taken in conjunction with the Wheeled disadvantage (p. 145). -50%.
+
+{{Indent}}All-Out: Moving fast requires your undivided attention! Using your ability is like making an All-Out Attack . . . but without the attack. You have no active defenses and can't Attack, Concentrate, Ready, etc. Explain what you're doing: flapping your wings, balancing on two wheels, diverting all your power to project a flame jet or ice path, or whatever else fits. This is worth less than the general All-Out modifier (p. 110), because it doesn't limit you to half your Move in a forward direction. -20%.
+|}

@@ -1,0 +1,14 @@
+Skill: Meditation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MEDITATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Will-6 or Autohypnosis-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to calm the emotions, control the mind, and relax the body. To use this skill, you must concentrate for (20 - skill) seconds, minimum one second, and then roll vs. skill. On a success, you enter a trancelike state, which you can maintain for hours
+
+{{Indent}}A meditative trance is required for certain rituals and is a common preparation for prayer. In addition, the GM may permit you to meditate on a particular moral dilemma. On a successful Meditation roll, the GM will &quot;enlighten&quot; you, providing a hint as to which course of action &quot;feels&quot; right
+|}

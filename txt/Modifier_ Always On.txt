@@ -1,0 +1,8 @@
+Modifier: Always On
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ALWAYS ON'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You cannot switch your advantage off. You may only add this to an ability that can normally be switched off and that is inconvenient if you can't turn it off. It is worth -10% if the effects are social or cosmetic, -20% if they are physically inconvenient, and -40% if they are dangerous (to you!). Always On appears as a &quot;special limitation&quot; for most of the traits to which it would apply. The GM can add new costs as appropriate for other abilities.
+|}

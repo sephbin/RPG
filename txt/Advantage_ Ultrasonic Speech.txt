@@ -1,0 +1,12 @@
+Advantage: Ultrasonic Speech
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ULTRASONIC SPEECH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 or 10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can converse in the ultrasonic range. This advantage includes Ultrahearing, above. Note that many creatures find it intensely annoying or even painful to be within earshot of sustained ultrasonic pitches! Cost depends on your capabilities:
+
+{{Indent}}You can only communicate via Ultrasonic Speech: 0 points.
+
+{{Indent}}You can switch between regular speech and Ultrasonic Speech at will: 10 points.
+|}

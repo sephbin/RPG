@@ -1,0 +1,12 @@
+Skill: Skiing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SKIING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This replaces Hiking skill (p. 200) when you are skiing cross-country and Running skill (p. 218) when you are racing. Roll once per day of routine travel. The GM may require much more frequent skill rolls - usually DX-based - in combat or chases, or for hazardous maneuvers, conditions, or speeds. In those situations, any failure indicates a fall, while critical failure means 1d damage to a randomly chosen limb
+|}

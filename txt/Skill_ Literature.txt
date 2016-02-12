@@ -1,0 +1,14 @@
+Skill: Literature
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LITERATURE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the great writings. A student of literature would be knowledgeable in the realms of old poetry, dusty tomes, criticism, etc. This can be useful for finding clues to hidden treasure, sunken lands, Ancient Secrets, and the like. The work in question must be available in a language you read
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -5 if you're illiterate (see Literacy, p. 24) and relying on oral tradition, save in pre-literate cultures, where this is the norm.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,18 @@
+Disadvantage: Cold-Blooded
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COLD-BLOODED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -10 points''&lt;/font&gt;
+|-
+|{{Indent}}Your body temperature fluctuates with the temperature of the environment. You are less susceptible to damage from high or low body temperature (+2 HT to resist the effects of temperature), and require only 1/3 the food needed by a warm-blooded being of equal mass, but you tend to &quot;stiffen up&quot; in cold weather.
+
+{{Indent}}After 30 minutes in cold conditions (or one hour if you have any level of Temperature Tolerance), you get -1 to Basic Speed and DX per 10° below your &quot;threshold temperature&quot; (see below). At temperatures below 32°, you must roll vs. HT or take 1 HP of damage. Warm clothing gives +2 to this roll.
+
+{{Indent}}You regain lost Basic Speed and DX at the rate of one point of each per hour once you return to a warm climate. Double this rate in an exceptionally warm environment.
+
+{{Indent}}Point value depends on your &quot;threshold temperature&quot;:
+
+{{Indent}}You &quot;stiffen up&quot; below 50°: -5 points.
+
+{{Indent}}You &quot;stiffen up&quot; below 65°: -10 points.
+|}

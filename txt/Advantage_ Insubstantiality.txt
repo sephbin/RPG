@@ -1,0 +1,50 @@
+Advantage: Insubstantiality
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INSUBSTANTIALITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''80 points''&lt;/font&gt;
+|-
+|{{Indent}}You can become intangible, passing through solid objects as though they weren't there. In this state, gravity does not affect you - you can move in any direction at full Move (and make no noise when you move). You can perceive the tangible world, and speak normally to those within it, but you cannot pick up normal objects or affect them in any way.
+
+{{Indent}}Physical and energy attacks cannot harm you, but you're still vulnerable to psionic and (nonmaterial) magical attacks. Likewise, your physical and energy attacks cannot affect physical opponents. Your psi abilities and magic spells can affect the physical world, but at -3 to all skill rolls.
+
+{{Indent}}Although you can pass through solids, you must still breathe. When moving through a solid object, treat this as if you were swimming underwater for purposes of suffocation. You cannot materialize inside a solid object.
+
+{{Indent}}Your &quot;natural&quot; form (physical or insubstantial) is considered a special effect. You must take this advantage if you can change between a physical and an insubstantial form.
+
+{{Indent}}This trait can represent any number of abilities from folklore and fiction. You should work out its origins (see p. 33) and special effects with the GM - perhaps you &quot;vibrate&quot; out of synch with reality, phase into a different dimension, or become a spirit. This determines your appearance, which may be transparent, misty . . . or completely normal (but you can't be invisible without the Invisibility advantage). Your physical and energy attacks affect other beings using the same form of Insubstantiality, and their attacks affect you. The GM may rule that certain materials, energy barriers, magic spells, etc. are impenetrable to your particular form of Insubstantiality.
+
+{{Indent}}Dimensional: The traveler transports himself into a dimension parallel to the physical world. He looks slightly transparent, as if he weren't all there. Any place in the ordinary world that lacks an equivalent location in the other plane is completely off limits. Individuals with dimension-traveling foes often build strongholds in such locales!
+
+{{Indent}}Divine: This represents the ability to assume a &quot;god form&quot; that can roam the mortal world at will. The cleric looks normal except for the addition of something symbolic of his patron; e.g., a wreath of flame, for the Fire God. He can't infiltrate places of no or low sanctity, however; see Special Rules for Divine Powers (p. 175).
+
+{{Indent}}Elemental: The user turns into electricity or light, or vibrates at a weird frequency. He becomes a man-shaped glow, visible shimmering, etc., as befits his element. He can't penetrate barriers that are proof against his element; e.g., a grounded metal cage would exclude an electrical &quot;ghost.&quot; Superscience force fields often block such Insubstantiality.
+
+{{Indent}}Magical, Psionic, or Spirit: The user enters the ethereal, astral, or spirit realm (these might be the same or quite distinct, depending on the setting). His appearance is misty and ghostly, and possibly luminous or shadowy. Shamans with spirit powers often look like beasts. Spells, psi abilities, and sorcerous rituals that obstruct spirits also block this ability.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Affect Substantial: If you have any abilities that can affect the substantial world when you are insubstantial - including magic, psionics, or powers with the Affects Substantial enhancement (p. 102) - this advantage costs more. +100%.
+
+{{Indent}}Can Carry Objects: Normally, you cannot carry anything while insubstantial. This enhancement lets you carry objects, including clothing and armor. They become physical if dropped. You cannot materialize these objects inside other objects or characters. No encumbrance is +10%; Light, &quot;+20%; Medium, +50%; Heavy, +100%.
+
+{{Indent}}Partial Change: You can turn part of your body substantial while other parts remain insubstantial, or vice versa. Thus, you could reach through a wall and tap someone on the shoulder. If you also have Can Carry Objects, you can materialize your hand, pick up material objects, and carry them while insubstantial. +20%, or +100% if you can turn an item you are carrying substantial without dropping it (this requires turning your hand substantial, too).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Always On: You are always insubstantial and cannot materialize. If you have this limitation, there is no -3 to use magic or psionics. -50%.
+
+{{Indent}}Usually On: Similar to Always On, but you can materialize for short periods with great effort. Materialization costs 1 FP per second. -40%.
+
+{{Indent}}No Vertical Move: You can't disregard gravity. You must move across a horizontal surface, or along a slope that wouldn't require Climbing rolls. You still weigh nothing, so you don't leave footprints and can walk on surfaces that wouldn't support a solid body, such as the surface of a body of water. -10%.
+
+{{Indent}}Noisy: You aren't silent. You make noises equivalent to footfalls when moving and breathing at all times, and are no harder to hear than an ordinary human. -5%.
+
+{{Indent}}Projection: Your body doesn't become insubstantial. Instead, it falls unconscious and you step out of it in insubstantial form. Like someone using unmodified Insubstantiality, you're visible and present, making you subject to anything that affects insubstantial entities . . . while your body remains in the physical world, vulnerable to material threats; see Projection (p. 44). You can't use spells, psi abilities, etc. in this form unless you also take Affect Substantial. -50%.
+|}

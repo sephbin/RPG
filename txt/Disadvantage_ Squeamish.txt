@@ -1,0 +1,8 @@
+Disadvantage: Squeamish
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SQUEAMISH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You dislike &quot;yucky stuff&quot;: little bugs and crawly things, blood and dead bodies, slime, etc. When exposed to such things, you react just as if you had a Phobia; see Phobias, p. 148. Note that you do not suffer from the standard fears of insects, reptiles, dirt, and the dead! What bothers you isn't huge bugs or reptiles, ordinary &quot;clean&quot; dirt, and ghosts; it's nasty creepy things, filth, and bits of grue.
+|}

@@ -1,0 +1,20 @@
+Skill: History
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HISTORY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the recorded past (compare Archaeology skill, p. 176). A successful skill roll lets you answer questions about history, and might (at the GM's option) allow you to remember a useful parallel: &quot;Ah, yes. Hannibal faced a situation like this once, and here's what he did . . .&quot;
+
+{{Indent}}You must specialize. There are two general classes of specialty:
+
+{{Indent}}* A limited geographical region - no larger than a small nation - over multiple eras. &lt;i&gt;Examples:&lt;/i&gt; History (Bavarian), History (Irish), or History (New York State)
+
+{{Indent}}* A single era (e.g., Victorian period, 20th century) and one of a broad geographical region (e.g., Europe), a culture (e.g., Muslim), or an idea (e.g., economic, esoteric, or military). &lt;i&gt;Examples:&lt;/i&gt; History (20th-Century American), History (Ottoman Muslim), or History (Napoleonic Military)
+
+{{Indent}}The sheer variety of possible specialties makes it impossible to list all possible defaults. In general, if two specialties overlap at all, then GM should permit a default at -2 to -4
+|}

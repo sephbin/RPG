@@ -1,0 +1,14 @@
+Disadvantage: Fearfulness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FEARFULNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You are nervous and timid.
+
+{{Indent}}Subtract your Fearfulness from your Will whenever you make a Fright Check, and whenever you must resist the Intimidation skill (p. 202) or a supernatural power that causes fear. As well, add your Fearfulness level to all Intimidation rolls made against you.
+
+{{Indent}}You may not reduce your Will roll below 3. For instance, if you have Will 11, you are limited to Fearfulness 8.
+
+{{Indent}}This trait is the opposite of Fearlessness (p. 55); you cannot have both.
+|}

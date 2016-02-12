@@ -1,0 +1,8 @@
+Disadvantage: Low Pain Threshold
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOW PAIN THRESHOLD'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You are very sensitive to pain of all kinds. Double the shock from any injury; e.g., if you take 2 HP of damage, you are at -4 to DX on your next turn. You roll at -4 to resist knockdown, stunning, and physical torture. Whenever you take a wound that does more than 1 HP of damage, you must make a Will roll to avoid crying out. This can give away your presence, and may earn you a -1 reaction from &quot;macho&quot; individuals.
+|}

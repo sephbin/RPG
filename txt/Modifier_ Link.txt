@@ -1,0 +1,10 @@
+Modifier: Link
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LINK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+10% or +20%''&lt;/font&gt;
+|-
+|{{Indent}}You can use two or more advantages simultaneously, as if they were a single ability. For +10%, your abilities are permanently linked into a single power, and must be used together - you cannot use them separately. For +20%, you can also use them separately. You must add this enhancement to all the abilities you wish to link.
+
+{{Indent}}If you link two attacks into one and give them identical Malf., 1/2D, Max, Acc, RoF, Shots, and Recoil, you can treat them as a single attack with one attack roll but separate rolls for damage. This is not the same as the Follow-Up enhancement (p. 105)!
+|}

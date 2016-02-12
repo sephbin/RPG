@@ -1,0 +1,14 @@
+Skill: Leatherworking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LEATHERWORKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to work with leather to make belts, saddles, armor, etc. A successful skill roll lets you repair or create leather goods. Make an IQ-based roll to design items that are more artistic than functional
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); +1 per level of High Manual Dexterity (p. 59), or -3 per level of Ham-Fisted (p. 138).&lt;/i&gt;&lt;/font&gt;
+|}

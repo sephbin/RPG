@@ -1,0 +1,8 @@
+Modifier: Variable
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''VARIABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+5%''&lt;/font&gt;
+|-
+|{{Indent}}You can reduce the level of your attack. For example, if you have an Innate Attack that normally does 3d damage, you could reduce it to 1d or 2d damage. You must indicate this before you make your attack roll.
+|}

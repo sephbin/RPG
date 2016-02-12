@@ -1,0 +1,28 @@
+Skill: Navigation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NAVIGATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to find your position through careful observation of your surroundings and the use of instrumentation. A successful roll tells you where you are or lets you plot a course
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Sea:&lt;/i&gt; Navigation by the stars and ocean currents. &lt;i&gt;Modifiers:&lt;/i&gt; +3 if you have Absolute Direction (p. 34), or a high-tech global positioning system or inertial compass; -5 (and no use of Astronomy default) if you lack hightech aids, the weather is bad, and the stars are hidden. &lt;i&gt;Defaults:&lt;/i&gt; Astronomy-5 or Seamanship-5
+
+{{Indent}}&lt;i&gt;Air:&lt;/i&gt; Navigation by the stars and by the terrain below. Modifiers are as for Navigation (Sea). &lt;i&gt;Default:&lt;/i&gt; Astronomy-5
+
+{{Indent}}&lt;i&gt;Land:&lt;/i&gt; Navigation using landmarks and the stars; also called &quot;orienteering.&lt;i&gt;&quot; Modifiers:&lt;/i&gt; +3 if you have Absolute Direction or a high-tech substitute. &lt;i&gt;Defaults:&lt;/i&gt; IQ-5, Cartography-4, or Mathematics (Surveying)-4
+
+{{Indent}}&lt;i&gt;Space:&lt;/i&gt; Navigating through ordinary interplanetary and interstellar space, usually at less than the speed of light (but some science-fiction &quot;warp drives&quot; let you travel at fasterthan- light speeds in normal space). &lt;i&gt;Modifiers:&lt;/i&gt; +2 for 3D Spatial Sense (p. 34). &lt;i&gt;Defaults:&lt;/i&gt; Astronomy-4 or Mathematics (Applied)-4
+
+{{Indent}}&lt;i&gt;Hyperspace:&lt;/i&gt; Also called &quot;astrogation.&quot; Similar to Navigation (Space), but used when traveling through &quot;jump space&quot; or &quot;hyperspace.&quot; In settings with multiple faster-than-light drive technologies, there may be one Navigation specialty per drive type. Modifiers are as for Navigation (Space). &lt;i&gt;Defaults:&lt;/i&gt; Astronomy-4 or Mathematics (Applied)-4
+
+{{Indent}}Air, Land, and Sea default to one another at -2. Space and Hyperspace default to one another at -5. There are no defaults between these two groups
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -1 to -10 for being in an unfamiliar area (GM's discretion, but an unfamiliar world, star system, etc. should give at least -5); equipment modifiers (p. 345).&lt;/i&gt;&lt;/font&gt;
+|}

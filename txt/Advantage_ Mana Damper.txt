@@ -1,0 +1,21 @@
+Advantage: Mana Damper
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MANA DAMPER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You negate magical energy (&quot;mana&quot;) in your vicinity, making it difficult or impossible for others to cast spells. You can never cast spells yourself, nor can you have any level of Magery.
+
+{{Indent}}Each level of Mana Damper (to a maximum of three) reduces the local mana level by one step, but only for you and people or things that you're carrying. For instance, a wizard could throw a fireball at you unhindered, but he would find it difficult to use magic to turn you to stone or read your mind. For details, see Mana (p. 235).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Area Effect: Your ability affects everything in an area centered on you. The first level of Area Effect gives you a radius of one yard. Each level after the first doubles this radius as usual; see Area Effect (p. 102). +50%/level.
+
+{{Indent}}Switchable: You can switch this power off - for instance, to let a friendly wizard affect you or operate within your area of effect. +100%.
+
+{{Indent}}Discriminatory: You and any allies in your area of effect enjoy the best mana level your ability can provide - highest if casting spells, lowest if resisting them - while enemies in the area suffer the worst level you can generate. This modifier includes Switchable, and replaces the Selective Area enhancement for Mana Damper and Mana Enhancer. +150%.
+|}

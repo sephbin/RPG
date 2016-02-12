@@ -1,0 +1,8 @@
+Disadvantage: Laziness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LAZINESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You are violently averse to labor. Your chances of getting a raise or promotion in any job are halved. If you are self-employed, halve your monthly pay (see Jobs, p. 516). You must avoid work - especially hard work - at all costs. Roleplay it!
+|}

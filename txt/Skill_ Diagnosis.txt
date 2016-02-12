@@ -1,0 +1,14 @@
+Skill: Diagnosis
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DIAGNOSIS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, First Aid-8, Physician-4, or Veterinary-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to tell what is wrong with a sick or injured person, or what killed a dead person. A successful roll gives some information about the patient's problem - limited to realistic knowledge for your tech level. It might not determine the exact problem (if the GM feels the cause is totally beyond your experience, for instance), but it always gives hints, rule out impossibilities, etc. No Diagnosis roll is required for obvious things, like open wounds and missing limbs!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); physiology modifiers (p. 181); -5 for internal injuries; -5 or more for a rare disease.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,22 @@
+Disadvantage: Stress Atavism
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STRESS ATAVISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable*''&lt;/font&gt;
+|-
+|{{Indent}}This disadvantage is normally available only to characters who are members of races &quot;uplifted&quot; from an animal state.
+
+{{Indent}}You temporarily &quot;regress&quot; when frightened, angered, fatigued, or injured. Make a self-control roll in those situations. On a failure, you behave like an animal, acting on impulse and instinct.
+
+{{Indent}}Once the stressful situation has passed, make a self-control roll every minute. If friends comfort you, roll at +2. If one of these people has Animal Empathy or Empathy, apply an additional +2. On a success, the attack ends and you return to normal. If you pass out from fatigue or injury before you succeed, you recover automatically when you wake up.
+
+{{Indent}}Point value depends on the severity of the attacks:
+
+{{Indent}}Mild: You have trouble speaking, and must roll vs. IQ to utter a sentence. You cannot operate complicated machinery, although you may attack wildly with weapons (-4 to hit). -10 points.*
+
+{{Indent}}Moderate: You suffer from all of the above problems, and have trouble understanding commands from others as well: roll vs. IQ to understand a sentence spoken by someone else. If you are attacked or challenged, you must make a self-control roll to avoid acting &quot;on instinct.&quot; -15 points.*
+
+{{Indent}}Severe: You cannot speak or understand others, or use tools (except possibly as clubs), and automatically act on instinct at all times. You behave like your primitive ancestors! -20 points.*
+
+{{Indent}}Stress Atavism may result in additional troublesome behavior. Pick a suitable mental disadvantage, halve its value (drop all fractions), and add this point cost to the above costs before applying the self-control multiplier.
+|}

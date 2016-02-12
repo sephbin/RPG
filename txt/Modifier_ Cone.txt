@@ -1,0 +1,10 @@
+Modifier: Cone
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your attack spreads to affect everyone in a cone-shaped area. Cones use special rules; see Area and Spreading Attacks (p. 413). Decide on the maximum width of the cone, in yards, at the attack's maximum range. Cone costs +50% plus +10% per yard of maximum width.
+
+{{Indent}}You cannot combine Cone with Area Effect, Aura, Jet, Melee Attack, Rapid Fire, or Emanation.
+|}

@@ -1,0 +1,10 @@
+Disadvantage: Short Lifespan
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHORT LIFESPAN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''03/01/2014''&lt;/font&gt;
+|-
+|{{Indent}}Your lifespan is much shorter than the human norm. Each level of this disadvantage halves your lifespan (round down). This affects the age at which you reach maturity, the ages at which aging rolls begin and increase in frequency, and the interval between aging rolls; see the table (above right). No more than four levels are possible. Short Lifespan is often found in conjunction with Self-Destruct (p. 153).
+
+{{Indent}}[[pic]]
+|}

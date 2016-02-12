@@ -1,0 +1,16 @@
+Skill: Streetwise
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STREETWISE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of getting along in rough company. A successful Streetwise roll might let you learn (among other things) where any sort of illegal &quot;action&quot; is; which local cops or bureaucrats can be bought, and for how much; and how to contact the local underworld. Note that you might also be able to get this information by asking a Contact (p. 44). This skill is a measure of your ability to make new connections as needed
+
+{{Indent}}You may substitute an Influence roll against Streetwise for any reaction roll made in an underworld or &quot;bad neighborhood&quot; situation; see Influence Rolls (p. 359)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +3 if you have a tough reputation (either &quot;good&quot; or &quot;bad&quot;) in the area; -3 if you are obviously a stranger in the area. -3 for Low Empathy (p. 142); -1 for Oblivious (p. 146); -1 to -4 for Shyness (p. 154).&lt;/i&gt;&lt;/font&gt;
+|}

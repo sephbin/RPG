@@ -1,0 +1,38 @@
+Modifier: Unreliable
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNRELIABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Sometimes your ability works and sometimes it doesn't! It just comes and goes, and you've never identified why. This is completely separate from any roll normally needed to activate the ability. You can have skill 20 and still have problems making it work!
+
+{{Indent}}Every time you want to use the power, you must roll the activation number (see below) or less on 3d. Once you succeed, the ability will work for that particular use. When you cease to use it, you must make another activation roll to start it again. If you cannot activate your ability on your first attempt, you may try again once per second after that, at no penalty. Each successive attempt costs one FP. If you are reduced to three or fewer FP, you must rest until all FP are regained before you can attempt to use your ability again.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Activation Number||Modifier
+|-
+|5||-80%
+|-
+|8||-40%
+|-
+|11||-20%
+|-
+|14||-10%
+|}
+
+{{Indent}}Unreliable works differently when applied to attacks which are also gadgets or built-in firearms. Instead of requiring an activation roll, it gives a Malfunction number worse than 17.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Malf.||Modifier
+|-
+|12||-25%
+|-
+|13||-20%
+|-
+|14||-15%
+|-
+|15||-10%
+|-
+|16||-5%
+|}
+|}

@@ -1,0 +1,14 @@
+Skill: Forced Entry
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FORCED ENTRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to kick in doors and windows, or demolish them with a crowbar, ram, or sledgehammer, without necessarily being adept at melee combat. Make a skill roll to hit an inanimate object with your foot or an impact weapon. Add +1 per die to basic thrust or swing damage if you have this skill at DX+1, +2 per die if you know it at DX+2 or better. Add a similar bonus (+1 or +2) to ST rolls made for forced entry. The damage bonus also applies when you use Melee Weapon skills to wreck inanimate objects out of combat
+
+{{Indent}}For subtle break-ins, use Lockpicking skill (p. 206)
+|}

@@ -1,0 +1,16 @@
+Disadvantage: Bad Back
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BAD BACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 or -25 points''&lt;/font&gt;
+|-
+|{{Indent}}For whatever reason, your spinal column is in bad shape. During strenuous physical activity, you may &quot;throw your back&quot; and suffer crippling pain or further injury. Whenever you make a ST roll, and whenever you roll 17 or 18 on an attack or defense roll in melee combat, or on a roll for an &quot;athletic&quot; skill such as Acrobatics, make a HT roll as well.
+
+{{Indent}}Modifiers: Any modifiers to the success roll for the activity that triggered the HT roll. For a long task that allows the luxury of planning, you can try to minimize the strain on your back; a successful IQ-2 or Physiology+4 roll gives +2 on the HT roll.
+
+{{Indent}}On a failure, you throw your back. Consequences depend on the severity of your case:
+
+{{Indent}}Mild: You are at -3 DX until you rest or someone helps you; a First Aid- 2 roll will reset your back. You are also at -3 IQ, but during the next second only (for your next turn, in combat). On a critical failure, you are at -5 DX and must make a Will roll to perform any physical action. -15 points.
+
+{{Indent}}Severe: The HT roll is at -2. On a failure, DX and IQ are both at -4 until you receive rest or help; you are in constant agony. On a critical failure, you take 1d-3 damage and are at -6 DX and -4 IQ. -25 points. High Pain Threshold (p. 59) halves all DX and IQ penalties (drop fractions), but does not eliminate them completely.
+|}

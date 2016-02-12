@@ -1,0 +1,14 @@
+Skill: Criminology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CRIMINOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Psychology-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of crime and the criminal mind. A successful skill roll allows you to find and interpret clues, guess how criminals might behave, etc. Though this skill does not actually default to Streetwise, the GM might allow a Streetwise roll instead in certain situations - especially to predict or outguess a criminal
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -3 for Low Empathy (p. 142).&lt;/i&gt;&lt;/font&gt;
+|}

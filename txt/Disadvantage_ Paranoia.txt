@@ -1,0 +1,8 @@
+Disadvantage: Paranoia
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PARANOIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You are out of touch with reality, and think that everyone is plotting against you. You never trust anyone except old friends . . . and you keep an eye on them, too, just in case. Most people, understandably, react to you at -2. A paranoid NPC reacts at -4 toward any stranger, and any &quot;legitimate&quot; reaction penalty (e.g., for an unfriendly race or nationality) is doubled. Paranoia goes very well with Delusions (p. 130), which of course have their own disadvantage value!
+|}

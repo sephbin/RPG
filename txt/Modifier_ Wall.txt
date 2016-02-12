@@ -1,0 +1,18 @@
+Modifier: Wall
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WALL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+30% or +60%''&lt;/font&gt;
+|-
+|{{Indent}}You may only add this enhancement to an attack that has both Area Effect (p. 102) and Persistent (p. 107).
+
+{{Indent}}For +30%, you can set up your Area Effect as a wall filled with the substance or effect of your ability. This affects anyone or anything passing through it. You get a three-yard-long by one-yard-wide wall per yard of radius in your area.
+
+{{Indent}}For +60%, your wall works as above, but you can form it into any shape you choose.
+
+{{Indent}}You must define your wall as either permeable or rigid:
+
+{{Indent}}Permeable: The wall is composed of liquid, gas, energy, or an amorphous solid (e.g., thorn bushes). It impedes vision, and inflicts damage on anyone who attempts to cross it, but an intruder can traverse it provided he is not stunned, knocked out, killed, etc. by its effects. Anything effective against the substance of the wall will disperse it; e.g., water or a fire extinguisher could extinguish a wall of fire.
+
+{{Indent}}Rigid: The wall is a material barrier. This is only possible for Innate Attacks that deal crushing, cutting, impaling, or piercing damage. Each yard of wall has DR 3 and 1/2 HP per die of damage (round up); e.g., a 6d attack produces a wall with DR 18 and 3 HP. The wall does no damage itself, but the damage type applies to the injury inflicted on anyone crashing into it.
+|}

@@ -1,0 +1,14 @@
+Skill: Performance
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PERFORMANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Acting-2, or Public Speaking-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to act on the stage or screen. It is different from Acting in that you are trying to impress and entertain people - not deceive them. If you studied this skill formally, it includes the knowledge expected of a professional actor from your culture and tech level (stage directions, actor-agent-producer relations, etc.)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 for Voice (p. 97); -1 to -4 for Shyness (p. 154); -2 for Stuttering (p. 157).&lt;/i&gt;&lt;/font&gt;
+|}

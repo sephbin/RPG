@@ -1,0 +1,26 @@
+Modifier: Damage Limitations
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DAMAGE LIMITATIONS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You may add the following limitations to an Innate Attack:
+
+{{Indent}}No Blunt Trauma (nbt)
+
+{{Indent}}-0.2
+
+{{Indent}}An attack that inflicts crushing, cutting, impaling, or piercing damage normally inflicts blunt trauma (see p. 379). Add this limitation if it does not.
+
+{{Indent}}No Knockback (nkb)
+
+{{Indent}}-0.1
+
+{{Indent}}An attack that inflicts crushing or cutting damage normally inflicts knockback (see p. 378). Add this limitation if it does not.
+
+{{Indent}}No Wounding (nw)
+
+{{Indent}}-0.5
+
+{{Indent}}The attack inflicts basic damage, and may cause knockback and blunt trauma, but its penetrating damage has no wounding effect (HP or FP loss). Apply this limitation to a crushing attack to represent effects such as a mighty gust of wind or jet of water. Use it with impaling, piercing, or cutting attacks that are carriers for Afflictions or Innate Attacks (usually those that inflict fatigue or toxic damage) with the Follow-Up modifier (p. 105); this represents small poison darts, stings, etc. that can slip through armor without inflicting grievous wounds.
+|}

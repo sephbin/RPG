@@ -1,0 +1,28 @@
+Modifier: Limited Use
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIMITED USE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You can use your ability only a limited number of times in a 24-hour period. For most advantages, each &quot;use&quot; is 1 minute of activation. For an attack, each &quot;use&quot; gives shots equal to your RoF, with a minimum one shot per use; for instance, three uses of an attack with RoF 2 would give six shots. The value depends on the number of uses you get.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Uses Per Day||Modifier
+|-
+|1||-40%
+|-
+|2||-30%
+|-
+|3-4||-20%
+|-
+|5-10||-10%
+|}
+
+{{Indent}}More than 10 uses per day is not a significant limitation.
+
+{{Indent}}Two special options are available for attacks (and optionally, other abilities) that have this enhancement:
+
+{{Indent}}Fast Reload: You can replace all your uses in 3 to 5 seconds simply by replenishing ammunition. The GM determines the weight and cost of the ammunition. This halves the value of the limitation; e.g., three or four uses would be worth only -10%.
+
+{{Indent}}Slow Reload: As above, except if you have two or more shots (not uses!) you must reload each shot individually (taking 3 or more seconds per shot). If you have only one shot, it must take at least 6 seconds to reload - possibly longer, if using this limitation to represent a very slow-firing weapon such as a flintlock. This makes the limitation worth 5% less than usual; e.g., three or four uses would be worth only -15%.
+|}

@@ -1,0 +1,22 @@
+Skill: Breaking Blow
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BREAKING BLOW'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Trained By A Master
+
+{{Indent}}This skill allows you to find the weakest spot in any object when making a barehanded attack. Each attack requires a separate Breaking Blow roll. Roll against skill after you hit. Breaking Blow costs 1 FP per attempt, whether or not you hit
+
+{{Indent}}On a success, your attack gains an armor divisor of (5) against any braced, inanimate, homogenous target (see Injury to Unliving, Homogenous, and Diffuse Targets, p. 380), and you may treat the target as if it were Fragile (Brittle) (p. 136) for this one attack
+
+{{Indent}}In a cinematic game, you are not limited to inanimate targets. Your armor divisor affects any artificial armor or force field (not natural DR), and you may treat homogenous opponents as if they were Fragile (Brittle)!
+
+{{Indent}}On a failure, your attack gains no special benefits. On a critical failure, you do the damage to your own hand or foot
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -10 if used instantly, dropping to -5 after 1 turn of concentration, -4 after 2 turns, -3 after 4 turns, -2 after 8 turns, -1 after 16 turns, and no penalty after 32 turns. -1 if your target is wood or plastic, -3 if brick or stone, or -5 if metal or hightech composites.&lt;/i&gt;&lt;/font&gt;
+|}

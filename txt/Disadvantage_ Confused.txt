@@ -1,0 +1,12 @@
+Disadvantage: Confused
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONFUSED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}To you, the world seems a strange and incomprehensible place most of the time. You are not necessarily stupid, but you are slow to pick up on new facts or situations.
+
+{{Indent}}In particular, you respond poorly to excessive stimulation. When alone in the peace and quiet of your own home, you function normally. But in a strange place, or when there's a commotion going on, you must make a self-control roll. On a failure, you freeze up instead of taking decisive or appropriate action. This often prevents you from making Tactics rolls and engaging in other sorts of longrange planning. The GM should adjust the self-control roll in accordance with the stimuli in the area. To resist confusion from two friends chatting quietly in a familiar room would require an unmodified roll, but a nightclub with flashing lights and pounding music might give -5, and a full-scale riot or battle would give -10!
+
+{{Indent}}If this disadvantage strikes in combat, you must take the Do Nothing maneuver each turn. You are not stunned, and if you are directly and physically attacked, you can defend yourself normally. You can even launch a counterattack against that one foe. But you never act - only react.
+|}

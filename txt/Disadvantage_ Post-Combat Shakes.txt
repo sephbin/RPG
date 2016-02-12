@@ -1,0 +1,8 @@
+Disadvantage: Post-Combat Shakes
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POST-COMBAT SHAKES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are shaken and sickened by combat, but only after it's over. Make a self-control roll at the end of any battle. It is up to the GM to determine when a battle has truly ended, and he may apply a penalty if the combat was particularly dangerous or gruesome. If you fail, roll 3d, add the amount by which you failed your self-control roll, and look up the result on the Fright Check Table (p. 360). For instance, if your self-control number is 12 but you rolled a 14, roll 3d+2 on the table. The result from the table affects you immediately!
+|}

@@ -1,0 +1,8 @@
+Disadvantage: Hidebound
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HIDEBOUND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You find it difficult to come up with an original thought. You have a -2 penalty on any task that requires creativity or invention, including most rolls against Artist skill, all Engineer rolls for new inventions, and all skill rolls made to use the Gadgeteer advantage.
+|}

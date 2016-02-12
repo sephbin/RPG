@@ -1,0 +1,8 @@
+Disadvantage: Hard of Hearing
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HARD OF HEARING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You are not deaf, but you have some hearing loss. You are at -4 on any Hearing roll, and on any skill roll where it is important that you understand someone (if you are the one talking, this disadvantage doesn't affect you).
+|}

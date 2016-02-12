@@ -1,0 +1,22 @@
+Skill: Beam Weapons
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BEAM WEAPONS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use beam small arms. You must specialize by weapon type:
+
+{{Indent}}&lt;i&gt;Pistol:&lt;/i&gt; Any handgun that fires an energy or particle beam
+
+{{Indent}}&lt;i&gt;Projector:&lt;/i&gt; Any energy weapon that emits an area-effect cone or field
+
+{{Indent}}&lt;i&gt;Rifle:&lt;/i&gt; Any long arm that fires an energy or particle beam
+
+{{Indent}}These specialties default to one another at -4. Treat specific beam types (blaster, laser, stunner, etc.) as familiarities. Other modifiers are as per Guns (p. 198). In settings with both beam and projectile weapons, the Pistol and Rifle specialties of Beam Weapons default to the similarly named Guns specialties at -4, and vice versa
+
+{{Indent}}See Artillery (p. 178) and Gunner (p. 198) for heavier beam weapons
+|}

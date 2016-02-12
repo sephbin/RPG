@@ -1,0 +1,8 @@
+Modifier: Affects Insubstantial
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AFFECTS INSUBSTANTIAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%''&lt;/font&gt;
+|-
+|{{Indent}}Your ability affects insubstantial targets in addition to normal, substantial things.
+|}

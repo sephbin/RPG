@@ -1,0 +1,10 @@
+Advantage: Sanitized Metabolism
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SANITIZED METABOLISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''1 point''&lt;/font&gt;
+|-
+|{{Indent}}You are totally clean. Your body produces minimal, sanitized waste products, and you never suffer from bad breath, excessive perspiration, or unsightly skin problems. This gives -1 to attempts to track you by scent and +1 to reaction rolls in close confines (cramped spaceships, submarines, elevators, etc.).
+
+|}
+[[Category: Perks]]

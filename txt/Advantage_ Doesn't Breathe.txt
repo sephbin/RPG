@@ -1,0 +1,21 @@
+Advantage: Doesn't Breathe
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DOESN'T BREATHE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points''&lt;/font&gt;
+|-
+|{{Indent}}You do not breathe or require oxygen. Choking and strangulation attempts cannot harm (or silence!) you, and you are immune to inhaled toxins. You are still affected by contact poisons, pressure, and vacuum; take Sealed (p. 82), Pressure Support (p. 77), and Vacuum Support (p. 96), respectively, to resist those threats.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Gills: You can extract oxygen from water, allowing you to remain submerged indefinitely. You suffocate if the water contains no dissolved oxygen. You are immune to strangulation and &quot;the bends.&quot; If you can only survive underwater, and suffocate in air as quickly as a normal human would drown underwater, Doesn't Breathe (Gills) is a 0-point feature; otherwise, -50%.
+
+{{Indent}}Oxygen Absorption: As Gills, but you can absorb oxygen through the surface of your body whether it is in the air, a liquid, or another medium. Your body does not absorb poisonous gases, but you will suffocate if there is no oxygen available. You can use breathing equipment in space (your lungs are capable of working normally). You may not have the Sealed advantage. -25%.
+
+{{Indent}}Oxygen Combustion: As Oxygen Absorption, but you cannot breathe underwater or anywhere else fire cannot burn. -50%.
+
+{{Indent}}Oxygen Storage: You need to breathe, but you can go for extended periods of time without doing so; perhaps you store oxygen (like a whale) or have superior blood oxygenation. This differs from Breath-Holding in that you are completely immune to &quot;the bends&quot; while your oxygen supply holds out. If you can effectively &quot;hold your breath&quot; for 25 times as long as usual, this is -50%; 50 times, -40%; 100 times, -30%; 200 times, -20%; 300 times, -10%.
+|}

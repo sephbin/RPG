@@ -1,0 +1,8 @@
+Disadvantage: Skinny
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SKINNY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have approximately 2/3 the average weight for your ST. This gives you -2 to ST when you resist knockback. You get -2 to Disguise – or to Shadowing, if you are trying to follow someone in a crowd. Your HT may not be above 14.
+|}

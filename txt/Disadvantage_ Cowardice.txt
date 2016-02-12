@@ -1,0 +1,14 @@
+Disadvantage: Cowardice
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COWARDICE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are extremely careful about your physical well-being. Make a selfcontrol roll any time you are called on to risk physical danger. Roll at -5 if you must risk death. If you fail, you must refuse to endanger yourself unless threatened with greater danger!
+
+{{Indent}}Cowardice gives a penalty to Fright Checks whenever physical danger is involved:
+
+{{Indent}}[[pic]]
+
+{{Indent}}In some times and places, soldiers, police, etc., react to you at a similar penalty if they know you are a coward.
+|}

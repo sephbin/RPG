@@ -1,0 +1,8 @@
+Disadvantage: Semi-Upright
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SEMI-UPRIGHT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a semi-upright posture, like a chimpanzee. You can stand up more-or-less comfortably, allowing you to use your forelimbs to bash enemies, hold babies, or even manipulate objects. You can manage a clumsy gait while upright (-40% to Move), but you must use all of your limbs to run at full Move. If you have DX 12 or more, you can carry a small object or two while walking.
+|}

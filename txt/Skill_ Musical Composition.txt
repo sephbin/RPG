@@ -1,0 +1,18 @@
+Skill: Musical Composition
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MUSICAL COMPOSITION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Musical Instrument-2, or to Poetry-2 for song.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to compose a piece of music. A successful skill roll means the piece is a pleasant listening experience
+
+{{Indent}}To compose for an ensemble or band without a conductor, you must have a skill level of IQ with at least one instrument in the composition and a skill level of IQ-2 with the rest. Roll at -1 per &quot;instrument group&quot; after the first used in the piece; e.g., a jazz composition for a saxophone section, drums, and bass would require a roll at -2
+
+{{Indent}}To compose for an orchestra or band with a conductor requires Group Performance (Conducting) skill (p. 198) at IQ level. Roll at -1 per general class of instruments after the first used in the piece. Classes include brass, percussion, strings, and woodwinds. Treat choir, harp, organ, or piano as its own class
+
+{{Indent}}This skill includes the ability to read, write, and transcribe music in your culture's notation system (if any). Treat different systems - and different musical traditions - as familiarities (see Familiarity, p. 169)
+|}

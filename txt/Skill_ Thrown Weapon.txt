@@ -1,0 +1,26 @@
+Skill: Thrown Weapon
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''THROWN WEAPON'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-4 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to hurl any one type of thrown weapon. You must specialize:
+
+{{Indent}}&lt;i&gt;Axe/Mace:&lt;/i&gt; Any axe, hatchet, or mace balanced for throwing (but not an unbalanced battleaxe or maul!)
+
+{{Indent}}&lt;i&gt;Dart:&lt;/i&gt; Any sort of small, finned dart. Games (Darts) defaults to this skill at no penalty. &lt;i&gt;Default:&lt;/i&gt; Throwing-2
+
+{{Indent}}&lt;i&gt;Harpoon:&lt;/i&gt; Any sort of tethered spear. &lt;i&gt;Default:&lt;/i&gt; Thrown Weapon (Spear)-2
+
+{{Indent}}&lt;i&gt;Knife:&lt;/i&gt; Any sort of knife
+
+{{Indent}}&lt;i&gt;Shuriken:&lt;/i&gt; Any sort of hiltless blade, notably shuriken (&quot;ninja stars&quot;). &lt;i&gt;Default:&lt;/i&gt; Throwing-2
+
+{{Indent}}&lt;i&gt;Spear:&lt;/i&gt; Any sort of spear, javelin, etc. &lt;i&gt;Defaults:&lt;/i&gt; Spear Thrower-4 or Thrown Weapon (Harpoon)-2
+
+{{Indent}}&lt;i&gt;Stick:&lt;/i&gt; Any balanced and shaped throwing stick, such as a boomerang. This type of throwing stick does not return to the user
+|}

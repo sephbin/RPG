@@ -1,0 +1,12 @@
+Disadvantage: Curious
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CURIOUS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are naturally very inquisitive. This is not the curiosity that affects all PCs (&quot;What's in that cave? Where did the flying saucer come from?&quot;), but the real thing (&quot;What happens if I push this button?&quot;).
+
+{{Indent}}Make a self-control roll when presented with an interesting item or situation. If you fail, you examine it - push buttons, pull levers, open doors, unwrap presents, etc. - even if you know it could be dangerous. Good roleplayers won't try to make this roll very often . . .
+
+{{Indent}}In general, you do everything in your power to investigate any situation with which you aren't 100% familiar. When faced with a real mystery, you simply cannot turn your back on it. You try to rationalize your curiosity to others who try to talk you out of it. Common Sense doesn't help - you know you are taking a risk, but you're curious anyway!
+|}

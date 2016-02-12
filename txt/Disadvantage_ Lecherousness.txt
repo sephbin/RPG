@@ -1,0 +1,12 @@
+Disadvantage: Lecherousness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LECHEROUSNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You have an unusually strong desire for romance. Make a self-control roll whenever you have more than the briefest contact with an appealing member of the sex you find attractive - at -5 if this person is Handsome/Beautiful, or at -10 if Very Handsome/Very Beautiful. If you fail, you must make a &quot;pass,&quot; using whatever wiles and skills you can bring to bear. You must then suffer the consequences of your actions, successful or not: physical retribution, jail, communicable disease, or (possibly) an adoring new friend.
+
+{{Indent}}Unless the object of your affection is Very Handsome/Very Beautiful, you need not roll more than once a day to avoid making a pass. If someone turns you down very firmly (e.g., a black eye, or an arrest for sexual harassment) the GM may give you a bonus to future self-control rolls regarding that individual . . .
+
+{{Indent}}Note that you are likely to change your standards of attractiveness if no truly attractive members of the appropriate sex are available!
+|}

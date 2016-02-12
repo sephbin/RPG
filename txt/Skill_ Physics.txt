@@ -1,0 +1,16 @@
+Skill: Physics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHYSICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Mathematics (Applied) at TL5+
+
+{{Indent}}This is the science dealing with the properties and interactions of matter and energy. Beyond the basics (such as the behavior of moving bodies), a physicist's knowledge includes whatever is understood about electricity, gravity, heat, light, magnetism, radiation, and sound at his tech level
+
+{{Indent}}At TL6+, most physicists have an optional specialty (p. 169): acoustics, astrophysics, geophysics, nuclear physics, optics, particle physics, quantum physics, relativity, solid-state physics, etc. Some settings offer exotic options, such as hyperspace physics (the science of hyperspace and jump points), parachronic physics (the study of other realities and timelines), paraphysics (the physics of psi phenomena), probability physics (the study of probability manipulation), and temporal physics (the science of time travel)
+|}

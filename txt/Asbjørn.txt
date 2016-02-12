@@ -1,0 +1,187 @@
+Asbjørn
+[[File:Asbjorn_Brown_002.jpg|thumb|Asbjørn]]
+The Asbjørn are one of several sentient races created by the [[Mortal Gods]]. [[Laurel the Balanced]] created the Asbjørn, in the image of herself, a bear. There are three types of Asbjørn; Black, Brown and White, each with their own physical and mental differences. The Asbjørn created a civilisation at the very bottom of {{ap_bcontinent}}. It was considered primitive, with stone age construction methods, but it was large and powerful, a true symbol of Laurel's might. Many generations ago, this civilisation was lost, to a strange power the Asbjørn call the [[Vitsketurthoka]]. The Asbjørn in the region grew mad, they lost their reasoning and logic, the language dissipated first, then their social order and safety. There was a major exodus of Asbjørn from the region. All that stayed were doomed to roaming the area destroying what they could get their paws on. All that are left are what is maintaining the Asbjørn race and culture. No Asbjørn would dare go back to {{ap_asbland}}, for fear of loosing their mind. [[Laurel]] herself lives outside of the madness zone, and other races that attempt to travel through the area are met with the chaotic beasts of nightmares.
+
+{{ap_asbcap}} was the hub of all Asbjørn life in {{ap_asbland}}. Tucked away in a large valley system the Asbjørn discovered a series of canyons, from rivers long lost to time. Within the tight canyon system they created {{ap_asbcap}}, dug into the walls of the canyon, with bridges and platforms between the walls. Not far below, the [[River Koba]][[File:RiverKoba_001.jpg|thumb|The River Koba]] provided fresh water, trade and delicious fresh water fish, such as the [[Koba Carp]] and the [[Glimmerfin Salmon]]. {{ap_asbcap}} was fortunate enough to have a major [[Nodes|node]] under the earth, all travellers in the area knew exactly where they were relative to the capital, and once you crest over the [[Czozra Mountains]] the outstanding city was layed below.
+Now, it is a ghost of the past. The city is abandoned, with only occasional travellers visiting to record its current state.
+All Asbjørn still consider the place as home.
+=Characters=
+The Asbjørn are a mighty race, and although they can be untrusted within civilisation, their history shines with courageous heroes and brutal villains.
+==Player Characters==
+;[[Gyanar|Gyanar the Seeker, Priestess of Laurel]]: Gyanar boasts a honoured priveledge given to few Asbjørn, a direct blessing from Laurel herself. Laurel charged Gyanar to search out the source of the Vitsketuthoka, and destroy it. Currently this quest hasn't been fullfilled, although Gyanar's travels have taken her far and wide, and she holds the secret to what causes the great Asbjørn madness. The solution does not seem that achievable...
+
+
+;[[Axel Svärdstein]]: Axel is an unusual White Asbjørn. He managed to maintain sanity in the Vitsketurthoka long enough to escape. The normally untrusting Svell Dwarves took him in, using him as a competant logging guard.
+
+=System Conversions=
+As Eorith can be played in various RPG systems, rules have been provided to play an Asbjørn in Pathfinder and various d20 systems, GURPS and Rolemaster. Please consider that various capabilities may change from system to system to allow for balanced play. At all times the GURPS version is considered canon.
+
+==GURPS==
+{{Asbjorn}}
+
+==Rolemaster Stats==
+{| class=&quot;wikitable&quot;
+|-
+| '''Game Mechanic'''
+| '''Value'''
+| '''Pts.'''
+|-
+| Body Development
+| 0&amp;bull;7&amp;bull;5&amp;bull;3&amp;bull;1
+| 15
+|-
+| Channeling PPs
+| 0&amp;bull;6&amp;bull;4&amp;bull;3&amp;bull;2
+| 5
+|-
+| Essence PPs
+| 0&amp;bull;2&amp;bull;1&amp;bull;1&amp;bull;1
+| -25
+|-
+| Mentalism PPs
+| 0&amp;bull;4&amp;bull;3&amp;bull;2&amp;bull;1
+| -10
+|-
+| Lifespan
+| 100 years
+| 0
+|-
+| '''Resistance Roll Modifiers:'''
+| 
+| 
+|-
+| &amp;mdash; Essence
+| +30
+| 13
+|-
+| &amp;mdash; Channeling
+| -10
+| -10
+|-
+| &amp;mdash; Mentalism
+| +30
+| 13
+|-
+| &amp;mdash; Poison
+| +0
+| 0
+|-
+| &amp;mdash; Disease
+| +0
+| 0
+|-
+| Soul Departure
+| 12 rounds
+| 0
+|-
+| '''Starting Languages:'''
+| 2
+| 0
+|-
+| &amp;mdash; Asbj&amp;oslash;rn
+| (S9/W4)
+| 3
+|-
+| &amp;mdash; Common-speech
+| (S6/W0)
+| 5
+|-
+| Size
+| 8&quot;-10&quot;
+| 10
+|-
+| Required Sleep
+| 2 hours
+| 10
+|-
+| Endurance
+| +30 Exh
+| 12
+|-
+| Recovery Multiplier
+| 1 x Norm
+| 0
+|-
+| Race type
+| 1
+| 10
+|-
+| Adolescent skill ranks
+| 55 ranks
+| 5
+|-
+| '''Stat Bonuses:''' 
+|
+|
+|-
+| &amp;mdash; Agility
+| +2
+| 5
+|-
+| &amp;mdash; Constitution
+| +5
+| 25
+|-
+| &amp;mdash; Memory
+| -5
+| -13
+|-
+| &amp;mdash; Reasoning
+| 0
+| 0
+|-
+| &amp;mdash; Self-Discipline
+| +4
+| 10
+|-
+| &amp;mdash; Empathy
+| 0
+| 0
+|-
+| &amp;mdash; Intuition
+| +4
+| 10
+|-
+| &amp;mdash; Presence
+| +3
+| 7
+|-
+| &amp;mdash; Quickness
+| 0
+| 0
+|-
+| &amp;mdash; Strength
+| +5
+| 25
+|-
+| '''Everyman skills:'''
+| 10
+| 10
+|-
+| &amp;mdash; 
+| 
+| 
+|-
+| '''Restricted Skills:'''
+| 3
+| -6
+|-
+| &amp;mdash; 
+| 
+| 
+|-
+| Cold Resistance
+| +60
+| 30
+|-
+| Natural Weapon (Claws)
+| 
+| 15
+|-
+| Available Talent Points
+| 40
+| 
+|}
+
+
+[[Category:Races]]

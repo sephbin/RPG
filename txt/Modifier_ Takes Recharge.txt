@@ -1,0 +1,8 @@
+Modifier: Takes Recharge
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TAKES RECHARGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your ability requires &quot;recharging&quot; after each use. It is unavailable during the recharge period. Value depends on the time between uses: five seconds (or twice the time required to use the ability, if longer) is -10%, 15 seconds (or 5 times the time required to use the ability, if longer) is -20%, and one hour (or 10 times the time required to use the ability, if longer) is -30%. Longer recharge times are not valid as limitations (but see Limited Use, p. 112).
+|}

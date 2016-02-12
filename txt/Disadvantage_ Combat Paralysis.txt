@@ -1,0 +1,14 @@
+Disadvantage: Combat Paralysis
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMBAT PARALYSIS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You tend to &quot;freeze up&quot; in combat situations, and receive -2 to all Fright Checks. This has nothing to do with Cowardice (p. 129) - you may be brave, but your body betrays you.
+
+{{Indent}}In any situation in which personal harm seems imminent, make a HT roll. Do not roll until the instant you need to fight, run, pull the trigger, or whatever. Any roll over 13 is a failure, even if you have HT 14+. On a success, you can act normally. On a failure, you are mentally stunned (see Effects of Stun, p. 420). Make another HT roll every second, at a cumulative +1 per turn after the first, to break the freeze. A quick slap from a friend gives +1 to your cumulative roll.
+
+{{Indent}}Once you unfreeze, you will not freeze again until the immediate danger is over. Then, in the next dangerous situation, you may freeze once again.
+
+{{Indent}}This trait is the opposite of Combat Reflexes (p. 43). You cannot have both.
+|}

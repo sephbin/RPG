@@ -1,0 +1,16 @@
+Skill: Heraldry
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HERALDRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Savoir-Faire (High Society)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of recognizing and designing coats of arms, crests, flags, tartans, and other emblems. A successful roll lets you recognize a knight or a noble from his banner or shield, create attractive and proper arms (without conflicting with existing designs), etc
+
+{{Indent}}In some settings, you might have to specialize in a particular type of Heraldry: Coats of Arms (the usual specialty, described above), Corporate Logos (defaults to Current Affairs (Business)-3), or even Graffiti Tags (defaults to Streetwise-3)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Cultural Familiarity modifiers (p. 23). Up to +5 to recognize a well-known design, and down to -5 for an obscure design or one that was retired long ago.&lt;/i&gt;&lt;/font&gt;
+|}

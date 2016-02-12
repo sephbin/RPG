@@ -1,0 +1,70 @@
+Modifier: Damage Modifiers
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DAMAGE MODIFIERS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You may give an Innate Attack one or more of these modifiers to further qualify the way it does damage.
+
+{{Indent}}Double Blunt Trauma (dbt)
+
+{{Indent}}0.2
+
+{{Indent}}Available for Innate Attacks that do burning, corrosion, cutting, impaling, or piercing damage. Burning and corrosion attacks enhanced this way inflict 1 HP of blunt trauma injury per 10 points of basic damage resisted by flexible armor. Cutting, impaling, and piercing attacks with this enhancement inflict the same blunt trauma as a crushing attack: 1 HP of blunt trauma injury per 5 points of basic damage resisted by flexible armor.
+
+{{Indent}}Double Knockback (dkb)
+
+{{Indent}}0.2
+
+{{Indent}}This lets a crushing or cutting attack inflict twice as much knockback as usual; see Knockback (p. 378).
+
+{{Indent}}Explosion (exp)
+
+{{Indent}}+50%/level
+
+{{Indent}}The attack produces an explosion at the point of impact (on a miss, check for scatter; see p. 414). The target takes damage normally; anything nearby receives &quot;collateral damage&quot; equal to basic damage divided (3 x the distance in yards from the blast). If the attack also has an Armor Divisor (p. 102), it does not apply to this collateral damage.
+
+{{Indent}}You can take up to two additional levels of Explosion if you desire a blast that isn't as affected by distance. The second level divides basic damage by twice the distance in yards and is +100%; the third level divides damage by the distance in yards and is +150%.
+
+{{Indent}}Explosion is usually limited to crushing and burning attacks, but the GM may permit other combinations.
+
+{{Indent}}For more on explosions, see Explosions (p. 414).
+
+{{Indent}}Fragmentation (frag)
+
+{{Indent}}+15% per die
+
+{{Indent}}The attack scatters damaging fragments on impact. Decide on the dice of fragmentation damage and note this in brackets after the attack's basic damage. Everyone within 5 yards per die of fragmentation damage is attacked with effective skill 15, modified by range penalties from the point of impact; see Fragmentation Damage (p. 414).
+
+{{Indent}}Fragments inflict cutting damage. If you add Fragmentation to a burning attack or one with the Incendiary enhancement (below), the fragments are Incendiary at no extra cost. If you apply it to an attack with Follow-Up (p. 105), penetration indicates the fragments automatically hit the victim but no one else. Fragmentation often accompanies Explosion (above), but this is not required.
+
+{{Indent}}Fragmentation costs +15% per die of fragmentation damage. A damage of [2d] or [3d] is typical of a grenadesized blast. Maximum fragmentation damage is [12d] or the attack's basic damage, whichever is less.
+
+{{Indent}}Hot Fragments: The fragments inflict burning damage with the modifiers Cyclic (Six 10-second cycles) and Armor Divisor (0.2) instead of cutting damage. Cost is unchanged.
+
+{{Indent}}Hazard
+
+{{Indent}}Variable
+
+{{Indent}}You may give an Innate Attack that inflicts fatigue damage one of these enhancements: Dehydration, +20%; Drowning, +0%; Freezing, +20%; Missed Sleep, +50%; Starvation, +40%; or Suffocation, +0%. Treat FP lost to the attack identically to FP lost to the relevant hazard for all purposes, notably recovery (see Chapter 14).
+
+{{Indent}}Traits that protect the target from the hazard in question also shield him from this damage. For instance, a Starvation attack would inflict FP that could only be recovered by eating a meal, but someone with Doesn't Eat or Drink would be immune.
+
+{{Indent}}Incendiary (inc)
+
+{{Indent}}0.1
+
+{{Indent}}An Innate Attack other than a burning attack may be Incendiary. This gives the damage a secondary flame effect that can ignite volatile material (fuel, dry tinder, etc.).
+
+{{Indent}}Radiation (rad)
+
+{{Indent}}+25% or +100%
+
+{{Indent}}The attack irradiates the subject. Roll damage normally, but whether or not the attack penetrates DR, it inflicts 1 rad per point of basic damage rolled. See Radiation (p. 435) for effects. For a toxic attack, this dosage is instead of regular damage, and the enhancement is worth +25%; this is typical of &quot;ordinary&quot; radioactivity. For a burning attack, the radiation dose is as well as regular damage, and the enhancement is +100%; use this for particle beams. Other damage types cannot have this enhancement.
+
+{{Indent}}Surge (sur)
+
+{{Indent}}0.2
+
+{{Indent}}The attack produces an electrical surge or pulse that can disable electronics or anything with the Electrical disadvantage (p. 134).
+|}

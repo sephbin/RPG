@@ -1,0 +1,22 @@
+Skill: Paleontology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PALEONTOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Biology-4 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the science of fossil study. Make a skill roll to recognize fossils or to deduce an organism's habitat, structure, etc. from fossil evidence. A successful roll - with equipment modifiers (p. 345) for lab facilities - identifies the approximate age of a fossil
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Micropaleontology:&lt;/i&gt; The study of fossils too small to be seen with the naked eye. This skill requires a lab
+
+{{Indent}}&lt;i&gt;Paleoanthropology:&lt;/i&gt; The study of human fossils and tools, and the relation of primitive tribes to their habitats. Also defaults to Anthropology-2
+
+{{Indent}}&lt;i&gt;Paleobotany:&lt;/i&gt; The study of vegetable fossils
+
+{{Indent}}&lt;i&gt;Paleozoology:&lt;/i&gt; The study of prehistoric animals from fossilized bones, food, feces, footprints, etc. These specialties default to one another at -2
+|}

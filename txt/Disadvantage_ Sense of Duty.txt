@@ -1,0 +1,26 @@
+Disadvantage: Sense of Duty
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SENSE OF DUTY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 to -20 points''&lt;/font&gt;
+|-
+|{{Indent}}You feel a strong sense of commitment toward a particular class of people. You will never betray them, abandon them when they're in trouble, or let them suffer or go hungry if you can help. This is different from a Duty (p. 133), which is imposed upon you. A Sense of Duty always comes from within.
+
+{{Indent}}If you are known to have a Sense of Duty, the GM will adjust the reactions of others by +2 when rolling to see whether they trust you in a dangerous situation. However, if you go against your Sense of Duty by acting against the interests of those you are supposed to be looking out for, the GM will penalize you for bad roleplaying.
+
+{{Indent}}The GM will assign a point value to your Sense of Duty based on the size of the group you feel compelled to aid:
+
+{{Indent}}Individual (the President, your wingman, etc.): -2 points.
+
+{{Indent}}Small Group (e.g., your close friends, adventuring companions, or squad): -5 points.
+
+{{Indent}}Large Group (e.g., a nation or religion, or everyone you know personally): -10 points.
+
+{{Indent}}Entire Race (all humanity, all elves, etc.): -15 points.
+
+{{Indent}}Every Living Being: -20 points.
+
+{{Indent}}You cannot claim points for a Sense of Duty toward Allies, Dependents, or Patrons. The point costs of these traits already take such a bond into account.
+
+{{Indent}}You can take a Sense of Duty toward adventuring companions. If you do, you must share equipment with and render aid to the other members of your adventuring party, and go along with majority decisions. The GM might make this mandatory in games where the party needs to get along. This gives everyone a &quot;free&quot; 5 points to spend . . . but if you start backstabbing, running off on your own, etc., the GM is free to overrule your actions and point to these bonus points as the reason why.
+|}

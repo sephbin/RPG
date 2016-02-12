@@ -1,0 +1,12 @@
+Skill: Falconry
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FALCONRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Animal Handling (Raptors)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of &quot;hawking&quot;: hunting small game with a trained hawk. It includes knowledge of hunting and training techniques, as well as how to care for a falcon. Finding a wild falcon's nest in spring requires a week's search and a successful Falconry roll; a nest has 1d-3 chicks
+|}

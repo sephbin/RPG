@@ -1,0 +1,12 @@
+Modifier: Takes Extra Time
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TAKES EXTRA TIME'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10%/level''&lt;/font&gt;
+|-
+|{{Indent}}You can only apply this limitation to abilities that require time to activate and that work fast enough to be useful in an emergency (e.g., combat). This is up to the GM, who is free to restrict this limitation to advantages that take only 1 or 2 seconds to activate.
+
+{{Indent}}For abilities that require a Ready or Concentrate maneuver, each level of Takes Extra Time doubles the time required. Activation occurs at the end of this time. For instance, Takes Extra Time 1 on an advantage that usually requires a one-second Ready maneuver would increase the Ready time to 2 seconds.
+
+{{Indent}}For attacks, the first level of Takes Extra Time results in a one-second Ready maneuver before you can make your Attack maneuver. Successive levels double the Ready time.
+|}

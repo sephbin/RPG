@@ -1,0 +1,16 @@
+Skill: Pickpocket
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PICKPOCKET'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-6, Filch-5, or Sleight of Hand-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to steal a purse, knife, etc., from someone's person - or to &quot;plant&quot; something on him
+
+{{Indent}}If your victim is aware someone may try to pick his pocket, or if he is generally wary, you must win a Quick Contest of Pickpocket vs. the higher of his Perception or Streetwise skill. To outwit a third party who is watching you and the victim, you must win a Quick Contest of Pickpocket vs. the watcher's Observation skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +5 if the victim is distracted; +10 if he is asleep or drunk; up to -5 for goods in an inner pocket; and up to -10 for a ring or similar jewelry.&lt;/i&gt;&lt;/font&gt;
+|}

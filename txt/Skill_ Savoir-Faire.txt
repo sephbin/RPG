@@ -1,0 +1,30 @@
+Skill: Savoir-Faire
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SAVOIR-FAIRE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of appropriate behavior in a subculture that has an established code of conduct - for instance, high society or the military. When dealing with that social group, a successful skill roll lets you interact without embarrassing yourself, detect pretenders to high standing, and so on. You may also substitute an Influence roll against Savoir-Faire for any reaction roll required in a social situation involving that subculture; see Influence Rolls (p. 359). Roll once per encounter
+
+{{Indent}}You must specialize. Common specialties include:
+
+{{Indent}}&lt;i&gt;Dojo:&lt;/i&gt; How to greet masters, wear weapons, and issue challenges at a karate dojo, kung fu kwoon, fencing salle, or similar academy of the martial arts. Recognized skill determines relative standing. In certain places and times, to flout tradition is to risk violent retribution! For competitive martial arts (only), this skill defaults to any relevant Games skill at -3
+
+{{Indent}}&lt;i&gt;High Society:&lt;/i&gt; The manners of those of &quot;good&quot; birth and breeding. Status determines relative standing. Roll against skill whenever you must impersonate someone more than three Status levels away from your own. If your Status is negative and you are trying to pass yourself off as someone of Status 1+, or vice versa, this roll is at -2
+
+{{Indent}}&lt;i&gt;Mafia:&lt;/i&gt; Proper conduct within a formal criminal organization. This includes such things as codes of silence and showing proper deference to &quot;made men.&quot; These protocols often ape those of high society . . . but the penalties for misconduct are far more severe. &lt;i&gt;Default:&lt;/i&gt; Streetwise-3
+
+{{Indent}}&lt;i&gt;Military:&lt;/i&gt; The customs, traditions, and regulations of military service. This also includes knowledge of the unwritten rules: what is acceptable even if not regulation, and what is forbidden although there is nothing in writing against it. Military Rank determines relative standing
+
+{{Indent}}&lt;i&gt;Police:&lt;/i&gt; As Savoir-Faire (Military), but for civilian police service. This gives knowledge of the social protocols for police officers; use Law (Police) for the legal protocols. Police Rank determines relative standing
+
+{{Indent}}&lt;i&gt;Servant:&lt;/i&gt; Knowledge of how to serve the upper class. Certain procedures are always done just so (the salad fork goes outside the dinner fork, the Duke is announced before the Earl, etc.), and certain attitudes in a servant are unacceptable
+
+{{Indent}}Savoir-Faire (High Society) is the most common specialty, and you may list this as simply &quot;Savoir-Faire&quot; on your character sheet. Savoir Faire (High Society) and (Servant) default to one another at -2. There are no defaults between other types of Savoir-Faire
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Cultural Familiarity modifiers (p. 23). +2 if you are of higher standing than those you are trying to impress, or -2 if you are of lower standing (&quot;standing&quot; might mean Rank, Status, skill level, or something else). +2 if you seem to have important friends. -4 for Clueless (p. 126); -3 for Low Empathy (p. 142); -1 for Oblivious (p. 146); -1 to -4 for Shyness (p. 154).&lt;/i&gt;&lt;/font&gt;
+|}

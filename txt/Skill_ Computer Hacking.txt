@@ -1,0 +1,18 @@
+Skill: Computer Hacking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMPUTER HACKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Computer Programming
+
+{{Indent}}This is the skill of gaining illegal access to a computer system - usually using another computer over a communications network. A successful Computer Hacking roll allows you to gain surreptitious access to a system, or to find (or change) information on a system you have already broken into. On a critical failure, you fail to gain access and leave some sort of incriminating evidence of your attempt
+
+{{Indent}}This skill is cinematic, and simulates the way computer intrusion works in many movies and novels. It does not exist in realistic settings! Realistic &quot;hackers&quot; should learn a combination of Computer Operation (to exploit OS loopholes and run intrusion software), Computer Programming (to write intrusion software), Cryptography, Electronics Operation (Communications or Surveillance), Electronics Repair (Computers), Fast-Talk (to convince legitimate users to reveal passwords), Research (to find documented security holes), and Scrounging (to &quot;Dumpster dive&quot; for manuals, passwords on discarded sticky notes, etc.)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345). -1 to -10 if you have been away from the field for a long time and have not had a chance to become familiar with the changes. Security measures give a penalty, from -1 for the cheapest commercial security software to -15 for the latest technology. Some measures resist your intrusion attempt; treat this as a Quick Contest of Hacking vs. the effective skill of the defenses.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,16 @@
+Skill: Dreaming
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DREAMING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Will-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of controlling and remembering your dreams. A successful skill roll lets you experience vivid dreams about a subject of your choosing. Use the Fortune-Telling (Dream Interpretation) skill to interpret your dreams. In some game worlds, this might be a useful divinatory technique (GM's decision)
+
+{{Indent}}A Dreaming roll can also help you recall a previously forgotten piece of information, or something you witnessed but did not consciously note. This technique is much less reliable than Eidetic Memory (p. 51), though. The GM will describe your dreams to you, working clues into the narrative. It is up to you, the player, to spot these hints!
+
+{{Indent}}Finally, you can use this skill to combat malign supernatural influences on your dreams. Resolve this as a Quick Contest between your Dreaming skill and your harasser's skill at dream control. If you win, you shut out the external influence
+|}

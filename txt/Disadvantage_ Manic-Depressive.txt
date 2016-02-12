@@ -1,0 +1,12 @@
+Disadvantage: Manic-Depressive
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MANIC-DEPRESSIVE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}Your moods are on a seesaw. You bounce back and forth between bubbling enthusiasm and morose withdrawal. At the beginning of each play session, roll 1d. On 1-3, you are in your manic phase; 4-6 indicates depression. Every five hours of game time thereafter, roll 3d. A 10 or less indicates that you begin a mood swing. Over the next hour, you shift from your current phase to the opposite one. You remain in the new phase for at least five hours, after which you must again roll 3d.
+
+{{Indent}}In the manic phase, you suffer the effects of Overconfidence (p. 148) and Workaholic (p. 162). You are friendly, outgoing, and excited about whatever it is you're doing. In the depressive phase, you suffer the effects of Chronic Depression (p. 126). You are not interested in doing anything but lying in bed, sitting in a dark room and moping, etc. Your effective selfcontrol number for these effects is equal to your Will.
+
+{{Indent}}Emergencies can also cause mood swings; in that case, the switch is immediate. On a roll of 10 or less on 3d, you change phases. This can be good (an emergency jars you into action) or bad (a problem triggers depression and you become worthless).
+|}

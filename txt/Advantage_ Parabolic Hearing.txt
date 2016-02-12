@@ -1,0 +1,8 @@
+Advantage: Parabolic Hearing
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PARABOLIC HEARING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''4 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can &quot;zoom in&quot; on a particular sound or area, and can filter out background noise from sounds of interest to you. Each level of Parabolic Hearing doubles the distance at which you can clearly hear any given sound (see Hearing, p. 358).
+|}

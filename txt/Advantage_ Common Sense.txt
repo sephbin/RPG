@@ -1,0 +1,10 @@
+Advantage: Common Sense
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMMON SENSE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}Any time you start to do something the GM feels is STUPID, he will roll against your IQ. A successful roll means he must warn you: &quot;Hadn't you better think about that?&quot; This advantage lets an impulsive player take the part of a thoughtful character.
+
+{{Indent}}Conscious: Not only does the GM warn you when you're about to do something stupid . . . you can ask him to suggest what would be smart in your current situation. He'll roll secretly against your IQ; the better the roll, the better the advice. +50%.
+|}

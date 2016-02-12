@@ -1,0 +1,8 @@
+Modifier: Based on (Different Attribute)
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BASED ON (DIFFERENT ATTRIBUTE)'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement is only available for abilities that allow a resistance roll against ST, DX, IQ, HT, Perception, or Will. It moves the resistance roll from the usual attribute or characteristic to a different one, specified when you buy the ability. This is considered an enhancement because it lets you finetune your ability to be more effective against targets with known weaknesses.
+|}

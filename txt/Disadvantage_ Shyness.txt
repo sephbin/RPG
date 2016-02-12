@@ -1,0 +1,14 @@
+Disadvantage: Shyness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHYNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5, -10, or -20 points''&lt;/font&gt;
+|-
+|{{Indent}}You are uncomfortable around strangers. Roleplay it! This disadvantage comes in three levels; you can buy it off one level at a time.
+
+{{Indent}}Mild: You are uneasy with strangers, especially assertive or attractive ones. You have -1 on skills that require you to deal with people, including Acting, Carousing, Diplomacy, Fast-Talk, Intimidation, Leadership, Merchant, Panhandling, Performance, Politics, Public Speaking, Savoir-Faire, Sex Appeal, Streetwise, and Teaching. -5 points.
+
+{{Indent}}Severe: You are very uncomfortable around strangers, and tend to be quiet even among friends. -2 the skills listed above. -10 points.
+
+{{Indent}}Crippling: You avoid strangers whenever possible. You may not learn the skills listed above at all, and are at -4 on default rolls on such skills. -20 points.
+|}

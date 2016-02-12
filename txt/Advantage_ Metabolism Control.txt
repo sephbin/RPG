@@ -1,0 +1,21 @@
+Advantage: Metabolism Control
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''METABOLISM CONTROL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can control normally involuntary biological functions such as pulse, blood flow, digestion, and respiration. Each level of Metabolism Control gives +1 on any HT roll that would benefit from such control (GM's decision), including bleeding rolls (see Bleeding, p. 420) and rolls to recover from (not resist) disease and poison.
+
+{{Indent}}You can also enter a deathlike trance. Anyone unfamiliar with your metabolism must win a Quick Contest of Diagnosis vs. your HT + Metabolism Control to discover that you aren't dead. In this state, each level of Metabolism Control reduces by 10% the amount of oxygen you need to stay alive (at level 10 or higher, you don't breathe at all), and doubles the amount of time you can safely go without food or water. You are unaware of your surroundings while in your trance, but awaken automatically if injured. You may also set a mental &quot;alarm clock&quot; to awaken you after a certain amount of time has passed.
+
+{{Indent}}This ability is incompatible with the Machine meta-trait (see p. 263).
+
+{{Indent}}Mastery: You can make precise adjustments to your metabolism and body chemistry instantly, helping you cope with even extreme or unexpected stresses. As long as you're conscious, add your level of Metabolism Control to any HT roll. +40%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Hibernation: You can only use the trance ability, and get no bonus to HT rolls. Furthermore, you automatically enter a trance when exposed to certain environmental conditions - great cold, drought, etc. Work this out with the GM. In such conditions, you must make a Will roll to avoid hibernation. You can induce hibernation voluntarily. To do so, roll vs. Will-4 hourly until you succeed. You cannot set a precise &quot;wake up&quot; time. Set a duration, then multiply by (2d+3)/10. -60%.
+|}

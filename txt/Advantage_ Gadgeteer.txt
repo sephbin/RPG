@@ -1,0 +1,12 @@
+Advantage: Gadgeteer
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GADGETEER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''25 or 50 points''&lt;/font&gt;
+|-
+|{{Indent}}You are a natural inventor. You can modify existing equipment and - given sufficient time and money - invent entirely new gadgets as described under Gadgeteering (p. 475). This lets you design gadgets quickly, and makes it easy to realize higher-TL innovations. This advantage comes in two levels:
+
+{{Indent}}Gadgeteer: You are a &quot;cinematic&quot; gadgeteer, but your work still takes days or months, and requires a good deal of money and expensive equipment. 25 points.
+
+{{Indent}}Quick Gadgeteer: You can throw together wondrous gadgets in minutes or hours, and can get by with scrounged-together spare parts that cost a few percent of what a &quot;realistic&quot; inventor would have to spend. This level is definitely unsuitable for realistic campaigns! 50 points.
+|}

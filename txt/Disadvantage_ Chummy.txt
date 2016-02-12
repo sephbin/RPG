@@ -1,0 +1,12 @@
+Disadvantage: Chummy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CHUMMY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -10 points''&lt;/font&gt;
+|-
+|{{Indent}}You work well with others and seek out company. This trait comes in two levels:
+
+{{Indent}}Chummy: You react to others at +2 most of the time. When alone, you are unhappy and distracted, and suffer a -1 penalty to IQ-based skills. -5 points.
+
+{{Indent}}Gregarious: You usually react to others at +4. You are miserable when alone, and use IQ-based skills at -2 - or at -1 if in a group of four or less. -10 points.
+|}

@@ -1,0 +1,28 @@
+Skill: Professional Skill
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PROFESSIONAL SKILL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX or IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}Many realistic job skills are more useful for making a living than for adventuring. Most such skills do not appear in this skill list - but you can still learn them if you want! Each is a separate Professional Skill. If your &quot;adventuring&quot; skills aren't useful for earning money, a Professional Skill can help you earn a steady income. To qualify for most jobs, you will need the relevant Professional Skill at 12+ (unless you are supposed to be incompetent!)
+
+{{Indent}}Most professions encompass a body of knowledge. The associated Professional Skills are IQ/Average and default to IQ-5, because the smarter you are, the better you can recall and employ the techniques used at your job. Examples include air traffic controller, barber, brewer, cooper, distiller, dyer, florist, game designer, journalist, prostitute, tanner, vintner, and zookeeper
+
+{{Indent}}A few professions - glassblower, tailor, weaver, etc. - focus more on precision than on recall. These Professional Skills are DX/Average and default to DX-5
+
+{{Indent}}At the GM's option, a given Professional Skill might also default to other skills. For instance, &quot;Journalist&quot; would logically default to Writing-3
+
+{{Indent}}The skills associated with highly paid or respected professions often have prerequisites. For instance, &quot;Air Traffic Controller&quot; might require Electronics Operation (Sensors) skill. Like defaults, prerequisites are up to the GM
+
+{{Indent}}You are free to create your own Professional Skills, subject to GM approval. They should be unique and well defined, not just a compilation of existing skills. For example:
+
+{{Indent}}Bartender
+
+{{Indent}}IQ/Average
+
+{{Indent}}This is the skill of maintaining a professional-quality bar and interacting with customers in a professional yet friendly way. A successful skill roll lets you mix drinks, recall local laws regarding alcohol, gauge the intoxication level of a customer, or calm an unruly drunk before the bouncer needs to get involved. At higher levels, this skill takes on an element of showmanship, allowing you to present drinks in unique and attractive ways, and to mix them with showy tricks and flourishes
+|}

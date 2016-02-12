@@ -1,0 +1,14 @@
+Skill: Prospecting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PROSPECTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Geology (any)-4. This is the skill of finding valuable minerals. A successful Prospecting roll lets you locate minerals, judge good ore from a small sample (and gauge its commercial value), and find water by using an &quot;eye for country,&quot; as described for Survival skill (p. 223).&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill is &quot;applied geology,&quot; and requires on-site examination. Prospecting from a distance - using maps, instrument readings, and extrapolation - uses Geology skill instead
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -1 in a new area of a familiar type, or -2 or more in an unfamiliar type of area, until you have been there for at least a month.&lt;/i&gt;&lt;/font&gt;
+|}

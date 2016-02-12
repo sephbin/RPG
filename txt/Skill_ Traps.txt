@@ -1,0 +1,18 @@
+Skill: Traps
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRAPS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Lockpicking-3*.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}* Also defaults to DX-5 if you are disarming or resetting a trap, but not if you are detecting or building one
+
+{{Indent}}This is the skill of building and nullifying traps. A successful Traps roll will (among other things) disarm a trap once you have found it, reset it after you pass, or build a new trap (given suitable materials). Time required is as for Lockpicking (p. 206). To detect a trap, make a Perceptionbased skill roll
+
+{{Indent}}Note that for the purposes of Traps skill, detection devices are &quot;traps.&quot; Thus, this skill covers everything from covered pits to elaborate electronic security systems!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Infinitely variable. The more sophisticated the trap, the harder it will be to disarm, reset, build, or find - and a given trap might be (for instance) easy to find but hard to disarm. The GM should be creative! Equipment modifiers (p. 345) apply to most rolls to set or disarm traps. Bonuses for Acute Vision (p. 35) apply to rolls to detect traps (only).&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,8 @@
+Modifier: Drifting
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DRIFTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%''&lt;/font&gt;
+|-
+|{{Indent}}You may add this enhancement to any attack with Delay (above) or Persistent (p. 107). The initial attack roll places the effect. It then drifts from that point with the wind, water currents, solar wind, etc., as appropriate. Use this for poison gas, ball lightning, floating mines, and so forth.
+|}

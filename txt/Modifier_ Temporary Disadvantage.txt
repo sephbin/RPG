@@ -1,0 +1,18 @@
+Modifier: Temporary Disadvantage
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TEMPORARY DISADVANTAGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You may add this limitation to any advantage that can be switched off and on at will, and that takes at least one second to switch. When you switch on the advantage, you suffer one or more disadvantages until you switch it off again. This limitation is worth -1% per point the temporary disadvantages are worth, to a maximum of -80%.
+
+{{Indent}}Example: You can use your feet as hands, but can't walk while doing so. This is Extra Arms 2 (20 points) with Temporary Disadvantage: Legless (-30%), for 14 points.
+
+{{Indent}}The point break due to Temporary Disadvantage cannot exceed 80% of the value of the original disadvantage.
+
+{{Indent}}Example: You have Altered Time Rate 1 (100 points) with Temporary Disadvantage: Hemophilia (-30%) - you bleed faster, too! Since Hemophilia is worth -30 points normally, the most it can be worth as a Nuisance Effect is -24 points; therefore, it reduces the cost of Altered Time Rate by 24 points (to 76 points) and not by 30 points (to 70 points).
+
+{{Indent}}You may only take Temporary Disadvantages that could logically inconvenience you for the period of time the advantage is normally on. In the case of mental disadvantages (Berserk, Lecherousness, etc.), if a failed self-control roll indicates that you give in to the disadvantage, you will suffer the disadvantage's effects until the GM rules you have regained your composure - which might be long after you deactivate the advantage with this limitation!
+
+{{Indent}}You can also use this limitation to remove an advantage temporarily. This is worth -1% per point the negated advantage is worth, and the point break cannot exceed 80% of the deactivated advantage's cost. Only one of the involved advantages can take this limitation - you cannot take two advantages, both with this limitation, each of which negates the other when used.
+|}

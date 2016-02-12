@@ -1,0 +1,8 @@
+Modifier: Overhead
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OVERHEAD'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+30%''&lt;/font&gt;
+|-
+|{{Indent}}Your attack can alter its angle to strike from a different side of the target - usually the top. This bypasses any cover that does not provide overhead protection, and negates attack penalties to hit crouching, kneeling, sitting, or prone targets. (If you are already above or below your target, adjust this appropriately.) Use this to represent a rain of fire, a missile that swoops up and then dives down at the last moment, an airburst grenade, etc.
+|}

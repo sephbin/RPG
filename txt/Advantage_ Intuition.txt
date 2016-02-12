@@ -1,0 +1,12 @@
+Advantage: Intuition
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INTUITION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You usually guess right. When faced with a number of alternatives, and no logical way to choose among them, you can ask the GM to let you use your Intuition. The GM makes a secret IQ roll, with a bonus equal to the number of &quot;good&quot; choices and a penalty equal to the number of &quot;bad&quot; choices. On a success, he steers you to a good choice; on a critical success, he tells you the best choice. On a failure, he gives you no information; on a critical failure, he steers you toward a bad choice. The GM can modify this as he sees fit for other situations where Intuition might logically help. Only one roll per question is allowed.
+
+{{Indent}}The GM should never allow Intuition to short-circuit an adventure - for instance, by letting the intuitive detective walk into a room, slap the cuffs on the guilty party, and close the case. At the most, Intuition would point the detective in the direction of a good clue. GMs who don't think they can control Intuition should not allow it in their games.
+
+{{Indent}}Inspired: Your gift is so finely honed that any success while using it reveals the best choice out of those confronting you. The worst possible result on a failure, even a critical failure, is that you don't know; the GM will never suggest a bad choice. +100%.
+|}

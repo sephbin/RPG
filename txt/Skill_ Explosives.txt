@@ -1,0 +1,28 @@
+Skill: Explosives
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXPLOSIVES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of working with explosives and incendiaries
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Demolition:&lt;/i&gt; The ability to prepare and set explosives in order to blow things up. Make a roll whenever you use explosives in this way. A failure indicates an error. The gravity of the error depends on the amount by which you failed; a badly failed roll in close quarters can blow you up! Time required varies - it takes only a couple of seconds to set a prepared charge, but it might take hours to demolish a large bridge or a skyscraper. When setting an explosive trap, use this skill rather than Traps. Rolls to set a &quot;trap&quot; fuse (e.g., a land mine) instead of a timed fuse are at -2. &lt;i&gt;Defaults:&lt;/i&gt; Engineer (Combat) or (Mining) at -3
+
+{{Indent}}Explosive Ordnance Disposal (EOD): The ability to disarm and dispose of bombs and other explosives. When disarming a trap, roll a Quick Contest of your Explosives (EOD) skill vs. the Explosives (Demolition) skill of the person who created the device. A failure (or even a critical failure) does not necessarily mean an explosion - the GM can be much more creative than that! Sudden hissing noises, mysterious parts falling off, cramps, itches, and alarm bells are all possible in the right circumstances. It is best if the GM rolls the dice and describes the physical circumstances to the victim. Fright Checks are appropriate for the survivors of a failed EOD attempt! Prerequisite: DX 12+
+
+{{Indent}}&lt;i&gt;Fireworks:&lt;/i&gt; The skill of making pyrotechnic devices - fireworks, flares, smoke bombs, flash grenades, etc. Most of these things can be used by anyone. &lt;i&gt;Default:&lt;/i&gt; Chemistry-3
+
+{{Indent}}Nuclear Ordnance Disposal (NOD): The equivalent of Explosives (EOD) for nuclear devices. Disarming a military nuclear weapon is straightforward; disarming a homemade terrorist bomb might be more difficult. Only a critical failure verified by a second critical failure will result in a nuclear detonation. Any lesser failure will - at worst - detonate the highexplosive trigger and contaminate the immediate area with radioactive material . . . not that this is a great deal of consolation to those nearby
+
+{{Indent}}Underwater Demolition (UD): The ability to prepare and set explosives underwater. This is otherwise identical to Explosives (Demolition). You usually need Scuba skill - or at least Swimming skill - to get into a position where you can use this skill
+
+{{Indent}}These specialties default to one another at -4 except for Demolition and UD, which default to one another at -2, and EOD and NOD, which also default to one another at -2
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -1 to -5 for distractions (e.g., enemy fire or swarms of biting ants) or physical motion (e.g., a rocking boat or speeding bus). The time modifiers under Time Spent (p. 346) will often apply.&lt;/i&gt;&lt;/font&gt;
+|}

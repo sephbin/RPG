@@ -1,0 +1,18 @@
+Skill: Leadership
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LEADERSHIP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to coordinate a group. Make a Leadership roll to lead NPCs into a dangerous or stressful situation. (PCs can decide for themselves if they want to follow you!)
+
+{{Indent}}You may attempt a Leadership roll in combat if you spend your turn doing nothing but giving orders and encouragement. On a success, everyone on your side who can hear you (including PCs) has +1 on all combatrelated Fright Checks and morale checks, and on self-control rolls for disadvantages that would reduce combat efficiency (such as Berserk and Cowardice - or Bloodlust, if you wish to take prisoners). A critical success gives +2. The bonus lasts until your next turn, at which time you may roll again. A group can have only one leader, however! If multiple people attempt Leadership rolls, no one gets a bonus
+
+{{Indent}}Note that a minimum level of Leadership is often a prerequisite for high Rank (p. 29)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Any bonus for Charisma (p. 41); -3 for Low Empathy (p. 142); -1 to -4 for Shyness (p. 154). -5 if the NPCs have never been in action with you; -5 if you are sending them into danger but not going yourself; +5 if their loyalty to you is &quot;Good&quot;; +10 if their loyalty is &quot;Very Good.&quot; If their loyalty is &quot;Excellent,&quot; you do not have to roll!&lt;/i&gt;&lt;/font&gt;
+|}

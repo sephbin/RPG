@@ -1,0 +1,16 @@
+Skill: Scuba
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SCUBA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Diving Suit-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Swimming
+
+{{Indent}}This is the ability to use self-contained underwater breathing apparatus (scuba). Roll when you first enter the water, and again every 30 minutes thereafter, to avoid inhaling water (treat as drowning; see Suffocation, p. 436). If you know this skill above default level, a successful roll also lets you spot problems with the equipment before you put it on
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 to -4 for unfamiliar scuba rigs; e.g., closed-circuit gear when you're used to open-circuit.&lt;/i&gt;&lt;/font&gt;
+|}

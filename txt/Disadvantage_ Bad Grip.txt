@@ -1,0 +1,8 @@
+Disadvantage: Bad Grip
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BAD GRIP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You have a penalty on tasks that require a firm grip. Each level (maximum three levels) gives -2 with such tasks. This penalty is overall - not per hand. Affected tasks include melee weapon use, climbing, catching things, and anything else the GM deems requires a firm grip (e.g., an Acrobatics roll to catch a trapeze). This disadvantage is mutually exclusive with No Fine Manipulators (p. 145).
+|}

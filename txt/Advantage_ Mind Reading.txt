@@ -1,0 +1,48 @@
+Advantage: Mind Reading
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MIND READING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points''&lt;/font&gt;
+|-
+|{{Indent}}You can eavesdrop on others' surface thoughts. You must be able to see or touch the subject to affect him. Concentrate for one second and roll a Quick Contest of IQ vs. the subject's Will. Modify the roll for range penalties to the subject (see p. 550).
+
+{{Indent}}If you win, you can &quot;hear&quot; everything the subject says, subvocalizes, or actively thinks about as a voice in your head. Received thought comes at the speed of speech. If you do not understand the language, or if your subject isn't sapient, you only pick up feelings, images, and general intent. You can maintain Mind Reading for as long as you wish without further concentration. If you switch to another person, you must stop reading your current subject and roll a Quick Contest with the new subject. To read multiple subjects at once, take Compartmentalized Mind (p. 43).
+
+{{Indent}}If you lose, you may try again, at a cumulative -2 per repeated attempt on that subject in the past hour. Should you critically fail, you cannot read that person again for 24 hours.
+
+{{Indent}}Mind Reading is often psionic in origin, but it is just as likely to be a magical, divine, or even technological ability.
+
+{{Indent}}The Sense-Based limitation (p. 115) - especially Touch-Based - is common. If you take Hearing-Based, you can only read the thoughts of someone whose words you can hear, but can function as a &quot;truthreader&quot; or (with Universal) a &quot;universal translator.&quot;
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Cybernetic: You can affect entities with the Digital Mind trait (p. 48), including all ordinary computers. Your IQ roll has a penalty equal to the system's Complexity. A nonsentient system does not resist; just roll vs. IQ - Complexity to succeed. +50%.
+
+{{Indent}}Sensory: You can also tap into your subject's senses. This lets you experience everything he experiences. If he is tortured, knocked out, or killed, the GM may require a Will roll to avoid stunning - or perhaps even a Fright Check! +20%.
+
+{{Indent}}Universal: You automatically understand thoughts, even those of nonsapient subjects and those with whom you do not share a language. +50%.
+
+{{Indent}}Invasive: Mind Probe only. Your probe works like a mental invasion, not an interrogation. If you win the Quick Contest, you're inside your subject's mental defenses and free to pillage his memories. You're still limited to one question per second, but each answer requires an uncontested roll against IQ, Interrogation, Psychology - or Dreaming, if the subject is sleeping. +75%.
+
+{{Indent}}Memory Bank: Mind Probe only. You can store a detailed &quot;snapshot&quot; of the subject's mind. This requires the usual Quick Contest, but takes an hour. A later IQ roll lets you recall information the subject knew when last probed (just as if you were probing him) or his personality (eliminating penalties to impersonate him with Acting). You can delete a snapshot at any time. +100% if you can store a number of snapshots equal to IQ; +150% for unlimited capacity.
+
+{{Indent}}Multiple Contacts: Mind Reading only. You can maintain channels to several minds at once. Roll at a cumulative -1 per contact after the first. You can switch between established contacts without rolling, but you must focus on one contact at a time to read minds. In combat, choose whose mind you're reading each turn. +50%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cybernetic Only: As for Cybernetic, but you can only read Digital Minds. -50%.
+
+{{Indent}}Racial: Your ability only works on those of your own race or a very similar race (for instance, humans are similar to elves, but not to dogs or trolls). Combine this with the Sense-Based limitation (Touch or Scent) to represent a race that can share thoughts through biochemical means. -20%.
+
+{{Indent}}Sensory Only: As for Sensory, but you can't read thoughts at all. -20%.
+
+{{Indent}}Telecommunication: Your ability only works on those with whom you are presently in contact via Telecommunication (p. 91). -20%.
+
+{{Indent}}Telepathic: Your ability is part of the Telepathy psi power (see p. 257). -10%.
+|}

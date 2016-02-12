@@ -1,0 +1,20 @@
+Disadvantage: Pacifism
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PACIFISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You are opposed to violence. This can take several forms. Choose one of the following:
+
+{{Indent}}Reluctant Killer: You are psychologically unprepared to kill people. Whenever you make a deadly attack (e.g., with a knife or a gun) against an obvious person whose face is visible to you, you are at -4 to hit and may not Aim. If you cannot see the foe's face (due to a mask, darkness, or distance, or because you attacked from behind), the penalty is only -2, save in close combat. You have no penalty to attack a vehicle (even an occupied one), an opponent you do not believe is a person (including things with Horrific or Monstrous appearance), or a target you can't actually see (e.g., a set of map coordinates or a blip on a radar screen). If you kill a recognizable person, the effect on you is the same as for Cannot Kill (see below). You have no problem with your allies killing; you may even supply ammo, loaded weapons, and encouragement! You just can't do the killing yourself. -5 points.
+
+{{Indent}}Cannot Harm Innocents: You may fight - you may even start fights - but you may only use deadly force on a foe that is attempting to do you serious harm. Capture is not &quot;serious harm&quot; unless you are already under penalty of death or have a Code of Honor that would require suicide if captured. You never intentionally do anything that causes, or even threatens to cause, injury to the uninvolved - particularly if they are &quot;ordinary folks.&quot; This trait is especially appropriate for crimefighters, supers, etc. -10 points.
+
+{{Indent}}Cannot Kill: You may fight - you may even start fights - but you may never do anything that seems likely to kill another. This includes abandoning a wounded foe to die &quot;on his own&quot;! You must do your best to keep your companions from killing, too. If you do kill someone (or feel responsible for a death), you immediately suffer a nervous breakdown. Roll 3d and be totally morose and useless (roleplay it!) for that many days. During this time, you must make a Will roll to offer any sort of violence toward anyone, for any reason. -15 points.
+
+{{Indent}}Self-Defense Only: You only fight to defend yourself or those in your care, using only as much force as necessary (no pre-emptive strikes allowed!). You must do your best to discourage others from starting fights. -15 points.
+
+{{Indent}}Total Nonviolence: You will not lift a hand against another intelligent creature, for any reason. You must do your nonviolent best to discourage violent behavior in others, too. You are free to defend yourself against attacks by animals, mosquitoes, etc. -30 points.
+
+{{Indent}}In a high-realism campaign, the GM might require all PCs to start out with Reluctant Killer or even Cannot Kill, giving them extra points but putting them at a disadvantage when facing hardened foes.
+|}

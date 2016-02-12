@@ -1,0 +1,12 @@
+Disadvantage: Supersensitive
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUPERSENSITIVE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are telepathically sensitive to the presence of others all the time. You experience a constant, irritating buzz of low-level psychic noise. This does not imply any kind of useful telepathic ability - the thoughts and emotions you receive remain just below the threshold of conscious understanding.
+
+{{Indent}}If there are any sapient beings (IQ 6+) with 20 yards, you suffer -1 to DX and IQ. This becomes -2 for 10 or more people, -3 for 100 or more, -4 for 1,000 or more, and so on. If DX or IQ drops below half its original score because of this penalty, you collapse and can take no action until the &quot;noise&quot; goes away. Machine intelligences and individuals behind telepathic shielding (psionic, technological, or otherwise) do not bother you.
+
+{{Indent}}There is one beneficial side effect to Supersensitive: the psychic noise you receive warns you if there are people within 20 yards, and the noise level tells you roughly how many. The noise is too diffuse to let you determine their locations, however.
+|}

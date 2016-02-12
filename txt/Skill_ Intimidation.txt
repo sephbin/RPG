@@ -1,0 +1,22 @@
+Skill: Intimidation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INTIMIDATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Will-5 or Acting-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of hostile persuasion. The essence of Intimidation is to convince the subject that you are able and willing, perhaps even eager, to do something awful to him
+
+{{Indent}}You can substitute an Intimidation attempt for any reaction roll; see Influence Rolls (p. 359). &lt;i&gt;Exception:&lt;/i&gt; You cannot intimidate someone who has the Unfazeable advantage!
+
+{{Indent}}The results of a successful Intimidation attempt depend on the target. An honest citizen probably cooperates, sullenly or with false cheer. A low-life might lick your boots (even becoming genuinely loyal). A really tough sort might react well without being frightened: &quot;You're my kind of scum!&quot; The GM decides, and roleplays it. If you rolled a critical success - or if the subject critically failed his Will roll - your victim must make a Fright Check in addition to the other results of the Influence roll!
+
+{{Indent}}&lt;i&gt;Group Intimidation:&lt;/i&gt; You may attempt to intimidate up to 25 people at once, at -1 to skill per five people (or fraction thereof) in the group. Multiple intimidators can attempt to intimidate proportionally larger groups; for instance, three thugs could try to intimidate up to 75 people! Base the skill penalty on the size of the target group divided by the number of intimidators (round up). Resolve the outcome with a single Quick Contest: the highest effective Intimidation skill from among the intimidators vs. the highest modified Will in the target group
+
+{{Indent}}&lt;i&gt;Specious Intimidation:&lt;/i&gt; You can attempt a Quick Contest of Fast-Talk vs. the subject's IQ before your Intimidation attempt in order to appear to be intimidating when you can't back it up. If you win, you are at +3 on the subsequent Intimidation attempt, which can go a long way toward offsetting the high Will and Fearlessness of martial arts masters, world leaders, etc. If you tie or lose, however, your Intimidation attempt fails automatically, and you suffer a &quot;Very Bad&quot; reaction instead of just a &quot;Bad&quot; one!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 to +4 for displays of strength, bloodthirstiness, or supernatural powers (GM's judgment); increase this bonus by +1 if you are Callous (p. 125). Appearance (p. 21) matters: +2 if you are Hideous, +3 if Monstrous, or +4 if Horrific. Size also matters: add your Size Modifier and subtract the subject's. Appropriate Reputation modifiers (positive or negative) certainly count! You get -1 for Oblivious (p. 146) and -1 to -4 for Shyness (p. 154). Subtract the subject's Fearlessness (p. 55) from your roll. The GM may assign a +1 or -1 for especially appropriate or clumsy dialog. Requests for aid are always at -3 or worse.&lt;/i&gt;&lt;/font&gt;
+|}

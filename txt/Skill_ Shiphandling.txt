@@ -1,0 +1,32 @@
+Skill: Shiphandling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHIPHANDLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: see below.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to act as the master of a large vessel. It involves directing the crew in the tasks necessary to control the vehicle's speed and direction. It also covers such duties as keeping the captain's log and inspecting the crew. Someone with Shiphandling skill (at better than default!) should stand watch at all times when the vessel is underway. Roll vs. skill when encountering hazards or maneuvering for battle
+
+{{Indent}}A failed roll when encountering hazards means the vessel is damaged. This might mean anything from scratched paint to crippling damage that requires extensive repairs
+
+{{Indent}}A failed roll in battle means the vessel did not go exactly where intended. The details depend on the vessel, the tech level, and the GM's judgment, but might include weapons being &quot;masked&quot; (unable to engage the enemy), a failed boarding attempt, or drifting out of formation with your fleet (which might deny you the benefits of area defenses, fire support, or tactical communications)
+
+{{Indent}}A critical failure under any circumstances means an appropriate disaster. Depending on the TL and situation, this could mean running aground, colliding with another vessel, being dismasted, losing your screws or rudder, or simply giving an order that your crew disregards. Whether they then save your ship for you, or mutiny and flee, is up to the GM
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Airship:&lt;/i&gt; Blimps, zeppelins, and similar large airships. &lt;i&gt;Prerequisites:&lt;/i&gt; Airshipman, Leadership, and Navigation (Air). &lt;i&gt;Defaults:&lt;/i&gt; Airshipman-5 or Piloting (Lighter- Than-Air)-5
+
+{{Indent}}&lt;i&gt;Ship:&lt;/i&gt; Surface vessels, from tugboats to carriers. &lt;i&gt;Prerequisites:&lt;/i&gt; Leadership, Navigation (Sea), and Seamanship. &lt;i&gt;Defaults:&lt;/i&gt; Seamanship-5, or to Boating (Large Powerboat)-5 for ships with engines or Boating (Sailboat)-5 for tall ships
+
+{{Indent}}&lt;i&gt;Spaceship:&lt;/i&gt; Slower-than-light spacecraft. &lt;i&gt;Prerequisites:&lt;/i&gt; Leadership, Navigation (Space), and Spacer. &lt;i&gt;Defaults:&lt;/i&gt; Spacer-5 or any spaceship Piloting-5
+
+{{Indent}}&lt;i&gt;Starship:&lt;/i&gt; Faster-than-light spacecraft. &lt;i&gt;Prerequisites:&lt;/i&gt; Leadership, Navigation (Hyperspace), and Spacer. &lt;i&gt;Defaults:&lt;/i&gt; Spacer-5 or any spaceship Piloting-5
+
+{{Indent}}&lt;i&gt;Submarine:&lt;/i&gt; All forms of large submersibles. &lt;i&gt;Prerequisites:&lt;/i&gt; Leadership, Navigation (Sea), and Submariner. &lt;i&gt;Defaults:&lt;/i&gt; Submariner-5 or Submarine (Large Sub)-5
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 to master an unfamiliar vessel (e.g., an aircraft carrier when you're used to a battleship); -2 for an unfamiliar crew; -2 or more for a vehicle in bad repair.&lt;/i&gt;&lt;/font&gt;
+|}

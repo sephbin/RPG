@@ -1,0 +1,24 @@
+Modifier: Area Effect
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AREA EFFECT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+50%/level''&lt;/font&gt;
+|-
+|{{Indent}}Your ability works as an area power instead of affecting a single target. Everything in the area suffers the attack's damage or other effects. On a miss, use the scatter rules (p. 414) to see where the area is centered. Active defenses don't protect against an area attack, but victims may attempt to dive for cover or dodge and retreat to leave the area. For more information, see Area and Spreading Attacks (p. 413).
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Radius||Modifier
+|-
+|2 yards||+50%
+|-
+|4 yards||+100%
+|-
+|8 yards||+150%
+|-
+|16 yards||+200%
+|}
+
+{{Indent}}Further levels continue to double the radius. If applied to an advantage that already covers an area, each level doubles the base radius.
+
+{{Indent}}Area Effect is a prerequisite for Mobile (p. 107), Persistent (p. 107), Selective Area (p. 108), Bombardment (p. 111), and Emanation (p. 112).
+|}

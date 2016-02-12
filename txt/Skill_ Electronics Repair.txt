@@ -1,0 +1,14 @@
+Skill: Electronics Repair
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ELECTRONICS REPAIR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Electronics Operation (same)-3, or Engineer (Electronics)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to diagnose and repair known types of electronic equipment. Time required for each attempt is up to the GM. You must specialize in one of the areas listed under Electronics Operation (above), or in Computers (Electronics Repair (Computers) defaults to Computer Operation-5). These specialties default to one another at -4
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -2 without plans or schematics; -2 for an unfamiliar technology or implementation (just as for Electronics Operation); -4 to modify a device away from its intended purpose.&lt;/i&gt;&lt;/font&gt;
+|}

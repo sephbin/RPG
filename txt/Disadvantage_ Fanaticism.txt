@@ -1,0 +1,12 @@
+Disadvantage: Fanaticism
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FANATICISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You believe so strongly in a country, organization, philosophy, or religion that you put it ahead of everything else. You might even be willing to die for it! If the object of your Fanaticism demands obedience to a code of behavior or loyalty to a leader, you oblige willingly and unquestioningly. You must roleplay your unwavering dedication.
+
+{{Indent}}Fanaticism does not make you mindless or evil. A glaring priest of Set, brandishing his bloody dagger, is a fanatic. But so is a kamikaze pilot, exchanging himself for an aircraft carrier. And so is a patriot who says, &quot;Give me liberty or give me death!&quot; Fanaticism is a state of mind; it is what you are fanatic about that makes the difference.
+
+{{Indent}}Extreme Fanaticism: This is an advanced case of Fanaticism. You get +3 on Will rolls to resist Brainwashing, Interrogation, and supernatural mind control in any situation where failure to resist would lead to betrayal of your cult or organization. On the other hand, you will not hesitate to die for your cause, and will undertake suicide missions &quot;matterof- factly.&quot; This is still worth -15 points. Your willingness to die is offset by the significant bonus to Will (which will apply a good deal of the time, if you are roleplaying properly).
+|}

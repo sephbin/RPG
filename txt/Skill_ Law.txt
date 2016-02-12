@@ -1,0 +1,24 @@
+Skill: Law
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LAW'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents knowledge of law codes and jurisprudence. A successful roll lets you remember, deduce, or figure out the answer to a question about the law. Few legal questions have clear-cut answers, however - even an expert will hedge his advice!
+
+{{Indent}}You must specialize. There are two general classes of specialty:
+
+{{Indent}}* The laws of a particular political region (e.g., Canada or France) within a specific field (constitutional, contract, criminal, police, etc.). &lt;i&gt;Examples:&lt;/i&gt; Law (British Criminal), Law (Canadian Constitutional), and Law (U.S. Contract)
+
+{{Indent}}* A specialized body of law not associated with a political region. &lt;i&gt;Examples:&lt;/i&gt; Law (Catholic Canon), Law (International), and Law (Space)
+
+{{Indent}}Specialties within the same region, such as Law (British Criminal) and Law (British Police), or field, such as Law (British Criminal) and Law (French Criminal), default to one another at -4. If both region and field differ, the default is -6 or worse
+
+{{Indent}}In some times and places, a Quick Contest of Law (Criminal) between the defense and prosecution will determine the outcome of a trial. In others, Law functions as an Influence skill (see Influence Rolls, p. 359) used to sway the rulings of the judge
+
+{{Indent}}Law enforcers nearly always have a point or two in Law (Police) for their region. This represents knowledge of &quot;proper procedure&quot; when it comes to arrests, evidence handling, interrogation, etc
+|}

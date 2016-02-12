@@ -1,0 +1,27 @@
+Advantage: Shadow Form
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHADOW FORM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''50 points''&lt;/font&gt;
+|-
+|{{Indent}}You can become a two-dimensional shadow. This lets you slip along walls and floors - and through the thinnest cracks (anything wide enough to fit your shoulders through) - at your usual ground Move. You can also defy gravity, creeping up walls and across ceilings at half Move.
+
+{{Indent}}Physical attacks do half damage to you in this form. Energy attacks do normal damage, except for light-based attacks, which do 50% extra damage. Magic, psi, and other purely mental abilities affect you normally.
+
+{{Indent}}You are subject to a few major restrictions while in this form. You cannot walk through three-dimensional space; you must slide along an object. Furthermore, you cannot perform any purely physical attacks or actions, and you cannot carry ordinary items or affect them in any way. You can use magic, psi, and similar abilities, however.
+
+{{Indent}}If you cannot switch out of Shadow Form, Shadow Form is a disadvantage worth -20 points. This will make it difficult to interact with others! You may still add enhancements, but they will work like limitations, reducing the value of the disadvantage. For instance, a +50% enhancement would reduce the value of the disadvantage by 50%, to -10 points.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Can Carry Objects: You may carry objects. They take Shadow Form when picked up and return to normal when put down. You still may not affect non-shadow objects. No encumbrance is +10%; Light, +20%; Medium, +50%; Heavy, +100%.
+
+{{Indent}}3-D Movement: You can turn 90° to a surface and stand up in three-dimensional space - like a two-dimensional &quot;cutout&quot; - in order to bridge gaps or turn around. You can walk at your normal ground Move. All of the other drawbacks of Shadow Form remain. +20%.
+
+{{Indent}}Light Insensitive: You're not made of actual shadow. Your body might even look like a projected photograph of a normal human. The only game effect is that you don't suffer 50% extra damage from light. +20%.
+
+{{Indent}}Finite Thickness: You don't quite become two-dimensional. You're about as thick as a sheet of paper, and can't fit through microscopic cracks. Being physical, you take full damage from physical attacks - and because you're so thin, the wounding multiplier for cutting attacks is x2 instead of x1.5. You aren't a shadow, though; light-based attacks get no bonus damage (don't buy Light Insensitive separately). You still can't physically attack, and you can only drag objects around on your surface if you buy the Can Carry Objects enhancement. -50%.
+|}

@@ -1,0 +1,26 @@
+Skill: Boating
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BOATING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-5 or IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to handle a specific type of small watercraft. For large vessels that require multiple crewmen on a &quot;bridge,&quot; use Seamanship (see Crewman, p. 185) and Shiphandling (p. 220)
+
+{{Indent}}Make a roll to get underway, to dock, and whenever you encounter a hazard. If using this skill at default, also roll when you first enter the boat - to avoid falling in the water!
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Large Powerboat:&lt;/i&gt; Any boat with an enclosed cabin and an inboard motor. Includes cabin cruisers, houseboats, and patrol boats. &lt;i&gt;Defaults:&lt;/i&gt; Motorboat- 2, Sailboat-4, or Unpowered-4. This specialty (only) also defaults to Seamanship-4
+
+{{Indent}}&lt;i&gt;Motorboat:&lt;/i&gt; Any open powerboat - notably speedboats and any of the boats used with the Sailboat or Unpowered specialty when outfitted with an outboard motor. &lt;i&gt;Defaults:&lt;/i&gt; Large Powerboat-2, Sailboat-3, or Unpowered-3
+
+{{Indent}}&lt;i&gt;Sailboat:&lt;/i&gt; Any small watercraft moving under sail. &lt;i&gt;Defaults:&lt;/i&gt; Large Powerboat-4, Motorboat-3, or Unpowered-3
+
+{{Indent}}&lt;i&gt;Unpowered:&lt;/i&gt; Any small watercraft that relies on muscle power, whether it is paddled, rowed, or poled. Includes canoes, rowboats, and rafts. &lt;i&gt;Defaults:&lt;/i&gt; Large Powerboat-4, Motorboat-3, or Sailboat-3
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 for an unfamiliar boat within your specialty (e.g., a kayak when you're used to a rowboat); -3 or worse for foul weather, navigational hazards, etc.&lt;/i&gt;&lt;/font&gt;
+|}

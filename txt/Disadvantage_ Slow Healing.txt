@@ -1,0 +1,10 @@
+Disadvantage: Slow Healing
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SLOW HEALING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Your body heals very slowly. Each level (maximum three levels) doubles the interval between HT rolls to regain lost HP: roll every two days for Slow Healing 1, every four days for Slow Healing 2, and every eight days for Slow Healing 3. Take Unhealing (p. 160) if you heal even more slowly. Each level also doubles the time allowed between Physician rolls when under the care of a competent physician (see Medical Care, p. 424).
+
+{{Indent}}Normal humans may take no more than one level of Slow Healing.
+|}

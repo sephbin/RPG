@@ -1,0 +1,16 @@
+Advantage: Infravision
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INFRAVISION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 or 10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can see into the infrared portion of the spectrum, allowing you to detect varying degrees of heat. This lets you fight at no penalty even in absolute darkness, if your target emits heat (this includes all living beings and most machines). It also gives you &quot;+2 on all Vision rolls to spot such targets, since their heat stands out from the background. You can follow a heat trail when tracking: add +3 to Tracking rolls if the trail is no more than an hour old.
+
+{{Indent}}Infravision does not let you distinguish colors, and only allows you to judge the general size and shape of heat-emitting objects, including living beings (for instance, you might have trouble telling two people of the same size apart). Roll at -4 to distinguish objects of similar size and shape. The GM may also require a Vision-4 roll to read by reflected heat. Sudden flashes of heat (e.g., a flare, fiery explosion, or infrared laser) can blind you, just as a flash of light can blind ordinary vision.
+
+{{Indent}}Cost depends on your capabilities:
+
+{{Indent}}You can only see using Infravision, and are subject to its limitations at all times: 0 points.
+
+{{Indent}}You can switch freely between normal vision and Infravision: 10 points.
+|}

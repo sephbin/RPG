@@ -1,0 +1,14 @@
+Disadvantage: Klutz
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''KLUTZ'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an uncanny affinity for gross physical blunders. You do not necessarily have a low DX (you may have up to DX 13 and still select this trait) but you are more awkward than your DX would suggest. This disadvantage comes in two levels:
+
+{{Indent}}Klutz: Make a DX roll to get through the day without doing a pratfall, dropping books, or knocking over shelves filled with fragile items. This is rarely life-threatening, but it is inconvenient and often expensive. The GM should be creative in inventing minor torments. You should especially avoid laboratories, explosives, china shops, etc. -5 points.
+
+{{Indent}}Total Klutz: As above, but in addition, any failure on a DX roll or DXbased skill roll is considered a critical failure for you! -15 points.
+
+{{Indent}}This trait might seem silly, but it need not be. Most realistic TL7-8 robots have this disadvantage!
+|}

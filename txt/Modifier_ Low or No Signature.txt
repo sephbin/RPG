@@ -1,0 +1,12 @@
+Modifier: Low or No Signature
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOW OR NO SIGNATURE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+10% or +20%''&lt;/font&gt;
+|-
+|{{Indent}}An attack normally has a &quot;signature&quot;: a flash of light, a sound, etc. If left unspecified, this is assumed to be similar to a gunshot or a stroke of lightning - that is, a brilliant flash and a loud report. This enhancement makes your attack less obvious.
+
+{{Indent}}Low Signature: The attack is no more easily identifiable as an attack than the loud pop of a champagne cork; e.g., a suppressed pistol shot. +10%.
+
+{{Indent}}No Signature: The attack is almost completely unnoticeable; e.g., a blowgun's dart. Alternatively, it is utterly undetectable by normal means, but leaves a magical or psionic trace. +20%.
+|}

@@ -1,0 +1,12 @@
+Disadvantage: Clueless
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CLUELESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You totally miss the point of any wit aimed at you, and are oblivious to attempts to seduce you (+4 to resist Sex Appeal). The meanings of colloquial expressions escape you. Sophisticated manners are also beyond you, giving -4 to Savoir-Faire skill. You have many minor habits that annoy others (e.g., leaving the turn signal on while driving from Chicago to Albuquerque), and may take one or two of these as quirks. Most people will react to you at -2.
+
+{{Indent}}Unlike No Sense of Humor (p. 146), you may make jokes - albeit lame ones - and you can appreciate slapstick and written humor. However, you rarely &quot;get&quot; verbal humor, especially if you are the target (roll vs. IQ-4 roll to realize you're the butt of the joke). And unlike Gullibility (p. 137), you normally realize when someone is trying to take advantage of you, except in social situations. You are no more susceptible to Fast-Talk than normal, save when someone is trying to convince you that an attractive member of the appropriate sex is interested in you . . .
+
+{{Indent}}This disadvantage is most appropriate for ivory-tower geniuses, aliens from Mars, etc.
+|}

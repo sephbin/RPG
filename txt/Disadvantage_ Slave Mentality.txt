@@ -1,0 +1,12 @@
+Disadvantage: Slave Mentality
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SLAVE MENTALITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-40 points''&lt;/font&gt;
+|-
+|{{Indent}}You have no initiative, and become confused and ineffectual without a &quot;master&quot; to give you orders. You must make an IQ roll at -8 before you can take any action that isn't either obeying a direct order or part of an established routine. As well, you automatically fail any Will roll to assert yourself or resist social influence except in circumstances where the GM rules that success might be possible, in which case you roll at -6.
+
+{{Indent}}This doesn't necessarily imply low IQ or Will. You might be intelligent enough to obey the command, &quot;Program the computer to detect quarks,&quot; but if you were starving and found $10, you would have to roll vs. IQ-8 to decide to pick up the money and go buy food without being told to do so. Similarly, you might be strongwilled enough to make all your Fright Checks in the presence of terrifying monsters, yet roll at Will-6 to resist the unsubtle manipulations of an obvious con man.
+
+{{Indent}}This disadvantage is rarely appropriate for PCs, and the GM may choose to forbid it entirely.
+|}

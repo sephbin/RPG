@@ -1,0 +1,18 @@
+Skill: Forgery
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FORGERY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Counterfeiting-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to create falsified documents (identity cards, passports, etc.). It is not taught except by intelligence agencies and the underworld - although you can always study it on your own
+
+{{Indent}}The time required to create a forgery ranges from days to weeks (GM decides). When you use a forged document, make your Forgery roll each time it is inspected - unless you roll a critical success on your first attempt. Failure means someone spots the forgery
+
+{{Indent}}Some tasks require DX-based skill rolls, in which case modifiers for High Manual Dexterity (p. 59) or Ham- Fisted (p. 138) apply. The GM may allow Forgery to default to a suitable Artist specialty at -5 if you are doing the work entirely by hand
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); +3 if you merely altered a genuine document; -5 if you did not have a sample to copy. The GM may also assign modifiers based on the severity of the inspection; a routine border check, for instance, would give a +5 bonus.&lt;/i&gt;&lt;/font&gt;
+|}

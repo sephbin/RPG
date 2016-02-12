@@ -1,0 +1,83 @@
+Oceanic Magic
+Please Note, this is a GURPS example of Realm Magic.
+
+
+Wizards are a small but important class in Seafarer society.
+A significantly populated island might have two or
+three. More than that generally leads to rivalries and jealousy,
+driving some of them to follow rumors along the
+trade network to a community that needs wizards – or even
+to organize an expedition to find a new island where they
+can be top dogs.
+
+Seafarer culture values wizards, although it sees them as
+a little strange and dangerous. Folktales usually treat them
+with respect, but often depict “the wizard’s wife” as a comic
+figure, harassed and confused, going through life trying to
+ignore all the strangeness around her while seeking to profit
+from her husband’s status. There are in fact as many
+female as male wizards, but they tend to marry respected
+and capable members of their tribes, so there are fewer
+jokes about their husbands.
+
+Seafarers use Realm-based syntactic magic (see Chapter
+6). Mana as such isn’t a concern, but Magery (Syntactic) is
+a prerequisite for magic use, and is always inborn – players
+can’t purchase Magery 0 after character creation. Wizards
+occasionally manage to sharpen their powers by practice,
+advancing from lower levels to Magery 3, but never higher.
+The few, legendary Magery 4 wizards are born with that
+power, and once their capabilities become clear to themselves,
+most become megalomaniacs. Magery adds to
+Realm skill.
+
+Wizards identify potential trainees by looking for
+strange behaviors and sensitivities in children, and then
+confirm their suspicions through a long series of tests.
+Most like to have an apprentice or two, and take care to
+inculcate loyalty of some sort. Magic makes life complicated
+for its users, so it’s desirable to have someone watching
+one’s back and assisting with strange activities!
+
+==Realms==
+
+Each Realm is divided into four levels:
+*Level 1: Detection and Assessment.
+*Level 2: Minor Command.
+*Level 3: Minor Creation.
+*Level 4: Total Command.
+
+There are five available Realms:
+;Weather: Governs wind, waves, and rain, but only grants very limited power over lightning, which is sometimes held to imply divine presence.
+;Craft: Relates to all works of the human hand – especially boats and how to sail them.
+;Fortune: Encompasses, among other things, curing disease in humans (illness is seen as a form of bad luck) and increases in the rate of healing of physical injuries (a matter of good luck).
+;Nature: Takes in animal and plant life, but doesn’t cover humans or their health.
+;Land: Grants no power over raw volcanic rock, but otherwise relates to many nonliving phenomena, including freshwater springs.
+
+
+Water is seen as something whose nature depends on
+context. Magic to control it may fall within Weather, Land,
+or sometimes Nature.
+
+This schema has three significant gaps. First, fire and
+anything directly related to volcanoes are the domain of the
+mostly noninterventionist Volcano Gods, the culture’s only
+deities. Second, minds, spirits, and souls transcend magic’s
+power. Finally, healing magic can’t accomplish anything
+beyond the scope of natural processes – although it can
+speed these considerably.
+Each level within a Realm costs 15 points.
+
+==Parameter Effects==
+
+Parameters affect magic-working as follows:
+*Range and familiarity, range in time, damage, and healing generate skill penalties.
+*Area of effect, changes to personal abilities, and weight affected modify energy cost.
+*Casting against multiple targets generates skill penalties and increases energy cost.
+*Base duration of an effect is determined by margin of success. Extended workings aren’t permitted, but it’s possible to maintain a continuing effect for increments of the same duration by spending additional energy equal to half the original casting cost per increment.
+* Extradimensional magic isn’t possible in this setting.
+
+
+There’s no “spirit world” as such. Spirits and gods are
+sometimes-intangible beings that dwell in the same physical
+world as everyone else.

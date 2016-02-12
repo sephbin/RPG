@@ -1,0 +1,1493 @@
+Gurps Advantages
+{| class=&quot;wikitable&quot;
+|-
+| '''Advantage'''
+| '''Value'''
+| '''Ref.'''
+|-
+|[[360-Degree Vision]]
+|25
+|68, SU35, U19
+|[[Garou Gifts]]
+|Variable
+|WTA114
+|[[Racial Memory]]
+|15/40
+|42
+|[[Zeroed]]
+|10
+|32
+|-
+|[[3D Spatial Sense]]
+|10
+|31, S33
+|[[Generation]]
+|Variable
+|VTM59
+|[[Racial Skill Bonus]]
+|Variable
+|177, FF21
+|-
+|[[Absolute Direction]]
+|5
+|B19
+|[[Gesa]]
+|Variable
+|CM55
+|[[Racially Innate Spells]]
+|Variable
+|179, FF13
+|-
+|[[Absolute Timing]]
+|5
+|B19
+|[[Ghost]]
+|100/130
+|VO55
+|[[Radar Sense]]
+|50+1/hex
+|63, SU44
+|-
+|[[Absorption]]
+|Variable
+|49
+|[[Gills]]
+|10
+|56, SU40
+|[[Radio Hearing]]
+|10
+|64, U18
+|-
+|[[Academic Status]]
+|5/level
+|IOU18
+|[[Gizmos]]
+|5/10/15
+|124, SU72
+|[[Radio Speech]]
+|25
+|64
+|-
+|[[Acceleration Tolerance]]
+|10
+|19
+|[[Gliding]]
+|20
+|56, U18
+|[[Rank]]
+|5 to 10/level
+|29
+|-
+|[[Acute Faz]]
+|2/level
+|55
+|[[Group Skill Bonus]]
+|Variable
+|177
+|[[Rank (Academic)]]
+|5/level
+|29, IOU18
+|-
+|[[Acute Hearing]]
+|2/level
+|B19
+|[[Growth]]
+|10/level
+|56
+|[[Rank (Lodges)]]
+|5/level
+|VO54
+|-
+|[[Acute Taste and Smell]]
+|2/level
+|B19
+|[[Guardian Spirit]]
+|Variable
+|OW29
+|[[Rank (Merchant)]]
+|10/level
+|29
+|-
+|[[Acute Vision]]
+|2/level
+|B19
+|[[Hard to Kill]]
+|5/level
+|25
+|[[Rank (Religious)]]
+|5/level
+|22, 29
+|-
+|[[Administrative Rank]]
+|5/level
+|19
+|[[Harmony with the Tao]]
+|20
+|38, MAA100
+|[[Rapid Healing]]
+|5
+|B22
+|-
+|[[Alcohol Tolerance]]
+|5
+|19
+|[[Healing]]
+|25
+|57
+|[[Rapier Wit]]
+|5
+|29, IOU20
+|-
+|[[Alertness]]
+|5/level
+|B19
+|[[Health/Life Insurance]]
+|0
+|IOU18
+|[[Reawakened]]
+|10
+|43
+|-
+|[[Ally]]
+|Variable
+|B23
+|[[Heavy Scales]]
+|28
+|57, U27
+|[[Reciprocal Rest]]
+|15
+|43
+|-
+|[[Ally (Unwilling)]]
+|Variable
+|19
+|[[Heir]]
+|5
+|25
+|[[Recovery]]
+|10
+|64, SU44
+|-
+|[[Ally Group]]
+|Variable
+|19
+|[[Hermaphromorph]]
+|2
+|57
+|[[Reduced Sleep]]
+|10
+|64, SU44
+|-
+|[[Ally Group (Unwilling)]]
+|Variable
+|20
+|[[Heroic ST]]
+|Variable
+|57
+|[[Reflection]]
+|Variable
+|64
+|-
+|[[Altered Time Rate]]
+|100/level
+|49, SU35
+|[[Hide]]
+|28
+|57
+|[[Regeneration]]
+|10 to 100
+|64, SU44
+|-
+|[[Alternate Identity]]
+|15/5
+|20
+|[[High Pain Threshold]]
+|10
+|B20
+|[[Regnancy]]
+|Variable
+|64
+|-
+|[[Ambidexterity]]
+|10
+|B19
+|[[High Technology]]
+|Variable
+|26, U18
+|[[Regrowth]]
+|40
+|64, SU44
+|-
+|[[Amphibious]]
+|10
+|49, SU36
+|[[Higher Purpose]]
+|5
+|26
+|[[Reputation]]
+|Variable
+|B17
+|-
+|[[Animal Empathy]]
+|5
+|B19
+|[[Horns]]
+|Variable
+|67, U25
+|[[Resistance to Disciplines]]
+|Variable
+|VTM71
+|-
+|[[Animal Form]]
+|100
+|33
+|[[Honor Student]]
+|3
+|IOU18
+|[[Resistant to Poison]]
+|5
+|29
+|-
+|[[Appearance]]
+|Variable
+|B15
+|[[Hyperactive]]
+|30
+|57
+|[[Resurrection]]
+|150
+|64
+|-
+|[[Arcane]]
+|10/level
+|MTA44
+|[[Hyper-Reflexes]]
+|15
+|58, RO79
+|[[Retrogression]]
+|40
+|43
+|-
+|[[Arete]]
+|Variable
+|MTA44
+|[[Hyper-Strength]]
+|30
+|58, RO79
+|[[Ridiculous Luck]]
+|60
+|29
+|-
+|[[Armor Plates]]
+|59
+|57
+|[[Hyperflight]]
+|50/75
+|57
+|[[Robotics]]
+|Variable
+|RO9
+|-
+|[[Autotrance]]
+|5
+|20
+|[[Ice Clinging]]
+|10
+|52, A14
+|[[Sanctity]]
+|5
+|29
+|-
+|[[Avatar]]
+|15/level
+|MTA44
+|[[Ice Skates]]
+|5
+|58, SU41
+|[[Sanitized Metabolism]]
+|5
+|65
+|-
+|[[Awareness]]
+|15/35
+|33, MTA44
+|[[Illuminated]]
+|60
+|38
+|[[Scales]]
+|3
+|57, U27
+|-
+|[[Bardic Immunity]]
+|10
+|21, RH6
+|[[Illusion]]
+|20
+|72, U26
+|[[Second Sight]]
+|5
+|43
+|-
+|[[Beast-Kin]]
+|15
+|21
+|[[Image]]
+|20
+|72
+|[[Second-Stage Stability]]
+|25
+|L29
+|-
+|[[Being of Pure Thought]]
+|290
+|34
+|[[Immortality]]
+|140
+|58, SU41
+|[[Secret Communication]]
+|20
+|65, U20
+|-
+|[[Bioelectric Shock]]
+|10
+|50, RO78
+|[[Immunity to Disease]]
+|10
+|B20
+|[[Security Clearance]]
+|Variable
+|29
+|-
+|[[Bionics]]
+|Variable
+|CY30, RP26/13
+|[[Immunity to Paradox]]
+|50
+|MTA46
+|[[See Ethical Markings]]
+|15
+|RI37
+|-
+|[[Bioplas Dermal Armor]]
+|45
+|SA30
+|[[Immunity to Poison]]
+|15
+|58, SU41
+|[[See Invisible]]
+|15
+|65, SU45
+|-
+|[[Bite]]
+|30+
+|50
+|[[Immunity to the Delirium]]
+|25
+|MTA46, WTA57
+|[[Semi-Literacy]]
+|0 or 5
+|29
+|-
+|[[Blessed]]
+|10/20
+|34, R93
+|[[Immunity to Timesickness]]
+|Variable
+|26
+|[[Sense of Perception]]
+|100
+|65
+|-
+|[[Blood Healing]]
+|25
+|VTM58
+|[[Imperturbable]]
+|10
+|26
+|[[Sensie Talent]]
+|2/level
+|30
+|-
+|[[Body of Air]]
+|50
+|50
+|[[Improved G-Tolerance]]
+|5 to 25
+|26
+|[[Sensitive]]
+|5
+|30
+|-
+|[[Body of Earth]]
+|40
+|50
+|[[In-Betweener Invulnerability]]
+|60
+|VO99
+|[[Sensitive Touch]]
+|10
+|65, SU45
+|-
+|[[Body of Fire]]
+|5/level
+|50
+|[[Increased Density]]
+|5/level
+|58
+|[[Serendipity]]
+|15/30
+|30
+|-
+|[[Body of Ice]]
+|25
+|50
+|[[Increased Speed]]
+|25/level
+|26, SU41
+|[[Shadow Form]]
+|50
+|65
+|-
+|[[Body of Metal]]
+|9/level
+|50
+|[[Independently Focusable Eyes]]
+|15
+|58, SU41
+|[[Shapeshifting (Aztec)]]
+|15
+|AZ34
+|-
+|[[Body of Stone]]
+|8/level
+|51, SU37
+|[[Infravision]]
+|15
+|58
+|[[Shapeshifting (Were)]]
+|Variable
+|43
+|-
+|[[Body of Water]]
+|40
+|51
+|[[Inherent Magic (Knacks)]]
+|Variable
+|38, M96
+|[[Sharpshooter]]
+|45
+|30
+|-
+|[[Bouncing]]
+|12/level
+|51
+|[[Initiate Powers]]
+|Variable
+|VO58
+|[[Shock]]
+|20
+|73
+|-
+|[[Brachiator]]
+|5
+|51, U17
+|[[Initiation]]
+|Variable
+|VO55, 58
+|[[Shrinking]]
+|Variable
+|65
+|-
+|[[Breath Holding]]
+|2/level
+|21, SU37
+|[[Injury Tolerance]]
+|Variable
+|58
+|[[Sidhe Blood]]
+|Variable
+|CM55
+|-
+|[[Breathe Fire]]
+|20
+|72
+|[[Insubstantiability]]
+|80
+|59, SU42
+|[[Silence]]
+|5/level
+|66, SU46
+|-
+|[[Broadcast]]
+|3/level
+|51
+|[[Interface Jack]]
+|10
+|26, U87
+|[[Silver Sense]]
+|5
+|WTA58
+|-
+|[[Carapace]]
+|56
+|57
+|[[Intuition]]
+|15
+|B20
+|[[Single-Minded]]
+|5
+|30
+|-
+|[[Cast Iron Stomach]]
+|15
+|51, U17
+|[[Intuitive Mathematician]]
+|25
+|26
+|[[Smashing Tail]]
+|Variable
+|BE101, U25
+|-
+|[[Cat’s Nine Lives]]
+|5
+|FB112
+|[[Name]]
+|Cost
+|Page Reference
+|[[Smoke]]
+|15
+|73, U26
+|-
+|[[Catfall]]
+|10
+|51, SU37
+|[[Invisibility]]
+|40
+|59, SU42
+|[[Snatcher]]
+|Variable
+|45
+|-
+|[[Chameleon]]
+|7/level
+|51, SU37
+|[[Invisibility to Machines]]
+|20
+|59
+|[[Sonar Vision]]
+|0/25
+|66, U18
+|-
+|[[Channeling]]
+|10
+|34
+|[[Invulnerability]]
+|Variable
+|59, SU42
+|[[Sonic Blast]]
+|20
+|73, U26
+|-
+|[[Charisma]]
+|5/level
+|B19
+|[[Iron Hand]]
+|10/15
+|26
+|[[Sonic Claws]]
+|60
+|SA30
+|-
+|[[Chronolocation]]
+|15
+|21
+|[[IST Membership]]
+|65+5/Rank
+|IST29, SU97
+|[[Speak Underwater]]
+|8
+|66
+|-
+|[[Name]]
+|Cost
+|Page Reference
+|[[Jock]]
+|8
+|IOU18
+|[[Speak with Animals]]
+|15
+|66, SU46
+|-
+|[[Claim to Hospitality]]
+|1-10
+|21
+|[[Karmic Ties]]
+|Variable
+|39, WW58
+|[[Speak with Fish]]
+|10
+|66, SU46
+|-
+|[[Claws]]
+|15/40/55
+|67, SU76
+|[[Kindred Advantages]]
+|Variable
+|VC14
+|[[Speak with Plants]]
+|15
+|66
+|-
+|[[Clerical Investment]]
+|5/level
+|22, B19, R92
+|[[Knacks]]
+|Variable
+|38, M96
+|[[Spear]]
+|30
+|67, U25
+|-
+|[[Clerical Magic]]
+|Variable
+|35
+|[[Knighthood]]
+|Variable
+|CA7
+|[[Spearman’s Invulnerability]]
+|30
+|CM80
+|-
+|[[Client]]
+|Variable
+|U31
+|[[Language Talent]]
+|2/level
+|B20
+|[[Special Rapport]]
+|10
+|46
+|-
+|[[Clinging]]
+|25
+|51, SU38
+|[[Laser]]
+|25
+|73
+|[[Spectrum Vision]]
+|40
+|66, SU46
+|-
+|[[Collected]]
+|5
+|22
+|[[Legal Enforcement Powers]]
+|5/10/15
+|B21
+|[[Spheres (Magickal)]]
+|Variable
+|MTA50
+|-
+|[[Combat Reflexes]]
+|15
+|B20
+|[[Legal Immunity]]
+|5 to 20
+|27
+|[[Spines]]
+|5/15
+|67
+|-
+|[[Common Sense]]
+|10
+|B20
+|[[Lensman]]
+|100
+|L28
+|[[Name]]
+|Cost
+|Page Reference
+|-
+|[[Compartmentalized Mind]]
+|50/level
+|52
+|[[Less Sleep]]
+|3/level
+|27
+|[[Spiny Fur]]
+|33
+|56, U27
+|-
+|[[Composed]]
+|5
+|22
+|[[Light Hangover]]
+|2
+|27
+|[[Spirit Empathy]]
+|10
+|46
+|-
+|[[Constriction Attack]]
+|15
+|52, SU75, BE102
+|[[Lightning]]
+|20
+|73, U26
+|[[Status]]
+|5/level
+|B18
+|-
+|[[Contacts]]
+|Variable
+|22
+|[[Lightning Calculator]]
+|5
+|B21
+|[[Step Sideways]]
+|60
+|WTA58
+|-
+|[[Cool (Natural Attack)]]
+|15
+|72
+|[[Limited Magery (Dance)]]
+|8/13/18
+|39
+|[[Stretching]]
+|30+
+|66, SU46
+|-
+|[[Cool (Quirk)]]
+|1
+|23
+|[[(Dark-Aspected)]]
+|8/13/18
+|39
+|[[Strikers]]
+|Variable
+|66, SU76, U21
+|-
+|[[Costume]]
+|15
+|52
+|[[(Moon-Aspected)]]
+|8/13/18
+|39
+|[[Strong Will]]
+|4/level
+|B23
+|-
+|[[Courtesy Rank]]
+|1/level
+|23
+|[[(Musical)]]
+|8/13/18
+|39
+|[[Style Familiarity]]
+|1 to 25
+|30
+|-
+|[[Cultural Adaptability]]
+|25
+|23
+|[[(One-College)]]
+|10/16/22
+|39
+|[[Subsonic Hearing]]
+|0/5
+|67, U19
+|-
+|[[Cybernetic Implants]]
+|Variable
+|CY29, RP19/7
+|[[(Solitary)]]
+|10/16/22
+|40
+|[[Subsonic Speech]]
+|0/20
+|67, U20
+|-
+|[[Damage Resistance]]
+|Variable
+|52, SU38
+|[[(Song)]]
+|10/16/22
+|40
+|[[Super Climbing]]
+|3/level
+|67, SU46
+|-
+|[[Dampen]]
+|15
+|72
+|[[(Star-Aspected)]]
+|8/13/18
+|40
+|[[Super Flight]]
+|20/level
+|67
+|-
+|[[Danger Sense]]
+|15
+|B20
+|[[(Sun-Aspected)]]
+|8/13/18
+|40
+|[[Super Jump]]
+|10/level
+|68, SU46
+|-
+|[[Daredevil]]
+|15
+|23
+|[[Literacy]]
+|Variable
+|B21
+|[[Super Luck]]
+|100
+|46
+|-
+|[[Dark Vision]]
+|25
+|52
+|[[Longevity]]
+|5
+|B21
+|[[Super Powers]]
+|Variable
+|SU55
+|-
+|[[Deafen]]
+|15
+|72, U25
+|[[Luck]]
+|15/30
+|B21
+|[[Super Running]]
+|20/level
+|68
+|-
+|[[Decreased Life Support]]
+|10
+|52
+|[[Lunar Influence]]
+|5
+|39
+|[[Super Swimming]]
+|10/level
+|68
+|-
+|[[Deep Sleeper]]
+|5
+|23
+|[[Lycanthropic Dominance]]
+|35
+|60
+|[[Surge]]
+|15
+|73
+|-
+|[[Delirium]]
+|100
+|WTA55
+|[[Magic Resistance]]
+|2/level
+|B21, M104
+|[[Swimmer]]
+|0
+|U18
+|-
+|[[Destiny]]
+|Variable
+|35
+|[[Magical Aptitude]]
+|15/25/35
+|B21, M103
+|[[Teeth]]
+|0/5/10
+|67, U25
+|-
+|[[Destiny]]
+|5/level
+|MTA45
+|[[Magnetic Sense]]
+|5/level
+|60
+|[[Telescopic Vision]]
+|6/level
+|68, SU47
+|-
+|[[Diplomatic Immunity]]
+|20
+|24, IST30
+|[[Mana Damper]]
+|5+
+|40
+|[[Temperature Tolerance]]
+|1/level
+|30, SU47
+|-
+|[[Discriminatory Smell]]
+|15
+|52, SU38
+|[[Mana Enhancer]]
+|25+
+|40
+|[[Temporal Inertia]]
+|15
+|46
+|-
+|[[Discriminatory Taste]]
+|10
+|53
+|[[Manual Dexterity]]
+|3/level
+|27
+|[[Temporary Identity]]
+|0
+|20
+|-
+|[[Disease-Resistant]]
+|5
+|24
+|[[Martial Arts Styles]]
+|Variable
+|MA24, MAA112
+|[[Temporary Wealth]]
+|Variable
+|18, CY27, RP18/13,19/14
+|-
+|[[Divination Talent]]
+|5
+|36
+|[[Mathematical Ability]]
+|10
+|B22
+|[[Tenure]]
+|5
+|31
+|-
+|[[Divine Favor]]
+|Variable
+|36
+|[[Matter Surfing]]
+|30
+|60
+|[[Thick Fur]]
+|28
+|57, U27
+|-
+|[[Doesn’t Breathe]]
+|20
+|53, SU39, VTM59
+|[[Mechanical Telepathy]]
+|120
+|27
+|[[Thick Hide]]
+|28
+|57, U27
+|-
+|[[Doesn’t Eat/Drink]]
+|10
+|53, SU39
+|[[Medium]]
+|10
+|41
+|[[Time-Jumper (Harmonian)]]
+|75
+|CCS44
+|-
+|[[Doesn’t Sleep]]
+|20
+|53, SU39
+|[[Metabolism Control]]
+|5/level
+|60, U18
+|[[Time-Jumper]]
+|Variable
+|46
+|-
+|[[Dominance]]
+|5+
+|53
+|[[Microscopic Vision]]
+|4/level
+|60, SU43
+|[[Totem Spirit]]
+|Variable
+|WTA59
+|-
+|[[Double-Jointed]]
+|5
+|B20
+|[[Military Rank]]
+|5/level
+|B22
+|[[Toughness]]
+|10/25
+|B23
+|-
+|[[Dream]]
+|3/level
+|MTA45
+|[[Mimicry]]
+|15
+|60
+|[[Trained by a Master]]
+|40
+|31
+|-
+|[[Drug Factory]]
+|Variable
+|53, RO78
+|[[Mindlink]]
+|1/level
+|41
+|[[Transference]]
+|40
+|68
+|-
+|[[Duplication]]
+|75/copy
+|53
+|[[Mindshare]]
+|Variable
+|60
+|[[Transformation]]
+|Variable
+|68
+|-
+|[[Early Maturation]]
+|5/level
+|53
+|[[Mode Training]]
+|10
+|WAC56
+|[[Treatment,The]]
+|125+
+|IOU20
+|-
+|[[Eidetic Memory]]
+|30/60
+|B20
+|[[Modified Arm DX]]
+|Variable
+|61, SU75
+|[[Tree-Kin]]
+|15
+|31
+|-
+|[[Eidetic Sense of Smell]]
+|10
+|BB22
+|[[Modified Arm ST]]
+|Variable
+|61, SU74
+|[[True Faith]]
+|15
+|47
+|-
+|[[Elastic Skin]]
+|20
+|53
+|[[Morph]]
+|40
+|61, FF28
+|[[Tunnel]]
+|40+
+|69, SU47
+|-
+|[[Empathy]]
+|15
+|B20
+|[[Move Through Ice]]
+|10
+|62
+|[[Ultrahearing]]
+|0/5
+|69, SU47
+|-
+|[[Enhanced Block]]
+|6
+|24
+|[[Mucous Skin]]
+|0
+|U27
+|[[Ultrasonic Speech]]
+|0/25
+|69, U20
+|-
+|[[Enhanced Dodge]]
+|15
+|24
+|[[Multimillionaire]]
+|25/level
+|27
+|[[Unaffected by Loud Noises]]
+|10
+|BB22
+|-
+|[[Enhanced Move]]
+|10/level
+|54
+|[[Multiple Forms]]
+|5/additional form
+|62
+|[[Unaging]]
+|15
+|69, SU47
+|-
+|[[Enhanced Parry]]
+|6/10
+|24
+|[[Mundanity]]
+|5/level
+|IOU19
+|[[Undying]]
+|175
+|69
+|-
+|[[Enhanced ST]]
+|Variable
+|7, SU39
+|[[Musical Ability]]
+|1/level
+|B22
+|[[Unfazeable]]
+|15
+|31
+|-
+|[[Enhanced Time Sense]]
+|45
+|54, MTA46
+|[[Mythos Awareness]]
+|5 or 15
+|CT47
+|[[Universal Digestion]]
+|15
+|69, U19
+|-
+|[[Extended Lifespan]]
+|5/level
+|54
+|[[Nanomorphics]]
+|Variable
+|RO71
+|[[Unrestricted Reproduction]]
+|5/15
+|U19
+|-
+|[[Extra Arm Length]]
+|10/hex
+|54, SU75, U21
+|[[Natural Spellcasting]]
+|15
+|41
+|[[Unusual Background]]
+|Variable
+|B23
+|-
+|[[Extra Arms]]
+|Variable
+|54, SU74, U20
+|[[Neural Cyberdeck Interface]]
+|Variable
+|27, CT32, CW121
+|[[Vacuum Adaptation]]
+|27
+|69
+|-
+|[[Extra Encumbrance]]
+|5
+|54
+|[[Nictating Membrane]]
+|10/level
+|62, SU43
+|[[Vacuum Support]]
+|40
+|70, SU47
+|-
+|[[Extra Fatigue]]
+|3/level
+|24
+|[[Night Vision]]
+|10
+|B22
+|[[Vampiric Disciplines]]
+|Variable
+|VTM66, 96, VC31, 99
+|-
+|[[Name]]
+|Cost
+|Page Reference
+|[[No Hangover]]
+|5
+|28
+|[[Vampiric Dominance]]
+|Variable
+|53
+|-
+|[[Extra Flexibility]]
+|5/10
+|55, SU75
+|[[Node]]
+|Variable
+|MTA46
+|[[Vampiric Immortality]]
+|60
+|70
+|-
+|[[Extra Gnosis]]
+|8/level
+|WTA56
+|[[Non-Reciprocal Damage]]
+|30
+|41
+|[[Vampiric Invulnerability]]
+|150
+|70, VTM60
+|-
+|[[Extra Hit Points]]
+|5/level
+|24
+|[[Oracle]]
+|15
+|42
+|[[Vampiric Resurrection]]
+|150
+|70
+|-
+|[[Extra Humanity]]
+|5/level
+|VTM69
+|[[Oxygen Storage]]
+|14
+|62
+|[[Venom]]
+|15/level
+|71, U26
+|-
+|[[Extra Legs]]
+|Variable
+|55
+|[[Panimmunity]]
+|2/5/10
+|28, TE117
+|[[Versatile]]
+|5
+|31
+|-
+|[[Extra Life]]
+|25
+|36
+|[[Parabolic Hearing]]
+|4/level
+|62, SU43
+|[[Very Fit]]
+|15
+|31
+|-
+|[[Extra Rage]]
+|4/level
+|WTA56
+|[[Passive Defence]]
+|25/level
+|63, SU44
+|[[Very Light Scales]]
+|0
+|57
+|-
+|[[Extra Stun]]
+|Variable
+|24
+|[[Patron]]
+|Variable
+|B24
+|[[Very Rapid Healing]]
+|15
+|31
+|-
+|[[Faerie Empathy]]
+|10
+|36
+|[[Patron (Secret)]]
+|Variable
+|28
+|[[Very Thin Fur]]
+|0
+|57
+|-
+|[[Faith Healing]]
+|30
+|36
+|[[Patron (Unwilling)]]
+|Variable
+|28
+|[[Visualization]]
+|10
+|47
+|-
+|[[Familiar]]
+|Variable
+|37
+|[[Penetrating Call]]
+|5
+|63, WTA57
+|[[Voice]]
+|10
+|B23
+|-
+|[[Fashion Sense]]
+|5
+|24, VTM59
+|[[Penetrating Vision]]
+|10/level
+|63
+|[[Voices on the Wind]]
+|10/level
+|CM80
+|-
+|[[Favor]]
+|Variable
+|25
+|[[Perfect Balance]]
+|15
+|63
+|[[Walk on Air]]
+|20
+|71
+|-
+|[[Faz Sense]]
+|10
+|55, HU39
+|[[Peripheral Vision]]
+|15
+|B22
+|[[Walk on Liquid]]
+|15
+|71, SU48
+|-
+|[[Fearlessness]]
+|2/level
+|25
+|[[Name]]
+|Cost
+|Page Reference
+|[[Warm]]
+|15
+|73
+|-
+|[[Field Sense]]
+|10
+|55, U18
+|[[Pheromone Control]]
+|25
+|63, RO79
+|[[Wealth]]
+|Variable
+|B16
+|-
+|[[Filter Lungs]]
+|5
+|56
+|[[Pious]]
+|5
+|29
+|[[Weapon Master]]
+|20/45
+|32, MA25
+|-
+|[[Fit]]
+|5
+|25
+|[[Pitiable]]
+|5
+|29
+|[[Webbing]]
+|20+2/level
+|71
+|-
+|[[Flash]]
+|15
+|72, U25
+|[[Plant Empathy]]
+|5
+|29
+|[[Were Form]]
+|5/form
+|BE93
+|-
+|[[Flexibility]]
+|15
+|56, SU40
+|[[Polarized Eyes]]
+|5
+|63, SU44
+|[[Were Form, Garou]]
+|52
+|WTA60
+|-
+|[[Flight]]
+|40
+|56, SU40
+|[[Power Investiture]]
+|10/level
+|42
+|[[Were Forms]]
+|Variable
+|43-44, BE113, M110, VI86, WW51
+|-
+|[[Fugue]]
+|50
+|38
+|[[Pressure Support]]
+|Variable
+|63, SU44
+|[[Wild Mana Generator]]
+|50
+|CM80
+|-
+|[[Full Coordination]]
+|50/attack
+|56, SU40
+|[[Psi Powers]]
+|Variable
+|B165, P10
+|[[Winged Flight]]
+|30
+|56, U20
+|-
+|[[Fur]]
+|4
+|56, RO79
+|[[Psionic Resistance]]
+|2/level
+|42
+|[[World-Jumper]]
+|Variable
+|48
+|-
+|[[G-Experience]]
+|10
+|25
+|[[Pure Breed]]
+|5/level
+|WTA57
+|[[World Sight]]
+|10
+|48
+|-
+|[[Gadgeteer]]
+|25/50
+|25, SU14
+|[[Quintessence]]
+|2/level
+|MTA46
+|[[Wyrd]]
+|Variable
+|35
+|-
+|}
+
+[[Category: GURPS]]

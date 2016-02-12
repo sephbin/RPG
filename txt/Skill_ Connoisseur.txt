@@ -1,0 +1,16 @@
+Skill: Connoisseur
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONNOISSEUR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents an educated understanding of art and luxury items. It is vital to art dealers, critics, master thieves, and anyone who wishes to appear cultured. A successful roll lets you predict what critics will think of a piece of art, assess how much it will fetch on the market (+1 to Merchant skill when trading it), or impress the culturally literate (may give +1 to Savoir-Faire or reaction rolls, at the GM's option)
+
+{{Indent}}You must specialize. Specialties include Dance, Literature, Music, Visual Arts, and Wine. Each specialty defaults to skills used to study or create the art at -3: Connoisseur (Literature) defaults to Literature, Poetry, or Writing at -3; Connoisseur (Music) defaults to Group Performance (Conducting), Musical Composition, or Musical Instrument at -3; and so on
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Cultural Familiarity modifiers (p. 23); -3 for Killjoy (p. 140).&lt;/i&gt;&lt;/font&gt;
+|}

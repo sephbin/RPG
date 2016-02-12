@@ -1,0 +1,48 @@
+Skill: Electronics Operation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ELECTRONICS OPERATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Electronics Repair (same)-5, or Engineer (Electronics)-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill lets you use all electronic equipment within a known specialty. Make a skill roll in an emergency situation or for &quot;abnormal&quot; use of equipment - not for ordinary, everyday use. (Exception: Unskilled users must always attempt their default roll!)
+
+{{Indent}}You must specialize. Available specialties vary by game world, but might include:
+
+{{Indent}}Communications (Comm): All forms of electronic communications technology: radios, satellite uplinks, laser communicators, etc. Includes knowledge of any standard, current communications codes appropriate to your background. These do not require a skill roll - although attempts to understand or use an unfamiliar code do require a roll. At TL5-7, this includes telegraphy: you can send or receive 2 words per minute (wpm) per point of skill at TL5, 3 wpm per point of skill at TL6-7
+
+{{Indent}}Electronic Warfare (EW): All signals- intelligence and jamming equipment, including electronic countermeasures (ECM) and electronic counter-countermeasures (ECCM). In most game worlds, only intelligence agencies and the military teach this specialty - and only to individuals with suitable Military Rank (p. 30) or Security Clearance (p. 82)
+
+{{Indent}}&lt;i&gt;Force Shields:&lt;/i&gt; Portable, vehicular, base, and starship force shields and deflectors
+
+{{Indent}}Matter Transmitters (MT): All matter transmitters and teleporters. Critical failures can be disastrous, especially when transmitting living beings!
+
+{{Indent}}&lt;i&gt;Media:&lt;/i&gt; All forms of audio, film, and video editing equipment. If threedimensional video (&quot;holographics&quot;) or sensory recordings (&quot;sensies&quot;) exist in the setting, this specialty includes the ability to operate the relevant equipment. Treat different media as mutually unfamiliar technologies
+
+{{Indent}}&lt;i&gt;Medical:&lt;/i&gt; All manner of electronic diagnostic and life-support equipment
+
+{{Indent}}&lt;i&gt;Parachronic:&lt;/i&gt; Technological means of travel between dimensions or timelines
+
+{{Indent}}&lt;i&gt;Psychotronics:&lt;/i&gt; Psionic technology, such as telepathic shields and amplifiers
+
+{{Indent}}&lt;i&gt;Scientific:&lt;/i&gt; Laboratory electronics and survey gear. You are automatically familiar with the equipment used with any scientific skill on which you have spent at least one point
+
+{{Indent}}&lt;i&gt;Security:&lt;/i&gt; Both operating and circumventing all forms of alarms, security sensors, and area-surveillance technology
+
+{{Indent}}&lt;i&gt;Sensors:&lt;/i&gt; Most forms of long-range detection gear, from air-defense radar to starship sensor suites. Certain highly specialized sensors (such as sonar, below) have their own specialties
+
+{{Indent}}&lt;i&gt;Sonar:&lt;/i&gt; All types of acoustic detection and ranging gear (normally used underwater)
+
+{{Indent}}&lt;i&gt;Surveillance:&lt;/i&gt; All forms of concealable or remote surveillance gear: &quot;bugs,&quot; hidden cameras, long-range microphones, wiretaps, etc
+
+{{Indent}}&lt;i&gt;Temporal:&lt;/i&gt; All manner of time machines. Critical failures can be disastrous for the time travelers! Make separate rolls to &quot;lock onto&quot; and transfer the travelers
+
+{{Indent}}These specialties default to one another at -4; however, the GM is free to rule that in his campaign, there is no default between exotic specialties (Parachronic, Psychotronics, etc.) and mundane ones (Media, Security, etc.). The technologies covered by a particular specialty vary with TL. For instance, Electronics Operation (Comm) covers telegraphs at TL5, telephones and radios at TL6, and digital communications systems at TL8 . . . and might cover faster-than-light or telepathic communicators at higher TLs
+
+{{Indent}}Familiarity (p. 169) is crucial here! Electronics Operation8 (Sensors) covers both thermographs on fighter jets and ground-penetrating radars on satellites, but going from one to the other gives you -2 for type (thermograph to radar) and -2 for implementation (jet to satellite), for a net -4 to skill until you familiarize yourself with all the differences
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -2 for an unfamiliar technology of a known type (e.g., radar when you are used to thermograph) or an unfamiliar implementation of a familiar technology (e.g., air-defense radar when you are used to weather radar); -1 to -10 if you have been away from the field for a long time (this varies by field) and have not had a chance to become familiar with the changes.&lt;/i&gt;&lt;/font&gt;
+|}

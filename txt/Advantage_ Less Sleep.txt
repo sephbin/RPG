@@ -1,0 +1,8 @@
+Advantage: Less Sleep
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LESS SLEEP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You need less sleep than most people. A normal human requires 8 hours of sleep per night. Each level of this advantage - to a maximum of four levels - lets you get by with one hour less than this, giving you a few extra hours each day in which to study or work on other projects.
+|}

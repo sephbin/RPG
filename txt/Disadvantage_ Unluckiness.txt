@@ -1,0 +1,10 @@
+Disadvantage: Unluckiness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNLUCKINESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have rotten luck. Things go wrong for you - and usually at the worst possible time. Once per play session, the GM will arbitrarily and maliciously make something go wrong for you. You miss a vital die roll, or the enemy (against all odds) shows up at the worst possible time. If the plot of the adventure calls for something bad to happen to someone, it's you. The GM may not kill you outright with &quot;bad luck,&quot; but anything less than that is fine. (For lethally bad luck, see Cursed, p. 129.)
+
+{{Indent}}If you wish, you may specify a recurring &quot;theme&quot; for your Unluckiness - for instance, your weapons tend to break, you're always 5 minutes late, or objects have a nasty habit of falling on your head. The GM should do his best to make your Unluckiness work this way. However, this is a characterization tool and not a hard-and-fast game mechanic. Bad luck can always manifest in other ways if the GM wants to keep you on your toes!
+|}

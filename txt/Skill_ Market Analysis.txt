@@ -1,0 +1,14 @@
+Skill: Market Analysis
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MARKET ANALYSIS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Economics-5, or Merchant-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of predicting the short-term behavior of bond, stock, and currency markets - usually in order to make money! It is the main job skill of professional traders and speculators. Make a skill roll to determine current market trends. On a critical success, you also learn whether a trend will continue or reverse in the future. On a failure, you get no clear answer. On a critical failure, you guess wrong
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: The Talents (p. 89) of Business Acumen and Mathematical Ability both provide a bonus.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,38 @@
+Gútz
+[[Category:NPCs]]
+'''Gútz'''&lt;br/&gt;
+Mantis, Giant &lt;br/&gt;
+N Medium vermin&lt;br/&gt;
+'''Init '''+2; '''Senses '''darkvision 60 ft.; Perception +1&lt;br/&gt;
+----
+'''Defense'''&lt;br/&gt;
+----
+'''AC '''15, touch 12, flat-footed 13 (+2 Dex, +3 natural)&lt;br/&gt;
+'''hp '''16 ()&lt;br/&gt;
+'''Fort '''+3, '''Ref '''+3, '''Will '''+2&lt;br/&gt;
+----
+'''Offense'''&lt;br/&gt;
+----
+'''Speed '''30 ft., climb 30 ft., fly 40 ft. (average)&lt;br/&gt;
+'''Melee '''2 claws +2 (1d4 plus grab) and&lt;br/&gt;
+:unarmed strike +2 (1d3 nonlethal)&lt;br/&gt;
+----
+'''Statistics'''&lt;br/&gt;
+----
+'''Str '''10, '''Dex '''15, '''Con '''10, '''Int '''—, '''Wis '''12, '''Cha '''7&lt;br/&gt;
+'''Base Atk '''+2; '''CMB '''+2 (+6 grapple); '''CMD '''14 (22 vs. trip)&lt;br/&gt;
+'''Tricks '''Attack, Flank&lt;br/&gt;
+'''Skills '''Climb +8&lt;br/&gt;
+'''SQ '''attack, flank, lunge&lt;br/&gt;
+----
+'''Special Abilities'''&lt;br/&gt;
+----
+'''Attack [Trick]''' The animal will attack on command.&lt;br/&gt;
+'''Climbing (30 feet)''' You have a Climb speed.&lt;br/&gt;
+'''Darkvision (60 feet)''' You can see in the dark (black and white vision only).&lt;br/&gt;
+'''Flank [Trick]''' Attempts to attack and flank indicated enemy.&lt;br/&gt;
+'''Flight (40 feet, Average)''' You can fly!&lt;br/&gt;
+'''Grab: Claw (Medium) (Ex)''' You can start a grapple as a free action if you hit with the designated weapon.&lt;br/&gt;
+'''Lunge (Ex)''' A giant mantis's limbs are capable of reaching much farther than normal for a creature of its size. As a full attack action, it can make a single attack with its claws at double its normal reach. When a giant mantis attacks with a claw in this manner&lt;br/&gt;
+
+{{GURPS Character Sheet|CAMPAIGN IMAGE={{{CAMPAIGN IMAGE}}}|Advantage_0=Arm DX 3 (Two arms; One Attack Only (Grappling), -60%)|Advantage_1=Damage Resistance 3 (Shell; Can't Wear Armor, -40%)|Advantage_2=Extra Legs (4 Legs; Cannot Kick, -50%)|Advantage_3=Flight (Cannot Hover, -15%; Winged, -25%)|Advantage_4=High Pain Threshold [10]|Advantage_5=Injury Tolerance (No Vitals)|Advantage_6=Lifting ST 6 (Size, -10%)|Advantage_7=Racial Skill Bonus 1 (Stealth)|Advantage_8=Single-Minded|Advantage_9=Teeth (Sharp Teeth)|Advantage_10=Doesn't Breath (Oxygen Absorption, -25%)|Advantage_11=Grasper (Reach 2) (1d+2)|Disadvantage_0=Bestial|Disadvantage_1=Cannot Speak|Disadvantage_2=Hidebound|Disadvantage_3=Loner (6 or less)|Disadvantage_4=Reduced Air Move -2|Disadvantage_5=Taboo Trait (Fixed IQ)|Disadvantage_6=No Fine Manipulators|Disadvantage_7=Horizontal|ST=15|DX=12|IQ=2|HT=11|Basic Lift=20|BS=5.75|E_0=20|E_1=40|E_2=60|E_3=120|E_4=200|ST_Cost=30|DX_Cost=24|IQ_Cost=-160|HT_Cost=10|BS_Cost=0|M_0=5|M_1=4|M_2=3|M_3=2|M_4=1|HP=15|Will=9|Per=13|FP=11|Thr=1d+1|BM=5|Name=Gutz|HP_Cost=0|Will_Cost=21|Per_Cost=55|FP_Cost=0|Sw=2d+1|BM_Cost=0|D_0=8|D_1=7|D_2=6|D_3=5|D_4=4|Advantage_0_Cost=20|Advantage_1_Cost=12|Advantage_2_Cost=3|Advantage_3_Cost=24|Advantage_4_Cost=10|Advantage_5_Cost=5|Advantage_6_Cost=17|Advantage_7_Cost=2|Advantage_8_Cost=5|Advantage_9_Cost=1|Advantage_10_Cost=15|Advantage_11_Cost=9|Disadvantage_0_Cost=-10|Disadvantage_1_Cost=-15|Disadvantage_2_Cost=-5|Disadvantage_3_Cost=-10|Disadvantage_4_Cost=-4|Disadvantage_5_Cost=0|Disadvantage_6_Cost=-30|Disadvantage_7_Cost=-10|DR=4|PARRY=8|BLOCK=8|Skill_0=Stealth|Skill_1=Wrestling|Skill_2=Brawling|Skill_3=Survival (Woodland)|TL=3|SDiff_0=A|SDiff_1=A|SDiff_2=E|SDiff_3=A|SLevel_0=13|SLevel_1=16|SLevel_2=15|SLevel_3=13|SRelLev_0=DX+1|SRelLev_1=DX+1|SRelLev_2=DX+3|SRelLev_3=Per+0|Points Total=37|Unspent Points=0|TL_Cost=0|SCost_0=4|SCost_1=4|SCost_2=8|SCost_3=2|HandWeapon_0=Grasper|HW_Dam_0=thr+1|HW_Reach_0=2|AtSUM=-20|AdSUM=123|TLSUM=0|DiSUM=-84|SkSUM=18|HW_Parry_0=-|I_Cost_37=0|I_Cost_37=0}}

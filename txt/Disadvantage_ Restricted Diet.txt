@@ -1,0 +1,20 @@
+Disadvantage: Restricted Diet
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESTRICTED DIET'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 to -40 points''&lt;/font&gt;
+|-
+|{{Indent}}You require a specialized food or fuel that is hard to come by. Unlike Dependency (p. 130), you do not take damage if you go without . . . you just can't eat or refuel, which will eventually incapacitate you. Point value depends on the rarity of the item you consume:
+
+{{Indent}}Rare: Dragon's blood, exotic nutrient mixture, weapons-grade uranium. -40 points.
+
+{{Indent}}Occasional: Virgin's blood, rocket fuel, babies, radioactives. -30 points. Common: Human flesh, gasoline, liquid hydrogen. -20 points.
+
+{{Indent}}Very Common: Fresh meat, any hydrocarbon fuel (gasoline, diesel, etc.), electric batteries, fresh blood. -10 points.
+
+{{Indent}}Restricted Diet is appropriate for normal humans with chronic gastrointestinal disorders.
+
+{{Indent}}Special Limitations
+
+{{Indent}}Substitution: You can try to consume a food or fuel similar to the one you require. For instance, a cyborg that requires exotic nutrients could try ordinary human food, or a machine that requires gasoline could try diesel. This sustains you, but you must make a HT roll after each meal or refueling. Failure means your HT attribute drops by one until you receive appropriate medical or mechanical attention. Critical failure means an incapacitating reaction (GM's decision): severe immune response, engine failure, etc. Those who lack this limitation but for some reason attempt substitution derive no sustenance at all and must still make the HT roll above; treat success as failure and failure as critical failure. -50%.
+|}

@@ -1,0 +1,42 @@
+Skill: Holdout
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HOLDOUT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Sleight of Hand-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of concealing items on your person or on other people (usually with their cooperation). An item's size and shape govern its concealability. Some examples:
+
+{{Indent}}&lt;i&gt;+4:&lt;/i&gt; A BB-sized jewel, a postage stamp
+
+{{Indent}}&lt;i&gt;+3:&lt;/i&gt; A pea-sized jewel
+
+{{Indent}}&lt;i&gt;+2:&lt;/i&gt; One lockpick, a huge jewel, a dime, a TL9+ computer disk, a letter
+
+{{Indent}}&lt;i&gt;+1:&lt;/i&gt; A set of lockpicks, a silver dollar
+
+{{Indent}}&lt;i&gt;0:&lt;/i&gt; A TL8 floppy disk or CD, without case
+
+{{Indent}}&lt;i&gt;-1:&lt;/i&gt; A dagger, a slingshot, the tiniest handgun or grenade
+
+{{Indent}}&lt;i&gt;-2:&lt;/i&gt; An average handgun (e.g., a Luger), a grenade, a large knife
+
+{{Indent}}&lt;i&gt;-3:&lt;/i&gt; A submachine gun, a shortsword, a short carbine
+
+{{Indent}}&lt;i&gt;-4:&lt;/i&gt; A broadsword, an assault rifle
+
+{{Indent}}&lt;i&gt;-5:&lt;/i&gt; A bastard sword, a battle rifle
+
+{{Indent}}&lt;i&gt;-6:&lt;/i&gt; A crossbow, a heavy sniper rifle
+
+{{Indent}}Things that move or make noise give an additional -1 or more to skill
+
+{{Indent}}Clothing also modifies effective skill. A Carmelite nun in full habit (+5 to skill) could conceal a bazooka or a battle-axe from an eyeball search. A Las Vegas showgirl in costume (-5 to skill) would have trouble hiding even a dagger. Of course, the showgirl might escape search entirely (unless the guards were bored) because &quot;She obviously couldn't hide anything in that outfit!&quot; Full nudity is -7 to skill
+
+{{Indent}}A proper concealment holster helps conceal a weapon; use the equipment modifiers on p. 345. Clothing designed specifically to hide things gives a bonus of up to +4
+
+{{Indent}}To spot a concealed item, roll a Quick Contest of Search skill vs. Holdout. Search defaults to Perception-5 if you haven't studied it. See Search (p. 219) for additional rules
+|}

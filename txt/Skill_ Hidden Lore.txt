@@ -1,0 +1,28 @@
+Skill: Hidden Lore
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HIDDEN LORE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents knowledge that is lost, deliberately hidden, or simply neglected. Whatever the reason, the general public is unaware of it. It is only available to those who study it specifically
+
+{{Indent}}You must specialize in a particular body of secret knowledge. If you wish to enter play with Hidden Lore skills, you must account for this specific knowledge in your character story. The GM might even require you to purchase an Unusual Background before you can learn Hidden Lore skills. Of course, the GM is also free to forbid Hidden Lore skills to starting characters . . . or to PCs in general!
+
+{{Indent}}To acquire Hidden Lore in play, you must find a reliable source of relevant information. The GM may choose to tie skill increases in Hidden Lore to specific acts - such as reading moldy tomes - instead of allowing you to spend points freely. For instance, an ancient manuscript might let you spend up to eight points (and no more) on a specific Hidden Lore skill
+
+{{Indent}}Remember that most Hidden Lore is secret because somebody powerful wants it kept that way. Thus, discussing or revealing your knowledge can be extremely hazardous
+
+{{Indent}}Possible Hidden Lore specialties include:
+
+{{Indent}}&lt;i&gt;Conspiracies:&lt;/i&gt; You know details about the conspiracies that underlie every aspect of society. This is factual knowledge (e.g., truths about the Illuminati), not the ability to analyze conspiracies. Only available in settings where vast conspiracies really do exist
+
+{{Indent}}&lt;i&gt;Demon Lore:&lt;/i&gt; You know the secrets of Hell, the goals of demons in the mortal world, and possibly even the names of specific demons
+
+{{Indent}}&lt;i&gt;Faerie Lore:&lt;/i&gt; You have detailed knowledge of the faeries and their secret kingdom(s)
+
+{{Indent}}&lt;i&gt;Spirit Lore:&lt;/i&gt; You know about ghosts and other spirit entities - names, motivations, etc
+|}

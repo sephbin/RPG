@@ -1,0 +1,15 @@
+Combat: Free Actions
+[[Category:GURPS Combat]]
+“Free actions” are things you can do during any maneuver. Some examples:
+
+===Talk===
+You can always talk. If the GM wants to be realistic, he should allow only one sentence of communication per second . . . but it is usually more fun when you ignore this limitation!
+
+===Maintain spells or psi===
+As long as you remain active, you can maintain a spell or ongoing psi ability, no matter what else you do.
+
+===Drop an item===
+You can drop any “ready” item at any time during any maneuver. If you’re moving, you may drop it at any point within your reach during your movement.
+
+===Crouch===
+If standing, you may opt to crouch (to make yourself a smaller target for ranged attacks) at the beginning of your turn. This will usually slow your movement speed (see Movement, p. 367), and you cannot crouch and sprint. If you were already crouching, it is a free action to rise from a crouching position at any time.

@@ -1,0 +1,18 @@
+Skill: Flying Leap
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FLYING LEAP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master, and both Jumping and Power Blow.&lt;/font&gt;
+|-
+|{{Indent}}This skill allows you to make incredible leaps. It costs 1 FP per attempt, successful or not
+
+{{Indent}}On a success, you may immediately attempt a jump. Use the standard jumping rules (see Jumping, p. 352), but triple your jumping distance. On a failure, you may still attempt the jump, but you receive no bonus and make all jumping-related rolls at -5. On a critical failure, you fall down!
+
+{{Indent}}You may use Flying Leap to jump into someone as part of an attack. Such attacks are at an extra -2 to hit, but if you do hit, triple your ST for damage and knockback purposes. In a slam or collision, calculate Move from jumping distance as described for Super Jump (p. 89), and use this velocity to calculate damage
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -10 if used instantly, dropping to -5 after 1 turn of concentration, -4 after 2 turns, -3 after 4 turns, -2 after 8 turns, -1 after 16 turns, and no penalty after 32 turns.&lt;/i&gt;&lt;/font&gt;
+|}

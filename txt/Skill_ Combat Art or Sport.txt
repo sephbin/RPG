@@ -1,0 +1,18 @@
+Skill: Combat Art or Sport
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMBAT ART OR SPORT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Varies''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}You can opt to learn most combat skills in nonlethal forms aimed at either exhibition (Combat Art skill) or competition (Combat Sport skill)
+
+{{Indent}}Combat Art skills emphasize graceful movements and perfect stances. Since these skills still give a default to full-fledged, lethal combat skills (see below), they are a logical choice for Pacifists who want some combat ability
+
+{{Indent}}Combat Sport skills concentrate on speed of movement and nondamaging attacks. A failed skill roll means a foul that might disqualify you from a tournament! You can make an IQ-based roll against Combat Sport to recall basic tournament rules, but to become a qualified judge or referee, learn the relevant Games skill (p. 197)
+
+{{Indent}}Combat Art and Sport skills are DX-based, with the same difficulty level and defaults as the corresponding combat skill. A combat skill, its Art form, and its Sport form default among themselves at -3. For instance, Staff Art and Staff Sport are DX/Average skills that default to DX-5, just like Staff skill (p. 208). A fighter with Staff at 15 would have default Staff Art and Staff Sport skills of 12, while an athlete with Staff Sport at 15 would have Staff and Staff Art skills at 12 by default
+|}

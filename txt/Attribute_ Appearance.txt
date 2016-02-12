@@ -1,0 +1,55 @@
+Attribute: Appearance
+{{Attribute Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHYSICAL APPEARANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Varies''&lt;/font&gt;
+|-
+|{{Indent}}Appearance is mostly a “special effect” – you may choose any physical appearance you like. At minimum, note the color of your skin, hair, and eyes (or other features appropriate to your race: scales, feathers, paint job, etc.). However, certain traits count as advantages or disadvantages.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Appearance Levels'''&lt;/font&gt;
+
+{{Indent}}Appearance is rated in levels. Most people have “Average” appearance, for 0 points. Good looks give a reaction bonus; this is an advantage and costs points. Unappealing looks give a reaction penalty; this is a disadvantage, and gives you back points. These reaction modifiers only affect those who can see you! Those who cannot see you might have to make a new reaction roll upon first meeting you in person (GM’s option).
+Reaction modifiers due to appearance only affect members of your own race, a very similar race, or a dissimilar race that finds your race attractive (for whatever reason). In all cases, the GM’s word is final; humans are “very similar” to elves, but bug-eyed monsters are unlikely to care about a human’s appearance except in a silly campaign.
+
+{{Indent}}Horrific: You are indescribably monstrous or unspeakably foul, and cannot interact with normal mortals. This gives -6 on reaction rolls. The GM may decide that this trait is supernatural and unavailable to normal characters. -24 points.
+
+{{Indent}}Monstrous: You are hideous and clearly unnatural. Most people react to you as a monster rather than a sapient being. This gives -5 on reaction rolls. Again, this trait might not be appropriate for normal characters. -20 points.
+
+{{Indent}}Hideous: You have any sort of disgusting looks you can come up with: a severe skin disease, wall-eye . . . preferably several things at once. This gives -4 on reaction rolls. -16 points.
+
+{{Indent}}Ugly: As above, but not so bad – maybe only stringy hair and snaggle teeth. This gives -2 on reaction rolls. -8 points.
+
+{{Indent}}Unattractive: You look vaguely unappealing, but it’s nothing anyone can put a finger on. This gives -1 on reaction rolls. -4 points.
+
+{{Indent}}Average: Your appearance gives you no reaction modifiers either way; you can blend easily into a crowd. A viewer’s impression of your looks depends on your behavior. If you smile and act friendly, you will be remembered as pleasant-looking; if you frown and mutter, you will be remembered as unattractive. 0 points.
+
+{{Indent}}Attractive: You don’t enter beauty contests, but are definitely good-looking. This gives +1 on reaction rolls. 4 points.
+
+{{Indent}}Handsome (or Beautiful): You could enter beauty contests. This gives +4 on reaction rolls made by those attracted to members of your sex, +2 from everyone else. 12 points.
+
+{{Indent}}Very Handsome (or Very Beautiful): You could win beauty contests – regularly. This gives +6 on reaction rolls made by those attracted to members of your sex, +2 from others. Exception: Members of the same sex with reason to dislike you (more than -4 in reaction penalties, regardless of bonuses) resent your good looks, and react at -2 instead. As well, talent scouts, friendly drunks, slave traders, and other nuisances are liable to become a problem for you. 16 points.
+
+{{Indent}}Transcendent: You are an “ideal specimen.” This gives +8 (!) on reaction rolls made by those attracted to members of your sex, +2 from others, and all the troublesome side effects of Very Handsome. The GM is free to reserve this trait for angels, deities, and the like. Such entities frequently possess Charisma (p. 41) or Terror (p. 93) as well. 20 points.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Special Options'''&lt;/font&gt;
+
+{{Indent}}The following options are available for above-average appearance, and do not affect point costs: Androgynous: If your appearance is Handsome (Beautiful) or better, you may specify that your looks appeal equally to both sexes. You get a flat reaction modifier instead of a sexdependent bonus: +3 for Handsome, +4 for Very Handsome, or +5 for Transcendent. Impressive: If you are Attractive or better, you can specify that you have exceptional physical presence that doesn’t manifest as sexual magnetism. This is typical of tigers and aged royalty. If your appearance is Handsome (Beautiful) or above, use the “flat” reaction bonuses given for Androgynous.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Universal: Your reaction modifier applies to everyone who can see you, regardless of race. If your appearance is Handsome (Beautiful) or above, use the “flat” reaction bonuses given for Androgynous. This modifier is most common for Hideous or worse monsters and for Attractive or better gods, faeries, and the like. The GM may deem it off-limits to normal mortals. +25%.
+
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Off-the-Shelf Looks: You can apply this to any appearance better than Attractive. Through ultra-tech or magic, your looks are a variation on a standard type or famous person. You’re as beautiful as ever, but you get half the usual reaction bonus with people from your own culture, because they’ve seen it all before. (“Oh, look! Another Mr. Universe 2003!”) -50%.
+
+|}
+[[Category:GURPS Advantages]][[Category:GURPS Disadvantages]]

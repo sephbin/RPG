@@ -1,0 +1,20 @@
+Skill: Diplomacy
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DIPLOMACY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Politics-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of negotiating, compromising, and getting along with others. You may substitute a Diplomacy roll for any reaction roll in a noncombat situation, as described under Influence Rolls (p. 359)
+
+{{Indent}}Unlike other Influence skills, Diplomacy never gives a worse result than if you had tried an ordinary reaction roll. Failure with Fast-Talk or Sex Appeal alienates the subject, but Diplomacy is usually safe
+
+{{Indent}}A successful roll also allows you to predict the possible outcome of a course of action when you are negotiating, or to choose the best approach to take
+
+{{Indent}}If you know Diplomacy at level 20 or better, you get a +2 bonus on all reaction rolls!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 for Voice (p. 97); -3 for Low Empathy (p. 142); -1 for Oblivious (p. 146); -1 to -4 for Shyness (p. 154); -2 for Stuttering (p. 157).&lt;/i&gt;&lt;/font&gt;
+|}

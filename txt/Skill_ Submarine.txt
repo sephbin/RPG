@@ -1,0 +1,26 @@
+Skill: Submarine
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUBMARINE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to operate a specific type of underwater vehicle. As with Piloting, the default is to IQ, but when you learn the skill, always base it on DX
+
+{{Indent}}Roll against Submarine to dive or to surface, to maneuver in underwater combat, or to negotiate hazardous waters. Failure can mean anything from a slight drift off course to a collision; critical failure may strand the vessel underwater!
+
+{{Indent}}Make an IQ-based Submarine roll for basic chart reading or practical oceanography, or to recall nautical laws and regulations
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Free-Flooding Sub:&lt;/i&gt; Any small, open submersible. The crew is exposed to the water, and must wear underwater breathing gear. &lt;i&gt;Prerequisites:&lt;/i&gt; Diving Suit or Scuba. &lt;i&gt;Defaults:&lt;/i&gt; Large Sub-5 or Mini-Sub-4
+
+{{Indent}}&lt;i&gt;Large Sub:&lt;/i&gt; Any crewed, long-duration submersible, including attack subs and missile subs. &lt;i&gt;Defaults:&lt;/i&gt; Free- Flooding Sub-5 or Mini-Sub-4
+
+{{Indent}}&lt;i&gt;Mini-Sub:&lt;/i&gt; Any small, closed, shortduration submersible, typical of those used for scientific research. &lt;i&gt;Defaults:&lt;/i&gt; Free-Flooding Sub-4 or Large Sub-4
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 for an unfamiliar submarine within your specialty (e.g., a diesel attack sub when you are used to a nuclear missile sub); -4 or more for a vessel in bad repair; -1 to -10 for navigational hazards.&lt;/i&gt;&lt;/font&gt;
+|}

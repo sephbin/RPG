@@ -1,0 +1,16 @@
+Skill: Writing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WRITING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to write in a clear or entertaining manner. A successful roll means the work is readable and accurate
+
+{{Indent}}This is mostly useful to earn a living or write for GURPS, but can sometimes help on adventures . . . or after them. The report of a spy, soldier, or private investigator is far more useful if it is well-written!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: The time modifiers under Time Spent (p. 346) will often apply; -5 if you are writing about an unfamiliar subject; Language modifiers (p. 24).&lt;/i&gt;&lt;/font&gt;
+|}

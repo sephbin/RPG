@@ -1,0 +1,16 @@
+Skill: Religious Ritual
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RELIGIOUS RITUAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Ritual Magic (same)-6 or Theology (same)-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to perform religious rites - masses, funerals, weddings, etc. - before a congregation. You must specialize by religion. This skill includes detailed knowledge of the ritual motions, prayers, and trappings of the faith, as well as the ability to capture and hold the attention of worshipers. For religions that practice sacrifice, Religious Ritual also covers familiarity with sacrificial tools and methods
+
+{{Indent}}To be a priest or holy man at TL1+, you must have both Religious Ritual and Theology skill (p. 226) for your religion. TL0 shamans need only learn Religious Ritual
+
+{{Indent}}In worlds where priests can perform miracles, each magical ritual or spell is a separate skill, but certain &quot;mundane&quot; religious rituals - such as sacrifice - can give bonuses to spell rolls. You must always make a successful Religious Ritual roll to claim such a bonus. In other settings, a priest's magic is only as good as his ritual. If this is the case, your roll to work magic is against the lower of Religious Ritual and your actual spell skill
+|}

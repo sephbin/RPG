@@ -1,0 +1,24 @@
+Skill: Brainwashing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BRAINWASHING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Psychology
+
+{{Indent}}This is the &quot;black art&quot; of technological personality alteration and mind control. Only intelligence, military, and security services teach it - and only to individuals with suitable Rank or Security Clearance. Even then, it is rare outside police states (except perhaps during wartime)
+
+{{Indent}}Brainwashing encompasses many techniques - some proven, others little better than witchcraft. Depending on the setting, these might include drugs, electroshock, hypnotism, sensory deprivation, sleep deprivation, social pressure, subliminal messages, or surgery . . . and most likely a combination of several of these
+
+{{Indent}}Regardless of the techniques employed, brainwashing is handled as a Regular Contest (not a Quick Contest) between Brainwashing skill and the victim's Will. Roll once per day. Obviously, the brainwasher has a tremendous advantage: even if the victim wins this time, it is only a matter of time before he slips
+
+{{Indent}}Results depend on how effective the GM deems brainwashing to be, but might include insanity, personality alteration, or suggestions that can be triggered by future events. In game terms, the victim can acquire almost any mental quirk or disadvantage
+
+{{Indent}}In settings where neural interfaces exist, it might be possible to &quot;hack&quot; the victim's brain using a computer. This takes only a fraction of a second per attempt! Brain Hacking should be treated as its own skill, with Computer Hacking instead of Psychology as a prerequisite
+
+{{Indent}}This skill normally has no default. However, GMs who wish to explore the gory details can specify the techniques used in their campaign and have Brainwashing default to one or more of Electronics Operation (Medical)-6, Hypnotism-6, Interrogation-6, Pharmacy-6, Psychology-6, or Surgery- 6, as appropriate
+|}

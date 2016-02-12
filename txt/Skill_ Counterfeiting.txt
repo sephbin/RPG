@@ -1,0 +1,20 @@
+Skill: Counterfeiting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COUNTERFEITING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Forgery-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the art of duplicating banknotes and coins. It is only taught by the underworld and government agencies (although this is rare outside of rogue states, except in wartime). Time required varies from days to weeks (GM's option). The GM secretly rolls against your Counterfeiting skill for each &quot;batch&quot; of money
+
+{{Indent}}A critical success means that the fakes in that batch are as good as the real thing
+
+{{Indent}}An ordinary success means that your work is good but not perfect. Whenever you try to pass the counterfeit money, the GM makes a second skill roll for you, with all the same modifiers. If this roll fails, the recipient spots your handiwork. To successfully pass bogus currency to someone who has reason to be suspicious, you must win a Quick Contest of Counterfeiting vs. the highest of his Perception, Forensics, and Merchant
+
+{{Indent}}Any failure on the initial Counterfeiting roll means that the first person to receive the money immediately realizes that it is bogus. Critical failure - on the initial roll or any subsequent roll - has other ramifications: the recipient is an undercover cop, an armed and angry citizen, etc
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345). Materials - ink, paper, presses, etc. - stolen from the legitimate mint can give from +1 (a few rolls of paper) to +10 (actual plates or molds). You must have a sample of the real thing or you cannot make the attempt at all!&lt;/i&gt;&lt;/font&gt;
+|}

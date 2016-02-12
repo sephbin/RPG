@@ -1,0 +1,38 @@
+Skill: Current Affairs
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CURRENT AFFAIRS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4 or Research-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to assimilate quickly whatever qualifies as &quot;news&quot; in your world, and to recall it as needed. You must specialize in one of the following areas:
+
+{{Indent}}&lt;i&gt;Business:&lt;/i&gt; Exchange rates, investment performance, etc
+
+{{Indent}}&lt;i&gt;Headline News:&lt;/i&gt; Usually bad news, such as assassinations, plagues, and wars
+
+{{Indent}}&lt;i&gt;High Culture:&lt;/i&gt; Information on galleries, operas, symphonies, and so forth
+
+{{Indent}}&lt;i&gt;People:&lt;/i&gt; The names of and gossip on celebrities, heads of state, and the like
+
+{{Indent}}&lt;i&gt;Politics:&lt;/i&gt; Election results, international treaties, etc
+
+{{Indent}}&lt;i&gt;Popular Culture:&lt;/i&gt; Hit songs, cool fashions, and hot products, among other things
+
+{{Indent}}&lt;i&gt;Regional:&lt;/i&gt; News of all kinds for a specific region (pick one). This is the definitive &quot;town crier&quot; skill at low TLs
+
+{{Indent}}&lt;i&gt;Science and Technology:&lt;/i&gt; New discoveries and inventions
+
+{{Indent}}&lt;i&gt;Sports:&lt;/i&gt; Scores for recent matches, names of star athletes, etc
+
+{{Indent}}&lt;i&gt;Travel:&lt;/i&gt; Where the &quot;beautiful people&quot; are going this year, and how much it all costs
+
+{{Indent}}These specialties default to one another at -4. It is hard to bone up on one kind of news without learning about all the others!
+
+{{Indent}}On a successful Current Affairs roll, the GM will inform you of any news within your specialty that pertains to the current adventure (possibly including clues, on a good roll) or give you a small skill bonus (e.g., a success on Current Affairs (Sports) might give +1 to Gambling skill when betting on a boxing match)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -1 per day that you have been unable to access news media; -3 if you only have one source; +1 or more for &quot;inside&quot; access to the news (a subscription to an ordinary wire service is worth +1, while a job at an intelligence agency might give +3 or more).&lt;/i&gt;&lt;/font&gt;
+|}

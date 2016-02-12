@@ -1,0 +1,18 @@
+Skill: Sex Appeal
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SEX APPEAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to impress those who are attracted to members of your sex. It has as much to do with attitude as it does with looks. If you are not willing to &quot;vamp&quot; someone to get what you want, you won't have this skill - or want it
+
+{{Indent}}You may substitute an Influence roll against Sex Appeal for any reaction roll made by someone who is attracted to members of your sex; see Influence Rolls (p. 359)
+
+{{Indent}}Usually, you may make only one attempt per &quot;target,&quot; although the GM might allow another attempt after a few weeks
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 for Voice (p. 97); -3 for Low Empathy (p. 142); -1 for Oblivious (p. 146); -1 to -4 for Shyness (p. 154); -2 for Stuttering (p. 157). Apply any bonus for above-average appearance (p. 21) - or double the penalty for below-average appearance!&lt;/i&gt;&lt;/font&gt;
+|}

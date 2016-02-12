@@ -1,0 +1,10 @@
+Advantage: Striking ST
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STRIKING ST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points per +1 ST''&lt;/font&gt;
+|-
+|{{Indent}}You can strike more powerful blows than your ST score would indicate. Add Striking ST to base ST solely for the purpose of calculating thrust and swing damage (see Damage Table, p. 16). Striking ST has no effect on HP or Basic Lift. If you bought your ST with the No Fine Manipulators or Size limitation, apply the same limitation(s) to Striking ST.
+
+{{Indent}}One Attack Only: Your Striking ST only affects one specific natural attack: your bite, a particular Striker, etc. This limitation is intended for a relatively weak creature with an unusually high-ST attack; e.g., a giant rat that can gnaw through armor and bone. -60%.
+|}

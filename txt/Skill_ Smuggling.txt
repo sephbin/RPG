@@ -1,0 +1,14 @@
+Skill: Smuggling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SMUGGLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to conceal items in baggage and vehicles. You can also use it to hide an object in a room or a building. Roll against skill to hide an item from casual inspection. In an active search, the searchers must win a Quick Contest of Search vs. your Smuggling skill to find the item
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345) for specialized smuggling gear. The difference between the Size Modifier (p. 19) of the package, vehicle, or room in which you are hiding the item and that of the item itself; e.g., to hide a bottle of liquor (SM -5) in a family car (SM +3), you would roll at +8.&lt;/i&gt;&lt;/font&gt;
+|}

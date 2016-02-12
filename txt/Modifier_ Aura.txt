@@ -1,0 +1,10 @@
+Modifier: Aura
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AURA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+80%''&lt;/font&gt;
+|-
+|{{Indent}}Your attack takes the form of a malefic aura that affects anyone you touch (reach C) or who touches you. If a weapon strikes you, your aura affects the weapon. You can switch the aura on or off at the start of your turn (if not, take Always On, p. 110). You must take Aura in conjunction with Melee Attack (p. 112) at the -30% level (reach C), and you cannot claim the extra -5% for &quot;cannot parry&quot; - an aura cannot parry in the first place.
+
+{{Indent}}The classic example of an Aura is the sheath of flame surrounding a fire elemental. See Body of Fire (p. 262) for how to write this up.
+|}

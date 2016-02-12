@@ -1,0 +1,22 @@
+Skill: Smith
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SMITH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to work nonprecious metals by hand. You must specialize:
+
+{{Indent}}&lt;i&gt;Copper:&lt;/i&gt; Copper itself and its alloys, including brass and bronze. Traditionally, a smith who worked with these metals was called a &quot;brownsmith.&lt;i&gt;&quot; Default:&lt;/i&gt; Jeweler-4
+
+{{Indent}}&lt;i&gt;Iron:&lt;/i&gt; The skill of being a blacksmith. Also covers steel, at tech levels where it exists
+
+{{Indent}}Lead and Tin: Any of the softer, &quot;white&quot; metals, including alloys such as pewter. The traditional name for such a smith was &quot;whitesmith.&lt;i&gt;&quot; Default:&lt;/i&gt; Jeweler-4
+
+{{Indent}}These specialties default to one another at -4
+
+{{Indent}}This skill is IQ-based, but ST is important, and some tools have a &quot;Minimum ST,&quot; just like weapons
+|}

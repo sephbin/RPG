@@ -1,0 +1,12 @@
+Disadvantage: Ham-Fisted
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HAM-FISTED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have unusually poor motor skills. You suffer a penalty to any DXbased roll to do fine work using the skills listed under High Manual Dexterity (p. 59), and to Fast-Draw skill. For -5 points, the penalty is -3; for -10 points, it is -6. This does not affect IQ-based tasks or large-scale DX-based tasks, nor does it modify combat-related die rolls other than Fast-Draw.
+
+{{Indent}}You are also a messy eater, can't tie a necktie properly, and so on. At the GM's option, you get -1 per level of this trait on any Influence or reaction roll where being tidy or well-groomed would matter.
+
+{{Indent}}This disadvantage is mutually exclusive with High Manual Dexterity.
+|}

@@ -1,0 +1,12 @@
+Advantage: Lifting ST
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIFTING ST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''3 points per +1 ST''&lt;/font&gt;
+|-
+|{{Indent}}You have lifting capacity out of proportion to your mass. This is common for vehicles and supers. Add your Lifting ST to your ordinary ST when you determine Basic Lift (p. 15) for the purposes of carrying, lifting, pushing, and pulling. Lifting ST also adds to ST in situations where you can apply slow, steady pressure (grappling, choking, etc.). Lifting ST does not boost ST (or Basic Lift) for the purpose of determining HP, throwing distance, or damage inflicted by melee attacks or thrown weapons.
+
+{{Indent}}If you bought your ST with the Size limitation, apply the same limitation to Lifting ST. The No Fine Manipulators limitation does not give a discount, however.
+
+{{Indent}}Super-Effort: You can make truly heroic lifts! Your Lifting ST works as usual except when you use extra effort. Then ignore the ordinary extra effort rules. Instead, find your Lifting ST level in the Size column of the Size and Speed/Range Table (p. B550), read across to the Linear Measurement column, and use that number as your ST bonus for the lift. For instance, Lifting ST +20 gives +5,000 ST. This costs 1 FP per lift. Once you've made the lift, use Abilities and Exertion (p. 159) for ongoing FP costs. Walking around with or pulling the weight counts as &quot;intensive use&quot; (1 FP/minute); just holding it up is &quot;long-term use&quot; (1 FP/hour). You can't take Reduced Fatigue Cost to eliminate these costs unless you also add Cosmic (+50%). Super-Effort never benefits chokes or grapples. +400%.
+|}

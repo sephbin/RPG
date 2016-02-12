@@ -1,0 +1,17 @@
+Advantage: Penetrating Vision
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PENETRATING VISION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Penetrating Vision (sometimes called &quot;X-ray vision&quot;) lets you see through solid objects. Each level of this advantage allows you to see through up to six inches of normal matter. You can just barely see the outline of the substance you are looking through - not enough to impair vision in any way. Penetrating Vision automatically works in conjunction with all your other vision advantages (Infravision, Ultravision, etc.).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Blockable: Some substance completely blocks your vision. Common substances, such as plastic, stone, or wood, are -30%; less common materials, such as brick or asphalt, are -20%; one specific material, such as lead, is -10%.
+
+{{Indent}}Specific: Your ability only works through one particular substance. Common materials, such as brick, metal, or wood, are -40%; uncommon materials, such as ice or adobe, are -60%; absurd materials, such as chocolate or silk, are -80%.
+|}

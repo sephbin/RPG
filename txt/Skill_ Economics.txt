@@ -1,0 +1,12 @@
+Skill: Economics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ECONOMICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Finance-3, Market Analysis-5, or Merchant-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the theory of money, markets, and financial systems. It is mainly an academic skill, but a successful skill roll allows you to predict the economic impact of events in the game world: the assassination of a political figure, the demolition of a power plant, the introduction of a new invention, etc. Adventurers with intelligence and military backgrounds frequently have some training in this skill
+|}

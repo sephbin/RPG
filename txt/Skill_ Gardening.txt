@@ -1,0 +1,14 @@
+Skill: Gardening
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GARDENING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4 or Farming-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to care for plants on a small scale. (For large-scale crops, use Farming skill, p. 194.) A skill roll lets you grow food, medicinal herbs, attractive flowers and trees, etc
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 to -4 for an unfamiliar method (e.g., hydroponics or bonsai when you're used to your back yard), crop (herbs, trees, and vegetables all differ), or geographical region. These three penalties are cumulative!&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,10 @@
+Advantage: Enhanced Tracking
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENHANCED TRACKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can &quot;track&quot; more than one target - whether with a built-in sensor array or eyes that can swivel independently, like those of a chameleon. An Aim (p. 364) or Evaluate (p. 364) maneuver normally applies to a single target. Each level of Enhanced Tracking allows your maneuver to apply to one additional target. You can only track targets that you can detect, and you cannot Aim at more targets than you have ready weapons to Aim with.
+
+{{Indent}}Multiple Lock-Ons: You can track multiple targets even if you have only one weapon, and gain the benefit of your Aim or Evaluate maneuver if you attack any of them. Use this to represent high-tech sensors and the situational awareness of cinematic warriors. +20%.
+|}

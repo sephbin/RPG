@@ -1,0 +1,40 @@
+Skill: Guns
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GUNS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use a handheld chemical-propellant or massdriver projectile weapon. Roll against Guns skill to hit your target
+
+{{Indent}}Make an IQ-based skill roll to take immediate action (e.g., eject a dud round), should your weapon fail
+
+{{Indent}}You must specialize by weapon type. The available specialties vary by TL, but include one or more of:
+
+{{Indent}}Grenade Launcher (GL): Any largebore, low-powered small arm that fires a bursting projectile. Includes under-barrel grenade launchers, flare pistols, and ultra-tech &quot;tanglers.&quot;
+
+{{Indent}}&lt;i&gt;Gyroc:&lt;/i&gt; Any kind of small arm that fires miniature rockets
+
+{{Indent}}Light Anti-Armor Weapon (LAW): All forms of rocket launchers and recoilless rifles
+
+{{Indent}}Light Machine Gun (LMG): Any machine gun fired from the hip or a bipod
+
+{{Indent}}&lt;i&gt;Musket:&lt;/i&gt; Any kind of smoothbore long arm (usually, but not always, a black powder weapon) that fires a solid projectile
+
+{{Indent}}&lt;i&gt;Pistol:&lt;/i&gt; All kinds of handguns, including derringers, pepperboxes, revolvers, and automatics, but not machine pistols
+
+{{Indent}}&lt;i&gt;Rifle:&lt;/i&gt; Any kind of rifled long arm - assault rifle, hunting rifle, sniper rifle, etc. - that fires a solid projectile
+
+{{Indent}}&lt;i&gt;Shotgun:&lt;/i&gt; Any kind of smoothbore long arm that fires multiple projectiles (flechettes, shot, etc.)
+
+{{Indent}}Submachine Gun (SMG): All short, fully automatic weapons that fire pistol- caliber ammunition, including machine pistols
+
+{{Indent}}Most of these specialties default to one another at -2, but defaults involving GL, Gyroc, or LAW are at -4 in either direction. The weapons covered by each specialty vary by TL. For example, Guns (Rifle) covers muzzleloaders at TL4, lever actions at TL5, and self-loaders at TL6+. In particular, ammunition varies with TL, from black powder and loose shot at TL4, to smokeless powder cartridges at TL6, to power cells and metallic slivers for TL9+ electromagnetic guns
+
+{{Indent}}Familiarity is crucial here! Guns (Rifle) covers both bolt-action 12.7mm sniper rifles and 5.56mm assault rifles, but going from one to the other gives you -2 for weapon type (12.7mm to 5.56mm), -2 for action (bolt-action to self-loader), and -2 for grip (bipod to hand-held), for a total of -6 to skill until you familiarize yourself with all the differences
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: All applicable ranged combat modifiers; -2 for an unfamiliar action (e.g., an automatic when you're used to a revolver) or grip (e.g., a shoulder-fired antitank weapon when you're used to a bipod), or for an unfamiliar weapon of a known type (e.g., a 5.56mm rifle when you are used to a 7.62mm rifle); -4 or more for a weapon in bad repair.&lt;/i&gt;&lt;/font&gt;
+|}

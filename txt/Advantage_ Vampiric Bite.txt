@@ -1,0 +1,12 @@
+Advantage: Vampiric Bite
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''VAMPIRIC BITE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points + 5 points per extra HP drained''&lt;/font&gt;
+|-
+|{{Indent}}You can bite people and drain their life force, healing your own wounds in the process. You can only feed if your victim is helpless (pinned, stunned, unconscious, etc.), grappled, or willing. If he is wearing armor, your biting damage must penetrate its DR. Once you've bitten through your victim's DR, you can drain 1 HP per second from him. For every 3 HP stolen, you heal 1 HP or 1 FP (your choice). You cannot raise your HP or FP above normal this way.
+
+{{Indent}}The basic Vampiric Bite described above costs 30 points. You may buy increased HP drain for 5 points per additional HP drained per second; for instance, to drain 10 HP per second, pay 75 points.
+
+{{Indent}}Vampiric Bite also lets you bite in combat without feeding. Treat this as Teeth (Sharp Teeth) or Teeth (Sharp Beak) (p. 91) - your choice. You do not need to purchase that advantage separately.
+|}

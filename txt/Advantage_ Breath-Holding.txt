@@ -1,0 +1,8 @@
+Advantage: Breath-Holding
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BREATH-HOLDING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You are adept at holding your breath. Each level doubles the length of time you can do so (see Holding Your Breath, p. 351). Normal humans may not take this advantage - to be a world-record diver, learn Breath Control (p. 182). Nonhumans and supers can combine this advantage with Breath Control!
+|}

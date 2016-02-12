@@ -1,0 +1,22 @@
+Advantage: Legal Immunity
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LEGAL IMMUNITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 to 20 points''&lt;/font&gt;
+|-
+|{{Indent}}You are exempt from some or all of the laws of your society. Should you break the law, ordinary law enforcers do not have the power to charge you. Only one particular authority - your own church or social class, a special court, perhaps even your ruler - can judge or punish you. The point cost depends on how sweeping the immunity is (GM's judgment):
+
+{{Indent}}* You are not subject to ordinary laws, but the rules that govern your behavior are just as strict. Examples: a medieval abbot or a modern UN observer. 5 points.
+
+{{Indent}}* As above, but the laws that apply to you are less strict than those that apply to most people. Example: a medieval bard (see below). 10 points.
+
+{{Indent}}* You can do nearly anything you please provided you don't injure the nation, church, or other power that granted you Legal Immunity in the first place. Examples: a medieval duke or an international diplomat (see below). 15 points.
+
+{{Indent}}For an extra 5 points, you may add &quot;diplomatic pouch&quot; privileges: you can send and receive mail or objects that the ordinary authorities cannot legally stop or examine.
+
+{{Indent}}Two classes of Legal Immunity are of special interest to adventurers:
+
+{{Indent}}Bardic Immunity: You have the right to sing what you please without fear of serious consequences. You may even sing a grossly insulting song to the king - you might get banished for it, but you can't be whipped, imprisoned, or killed. Anyone who violates your immunity risks damage to his name and reputation. Other bards will compose and distribute vicious satires about him, giving him a bad Reputation. They might even expose a Secret, if he has one! This advantage applies to the content of your performances and nothing else. It is only available to true bards, in fantasy/ medieval settings. To qualify for this advantage, you must spend at least 1 point apiece on the Performance, Poetry, and Singing skills. 10 points.
+
+{{Indent}}Diplomatic Immunity: You are an international diplomat. You may ignore the laws of all countries except your own. While abroad, you cannot be prosecuted for any crime, no matter how grave; the local police may arrest you, but they cannot press charges. The only recourse for a foreign government is to declare you persona non grata. This means you must leave the country at once, ending your current assignment - and possibly your career. Foreign powers may request your extradition for normal prosecution, but your government is unlikely to comply. This trait always comes with a Duty (p. 133) to a government agency, and often has some level of Administrative Rank (p. 30) as a prerequisite. 20 points.
+|}

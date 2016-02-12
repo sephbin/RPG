@@ -1,0 +1,18 @@
+Advantage: Pressure Support
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PRESSURE SUPPORT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 to 15 points''&lt;/font&gt;
+|-
+|{{Indent}}Every character has a &quot;native pressure.&quot; For ordinary humans, this is the pressure of Earth's atmosphere (&quot;1 atmosphere&quot;). A native pressure other than 1 atmosphere is a 0-point feature, but if you can survive for a prolonged period of time at a wide range of pressures, you have an advantage. This trait comes in three levels:
+
+{{Indent}}Pressure Support 1: You can survive at pressures between your native pressure and 10 times that. (This would enable a human to survive on most of Earth's continental shelves.) 5 points.
+
+{{Indent}}Pressure Support 2: You can withstand pressures between your native pressure and 100 times that. (This would enable a human to survive anywhere in Earth's oceans, save the deepest trenches.) 10 points.
+
+{{Indent}}Pressure Support 3: You are immune to the effects of high pressure. 15 points.
+
+{{Indent}}Pressure Support lets your body stay at a constant internal pressure with respect to a constant and uniform external pressure. This protects against attacks that manipulate ambient pressure or crush the entire body, but provides no defense against localized or transient pressure changes. In particular, Pressure Support does not reduce or prevent damage from crushing attacks or explosions of any kind.
+
+{{Indent}}Those with Pressure Support often have the Sealed advantage (p. 82), but this is not required.
+|}

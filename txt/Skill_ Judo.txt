@@ -1,0 +1,22 @@
+Skill: Judo
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''JUDO'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents any advanced training at unarmed throws and grapples - not just the eponymous Japanese martial art
+
+{{Indent}}Judo allows you to parry two different attacks per turn, one with each hand. Your Parry score is (skill/2) + 3, rounded down. This parry is not at the usual -3 for parrying a weapon barehanded, greatly reducing the likelihood of injury when you defend against an armed foe. In addition, Judo gives an improved retreating bonus when you parry; see Retreat (p. 377). For complete rules for parrying barehanded, see Parrying Unarmed (p. 376)
+
+{{Indent}}On the turn immediately after a successful Judo parry, you may attempt to throw your attacker if he is within one yard. This counts as an attack; roll vs. Judo skill to hit. (Note that in an All-Out Attack, you cannot attempt two throws, but you can make one attempt at +4.) Your foe may use any active defense - he can parry your hand with a weapon! If his defense fails, you throw him
+
+{{Indent}}When you throw a foe, he falls where you please. On a battle map, he lands in any two hexes near you. One of these hexes must be his starting hex, your hex, or any hex adjacent to one of those hexes. Your victim must roll against HT; a failed roll means he is stunned! If you throw him into someone else, that person must roll against the higher of ST+3 or DX+3 to avoid being knocked down
+
+{{Indent}}Finally, you may use your Judo skill instead of your DX for any DX roll made in close combat except to draw a weapon or drop a shield. If you grapple a foe using Judo, and he fails to break free, you may make a Judo attack to throw him on your next turn, exactly as if you had parried his attack
+
+{{Indent}}To use Judo, any hand with which you wish to parry or grapple must be empty. Because Judo relies heavily on footwork, all Judo rolls and Judo parries take a penalty equal to your encumbrance level. For instance, Heavy encumbrance would give you -3 to hit or to parry an enemy attack
+|}

@@ -1,0 +1,10 @@
+Modifier: Selectivity
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SELECTIVITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+10%''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement lets you turn a trait's other enhancements off and on at will. For instance, if you had an attack with Area Effect, you could turn this enhancement off to affect only one other person. You must specify which enhancements you wish to ignore before you activate the ability. The default assumption is that you are always using all of your enhancements.
+
+{{Indent}}By allowing you to select which enhancements you use, Selectivity permits you to have multiple versions of the same ability without having to buy the ability multiple times. This can be extremely useful when creating comic-book supers!
+|}

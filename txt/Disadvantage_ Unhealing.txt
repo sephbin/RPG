@@ -1,0 +1,14 @@
+Disadvantage: Unhealing
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNHEALING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 or -30 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot heal naturally. You get no daily HT roll to recover lost HP, and you cannot recuperate from crippling injuries on your own. The First Aid skill can stop your bleeding, but neither it nor the Physician skill can restore missing HP. Technologies that accelerate natural healing (including herbs, drugs, etc.) are useless. This trait comes in two levels:
+
+{{Indent}}Partial: You can heal naturally if a rare condition is met (e.g., when you are immersed in blood or bathed in lava). You can also heal yourself by stealing HP from others using Vampiric Bite (p. 96), magic, or psionics. -20 points.
+
+{{Indent}}Total: You can never heal naturally, and you cannot steal HP from others. -30 points.
+
+{{Indent}}Depending on your nature, you might be able to regain lost HP and the use of crippled limbs unnaturally through surgery, repairs (if you're a machine), or exotic means (healing spells, alchemy, psionics, etc.).
+|}

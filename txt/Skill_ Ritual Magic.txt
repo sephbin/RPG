@@ -1,0 +1,18 @@
+Skill: Ritual Magic
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RITUAL MAGIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Religious Ritual (same)-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill gives an understanding of the intellectual and mystical processes involved in the rituals of a particular tradition of spirit invocation. Make a skill roll to determine the purpose of a ritual conducted in your presence, the type of entity being summoned, etc
+
+{{Indent}}You must specialize by tradition; e.g., Voodoo or Witchcraft. Specialties default to one another at -5. The processes involved are comparable, but the specific rituals and spirits differ significantly
+
+{{Indent}}In worlds with working ritual magic, Ritual Magic skill is the primary skill of sorcerers. All rituals of power default to it! See the appropriate worldbook for details
+
+{{Indent}}This is the skill of invoking spirits to produce magical effects for nonreligious reasons. The equivalent skill for the more direct, flashy magic of fantasy is Thaumatology (p. 225); knowledge of religious rites associated with a tradition is Religious Ritual (p. 217)
+|}

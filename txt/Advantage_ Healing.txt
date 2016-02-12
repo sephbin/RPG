@@ -1,0 +1,50 @@
+Advantage: Healing
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HEALING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points''&lt;/font&gt;
+|-
+|{{Indent}}You have the ability to heal others. You must be in physical contact with the subject. To activate your power, concentrate for one second and make an IQ roll. Roll at -2 if the subject is unconscious.
+
+{{Indent}}You can use Healing in two ways:
+
+{{Indent}}Heal Injuries: On a success, you can heal any number of HP. This costs you 1 FP per 2 HP healed (round up). Failure costs 1d FP, but you can try again; critical failure also causes the recipient 1d damage. Even 1 HP of healing will stop bleeding. By rolling at -6, you can repair a crippled but whole limb if you completely heal the HP lost to the crippling injury. For instance, to heal a hand crippled by 4 points of damage, make an IQ-6 roll and spend 2 FP. Each healer gets only one attempt per crippled limb. Healing cannot restore lost limbs or bring back the dead.
+
+{{Indent}}Cure Disease: This requires an IQ roll at a modifier determined by the GM - from +1 for the common cold to -15 for AIDS. The FP cost is equal to twice the penalty, minimum 1 FP. For instance, it would cost 6 FP to cure a disease that calls for an IQ-3 roll.
+
+{{Indent}}If used more than once per day on a given subject, apply a cumulative -3 per successful healing of the same type (injury or disease) on that subject. This penalty accumulates until a full day has passed since the most recent healing.
+
+{{Indent}}Healing works on your own race and on all &quot;similar&quot; races. In a fantasy campaign, for instance, all warmblooded humanoid races (elves, dwarves, orcs, halflings, etc.) would be &quot;similar.&quot;
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Faith Healing: Your power works by channeling spiritual energy. This lets you cure anyone the spirits or gods deem worthy of healing, regardless of race. However, you (and possibly your subject) must behave in a manner consistent with the interests and moral codes of your supernatural allies, or this ability will not work. You may not combine Faith Healing with Own Race Only or Xenohealing. +20%.
+
+{{Indent}}Xenohealing: You can heal beings quite dissimilar from yourself. Examples, assuming you are human: All Mammals, +20%; All Earthly Life, &quot;+40%; All Carbon-Based Life, +60%; Anything Alive, +80%; Anything Animate (including undead, golems, etc.), +100%.
+
+{{Indent}}Affects Self: You can also heal yourself, provided you're conscious. Shock penalties apply to any Healing roll made on the turn after you're wounded. +50%.
+
+{{Indent}}Cure Affliction: You can neutralize ongoing Afflictions - including the Affliction-like effects of the Side Effect and Symptoms enhancements. This requires an IQ roll at -1 per full +50% the target effect is worth as an enhancement to Affliction. FP cost is equal to twice the penalty, minimum 1 FP. For instance, blindness is a +50% Disadvantage enhancement, so to cure blindness caused by Affliction, Side Effect, or Symptoms would require a roll at -1 and cost 2 FP. +60%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Disease Only: You can only cure disease. -40%.
+
+{{Indent}}Injuries Only: You can only heal injuries. -20%.
+
+{{Indent}}Own Race Only: This is only available in campaigns with multiple sapient races. -20%.
+
+{{Indent}}Psychic Healing: Your ability is part of the Psychic Healing psi power (see p. 256). -10%.
+
+{{Indent}}Affliction Only: You can only neutralize Afflictions, as described for Cure Affliction; you can't heal injury or cure disease. -40%.
+
+{{Indent}}Capped: You can spend only a limited number of FP per use. This limits the severity of the diseases you can cure, requires multiple uses to heal serious injuries (taking extra time and incurring the usual -3 per previous successful healing), and may prevent you from repairing crippled limbs. This is worth -25% for a cap of 2 FP, -20% for 4 FP, -15% for 6 FP, -10% for 8 FP, and -5% for 10 FP. More than 10 FP isn't an appreciable limitation.
+
+{{Indent}}Empathic: When you heal others, you take on the injuries, diseases, and Afflictions you remove instead of paying FP. These affect you even if you have specific immunities to them. They get better at the usual &quot;natural&quot; rate unless cured via medicine or a special ability (e.g., you might &quot;transfer&quot; your wounds to someone else with Leech). Empathic is incompatible with Capped. -50%.
+|}

@@ -1,0 +1,16 @@
+Modifier: Nuisance Effect
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NUISANCE EFFECT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your ability has a &quot;side effect&quot; that causes you serious inconvenience. The GM must approve this limitation and determine its value in each case, and should ruthlessly forbid effects that are abusive or that do not genuinely limit the ability's value. A few guidelines (a given trait can have more than one of these drawbacks):
+
+{{Indent}}* Your ability earns a reaction penalty from those around you. Perhaps it makes you look disgusting, or requires you to perform some sort of distressing ritual. -5% per -1 to reactions (maximum -4).
+
+{{Indent}}* Your ability makes you obvious, limiting stealth and attracting enemies. -5%.
+
+{{Indent}}* Your ability physically inconveniences you - it attracts stinging insects, causes your armor to rust, makes you ravenously hungry, etc. -5%.
+
+{{Indent}}You cannot take a valuable power as a Nuisance Effect. For instance, &quot;Kills everyone within a mile&quot; is not an acceptable Nuisance Effect! Neither can you claim a limitation for a harmless nuisance. If your Terror advantage attracts gerbils instead of frightening them, this is amusing but not a limitation.
+|}

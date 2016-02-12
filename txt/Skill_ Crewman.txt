@@ -1,0 +1,26 @@
+Skill: Crewman
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CREWMAN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to serve as crew aboard a specific type of large vehicle. It includes familiarity with &quot;shipboard life,&quot; knowledge of safety measures, and training in damage control (the use of emergency equipment to control flooding, fight fires, patch the hull, and so forth). Make a skill roll for basic map or chart reading, practical meteorology, or to recall laws and regulations that pertain to your vehicle
+
+{{Indent}}This skill also lets you steer the vessel. It is easier than Piloting, Submarine, and similar skills because it only includes knowledge of how to steer. Specialists handle such activities as plotting courses and operating sensors. These experts report to the captain, who in turn tells you how to maneuver. Make a DX-based skill roll whenever you take the helm - but note that your effective skill cannot exceed your captain's Shiphandling skill (p. 220)
+
+{{Indent}}The average Crewman skill of an entire crew can be used as a measure of overall crew quality. The GM rolls against average skill whenever the vehicle arrives or departs, in unfavorable conditions, or in battle. Failure and critical failure results depend on the circumstances
+
+{{Indent}}There is a separate skill for each class of vessel:
+
+{{Indent}}&lt;i&gt;Airshipman:&lt;/i&gt; The skill of handling ballast, gas valves, mooring lines, etc. on a blimp, zeppelin, or other large airship
+
+{{Indent}}&lt;i&gt;Seamanship:&lt;/i&gt; The skill of operating anchors, hatches, mooring lines, pumps, sails, windlasses, etc. aboard a large surface ship (but not a submarine)
+
+{{Indent}}&lt;i&gt;Spacer:&lt;/i&gt; The skill of working with airlocks, docking clamps, hull patches, pressure doors, etc. on a large spacecraft or space base
+
+{{Indent}}&lt;i&gt;Submariner:&lt;/i&gt; The skill of handling pressure doors, pumps, valves, etc. aboard a submarine or in an undersea base
+|}

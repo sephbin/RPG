@@ -1,0 +1,20 @@
+Skill: Geography
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GEOGRAPHY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the physical, political, and economic divisions of a planet, and how they interact. It is part physical science, part social science. You must specialize:
+
+{{Indent}}&lt;i&gt;Physical:&lt;/i&gt; The study of the physical properties of a planetary surface. A physical geographer could answer questions about climate, terrain, and so forth. You must further specialize by planet type; see Planet Types (p. 180). &lt;i&gt;Defaults:&lt;/i&gt; Geology (same planet type)-4 or Meteorology (same planet type)-4
+
+{{Indent}}&lt;i&gt;Political:&lt;/i&gt; The study of political regions - their borders, natural resources, industries, etc. A political geographer could answer questions about land claims, overpopulation, regional economic disparities, transportation networks, etc. &lt;i&gt;Default:&lt;/i&gt; Economics-4
+
+{{Indent}}&lt;i&gt;Regional:&lt;/i&gt; The study of all of the above, but specific to a single region: New York, the United States, planet Earth, etc. The depth of knowledge decreases with the size of the region (see Area Knowledge, p. 176). &lt;i&gt;Default:&lt;/i&gt; the relevant Area Knowledge skill at -6
+
+{{Indent}}These specialties default among themselves at -5
+|}

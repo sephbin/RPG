@@ -1,0 +1,10 @@
+Modifier: Emergencies Only
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EMERGENCIES ONLY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-0.3''&lt;/font&gt;
+|-
+|{{Indent}}Your ability is triggered by your fear or excitement; you cannot use it under &quot;routine&quot; conditions. The GM is the final arbiter. He may rule that multiple successive failures of your power make you angry enough that it begins to work, but this is entirely up to him.
+
+{{Indent}}Full Power in Emergencies Only: If your ability works at half power under normal conditions, but at full power under stress, this limitation is not worth as much. For traits that come in levels, &quot;half power&quot; means half as many levels. The GM must decide what this means for other traits (half range, duration, bonuses, etc.). -20%.
+|}

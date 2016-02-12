@@ -1,0 +1,30 @@
+Teeth
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;
+'''''TEETH'''''
+&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;
+''0, 1, or 2 points''
+&lt;/font&gt;
+|-
+|
+Anyone with a mouth has blunt
+teeth that can bite for thrust-1 crushing
+damage. This costs 0 points, and is
+typical of most herbivores. You have a
+more damaging bite:
+
+''Sharp Teeth:'' Like those of most carnivores.
+Inflict thrust-1 cutting damage.
+''1 point.''
+
+''Sharp Beak:'' Like that of a bird of
+prey. Inflicts thrust-1 large piercing
+damage. ''1 point.''
+
+''Fangs:'' Like those of a Smilodon.
+Inflict thrust-1 impaling damage. ''2 points.''
+|}
+
+[[Category:GURPS Advantages]]

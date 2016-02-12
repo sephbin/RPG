@@ -1,0 +1,8 @@
+Modifier: Pact
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PACT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}A Higher Power - god, spirit, etc. - grants your ability under the condition that you follow a strict moral code. This code must take the form of one or more of the traits listed under Self-Imposed Mental Disadvantages (p. 121). These disadvantages give you the usual number of points. Should you ever stray from the path, your ability immediately ceases to function until you repent. The limitation value is numerically equivalent to the point cost of the required disadvantages; e.g., a -10-point Vow gives a -10% Pact limitation.
+|}

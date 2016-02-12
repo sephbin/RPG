@@ -1,0 +1,6 @@
+Gurps Occupational Templates
+{{GURPS Archer}}
+
+{{GURPS Barbarian}}
+
+[[Category:GURPS]]

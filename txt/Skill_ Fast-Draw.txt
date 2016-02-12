@@ -1,0 +1,24 @@
+Skill: Fast-Draw
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FAST-DRAW'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill lets you quickly draw a weapon from its holster, sheath, or hiding place. A successful roll means you ready the weapon instantly. This does not count as a combat maneuver; you can use the weapon to attack on the same turn. On a failure, you ready your weapon normally but may do nothing else on your turn. A critical failure means you drop the weapon!
+
+{{Indent}}You must specialize in one of these weapon types: Force Sword, Knife, Long Arm (rifle, shotgun, submachine gun, etc.), Pistol, Sword (any onehanded blade larger than a knife), or Two-Handed Sword. The GM may add Fast-Draw skills for other weapons (or even tools) that one could reasonably draw quickly
+
+{{Indent}}In addition to the above specialties, there are two Fast-Draw skills that allow you to reload missile weapons quickly:
+
+{{Indent}}Fast-Draw (Arrow): Lets you ready a single arrow, bolt, or dart instantly. This reduces the time required to reload a bow, crossbow, or blowgun by one second
+
+{{Indent}}Fast-Draw (Ammo): Reduces the time required to reload any kind of gun or beam weapon. The exact benefits depend on your weapon, but a successful roll always shaves at least one second off the reload time. This skill varies greatly with TL! At TL4, it covers powder-and-shot drills; at TL6+, it includes speed-loading techniques for detachable magazines; and at higher tech levels, it involves quickly replacing energy cells and attaching power cables
+
+{{Indent}}For the Arrow and Ammo specialties, failure means you drop the arrow or bolt, or accidentally discard one round of ammunition. On a critical failure, you drop the entire quiver, powder horn, ammo box, magazine, etc., scattering loose ammunition everywhere!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Combat Reflexes (p. 43) gives +1 to all Fast-Draw specialties; Ham-Fisted (p. 138) gives -3 per level.&lt;/i&gt;&lt;/font&gt;
+|}

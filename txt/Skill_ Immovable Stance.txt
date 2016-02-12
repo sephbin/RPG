@@ -1,0 +1,20 @@
+Skill: Immovable Stance
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''IMMOVABLE STANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Trained By A Master
+
+{{Indent}}This skill allows you to anchor yourself to the ground by properly channeling your chi, using secret balancing techniques, etc. Make a skill roll whenever an attack (e.g., a shove or the Push skill, p. 216) would result in knockback or a fall
+
+{{Indent}}On a success, you neither experience knockback nor fall down. On a failure, you are knocked back but still get the usual DX roll to avoid falling down. On a critical failure, you automatically suffer full knockback and you fall down
+
+{{Indent}}This skill also helps against attacks with the Judo skill (p. 203). If you fail your active defense (or choose not to defend) against a Judo throw, your attacker must win a Quick Contest of Judo vs. your Immovable Stance skill, or his throw fails
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -1 per yard of potential knockback; +4 for Perfect Balance (p. 74).&lt;/i&gt;&lt;/font&gt;
+|}

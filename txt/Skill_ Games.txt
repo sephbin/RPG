@@ -1,0 +1,20 @@
+Skill: Games
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GAMES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to play a game well. It includes knowledge of rules, etiquette, and tournament regulations. You must specialize in a particular game; possibilities include traditional board games (such as chess, Go, hnefatafl, and mankala), card games, war games, and computer games
+
+{{Indent}}Many cultures regard the ability to play one or more games skillfully as a worthwhile social accomplishment. People often stake vast sums on games, and it might be possible to earn a living as a professional gamer. Games may also be played to settle disputes. In a fantasy world, a powerful monster or wizard might even challenge a hero to a game - with his life or the lives of his companions at stake!
+
+{{Indent}}Knowledge of the rules of a given sport is also a Games skill, but unlike other Games skills, sports specialties only allow you to judge an event. To play, learn the associated Sports (p. 222) or Combat Sport (p. 184) skill. As a referee, roll against skill to adjudicate a match, spot a subtle foul, determine the winner in a &quot;photo finish&quot; situation, etc. As an athlete, you can use Games to make an Influence roll (see Influence Rolls, p. 359) when dealing with a referee or judge, but this use is always at -3 or worse
+
+{{Indent}}When you take a sports specialty, specify both the sport and the league or tournament type; e.g., Games (NFL Football) or Games (Olympic Judo). The rules of different leagues within the same sport default to one another at -2
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Cultural Familiarity modifiers (p. 23). Long-lived games have a body of knowledge that grows through time; therefore, when gamers from different times compete, the player from later in the timeline gets +1 to effective skill.&lt;/i&gt;&lt;/font&gt;
+|}

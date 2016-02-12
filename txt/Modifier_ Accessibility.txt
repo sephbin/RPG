@@ -1,0 +1,26 @@
+Modifier: Accessibility
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ACCESSIBILITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Accessibility is a catchall limitation you can use to cover any restriction not specifically defined elsewhere. Accessibility limitations fall into two broad categories: those that limit the targets your ability can affect and those that limit the situations in which it works.
+
+{{Indent}}If your ability can only affect certain targets, the limitation depends on how common the target group is. &quot;Only on women,&quot; &quot;Only on men,&quot; or anything else that covers about half of the population is worth -20%. &quot;Only on Electrical&quot; or &quot;Only on machines&quot; is worth -20% in a technological setting. &quot;Only on sea creatures&quot; is worth -30% - unless the campaign is set on a world mostly covered with water, in which case it isn't worth more than -10%. &quot;Only on aliens&quot; is worth -30% or -40%, depending on the world. &quot;Only on psis&quot; is worth -50% in most settings. &quot;Not on redheads&quot; is identical to &quot;On everyone but redheads,&quot; and is worth -10%.
+
+{{Indent}}The same yardstick applies to limitations based on the situation. &quot;Only at day&quot; or &quot;Only at night&quot; is worth -20%. &quot;Only in direct sunlight&quot; is worth -30%. &quot;Only in water&quot; is worth -30% on Earth - but more on a desert planet and less on an ocean world. &quot;Only during full moon&quot; or &quot;Only during new moon&quot; is worth -40%. And &quot;Useless under stress&quot; is a whopping -60%, since it makes the ability worthless in most adventuring situations!
+
+{{Indent}}You can also link situational Accessibility to your actions. The more unusual, difficult, or obnoxious the required action is, the greater the limitation value. Some examples:
+
+{{Indent}}Only in altered body form (Invisible, Insubstantial, etc.): -10%.
+
+{{Indent}}Only while playing trumpet: -20%.
+
+{{Indent}}Only while flying, Only while swimming, Only in hypnotic trance: -30%.
+
+{{Indent}}Only by one side of split personality: -40%.
+
+{{Indent}}In all cases, if the ability is only weakened (half power) instead of becoming useless, halve the value of the limitation.
+
+{{Indent}}The GM shouldn't allow meaningless Accessibility limitations. For instance, buying a helpful ability with the limitation &quot;Only on friends&quot; gives no cost break. Buying it with &quot;Only on enemies&quot; would be interesting, though! Likewise, the GM should reject any proposed limitation that is already implicit in the ability. For instance, &quot;Only while flying&quot; is not an acceptable limitation for Enhanced Move (Air).
+|}

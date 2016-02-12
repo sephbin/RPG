@@ -1,0 +1,17 @@
+Advantage: Telescopic Vision
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TELESCOPIC VISION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can &quot;zoom in&quot; with your eyes as if using binoculars. Each level lets you ignore -1 in range penalties to Vision rolls at all times, or -2 in range penalties if you take an Aim maneuver to zoom in on a particular target. This ability can also function as a telescopic sight, giving up to +1 Accuracy per level with ranged attacks provided you take an Aim maneuver for seconds equal to the bonus (see Scopes under Firearm Accessories, p. 411).
+
+{{Indent}}The benefits of this trait are not cumulative with those of technological aids such as binoculars or scopes. If you have both, you must opt to use one or the other.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}No Targeting: Your field of vision is broad and not &quot;zeroed&quot; to your ranged attacks. You get no Accuracy bonus in combat. -60%.
+|}

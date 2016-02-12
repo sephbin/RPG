@@ -1,0 +1,76 @@
+Advantage: Possession
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POSSESSION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''100 points''&lt;/font&gt;
+|-
+|{{Indent}}You can move your consciousness from body to body. In theory, you could live forever this way, moving from dying bodies to healthy ones. However, you cannot survive outside a living host. Should your current body die, you will die! Thus, you must keep your current host alive . . . at least until you can find a replacement.
+
+{{Indent}}To possess a new host, you must concentrate for one second and physically touch him. Attempts to possess your own Puppet (p. 78) succeed automatically. In all other cases, roll a Quick Contest: your IQ vs. the subject's Will. Your victim resists at +5 if he is in combat with you or otherwise wary of you, so it is best to be subtle.
+
+{{Indent}}If you lose or tie, you are mentally stunned for 1d seconds. In addition, you may never attempt to possess that subject again - he is &quot;immune&quot; to you.
+
+{{Indent}}If you win, you take over your victim's body, completely suppressing his personality. Your previous host regains control of his body (if sentient) after 1d seconds of mental stun, and &quot;comes to&quot; with no memory of the possession.
+
+{{Indent}}You gain your new host's ST, DX, and HT (and secondary characteristics calculated from these scores), as well as his physical advantages and disadvantages. You keep your own IQ, Perception, and Will, and all of your mental traits. Your social traits may apply, depending on the laws and values of your society.
+
+{{Indent}}Skills are a special case. Your IQ-, Perception-, and Will-based skills are unchanged. Other skills remain at the same relative skill level. For instance, if you have Acrobatics at DX+3, then you would have Acrobatics-12 in a DX 9 body and Acrobatics-14 in a DX 11 body.
+
+{{Indent}}If you occupy a sentient host, you have sufficient access to his memories for the first few hours of the takeover to learn his name and daily routine, but not enough to learn IQ-based skills. To recall a specific fact from the host's memories, you must roll vs. IQ, at -1 per hour since the takeover. Only one attempt is allowed for any given memory!
+
+{{Indent}}If you occupy a host for a long time, or hop between multiple bodies, the GM is free to adjust your point value to reflect the most expensive body you regularly occupy. For more on this subject, see Chapter 9.
+
+{{Indent}}With suitable modifiers, Possession can represent diverse abilities seen in speculative fiction. Note that the Digital, Magical, Parasitic, Spiritual, and Telepathic limitations are mutually exclusive.
+
+{{Indent}}Magical Possession: Some unpleasant horror and fantasy monsters use magic to take over unwary victims . . . who inevitably turn on their companions. This calls for the Magical special limitation (-10%), which is identical to the Magical power modifier (p. 27). Some of these creatures jump from body to body, but most stay in their own body and &quot;use&quot; their victims remotely via Telecontrol (+50% or +100%).
+
+{{Indent}}Parasitic Possession: Body-snatching aliens are a staple of science fiction. All such beings have the Parasitic limitation (-60%); more &quot;realistic&quot; ones also have Specialized. Some terrifying creatures have Assimilation (+10%), too - possibly with Full Memory Access (+10%). With access to the skills of all previous victims, they're formidable foes. It's equally creepy when the host exhibits the invader's mannerisms but none of his own. For that, use No Memory Access (-10%) instead.
+
+{{Indent}}Psionic Possession: Telepaths capable of Possession require the Telepathic power modifier (-10%). Most fictional psis don't move from body to body, but manipulate victims remotely via Telecontrol (+50% or +100%). A few do swap bodies using Mind Swap (+10%). An adept telepath who can do both needs Mind Swap, Telecontrol, and Selectivity (+10%).
+
+{{Indent}}Spiritual Possession: Demons, loas, and other spirits in folklore can possess mortals. This calls for Spiritual (-20%). Spiritual isn't the same as the Spirit power modifier (p. 28) - it's about being a spirit, not controlling spirits - and it's rare for both to apply. Few spirits have any power modifier on their Possession. Weak spirits that can &quot;ride&quot; only a few specific subjects have Puppet Only (-30%). Powerful ones that can create new Puppets have Chronic (+20%) instead. The GM may let those without the Spirit meta-trait take Spiritual if they have Insubstantiality or a trait modified with Projection, and are subject to countermeasures equivalent to exorcism. The GM may also let those with Spiritual possess inanimate objects (e.g., statues), which resist with HT - although this is only useful if the possessor has Telekinesis with Animation to animate his new vessel.
+
+{{Indent}}Technological Possession: There's no unique type of superscience Possession. Digital (-40%) works for Digital Minds that can possess computers; Chronic (+20%) is extremely common in this case, and represents rewriting the target's software. Those who can &quot;teleoperate&quot; others through surgical implants should take Telecontrol (+50%), Mindlink Required (-40%), and No Memory Access (-10%), and must have Mindlink (p. B70) with the Telecommunication limitation.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Assimilation: When you enter a new body, you may choose to &quot;forget&quot; any of your current skills and use the points this frees up - and any unspent points - to learn ST-, DX-, or HT-based skills known by the host, at up to (host's level)-1. For instance, if you do not know Acrobatics, but your host knows it at DX+3, you can pick it up at DX+2 . . . if you have enough points. Skills forgotten in order to learn new skills are gone. Skills learned from your host will move from body to body with you. +10%.
+
+{{Indent}}Chronic: When you exit a host, you can leave a &quot;back door&quot; that lets you possess him again without a Quick Contest. This lets you buy your former host as a Puppet. You can only use this enhancement if you have enough unspent points to buy a Puppet at the time you leave your host. +20%.
+
+{{Indent}}Mind Swap: Your host's mind moves into your previous body instead of being suppressed - in effect, you &quot;trade places.&quot; +10%.
+
+{{Indent}}Telecontrol: You remotely control your new host as if he were a puppet, leaving your original body in a trance.
+
+{{Indent}}You may choose to return to your body at any time, and must do so if your host falls unconscious or dies (but not if he sleeps). As a result, you do not die if your host dies. +50%.
+
+{{Indent}}Full Memory Access: You can freely access the memories of a sentient host at any time. To recall a specific fact from the subject's memories requires a straight IQ roll, at no penalty for the time since takeover. Furthermore, if you also have Assimilation, you can learn the victim's IQ-, Will-, and Perception-based skills. +10%.
+
+{{Indent}}Telecontrol 2: As Telecontrol, but your body remains conscious and able to act. You can only exercise fine control over one body at a time, though. State whether you're prioritizing your body or your victim's (in combat, do this at the start of each turn). All actions taken by the lower-priority body - including attack, defense, and Sense rolls - are at -4. This is incompatible with Parasitic and Spiritual, which assume that you and your victim are merged in a single body. If you have Compartmentalized Mind (p. B43), you don't need this modifier, as some compartments can possess victims while others control your body. Without Telesend (p. B91), though, the &quot;home&quot; and &quot;away&quot; compartments won't be in communication. +100%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Digital: This limitation is only available to Digital Minds (p. 48). You take over computers, not living bodies. The target system must be connected to your current host computer via a network, and you must have complete access to it - voluntary or otherwise (see Computer Hacking, p. 184). The target computer's hardware must be complex enough to run your computer program; in general, its Complexity must be at least half your IQ (round up). You can also take over a computer using a copy of yourself while leaving the original intact! However, unless you have the Digital version of Duplication (p. 50), any system you take over this way becomes an independent NPC that thinks it is you. This can be good or bad - the duplicate could become any type of Associated NPC (see p. 31). -40%.
+
+{{Indent}}Magical: Your advantage is an innate magic talent. If the subject is protected by a spell that repels hostile magic, you must win a Quick Contest of your IQ vs. that spell before you can make a possession attempt. If your victim has Magic Resistance, it subtracts from your IQ and adds to his Will during the actual possession attempt. -10%.
+
+{{Indent}}Mindlink Required: You can only possess someone with whom you have a Mindlink. If the link is ever jammed, out of range, etc., the possession ends. If the Mindlink has the Telecommunication limitation, Mindlink Required can represent control via an implant, telepresence, or similar technology. -40%.
+
+{{Indent}}No Memory Access: You have no access to your host's memories. -10%.
+
+{{Indent}}Parasitic: You enter your host's body physically. You must have Permeation (Flesh) (p. 75) to do this, unless your host has sufficient Payload (p. 74) to contain you - and your victim must have a higher Size Modifier than you. After entering your victim's body, you may attempt to possess him. He resists with the higher of HT or Will. You aren't forced out if you lose, but he is &quot;immune&quot; to you, so you need to find another host soon. While you are in someone else's body, he (if he is still uncontrolled) or his friends might be able to use technological means to detect you - and possibly remove you. Attacks that penetrate or ignore your host's DR can injure you, but his HP act as extra DR for this purpose. If you are microbial, you should purchase Injury Tolerance (Diffuse) (p. 60), which will protect you. The host nourishes you, and may have to eat extra food as a result. You can choose to leave at any time, the same way you entered. You may also temporarily release your host while continuing occupation. If you do, you will have to win a new Quick Contest to regain control. -60%.
+
+{{Indent}}Puppet Only: You may possess your own Puppets automatically, but you cannot possess anyone else. -30%.
+
+{{Indent}}Spiritual: You must have the Spirit meta-trait (p. 263) to take this limitation. Your spirit body merges with and occupies the body of your host. It remains insubstantial during the possession, traveling inside the host but otherwise inaccessible to you and effectively mindless. It can be injured as detailed under Parasitic, but only by attacks that affect insubstantial things. A genuine exorcist can cast you out by winning a Quick Contest of his exorcism ability vs. your Will. You cannot return to a body you have been cast out of for at least 24 hours. You may choose to release your host at any time. If you are exorcised or leave voluntarily, the host recovers after 1d seconds of mental stun. -20%.
+
+{{Indent}}Telepathic: Your ability is part of the Telepathy psi power (see p. 257). -10%.
+
+{{Indent}}Specialized: You can only possess certain hosts. The default is &quot;anything alive.&quot; All Carbon-Based Life is -10%; All Earthly Life is -20%; Animals Only is -25%; All Mammals, All Reptiles, etc., is -30%; and Dogs Only, Humans Only, Martians Only, etc., is -40%.
+|}

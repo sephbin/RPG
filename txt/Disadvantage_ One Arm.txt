@@ -1,0 +1,14 @@
+Disadvantage: One Arm
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ONE ARM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You have only one arm. You cannot use two-handed weapons, wield two weapons at once (or a weapon and a shield), or perform any task that requires two arms. You get -4 on tasks that are possible with one arm but that are usually executed with two (e.g., most Climbing and Wrestling rolls). You have no penalty on tasks that require only one arm. In all cases, the GM's ruling is final. When in doubt, try a quick reality check if possible!
+
+{{Indent}}If you originally had two arms, assume that you lost the left arm if you were right-handed, or vice versa.
+
+{{Indent}}If you are a nonhuman who only had one arm to begin with, your &quot;arm&quot; need not be an arm at all - it can be any appendage capable of fine manipulation. For instance, a parrot that used its beak and tongue would have One Arm (and not No Fine Manipulators).
+
+{{Indent}}If you have advanced prosthetics that cancel One Arm while worn, apply a Mitigator limitation (p. 112). Should you ever eliminate One Arm completely through surgery or an ultra-tech replacement limb, you must pay back the points you received for it.
+|}

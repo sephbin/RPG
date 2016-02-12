@@ -1,0 +1,25 @@
+Advantage: Temperature Control
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TEMPERATURE CONTROL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can alter the ambient temperature. Heating or cooling is limited to 20° per level, and occurs at a rate of 2° per level per second of concentration. You can affect a two-yard radius at a distance of up to 10 yards. Use Increased Range (p. 106) or Reduced Range (p. 115) to modify range; add levels of Area Effect (p. 102) to increase radius.
+
+{{Indent}}This ability never does damage directly. For that, buy Innate Attack - usually either burning (for flame) or fatigue (for attacks that damage by altering body temperature).
+
+{{Indent}}Active: Psis, supers, and ultra-tech machines cause temperature changes using force of will or weird beams. Freeze rays and cryokinesis call for Cold (-50%), while heat rays and pyrokinesis require Heat (-50%). For dramatic effects like freezing or boiling water instantly, add Reduced Time (+20%/level); each level doubles the rate of cooling or heating.
+
+{{Indent}}Passive: Spirits, monsters, and elemental creatures of heat and cold sometimes alter the temperature in their immediate vicinity (a two-yard radius) at all times. To simulate this, add Always On (-10%), Emanation (-20%), and either Cold (-50%) or Heat (-50%). The ambient temperature changes by 2° per level per second the entity remains in the area, to the usual maximum of 20° per level.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cold: You can only decrease the temperature. -50%.
+
+{{Indent}}Heat: You can only increase the temperature. -50%.
+
+{{Indent}}Psychokinetic: Your ability is part of the Psychokinesis psi power (see p. 256), often called &quot;cryokinesis&quot; (for cold) or &quot;pyrokinesis&quot; (for heat). -10%.
+|}

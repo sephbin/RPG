@@ -1,0 +1,24 @@
+Skill: Disguise
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DISGUISE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Makeup-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the art of altering your appearance using clothing, makeup, and prosthetics. You do not need this skill to don a quick disguise - e.g., to put on a lab coat when you enter a laboratory - but such disguises only fool the inattentive! A good disguise requires a Disguise roll and 30 minutes to an hour of preparation
+
+{{Indent}}Roll a Quick Contest of Disguise skill vs. the Perception of each person your disguise must fool. Individuals with Criminology or Observation skill may substitute those skills for Perception when rolling to penetrate a disguise. The GM may allow other skills to be of use - for instance, Physician skill might help spot a rubber nose
+
+{{Indent}}When combining Acting (p. 174) with Disguise (that is, when you must change your face and your personality), you need only make one roll for each person or group - but it must be the harder of the two rolls
+
+{{Indent}}If there is more than one sapient species in your world, you must specialize by race - Disguise (Human) is nothing like Disguise (Bug-Eyed Monster). Disguise specialized in your own species is the most common form; just list this as &quot;Disguise&quot; on your character sheet. Disguise skills for physically similar species default to one another at -2 to -4
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345). +4 for Elastic Skin (p. 51). You are at -1 to -5 to disguise yourself as someone very different from you (GM's discretion). Distinctive appearance also gives a penalty - see Build (p. 18), Unnatural Features (p. 22), and specific disadvantages (e.g., Hunchback, p. 139) for details. Differences in Size Modifier usually make Disguise impossible.&lt;/i&gt;&lt;/font&gt;
+
+{{Indent}}You can also learn Disguise (Animals) to deceive nonsapient creatures. This involves wearing animal skins, smearing your body with musk or dung, etc. There is no default between this and other Disguise specialties. Use the following modifiers instead of those given above
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 if approaching from downwind; -1 for each animal over one of the same type being approached (-1 for every 10 in the case of herd animals); -1 to -3 if the skins are old or in poor condition. Make a Naturalist roll to recall the habits of the animal being imitated; success gives +1 to +3, while failure gives -1 to -3.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,14 @@
+Advantage: Contact Group
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CONTACT GROUP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have a network of Contacts (see Contacts, below) placed throughout a particular organization or social stratum. You must specify a corporation, criminal syndicate, military unit, police department, or similar organization, or the underworld, merchants, upper class, etc. of one particular town. Broader Contact Groups are not allowed.
+
+{{Indent}}You may request information from a Contact Group exactly as you would an individual Contact, using the same rules for frequency of appearance, effective skill, and reliability. The difference is that a Contact Group's effective skill reflects ability at an entire category of skills - e.g., &quot;business skills&quot; if your Contact Group is a corporation, or &quot;military skills&quot; if your Contact Group is a military unit - as opposed to one specific skill. You must define this area of knowledge when you purchase the Contact Group, and it must be appropriate to the organization.
+
+{{Indent}}The GM rolls against the group's effective skill when you request any information that it could reasonably provide. However, this is an abstract success roll, not a roll against a specific skill. For instance, a police Contact Group could provide ballistics comparisons, criminal profiles, legal advice, police records, and introductions to criminals. It would not specifically use Forensics, Criminology, Law, Administration, or Streetwise skills for this, but the information provided might be appropriate to any of these &quot;police skills.&quot;
+
+{{Indent}}To determine the point cost of a Contact Group, select its effective skill, frequency of appearance, and reliability level just as you would for a simple Contact, then multiply the resulting cost by 5.
+|}

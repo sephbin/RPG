@@ -1,0 +1,16 @@
+Skill: Computer Programming
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMPUTER PROGRAMMING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to write and debug computer software. A successful roll lets you find a bug in a program, determine a program's purpose by examining the code, answer a question about computer programming, or write a new program (time required is up to the GM)
+
+{{Indent}}In settings where artificial intelligence (AI) exists, those who wish to work with AI must learn Computer Programming (AI). There is no default between this skill and regular Computer Programming. When using Detect Lies, Fast-Talk, Psychology, Teaching, and similar &quot;social&quot; skills on an AI, roll against the lower of Computer Programming (AI) and the relevant skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 or more for an unfamiliar programming language (see Familiarity, p. 169). The time modifiers under Time Spent (p. 346) will often apply. When writing a program that deals with a specialized field of knowledge, the GM may require a roll against the lower of Computer Programming and your skill in that field (e.g., a Mathematics specialty for a complex mathematical program, or the lower of Teaching skill and a &quot;subject&quot; skill for an expert system that will assist users with a particular subject).&lt;/i&gt;&lt;/font&gt;
+|}

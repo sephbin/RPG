@@ -1,0 +1,14 @@
+Advantage: Flexibility
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FLEXIBILITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 or 15 points''&lt;/font&gt;
+|-
+|{{Indent}}Your body is unusually flexible.
+
+{{Indent}}This advantage comes in two levels:
+
+{{Indent}}Flexibility: You get +3 on Climbing rolls; on Escape rolls to get free of ropes, handcuffs, and similar restraints; on Erotic Art skill; and on all attempts to break free in close combat (see p. 391). You may ignore up to -3 in penalties for working in close quarters (including many Explosives and Mechanic rolls). 5 points.
+
+{{Indent}}Double-Jointed: As above, but more so. You cannot stretch or squeeze yourself abnormally, but any part of your body may bend any way. You get +5 on Climbing, Erotic Art, and Escape rolls, and on attempts to break free. You may ignore up to -5 in penalties for close quarters. 15 points.
+|}

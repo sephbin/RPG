@@ -1,0 +1,12 @@
+Modifier: Resistible
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESISTIBLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This limitation is only available for Innate Attacks that inflict fatigue or toxic damage. You must combine it with one of Blood Agent, Contact Agent, Follow-Up, Respiratory Agent, or Sense-Based. It represents poison, disease, or a similar effect that a sufficiently healthy victim can resist or &quot;shrug off.&quot;
+
+{{Indent}}The victim gets a HT roll to avoid the effect. A resistance roll against HT- 5 is worth -5%. Each +1 to the roll is a worth another -5% (e.g., HT-4 is -10%, and HT+4 is -50%).
+
+{{Indent}}If the attack is also Cyclic (p. 103), the victim rolls before each cycle (including the first). Success means the attack ends without further injury; failure means the target takes damage normally and the attack continues.
+|}

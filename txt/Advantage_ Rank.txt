@@ -1,0 +1,36 @@
+Advantage: Rank
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RANK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 or 10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Specific sectors of society – e.g., the civil service, the military, and certain powerful religions – often have internal ranking systems, distinct from Status. If an organization like this has significant social influence, or access to useful resources, then its members must pay points for their rank within the organization.
+
+{{Indent}}Rank comes in levels. Each Rank has authority over those of lower Rank – regardless of personal ability. In most cases, there are six to eight levels of Rank. The GM should determine the highest Rank available to starting characters, usually Rank 3-5. 
+
+{{Indent}}Unlike Status, Rank costs no money to maintain. On the other hand, almost all forms of Rank come with a Duty (see p.133). Rank often has stringent prerequisites, too – typically one of the traits given under Privilege (p.30) or a minimum skill level. These things have their own point costs, not included in the cost of the Rank. In a given society, there are usually severalsystems of Rank; the precise varieties depend on the game world.
+In most cases, you may hold more than one kind of Rank, although the GM is free to rule that holding one sort of Rank precludes holding another.
+
+{{Indent}}Rank may coexist with Status. If so, then high Rank grants additional Status at no extra cost: +1 to Status at Rank 2-4, +2 to Status at Rank 5-7, and +3 to Status at Rank 8 or higher. This represents society’s respect for senior members of important social institutions. If you hold multiple types of Rank, then you may claim a Status bonus for each of them. 
+
+{{Indent}}Alternatively, one form of Rank might replace Status; for instance, Religious Rank in a theocracy. In societies like this, Status does not exist. Each level of Rank gives all its usual benefits plus the effect of an equivalent level of Status.
+
+{{Indent}}Rank is worth 5 points per level if it coexists with Status, or 10 points per level if it replaces Status. Common varieties of Rank include:
+
+{{Indent}}Administrative Rank: Position within a governmental bureaucracy. When dealing with other administrators, differences in Rank work just like differences in Status (see p.28). At TL5 and higher, a large bureaucracy might haveseveral varieties of Rank: one per government department, and possibly extra categories for the senate, judiciary, etc. (Defense or law-enforcement officials use Military or Police Rank instead.) Note this on your character sheet; e.g., Administrative Rank (Judiciary). 
+
+{{Indent}}Merchant Rank: Position within a national or transnational organization of merchants. This could be anything from the mercantile culture of the Aztecs (where Merchant Rank verged on being Status) to the “merchant marine” of a modern or futuristic society (where Merchant Rank often parallels Military Rank during wartime).
+Military Rank: Position within a military organization. Each organization is structured differently. In general, personnel that are not specifically leaders will be Rank 0-2, while lowlevel officers and senior enlisted men will be Rank 3-4. Rank 5 and higher is normally limited to major commands and duties where the officer is responsible for extremely valuable or rare resources. Limited-duty officers, specialists, and personnel with littleactualresponsibility or command authority have a lower Rank in GURPS terms, despite possibly possessing titles identical to those of a higher Rank; represent this with one or more levels of Courtesy Rank (see Courtesy Rank, p. 29).
+
+{{Indent}}Police Rank:Position in a police force. Each agency has its own variety of Rank. You must buy Legal Enforcement Powers (p.65) before you can buy Police Rank; this is the difference between a patrol officer (Police Rank 0, for 0 points) and an ordinary citizen (no Police Rank, also 0 points). Note that in a police state, there is no difference between Police Rank and Military Rank.
+
+{{Indent}}Religious Rank:Position in a religious hierarchy. Each religion has its own variety of Rank. You must buy Clerical Investment (p.43) before you can buy Religious Rank; this is the difference between a novice (Religious Rank 0, for 0 points) and a layperson (no Religious Rank, also 0 points). Other common requirements include a minimum level of Theology skill and being of a particular sex or race. Differences in Rank work just like differences in Status (see p.28) when dealing with co-religionists and those who respect your faith.
+
+
+----
+{{Indent}}Temporary Rank: Those of higher Rank may temporarily increase your Rank for a predetermined amount of time – until the end of a project, battle, etc. This process is called brevetting in the case of Military Rank. To keep temporary Rank, you must meet all the usual requirements and pay the appropriate point cost.
+
+{{Indent}}Courtesy Rank: Those who have formerly held Rank may retain that Rank as “Courtesy Rank” for only 1 point per level. Those who currently hold a title that carries little real authority may also take Courtesy Rank. Courtesy Rank is for social situations only; it gives you a fancier title.
+
+{{Indent}}Rank for Spies: Officers of national intelligence services often possess a special category of Military Rank, distinct from that of line soldiers. Employees of civilian intelligence agencies usually possess some variety of Administrative Rank instead. Finally, some counterintelligence officers are actually police, and hold Police Rank. Those playing spies should consult with the GM before purchasing Rank of any kind!
+|}

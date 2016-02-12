@@ -1,0 +1,18 @@
+Advantage: Growth
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GROWTH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can grow - really grow! As your size increases, so must your ST (or you would collapse under your own weight). Your equipment doesn't change size!
+
+{{Indent}}Each level of Growth lets you increase your Size Modifier by +1. Find your final height from the Size Modifier Table (p. 19). Increases in SM affect your arm and leg length when calculating reach and determining whether you can negotiate obstacles; see Size Modifier and Reach (p. 402). It takes one second to modify your SM by +1 (or by -1 as you return to normal size).
+
+{{Indent}}If you attempt to grow in a room, vehicle, container, etc. that isn't large enough to hold you, your growth normally stops. However, if maximum thrust damage for your current ST is greater than the wall or ceiling's DR, you burst through it. This takes one second per point of DR.
+
+{{Indent}}You must buy the ST necessary to support your form separately. This is 5 x final height in yards. If your ST increases with height and is only available when you grow, you may buy it with the Size limitation (see Strength, p. 14). Use your maximum SM to determine the limitation value. At intermediate SMs, find your height as a fraction of your maximum height. This is the fraction of your extra ST available to you at that SM (round down).
+
+{{Indent}}Example: A 6'-tall character (SM 0) has Growth 4. He can grow to SM +4, giving him a maximum height of 10 yards. He must buy ST 50 to support himself. If he has ST 15 and gains +35 ST only at full height, he may buy his &quot;+35 ST with a -40% Size limitation. At SM +1, he will be 3 yards tall. This is 30% of his final height, so he will have 30% of +35 ST, or +10 ST, for ST 25. Similarly, he'll be 5 yards tall with ST 32 at SM +2, 7 yards tall with ST 39 at SM +3, and 10 yards tall with ST 50 at SM +4.
+
+{{Indent}}Maximum Size Only: You can only assume normal or maximum size. Instead of growing at +1 SM per second, you grow to your maximum SM - or revert back to your usual SM - in one second. The limitation of no intermediate SMs (restricting your use of this ability in close quarters) cancels out the enhancement of rapid growth (a useful benefit in combat). +0%.
+|}

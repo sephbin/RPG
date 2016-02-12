@@ -1,0 +1,18 @@
+Skill: Fast-Talk
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FAST-TALK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Acting-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of talking others into doing things against their better judgment. It is not taught (intentionally, that is) in school; you study it by working as a salesman, confidence man, lawyer, etc. In any situation that calls for a reaction roll, you may make an Influence roll against Fast-Talk instead; see Influence Rolls (p. 359)
+
+{{Indent}}If you have Fast-Talk at level 20 or better, you get +2 on all reaction rolls where you're allowed to talk!
+
+{{Indent}}Note that Fast-Talk differs from Acting (p. 174). In general, Fast-Talk is used to get someone to make a snap decision in your favor, while Acting is used for long-term dissimulation. However, there are situations in which the GM could allow a roll on either skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 for Voice (p. 97); -3 for Low Empathy (p. 142); -1 for Oblivious (p. 146); -1 to -4 for Shyness (p. 154); -2 for Stuttering (p. 157); -5 for Truthfulness (p. 159). The GM may ask you for details of the story you are using, rather than just let you say, &quot;I'm using Fast-Talk.&quot; Your approach and the plausibility of the story may further modify the roll, at the GM's discretion.&lt;/i&gt;&lt;/font&gt;
+|}

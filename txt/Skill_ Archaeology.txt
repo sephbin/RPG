@@ -1,0 +1,12 @@
+Skill: Archaeology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ARCHAEOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of ancient civilizations. An archaeologist is at home with excavations, old potsherds, inscriptions, etc. An Archaeology roll lets you answer questions about ancient history, or identify artifacts and dead languages. It might even reveal information relating to the occult; e.g., Ancient Secrets and Things Man Was Not Meant To Know . . 
+|}

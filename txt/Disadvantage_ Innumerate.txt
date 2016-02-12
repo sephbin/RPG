@@ -1,0 +1,10 @@
+Disadvantage: Innumerate
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INNUMERATE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have little or no grasp of mathematics. You cannot learn - and get no default with - Computer Programming, Economics, or any of the skills that benefit from Mathematical Ability (see Talent, p. 89). You effectively have Incompetence (p. 164) in those areas. This has many frustrating side effects: you must use your fingers to count or perform arithmetic, you have no idea if the results computed by calculating machines are correct (making them basically useless), and you are easily cheated by dishonest merchants (-4 to rolls to notice you've been had).
+
+{{Indent}}In &quot;innumerate&quot; cultures, including many cultures at TL4 or below, this disadvantage is widespread, and the GM should not count it against the campaign disadvantage limit (if any). In societies that prize technological or mercantile ability, Innumerate individuals are liable to have a Social Stigma as well. This is worth an additional -5 points and gives -1 to reaction rolls.
+|}

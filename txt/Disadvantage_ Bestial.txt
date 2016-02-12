@@ -1,0 +1,16 @@
+Disadvantage: Bestial
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BESTIAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 or -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You think and react like a wild animal. You have no concept of &quot;civilized&quot; standards of morality or propriety, and no concept of property. You fight or flee from those who frighten or threaten you. You cannot learn skills that, in the GM's opinion, rely on &quot;civilized&quot; notions of art or social interaction, and you have no default with such skills.
+
+{{Indent}}You are not necessarily out of control; you simply react in an animalistic manner. You will usually ignore those who leave you alone (unless they're food!), and might even come to display affection for those who treat you with special kindness. You cannot understand property in the human sense, but (depending on your race) you might understand territory and avoid doing damage to objects on another's territory. Whether you regard humans as individuals with territory rights is an open question! You might also understand dominance, and respect or even obey a human who has proved to be stronger than you.
+
+{{Indent}}You cannot take an Odious Personal Habit for your beast-like behavior; that's included in the cost of Bestial. But if your behavior is extremely repugnant to humans - equivalent in severity to a -15-point Odious Personal Habit - the GM might rule that Bestial is worth -15 points instead of the usual -10. You are free to take Odious Personal Habits unrelated to beast-like behavior (including &quot;eats humans&quot;), however.
+
+{{Indent}}Bestial is not necessarily tied to low IQ, but roleplaying a character who is both Bestial and remarkably intelligent would be a major challenge requiring a lot of thought and effort. The GM may therefore choose to restrict Bestial to characters with IQ scores under 10 (or even under 6!), or simply reserve it for NPCs.
+
+{{Indent}}Note that the Wild Animal metatrait (p. 263) includes this disadvantage.
+|}

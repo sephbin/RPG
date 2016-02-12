@@ -1,0 +1,28 @@
+Skill: Innate Attack
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INNATE ATTACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents trained ability with a &quot;built-in&quot; ranged attack: fiery breath, super-powered energy bolts, etc. Learn it to improve your odds of hitting with Afflictions (p. 35), Bindings (p. 40), Innate Attacks (p. 61), magical jets and missiles, and similar attacks that originate from you as opposed to a weapon in your hand. Roll against skill to hit
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Beam:&lt;/i&gt; Any energy blast, magical jet, etc. emitted from the hands. To use this skill, you must have at least one unrestrained hand (although it need not be empty)
+
+{{Indent}}&lt;i&gt;Breath:&lt;/i&gt; Any attack emitted from the mouth, such as dragon's fire or acidic sputum. To use this skill, you cannot be gagged and you must be facing your target
+
+{{Indent}}&lt;i&gt;Gaze:&lt;/i&gt; Any attack emitted from the eyes - heat vision, a petrifying stare, etc. To use this skill, you cannot be blindfolded and you must be facing your target
+
+{{Indent}}&lt;i&gt;Projectile:&lt;/i&gt; Any solid projectile or pseudo-solid energy bolt (e.g., Fireball spell) emitted from the hands. To use this skill, you must have at least one unrestrained hand (although it need not be empty)
+
+{{Indent}}These specialties default to one another at -2
+
+{{Indent}}You use this skill to direct your attack, not to activate it; therefore, restrictions such as &quot;you cannot be gagged&quot; apply strictly to your ability to make ranged attacks. If you can trigger your attack while restrained, no skill roll is needed to attack your restraints!
+
+{{Indent}}You can only learn this skill for ranged attacks. Use Brawling (p. 182) to improve your odds with abilities that require a touch
+|}

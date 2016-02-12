@@ -1,0 +1,30 @@
+Skill: Survival
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SURVIVAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Perception-5 or Naturalist (same planet)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to &quot;live off the land,&quot; find safe food and water, avoid hazards, build shelter, etc. You may look after up to 10 other people. To live safely in a wilderness situation, you must make a successful Survival roll once per day. Failure inflicts 2d-4 injury on you and anyone in your care; roll separately for each victim
+
+{{Indent}}This skill also gives an &quot;eye for country.&quot; A successful roll shows you the best direction of travel to find flowing water, a mountain pass, or whatever other terrain feature you desire - assuming that it exists
+
+{{Indent}}Finally, you can use this skill to trap wild animals. (A city-bred thief could use Traps skill, but he's used to different game . . . so the roll would be at a -5.) Make one roll per trap. It takes about 30 minutes to improvise a trap from ordinary materials, or 10 minutes to set and hide a commercial steel trap. Pit traps for large game take several hours to dig
+
+{{Indent}}Survival often requires skill rolls based on scores other than Percep- tion. The GM might ask for a ST-based roll to dig a pit trap or erect a log shelter, a DX-based roll to start a fire using primitive techniques (flint sparking, bow and palette, etc.), or even a HTbased roll to avoid nutritional deficiencies from an improvised diet
+
+{{Indent}}You must specialize by terrain type. Land-dwellers may choose from Arctic, Desert, Island/Beach, Jungle, Mountain, Plains, Swampland, and Woodlands. Aquatic beings may take any of Bank, Deep Ocean Vent, Fresh- Water Lake, Open Ocean, Reef, River/Stream, Salt-Water Sea, and Tropical Lagoon. Amphibious individuals can pick from either list!
+
+{{Indent}}Land specialties default to one another at -3, while aquatic specialties default among themselves at -4. Island/Beach and Tropical Lagoon default to each other at -4, as do Swampland and River/Stream, but there are no other defaults between land and aquatic specialties
+
+{{Indent}}In settings where it is possible to visit other worlds, you must also specialize by planet. Each Survival specialty defaults to the same terrain type for a different planet at -4. The defaults between terrain types given above are at an extra -4 between different planets. All this assumes the two planets are of the same planet type (see Planet Types, p. 180). There is no default at all between Survival skills for two planets of different planet types
+
+{{Indent}}At the GM's option, extreme manmade terrain may call for unique specialties; e.g., Survival (Radioactive Wasteland). Most such specialties have no default of any kind
+
+{{Indent}}See also Urban Survival, p. 228
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Up to -5 for extreme weather conditions. Equipment modifiers (p. 345).&lt;/i&gt;&lt;/font&gt;
+|}

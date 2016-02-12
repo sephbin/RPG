@@ -1,0 +1,60 @@
+Ramsbeard
+'''Ramsbeard'''&lt;br/&gt;
+Kozelrod Inquisitor 7&lt;br/&gt;
+N Medium monstrous humanoid&lt;br/&gt;
+'''Init '''+6; '''Senses '''darkvision 60 ft.; Perception +13&lt;br/&gt;
+----
+'''Defense'''&lt;br/&gt;
+----
+'''AC '''21, touch 13, flat-footed 18 (+6 armor, +3 Dex, +2 natural)&lt;br/&gt;
+'''hp '''56 (7d8+4)&lt;br/&gt;
+'''Fort '''+5, '''Ref '''+5, '''Will '''+8&lt;br/&gt;
+----
+'''Offense'''&lt;br/&gt;
+----
+'''Speed '''40 ft.&lt;br/&gt;
+'''Melee '''+1 shock glaive +10 (1d10+7/×3+1d6 electricity) and&lt;br/&gt;
+:unarmed strike +9 (1d3+4)&lt;br/&gt;
+'''Special Attacks '''bane, relentless&lt;br/&gt;
+'''Spell-Like Abilities'''&lt;br/&gt;
+:At will—''detect alignment''&lt;br/&gt;
+:7 rounds/day—''discern lies''&lt;br/&gt;
+'''Inquisitor Spells Known '''(CL 7th; concentration +10):&lt;br/&gt;
+3rd (2/day)—''coordinated effort, prayer''&lt;br/&gt;
+2nd (4/day)—''brow gasher, death knell (DC 15), flames of the faithful (DC 15), see invisibility''&lt;br/&gt;
+1st (5/day)—''cure light wounds, divine favor, know the enemy, magic weapon, true strike''&lt;br/&gt;
+0 (at will)—''bleed (DC 13), detect poison, guidance, sift, stabilize, virtue''&lt;br/&gt;
+----
+'''Statistics'''&lt;br/&gt;
+----
+'''Str '''18, '''Dex '''16, '''Con '''10, '''Int '''17, '''Wis '''16, '''Cha '''8&lt;br/&gt;
+'''Base Atk '''+5; '''CMB '''+9 (+11 bull rush, +11 overrun); '''CMD '''22 (24 vs. bull rush, 24 vs. overrun)&lt;br/&gt;
+'''Feats '''Combat Reflexes, Disruptive, Improved Bull Rush, Improved Overrun, Outflank, Power Attack, Precise Strike&lt;br/&gt;
+'''Skills '''Climb +11, Handle Animal +2, Intimidate +2, Knowledge (arcana) +10 (+13 to identify the abilities and weaknesses of creatures), Knowledge (dungeoneering) +10 (+13 to identify the abilities and weaknesses of creatures), Knowledge (nature) +11 (+14 to identify the abilities and weaknesses of creatures), Knowledge (planes) +8 (+11 to identify the abilities and weaknesses of creatures), Knowledge (religion) +10 (+13 to identify the abilities and weaknesses of creatures), Perception +13, Sense Motive +15, Spellcraft +12, Stealth +12, Survival +12 (+15 to track), Swim +13&lt;br/&gt;
+'''Languages '''Common, Draconic, Dwarven, Elven, Other Language&lt;br/&gt;
+'''SQ '''domains (spellkiller inquisition), judgement 3/day), monster lore +3, solo tactics, spellkiller, teamwork feat, track&lt;br/&gt;
+'''Other Gear '''mithral breastplate, +1 shock glaive, amulet of natural armor +1, belt of incredible dexterity +2, 1000 GP&lt;br/&gt;
+----
+'''Special Abilities'''&lt;br/&gt;
+----
+'''Bane (+2 / 2d6) (7 rounds/day) (Su)''' Make the weapon you are holding a bane weapon.&lt;br/&gt;
+'''Combat Reflexes (4 AoO/round)''' Can make extra attacks of opportunity/rd, and even when flat-footed.&lt;br/&gt;
+'''Darkvision (60 feet)''' You can see in the dark (black and white vision only).&lt;br/&gt;
+'''Detect Alignment (At will) (Sp)''' Detect chaos, evil, good, or law at will.&lt;br/&gt;
+'''Discern Lies (7 rounds/day) (Sp)''' Discern Lies at will&lt;br/&gt;
+'''Disruptive''' +4 DC to cast defensively for those you threaten.&lt;br/&gt;
+'''Improved Bull Rush''' You don't provoke attacks of opportunity when bull rushing.&lt;br/&gt;
+'''Improved Overrun''' You don't provoke attacks of opportunity when overrunning, and foe can't choose to avoid you.&lt;br/&gt;
+'''Inquisitor Domain (Spellkiller Inquisition)''' Deities: Any (with GM approval).
+
+Granted Powers: You gain the Disruptive feat as a bonus feat (even if you do not meet the prerequisites). When you defeat an enemy (whether by reducing it to 0 or fewer hit points, taking the enem&lt;br/&gt;
+'''Judgement (3/day) (Su)''' Variable bonuses increase as the combat continues.&lt;br/&gt;
+'''Monster Lore +3 (Ex)''' +3 to Knowledge checks when identifying the weaknessess of creatures.&lt;br/&gt;
+'''Outflank''' Increase flank bonus by +2 if flanking ally has same feat. If you crit, ally gets an AoO.&lt;br/&gt;
+'''Power Attack -2/+4''' You can subtract from your attack roll to add to your damage.&lt;br/&gt;
+'''Precise Strike''' +1d6 precision damage for melee attacks if you and an ally with this feat flank the same target.&lt;br/&gt;
+'''Relentless (Ex)''' +2 Bull Rush and Overrun if you and your opponent are standing on the ground.&lt;br/&gt;
+'''Solo Tactics (Ex)''' Count Teamwork feats as if your allies had the same ones.&lt;br/&gt;
+'''Spellkiller (+2 Sacred) (DC 16)''' After defeating enemy, gain +2 sacred bonus to AC for 7 minutes. End the effect when hitting an arcane spellcaster to stagger your opponent.&lt;br/&gt;
+'''Teamwork Feat (change 3/day)''' Swap your most recent Teamwork feat for another&lt;br/&gt;
+'''Track +3''' Add the listed bonus to survival checks made to track.&lt;br/&gt;

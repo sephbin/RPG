@@ -1,0 +1,16 @@
+Advantage: Compartmentalized Mind
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMPARTMENTALIZED MIND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''50 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Your mental coordination gives you, in effect, more than one mind. Each mind - or &quot;compartment&quot; - functions independently and at full capability. Your compartments are identical, but hypnotism, magic, psionics, and the like affect them separately (e.g., one compartment could be hypnotized without affecting any of the others).
+
+{{Indent}}This advantage does not allow your body to perform more than one task. A normal character may select one maneuver on his turn in combat. This of Compartmentalized Mind adds one extra mental maneuver to this allotment. For instance, Compartmentalized Mind 1 would let you perform one mental maneuver and one physical maneuver (e.g., Concentrate on a spell and Attack) or two mental maneuvers (e.g., Concentrate on two spells), but never more than one physical maneuver - for that, see Extra Attack (p. 53).
+
+{{Indent}}If one compartment is under external influence, roll a Quick Contest of Will to see whether it gains control of the body. The compartment currently in control of the body rolls at +1. Battling compartments may attempt to use mental powers on each other. Treat them as completely separate minds for this purpose, each with your IQ, Will, and mental abilities (such as Mind Shield). Two variations on this advantage are available for vehicles built as characters: Controls: Each level buys one set of controls.
+
+{{Indent}}Controls let an operator perform his own physical or mental maneuvers using your abilities (e.g., Innate Attack or Radar), as per the rules for vehicular combat (see p. 467). The operator directs all actions of an IQ 0 vehicle with this advantage. Physical limits still apply; for instance, a vehicle can make no more attacks than it has ready weapons. Resolve conflicts between operators by rolling a Quick Contest of vehicle operation skill. 25 points/level.
+
+{{Indent}}Dedicated Controls: As Controls, but each set of controls handles a specific task; e.g., &quot;tail gunner.&quot; The person manning them can't operate anything else. 10 points/level.
+|}

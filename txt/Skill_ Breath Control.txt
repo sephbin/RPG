@@ -1,0 +1,12 @@
+Skill: Breath Control
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BREATH CONTROL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to breathe at maximum efficiency. On a successful skill roll, you can increase the time you can hold your breath for any reason (e.g., underwater) by 50%, or regain one FP in only two minutes (you cannot combine this with magic spells that restore FP)
+|}

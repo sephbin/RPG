@@ -1,0 +1,8 @@
+Disadvantage: Short Attention Span
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHORT ATTENTION SPAN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You find it difficult to concentrate on a single task for longer than a few minutes. Make a self-control roll whenever you must maintain interest in something for an extended period of time, or whenever a distraction is offered. If you fail, you automatically fail at the task at hand. The GM might give you a small bonus to the self-control roll in situations where concentration is crucial, such as when your survival is at stake.
+|}

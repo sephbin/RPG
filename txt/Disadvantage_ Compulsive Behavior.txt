@@ -1,0 +1,30 @@
+Disadvantage: Compulsive Behavior
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMPULSIVE BEHAVIOR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You have a habit - often a vice - that wastes a good deal of your time or money. You must indulge at least once per day, if at all possible, and do so any time you have the opportunity unless you can make a self-control roll. You seek to avoid any situation where you know you will be unable to indulge for more than a day. You must make a self-control roll to enter into such a situation; if you succeed (or are forced into the situation), you suffer from Bad Temper (p. 124) the whole time, with the same self-control roll as your Compulsive Behavior. It's bad roleplaying to try to avoid your compulsion regularly!
+
+{{Indent}}The point value of this disadvantage depends on how much your habit costs and how much trouble it is likely to get you into. The GM is the final judge. Examples include:
+
+{{Indent}}Compulsive Carousing: You cannot resist the urge to party! Once per day, you must seek out a social gathering and lounge around - feasting, drinking, singing, and joking - for at least an hour. If you are not invited, you crash the party; if there is no party, you attempt to liven things up. Money is no object! If you have it, you will spend it. You try almost any mindaltering substance without a second thought, never refuse a social drink, and aren't particularly picky about your romantic partners. You get +1 to reactions from like-minded extroverts, but -1 or worse from sober-minded citizens - and -4 in puritanical settings. -5 points* (-10 points* in puritanical settings).
+
+{{Indent}}Compulsive Gambling: You cannot pass up an opportunity to gamble. Bets, wagers, games of chance, and even lotteries hold an uncanny fascination for you. If there is no game of chance or bet going, you will start one. You try any gambling game proposed to you, whether you know it or not. You do not have to have the Gambling skill, but if you don't, you will need a steady source of wealth! If you are prevented from gambling - for instance, by traveling with nongamblers - you will quickly earn a reaction penalty (-1 per -5 points in this disadvantage, after the self-control multiplier) by constantly talking about gambling and attempting to draw others into games or wagers. -5 points.*
+
+{{Indent}}Compulsive Generosity: You are too open-handed. If a beggar asks for cash, you give - and where others give copper, you give silver. You always listen to larger requests for financial aid, if they are even remotely plausible, and you must make a self-control roll whenever you hear a good hard-luck story (if you are broke when asked, you apologize profusely). You aren't a complete sucker - you just feel guilty about being better off than others. In a society with a lot of beggars around, increase your cost of living:
+
+{{Indent}}[[pic]]
+
+{{Indent}}This may earn you a +1 reaction bonus from pious folk; if you are poor yourself, the reaction bonus may be even higher. This trait is incompatible with Miserliness. -5 points.*
+
+{{Indent}}Compulsive Lying: You lie constantly, for no reason other than the joy of telling the tale. You delight in inventing stories about your deeds, lineage, wealth - whatever might impress your audience. Even when exposed as a liar, you cling to your stories tenaciously, calling your accuser a liar and a scoundrel. Make a self-control roll to tell the pure, unvarnished truth. If you fail, you lie - no matter how dire the consequences. When you roll to tell the truth to your fellow party members, roll out of sight of the other players. Thus, they can never be sure they are getting accurate information. -15 points.*
+
+{{Indent}}Compulsive Spending: Cash just runs through your fingers! You enjoy being seen as a big spender, are too fond of luxury, or find the experience of buying to be fun - perhaps all three. Make a self-control roll whenever someone offers you a purchase that matches any of your quirks or interests, and the cash in your pocket is more than twice the asking price. If you fail, you buy. This raises your cost of living, and gives you a penalty to Merchant skill when you bargain or haggle:
+
+{{Indent}}[[pic]]
+
+{{Indent}}Compulsive Spending is not limited to the wealthy! A poor farmer can be a spendthrift. This trait is incompatible with Miserliness (it's the opposite!), but you can combine it with Greed. -5 points.*
+
+{{Indent}}Compulsive Vowing: You never simply decide to do something; you must make it an oath. Although these vows are often trivial in nature, you approach them all with the same solemnity and dedication. You may tack extraneous vows onto legitimate ones. -5 points.*
+|}

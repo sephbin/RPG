@@ -1,0 +1,20 @@
+Skill: Mind Block
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MIND BLOCK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Will-5 or Meditation-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This ability allows you to establish a mental block against psionic or magical attempts to eavesdrop on your thoughts and emotions. The techniques involved are wholly mundane - for instance, doing complicated mathematical calculations, or repeating poetry over and over again. With sufficient training, anyone can learn this skill
+
+{{Indent}}To maintain a block, you must make a Mind Block roll once per minute. You must roll every second in combat or other stressful situations
+
+{{Indent}}If you succeed, anyone who reads your mind must win a Quick Contest of his mind-reading ability vs. your Mind Block skill in order to get useful information. Otherwise, he gets nothing but poetry, multiplication tables, etc. However, if you ever critically fail a Mind Block roll, you thought about precisely what the mind reader wanted to know - in detail - right there in the forefront of your mind!
+
+{{Indent}}This skill only works against mind reading, not mind control or other mental attacks. If you have a supernatural mind shield, Mind Block acts as a last-ditch defense: only mental probes that pierce your magical or psionic defenses and contact your mind will encounter the block
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 if you do nothing but concentrate on blocking; -3 if you are mentally or physically stunned; -2 or more to hide emotions rather than thoughts, depending on how strong the GM rules your emotions are - it's hard to block your emotions while sneaking up on your most hated enemy!&lt;/i&gt;&lt;/font&gt;
+|}

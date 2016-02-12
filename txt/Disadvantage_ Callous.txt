@@ -1,0 +1,8 @@
+Disadvantage: Callous
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CALLOUS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You are merciless, if not cruel. You can decipher others' emotions, but you do so only to manipulate them - you don't care about their feelings or pain. This gives you -3 on all Teaching rolls, on Psychology rolls made to help others (as opposed to deduce weaknesses or conduct scientific research), and on any skill roll made to interact with those who have suffered the consequences of your callousness in the past (GM's decision). As well, past victims, and anyone with Empathy, will react to you at -1. But ruthlessness has its perks: you get an extra +1 to Interrogation and Intimidation rolls when you use threats or torture.
+|}

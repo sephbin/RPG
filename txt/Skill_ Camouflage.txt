@@ -1,0 +1,16 @@
+Skill: Camouflage
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CAMOUFLAGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4 or Survival-2.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use natural materials, special fabrics and paints, etc. to hide yourself, your position, or your equipment. To see through your camouflage, an observer must win a Quick Contest of Vision or Observation skill (p. 211) vs. your Camouflage skill
+
+{{Indent}}Depending on the circumstances, successful camouflage might hide its subject entirely or merely blur its outlines to make it harder to hit (-1 to attacker's skill). Camouflage will not improve your Stealth roll, but if you fail a Stealth roll while camouflaged, those who heard you must still see through your camouflage to see you
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345). Apply a penalty equal to the Size Modifier of a large object (e.g., -5 for a tank with SM +5). This makes it difficult to camouflage large objects, but remember that distant observers suffer large Vision penalties for range - see Vision (p. 358).&lt;/i&gt;&lt;/font&gt;
+|}

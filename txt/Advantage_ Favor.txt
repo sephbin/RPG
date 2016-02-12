@@ -1,0 +1,16 @@
+Advantage: Favor
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FAVOR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You saved someone's life, kept silent at the right time, or otherwise did someone a good turn. Now he owes you one.
+
+{{Indent}}A Favor is a one-shot Ally, Contact, Contact Group, or Patron. Work out the point cost of the parent advantage, and then divide it by 5 (round up) to get the cost of the Favor. The catch is that the NPC(s) in question will help you out once . . . and only once.
+
+{{Indent}}When you wish to &quot;collect&quot; on your Favor, the GM rolls against the frequency of appearance of the underlying advantage. On a failure, you couldn't reach your &quot;friend&quot; in time, or he couldn't comply, but you still have your Favor coming. You may try again on a later adventure.
+
+{{Indent}}On a success, you get what you want (subject to the limits of the advantage). But this discharges the obligation: remove the Favor from your character sheet and reduce your point total appropriately. However, if the roll is a 3 or 4, your &quot;friend&quot; still feels indebted to you, and you retain the Favor . . . at least until next time.
+
+{{Indent}}You may buy a Favor in play, just like any trait of this kind. The GM may also wish to include a Favor as part of the reward for a successful adventure.
+|}

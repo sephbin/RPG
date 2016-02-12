@@ -1,0 +1,10 @@
+Disadvantage: Noisy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NOISY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You make a lot of noise! Perhaps you're a ghost with clanking chains, a cyborg with a rasping ventilator, or a machine with a loud engine . . . or perhaps you're absurdly inept at stealth.
+
+{{Indent}}You make noise constantly - even when standing still - unless you are comatose (for animate beings) or powered down (for machines). Each level gives +2 to Sense rolls to hear you or -2 to your Stealth rolls, as the situation warrants. In some circumstances (e.g., at the opera), each level might also give -1 to reactions! You may not take more than five levels of Noisy without the GM's permission.
+|}

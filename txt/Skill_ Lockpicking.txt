@@ -1,0 +1,16 @@
+Skill: Lockpicking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOCKPICKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to open locks without the key or combination. Each attempt requires one minute. If you make the roll and open the lock, each point by which you succeeded shaves five seconds off the required time. (Safecracking and similar challenges can take more time, at the GM's discretion.)
+
+{{Indent}}Note that if the lock has a trap or alarm attached, you must make a separate Traps roll to circumvent it
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -5 if working by touch (e.g., in total darkness). Inside information gives a bonus at GM's discretion. If the GM requires a DX-based roll (for instance, to work with a particularly delicate mechanism), modifiers for High Manual Dexterity (p. 59) or Ham-Fisted (p. 138) will apply.&lt;/i&gt;&lt;/font&gt;
+|}

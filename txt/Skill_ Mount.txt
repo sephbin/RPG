@@ -1,0 +1,12 @@
+Skill: Mount
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MOUNT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the trained ability to serve as a mount for a rider. If your Mount skill exceeds your rider's Riding level, he may use the average of the two skills (round up) whenever he must make a Riding roll. If you have any points in this skill, your rider gets a minimum +1 to skill. To throw an unwelcome rider, win Quick Contest of Mount vs. his Riding skill
+|}

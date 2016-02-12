@@ -1,0 +1,22 @@
+Disadvantage: Increased Life Support
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INCREASED LIFE SUPPORT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''03/01/2014''&lt;/font&gt;
+|-
+|{{Indent}}Your environmental requirements in a life-support situation are greater than those of a normal human. Some examples:
+
+{{Indent}}Extreme Heat/Cold: You require a temperature above 200° or below 0°. -10 points.
+
+{{Indent}}Massive: You require more than a ton of additional weight in order to survive aboard a spacecraft or a submarine, or in any other setting where resources and space are limited. If you can wear an environment suit, this always weighs at least a ton. -10 points.
+
+{{Indent}}Pressurized: You require a separate pressurized compartment to survive. -10 points.
+
+{{Indent}}Radioactive: You are radioactive or require a radioactive environment. -10 points.
+
+{{Indent}}The GM may allow other kinds of Increased Life Support. These should worth no more than -10 points apiece unless they are extremely exotic. Add together the value of multiple special requirements, but note that the total disadvantage value cannot exceed -40 points.
+
+{{Indent}}Increased Life Support represents the logistical inconvenience of special life-support requirements, while Dependency (p. 130), Maintenance (p. 143), and Restricted Diet (p. 151) all reflect the health effects of doing without such requirements. The same requirement can qualify in both categories if it has consequences for both health and logistics. But note that a Dependency you can satisfy with a one-ounce inhaler of a drug does not let you claim Increased Life Support for a pressurized cabin full of the stuff! The GM's word is final.
+
+{{Indent}}With the GM's permission, normal humans may take this disadvantage to represent the special requirements of certain chronic illnesses.
+|}

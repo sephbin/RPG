@@ -1,0 +1,14 @@
+Disadvantage: Obsession
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OBSESSION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -10 points*''&lt;/font&gt;
+|-
+|{{Indent}}Your entire life revolves around a single goal. Unlike Compulsive Behavior (p. 128), this is not a daily habit, but an overpowering fixation that motivates all of your actions. And unlike Fanaticism (p. 136), this does not necessarily imply a set of philosophical beliefs.
+
+{{Indent}}You must rationalize all of your actions as an attempt to reach your goal. Make a self-control roll whenever it would be wise to deviate from your goal. If you fail, you continue to pursue your Obsession, regardless of the consequences.
+
+{{Indent}}Point cost depends on the time needed to realize your goal. A shortterm goal (e.g., assassinating someone) is worth -5 points, while a longterm goal (e.g., becoming President) is worth -10 points. In both cases, modify the base cost to reflect your selfcontrol number. If your Obsession causes others to react badly, take Odious Personal Habit (p. 22) or Delusion (p. 130) as well.
+
+{{Indent}}Should you ever reach your goal, you must either substitute a new goal or buy off your Obsession.
+|}

@@ -1,0 +1,12 @@
+Advantage: Trained By A Master
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRAINED BY A MASTER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points''&lt;/font&gt;
+|-
+|{{Indent}}You have been trained by - or are - a true master of the martial arts. Your exceptional talent means you have half the usual penalty to make a Rapid Strike (see Melee Attack Options, p. 370), or to parry more than once per turn (see Parrying, p. 376). These benefits apply to all your unarmed combat skills (Judo, Karate, etc.) and Melee Weapon skills.
+
+{{Indent}}Furthermore, you can focus your inner strength (often called &quot;chi&quot;) to perform amazing feats! This permits you to learn Flying Leap, Invisibility Art, Power Blow, and many other skills - anything that requires this advantage as a prerequisite (see Chapter 4).
+
+{{Indent}}The GM is free to set prerequisites for this advantage if he wishes. Common examples from fiction include Judo, Karate, Melee Weapon skills, Philosophy, and Theology. This ability is definitely &quot;larger than life.&quot; The GM may wish to forbid it in a realistic campaign.
+|}

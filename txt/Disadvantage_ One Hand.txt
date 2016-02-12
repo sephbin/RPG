@@ -1,0 +1,10 @@
+Disadvantage: One Hand
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ONE HAND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have only one hand. For the most part, use the rules under One Arm (above). The difference is that you may make unarmed parries with a handless arm, and possibly strap something to it (e.g., a shield).
+
+{{Indent}}Good-quality prosthetic replacements use the rules under One Arm. Not all prosthetics are good enough to count as Mitigators, though. A lowtech mechanical replacement gives you -2 (for a grabber) or -4 (for a hook or claw) on tasks involving that hand. A hook or claw also counts as an undroppable large knife in combat (use Knife skill), and gives +1 to Intimidation skill if waved at your foes. In some societies, such crude replacements will reduce appearance as described under One Eye (above).
+|}

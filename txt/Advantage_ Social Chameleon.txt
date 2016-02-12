@@ -1,0 +1,8 @@
+Advantage: Social Chameleon
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOCIAL CHAMELEON'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have the knack of knowing exactly what to say - and when to say it - around your social &quot;betters.&quot; You are exempt from reaction penalties due to differences in Rank or Status. In situations where there would be no such penalty, you get +1 on reactions from those who demand respect (priests, kings, etc.). This is a cinematic advantage!
+|}

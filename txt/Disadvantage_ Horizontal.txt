@@ -1,0 +1,12 @@
+Disadvantage: Horizontal
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HORIZONTAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a horizontal posture, like a cat. You can stand on your hind legs for short periods, but find this very uncomfortable. You can use one hand (if you have hands) while standing on your other limbs, or two hands while sitting on your haunches; in both cases, your ground Move is 0 while doing so. You can carry but not use an object in one hand if moving at half Move. If you are human-sized, you take up two hexes on a battle map.
+
+{{Indent}}A horizontal build does not let you put your full weight behind a kick. As a result, your thrusting damage is at -1 per die when you kick. Ignore this penalty if you have Claws (p. 42) - that trait includes the necessary adaptations to strike at full power. The penalty does apply if you have Hooves, however.
+
+{{Indent}}Do not take this disadvantage if you are Aerial or Aquatic (see No Legs, p. 145). If you are fully adapted to a three-dimensional environment, body posture is irrelevant.
+|}

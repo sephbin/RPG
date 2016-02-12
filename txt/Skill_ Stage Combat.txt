@@ -1,0 +1,14 @@
+Skill: Stage Combat
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STAGE COMBAT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Combat Art or Sport-2, an actual combat skill-3, or Performance- 3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill allows you to perform a choreographed fight safely, yet in an entertaining manner. A critical failure indicates an injury: 1d-2 damage to a random location
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -4 for an unfamiliar weapon.&lt;/i&gt;&lt;/font&gt;
+|}

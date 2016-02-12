@@ -1,0 +1,14 @@
+Disadvantage: Amnesia
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AMNESIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 or -25 points''&lt;/font&gt;
+|-
+|{{Indent}}You've lost your memory. You can't remember any of your past life, including your name. This disadvantage comes in two levels:
+
+{{Indent}}Partial Amnesia: You, the player, can see your character sheet, but the GM may reserve up to -30 points of your disadvantage allotment for &quot;secret&quot; disadvantages of his choosing. You know that you can use certain skills, but have no idea where you learned them. You are likely to have enemies - and possibly friends - that you can't remember. If you turn yourself in to the police, they can perform their standard ID checks . . . but you might turn out to be a wanted criminal. Even if you aren't, finding out your name won't restore your memory! -10 points.
+
+{{Indent}}Total Amnesia: The only traits you can specify during character creation are those you could see in a mirror. The GM assigns everything else - and holds onto your full character sheet until your memory returns! You have no idea of your full abilities. Since the GM knows your quirks and mental traits, and you don't, he will sometimes overrule your statements about what you're doing. He will also make all skill rolls for you, because you have no idea what you can do until you try it! Your IQ-based skill rolls are at -2 unless the GM feels that memory would have no effect at all on the task at hand. -25 points.
+
+{{Indent}}You can only buy off Amnesia if there is some reason why you might recover your memory; e.g., meeting an old friend, reliving some fateful event, or the ever-popular blow to the head. In most cases, the cure will be related to the cause of the memory loss. Particularly twisted GMs might enjoy making the cause in question some form of brainwashing. In this case, one of the hidden disadvantages will probably be an Enemy with sufficient resources to have arranged the brainwashing in the first place.
+|}

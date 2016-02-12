@@ -1,0 +1,8 @@
+Disadvantage: No Depth Perception
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NO DEPTH PERCEPTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have two eyes, but you lack effective binocular vision and cannot visually judge distances. This might be due to a vision disorder or a quirk of your racial neurology. The game effects are identical to One Eye (p. 147); you may not take both disadvantages.
+|}

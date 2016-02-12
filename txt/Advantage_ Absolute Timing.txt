@@ -1,0 +1,12 @@
+Advantage: Absolute Timing
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ABSOLUTE TIMING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''2 or 5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an accurate mental clock. This ability comes in two levels, both of which are somewhat cinematic:
+
+{{Indent}}Absolute Timing: You always know what time it is, with a precision equal to the best personal timepieces widely available in your culture (but never better than a few seconds). You can measure elapsed time with equal accuracy. Neither changes of time zone nor sleep interferes with this ability, and you can wake up at a predetermined time if you choose. Being knocked unconscious, hypnotized, etc. may prevent this advantage from working, and time travel will confuse you until you find out what the &quot;new&quot; time is. 2 points.
+
+{{Indent}}Chronolocation: As above, but time travel does not interfere - you always know what time it is in an absolute sense. Note that things like Daylight Savings Time and calendar reform can still confuse you! When you travel in time, the GM may tell you, &quot;You have gone back exactly 92,876.3 days,&quot; and let you - or your character - deal with questions like, &quot;What about leap year?&quot; 5 points.
+|}

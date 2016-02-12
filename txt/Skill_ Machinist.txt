@@ -1,0 +1,16 @@
+Skill: Machinist
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MACHINIST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Mechanic (any)-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of making and modifying mechanical parts and tools. A successful skill roll lets you build parts from raw materials, manufacture tools for use with another skill (such as Armoury or Lockpicking), or modify any simple mechanical device not explicitly covered by another skill. The GM may require an inventor to make one or more Machinist rolls before attempting an Engineer roll to assemble a gadget
+
+{{Indent}}Materials and component size vary significantly with tech level. A TL5 machinist works mainly with brass and steel components that can be seen with the naked eye; a TL10 machinist might work with carbon nanotubes
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345).&lt;/i&gt;&lt;/font&gt;
+|}

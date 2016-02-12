@@ -1,0 +1,35 @@
+Advantage: Psychometry
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PSYCHOMETRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points''&lt;/font&gt;
+|-
+|{{Indent}}You can sense the history of a place or inanimate object - its use, its user's personality, etc. This is usually a supernatural gift of some sort (such as psi), but it could also represent a technological &quot;time-scanning&quot; power that can see the past.
+
+{{Indent}}To use Psychometry, you must touch the subject item or location, concentrate for one second, and make an IQ roll. This roll is at no penalty for an event that occurred the same day, -1 for one that occurred up to 10 days ago, -2 if up to 100 days ago, -3 if up to 3 years ago, -4 if up to 30 years ago, -5 if up to 300 years ago, and so on. At the GM's option, you might notice very strong &quot;vibes&quot; on an IQ-4 roll, even if you aren't concentrating.
+
+{{Indent}}On a success, you receive the general sense of emotions and events tied to the object or place . . . if it is linked to emotionally charged events (an uneventful history might leave no impressions at all). This is not always a good thing - a terrifying impression might require a Fright Check (p. 360)! On a critical success, you experience an actual vision. No matter how well you roll, you cannot detect magic, spirits, etc. Still, a magic item, ghostly haunt, or ritual site is likely to have an emotionally charged history, giving strong impressions.
+
+{{Indent}}On a failure, you receive no impressions at all, and cannot attempt to read that object or place again for 24 hours.
+
+{{Indent}}Directed: You can focus on specific events in the past. State what you're searching for before you roll. Success means you glean information pertinent to the event of interest instead of receiving a general flood of emotions. Failure means you learn nothing. On a critical failure, you're permanently blinded to that piece of history. +50%.
+
+{{Indent}}Immersive: A successful use of your ability gives you an actual &quot;replay&quot; of emotionally charged events, similar to the vision that those without this enhancement experience on a critical success. If scanning a place, you see and hear things as if you were standing at that location during the events of interest. If reading an object, you witness events from the object's point of view. This enhancement can shortcircuit mystery adventures - handle with care! +100%.
+
+{{Indent}}Sensitive: You can read uneventful history as well as emotionally charged events. For instance, you might learn who made a dagger, how often it was sharpened, and where it was stored when it wasn't stabbing people. +30%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}ESP: Your ability is part of the ESP psi power (see p. 255). -10%.
+
+{{Indent}}Active Only: You can only use your ability deliberately. You never receive spontaneous visions, no matter how strong the &quot;vibes.&quot; -20%.
+
+{{Indent}}Hypersensory: You reconstruct past events from minute pieces of evidence spotted by your mundane senses. You're not consciously aware of these clues, but taken together, they give you a general idea of what happened here. This gift relies on your senses, and you roll at -3 if you can't use one of smell, touch, or vision. If you can't use two of these senses, roll at -6. If all three are blocked - or if the GM rules that there are no clues to be found - your ability doesn't work. Hypersensory includes Mundane (don't take both), and is mutually exclusive with Immersive and Sensitive. -50%.
+
+{{Indent}}Mundane: Your ability detects temporal &quot;echoes&quot; of the past - not the emotional charge on objects or locations. You can only read uneventful history, as described for Sensitive (don't take both). -30%.
+
+{{Indent}}Passive Only: You possess only the capacity to notice strong impressions on an IQ-4 roll. You can never use your gift deliberately. This is mutually exclusive with Directed, Sensitive, and all three of the special limitations above. -60%.
+|}

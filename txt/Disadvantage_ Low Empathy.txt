@@ -1,0 +1,12 @@
+Disadvantage: Low Empathy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOW EMPATHY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot understand emotions at all. This doesn't prevent you from having and showing emotions of your own (unless you have something like No Sense of Humor) - your problem is that you don't really understand them. As a result, you have difficulty interacting socially.
+
+{{Indent}}You may not take the Empathy advantage, and suffer a -3 penalty on all skills that rely in whole or in part on understanding someone's emotional motivation, including Acting, Carousing, Criminology, Detect Lies, Diplomacy, Enthrallment, Fast-Talk, Interrogation, Leadership, Merchant, Politics, Psychology, Savoir-Faire, Sex Appeal, Sociology, and Streetwise. You can still have these skills - you just aren't as good at them as someone without this disadvantage.
+
+{{Indent}}Low Empathy is common in androids, demons, golems, the undead, and some aliens. It is also appropriate for certain humans! This trait is mutually exclusive with the somewhat similar disadvantages Callous (p. 125) and Oblivious (p. 146), both of which assume some understanding of emotions, however flawed.
+|}

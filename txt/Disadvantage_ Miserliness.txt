@@ -1,0 +1,8 @@
+Disadvantage: Miserliness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MISERLINESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are preoccupied with conserving your wealth. You must always hunt for the best deal possible. Make a self-control roll any time you are called on to spend money. If the expenditure is large, this roll may be at -5 or worse (GM's decision). If you fail, you refuse to spend the money. If you absolutely must spend the money, you should haggle and complain interminably. Note that you may have both Greed (p. 137) and Miserliness!
+|}

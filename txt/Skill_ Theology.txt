@@ -1,0 +1,18 @@
+Skill: Theology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''THEOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Religious Ritual (same)-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of a particular religion: its gods, cosmology, doctrines, scriptures, etc. You must specialize by religion. There are usually no defaults between specialties, but the GM might permit a default at -4 or so for belief systems that have similar origins, or where one is derived from the other
+
+{{Indent}}Alternatively, you may study the similarities and differences between religions; this is Theology (Comparative). The Theology of any religion routinely studied by scholars in your game world defaults to this specialty at -5
+
+{{Indent}}To be a priest or holy man at TL1+, you must have both Theology and Religious Ritual skill (p. 217) for your religion. TL0 shamans need only learn Religious Ritual
+
+{{Indent}}You do not necessarily believe in the religion you study - faith comes from within, not from book learning! If you do, you may ask the GM to make a secret roll against your Theology skill when confronted with moral uncertainty. On a success, the GM will advise you on which course of action &quot;feels&quot; right, given your beliefs and understanding of scripture
+|}

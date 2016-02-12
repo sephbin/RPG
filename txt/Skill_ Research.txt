@@ -1,0 +1,20 @@
+Skill: Research
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESEARCH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Writing-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; literacy in at least one language (see p. 24)*
+
+{{Indent}}* At TL8+, Computer Operation is also a prerequisite
+
+{{Indent}}This is the ability to do library and file research. Roll against skill to find a useful piece of data in an appropriate place of research . . . if the information is there to be found
+
+{{Indent}}At the GM's option, when researching material connected with a &quot;booklearned&quot; skill such as Forensics, Literature, or Physics, you may roll against that skill at -2 instead, if that would be better than your Research skill or default (but this is not a general default level)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Language modifiers (p. 24), for research materials in a foreign tongue.&lt;/i&gt;&lt;/font&gt;
+|}

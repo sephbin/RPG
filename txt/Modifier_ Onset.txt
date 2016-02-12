@@ -1,0 +1,24 @@
+Modifier: Onset
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ONSET'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You must &quot;stack&quot; this limitation with one of Blood Agent, Contact Agent, Follow-Up, Malediction, or Respiratory Agent. It delays the damage or affliction caused by the attack until some time after exposure. The delay determines the value of the limitation.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Delay||Modifier
+|-
+|1 minute||-10%
+|-
+|1 hour||-20%
+|-
+|1 day||-30%
+|-
+|1 week (or more)||-40%
+|}
+
+{{Indent}}Delays that fall between two values use the smaller limitation; e.g., 30 minutes is -10%. If you can control the onset time, take Delay (p. 105) instead.
+
+{{Indent}}A variant limitation is Exposure Time, which is only available for attacks with Aura or Persistent. Use it to represent radioactivity, mildly toxic gases, etc. It works just like Onset, except that the victim must be exposed for the entire period to suffer the effect (or repeat it, if you continue exposure). This is worth an extra -20%; e.g., 1 minute is -30%.
+|}

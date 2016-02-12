@@ -1,0 +1,10 @@
+Modifier: Reduced Time
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REDUCED TIME'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%/level''&lt;/font&gt;
+|-
+|{{Indent}}You may only add this enhancement to abilities that require time to activate. You can take it any number of times. Each level halves the time required to use the ability (round up). Once time is reduced to one second, a further level of Reduced Time makes the ability instantaneous - using it is a free action.
+
+{{Indent}}Note that you cannot add Reduced Time to attack powers, to traits that list any kind of special modifier that affects activation time, or to Magery (to reduce casting times).
+|}

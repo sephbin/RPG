@@ -1,0 +1,14 @@
+Skill: Fire Eating
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FIRE EATING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the performance skill of extinguishing flames in your mouth without burning yourself. Make a skill roll for each item you wish to extinguish. On a success, you put out the flames. On a failure, you take 1d-3 damage (minimum 1) to your mouth
+
+{{Indent}}This skill also includes fire breathing: igniting a stream of fuel blown from the mouth. At the GM's option, you may use this as an attack (1d-3 damage)
+|}

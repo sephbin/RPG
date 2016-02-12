@@ -1,0 +1,16 @@
+Skill: Occultism
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OCCULTISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the mysterious and the supernatural. An occultist is an expert on ancient rituals, hauntings, mysticism, primitive magical beliefs, psychic phenomena, etc. Note that an occultist does not have to believe in the material he studies!
+
+{{Indent}}In worlds where everyone knows that paranormal powers exist, Occultism covers lore about these powers and their users. A good roll might provide insights into phenomena that aren't related to known powers. However, Occultism provides no details on how talented individuals invoke their powers. For instance, a fantasy occultist would know what magic can accomplish, and could provide advice on slaying demons, but without Thaumatology skill (p. 225), he could not explain the gestures, words, and symbols used by wizards
+
+{{Indent}}In campaigns where many supernatural forces coexist, the GM may require occultists to specialize in such fields as Demonology (the study of demons, possession, and pacts), Pneumatology (the study of spirits), and Vampirology (the study of vampires)
+|}

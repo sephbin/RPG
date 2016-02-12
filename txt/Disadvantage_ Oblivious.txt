@@ -1,0 +1,8 @@
+Disadvantage: Oblivious
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OBLIVIOUS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You understand others' emotions but not their motivations. This makes you awkward in situations involving social manipulation. You are the classic &quot;nerd&quot;! You have -1 to use or resist Influence skills (see Influence Rolls, p. 359): Diplomacy, Fast-Talk, Intimidation, Savoir-Faire, Sex Appeal, and Streetwise.
+|}

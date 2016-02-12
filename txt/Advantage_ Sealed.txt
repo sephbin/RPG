@@ -1,0 +1,8 @@
+Advantage: Sealed
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SEALED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are encased in a gas- and liquid- impermeable layer. This makes you waterproof, and grants complete immunity to corrosive or toxic agents that must touch skin or exposed machinery to work. You must still breathe, unless you also have Doesn't Breathe (p. 49); however, your exterior breathing apparatus (nose, snorkel, etc.) is protected by this trait. Likewise, you are not automatically pressurized; for that, take Pressure Support (p. 77) or Vacuum Support (p. 96).
+|}

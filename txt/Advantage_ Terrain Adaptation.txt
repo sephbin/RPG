@@ -1,0 +1,16 @@
+Advantage: Terrain Adaptation
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TERRAIN ADAPTATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 or 5 points''&lt;/font&gt;
+|-
+|{{Indent}}You do not suffer DX or Move penalties for one specific type of unstable terrain: ice, sand, snow, etc. Cost depends on your capabilities:
+
+{{Indent}}You can function normally on one specific type of unstable terrain, but suffer the DX and Move penalties that most characters experience on that terrain type when you traverse solid ground: 0 points.
+
+{{Indent}}You can function at full DX and Move both on solid ground and on one particular type of unstable terrain: 5 points.
+
+{{Indent}}You must buy this ability separately for each terrain type.
+
+{{Indent}}Active: You adapt quickly to any terrain. Instead of specifying a particular terrain type, buy the 5-point version of Terrain Adaptation and add this enhancement. This ability might be the result of &quot;smart wheels,&quot; shapeshifting, or superhuman balance. +300%.
+|}

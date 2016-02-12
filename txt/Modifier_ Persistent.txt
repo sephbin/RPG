@@ -1,0 +1,8 @@
+Modifier: Persistent
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PERSISTENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+40%''&lt;/font&gt;
+|-
+|{{Indent}}You may only add this enhancement to an Area Effect (p. 102) attack. This causes the area of effect to remain in place for 10 seconds, continuing to damage (or attack and possibly damage, if taken with Bombardment, p. 111) anyone entering or passing through it. Use Extended Duration to increase the duration.
+|}

@@ -1,0 +1,42 @@
+Disadvantage: Social Stigma
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOCIAL STIGMA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -20 points''&lt;/font&gt;
+|-
+|{{Indent}}You belong to a race, class, sex, or other group that your society deems inferior. To be worth points, this must be obvious from your physical appearance (a visible brand, tattoo, or magical mark counts), dress, manner, or speech; or easily learned by anyone who cares to check up on you (only valid in societies with free and easy access to information); or the result of public denouncement (e.g., by a powerful leader or media figure) that ensures that everyone you meet knows that you, personally, belong to the disdained group.
+
+{{Indent}}A Social Stigma gives you a reaction penalty (-1 per -5 points of Social Stigma), restricts your social mobility, or both. Examples include:
+
+{{Indent}}Criminal Record: You have been convicted of a crime that your society considers serious. You may be prohibited from legally acquiring certain items (e.g., weapons), taking certain kinds of employment, receiving security clearances, or even traveling outside your country. Many noncriminals who learn of your past react at -1; police, judges, vigilantes, and other law-and-order types usually react at -2. If you are also wanted, take an appropriate Enemy. -5 points.
+
+{{Indent}}Disowned: Your family has publicly snubbed you. This is only worth points in settings where family ties play a significant social role, and never applies to those who voluntarily part ways with their family. This Social Stigma comes in two levels:
+
+{{Indent}}* You would normally be an heir in your culture, but someone else has been named in your stead. This is embarrassing, but you may still count yourself as part of the family. This gives -1 on reaction rolls. -5 points.
+
+{{Indent}}* The head of your family - or your entire clan - has wholly and publicly disowned you. This gives -2 on reaction rolls. -10 points.
+
+{{Indent}}Excommunicated: Your church has cast you out. Followers of your faith react to you at -3. This is only a disadvantage if you are excommunicated by a powerful and widespread religion (most likely state-backed) that plays a significant role in day-to-day life. -5 points.
+
+{{Indent}}If your religion has true supernatural power, and you are surrounded by an aura that conveys your shame to co-religionists, angels, and anyone else who would care, no matter how well you disguise yourself, your Social Stigma is worth twice as much. -10 points.
+
+{{Indent}}Ignorant: You have not learned a skill required of all responsible adults in your society (that is, you have no points in the skill). Others look down upon you as a slacker or a fool. This gives -1 on reactions for each &quot;expected&quot; skill you lack, up to a maximum of four skills. This is only worth points in highly structured societies, or in primitive ones where individuals depend on one another for survival. -5 points/skill.
+
+{{Indent}}Minor: You are underage by your culture's standards. You suffer -2 on reaction rolls whenever you try to deal with others as an adult; they might like you, but they do not fully respect you. You might also be barred from nightclubs, vehicle operation, war parties, guild membership, etc., depending on the culture and setting. You must buy off this trait when you reach &quot;legal age&quot; (usually 18) for your time and place. -5 points.
+
+{{Indent}}Minority Group: You are a member of a minority that the dominant culture around you regards as &quot;barbarians&quot; or &quot;inferior.&quot; You get -2 on all reaction rolls made by anyone except your own kind. In an area, profession, or situation where your minority is especially rare, you get +2 on reaction rolls made by your own kind. -10 points.
+
+{{Indent}}Monster: You are a large carnivore, magical abomination, or other being that is hated or feared regardless of actual appearance or disposition. This gives you -3 on all reaction rolls, and you are liable to be hunted on sight. However, you get +3 to Intimidation rolls in situations where you have the upper hand (GM's opinion). Examples: a bear or a vampire. -15 points.
+
+{{Indent}}Second-Class Citizen: You belong to a group that receives fewer rights and privileges than &quot;full citizens.&quot; This gives -1 on all reaction rolls except from others of your own kind. Examples: a woman in 19th-century America, or members of some religions. -5 points.
+
+{{Indent}}Subjugated: You are a member of a slave nation or race. Within the overlords' culture, you have no rights, and suffer the negative effects of Second- Class Citizen and Valuable Property. If you manage to escape to freedom, you acquire the entire overlord nation or race as an Enemy. -20 points.
+
+{{Indent}}Uneducated: You are from a class, race, or subculture that lacks a cultural repository of wisdom, eschews formal schooling, and takes a dim view of activities that do not relate directly to survival or procreation. You receive -1 to reactions from more sophisticated folk in any situation where your lack of schooling would be apparent, and you may not start with any &quot;booklearned&quot; skills (GM's discretion; most IQ/Hard skills qualify). You may buy off this trait once you have lived in &quot;civilized&quot; parts for long enough (GM's decision). -5 points.
+
+{{Indent}}Valuable Property: Your society regards you as somebody's property rather than as a &quot;legal person.&quot; This takes the form of limited freedom or lack of intellectual respect more than as a reaction modifier. Examples: a woman in 18th-century America or 16th-century Japan. -10 points.
+
+{{Indent}}Social Stigmas must bind those who take them. For example, a medieval Japanese lady must pay for her 10-point bonus by giving up her freedom of movement in many cases, and must defer to older male relatives when they are present. A black slave in 19th-century America is allowed to learn very little and own almost no property, and has little freedom of any kind unless he manages to escape. (If he does escape, he has traded his Social Stigma for a powerful Enemy!)
+
+{{Indent}}It is possible to have multiple Social Stigmas, provided they do not significantly overlap (GM's decision). For instance, a teenager who drops out of school and joins a street gang could believably end up with Minor, Uneducated, and Criminal Record.
+|}

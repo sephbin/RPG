@@ -1,0 +1,14 @@
+Advantage: Super Luck
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUPER LUCK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''100 points''&lt;/font&gt;
+|-
+|{{Indent}}You are not just lucky - you have limited control over probability. Once per hour of play, you may dictate the result of any one die roll you make (or the GM makes for you) instead of rolling the dice. Wholly impossible attempts cannot succeed (your effective skill level must be at least 3), but you can choose any result that would be possible - however improbable - on a single normal die roll.
+
+{{Indent}}You can have Super Luck and any degree of &quot;normal&quot; Luck, but no one can take Super Luck more than once!
+
+{{Indent}}Alter Reality: Your Super Luck works retroactively. You can wait until after you roll and then specify a different result, altering the past. You must declare this immediately. Once you or anyone else has made another roll, the flow of time becomes too complex for you to unravel. Alter Reality always produces visible effects; e.g., time rewinds and replays differently, or a glowing hand reaches down from the heavens and changes things. +75%.
+
+{{Indent}}Wishing: You can specify the result of any die roll made in your presence. You must personally witness the action you wish to influence. Normal usage limits apply. +100% if you can affect your rolls and those of others; +0% if you can aid others but not yourself.
+|}

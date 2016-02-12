@@ -1,0 +1,12 @@
+Disadvantage: Megalomania
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MEGALOMANIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You believe you are a superman, that you have been chosen for some great task, or that you are destined to conquer. You must choose a grand goal - most often conquest or the completion of some fantastic task. You must let nothing stand between you and this goal.
+
+{{Indent}}You may attract followers with Fanaticism, but nobody else enjoys hearing you talk about your brilliance and great plans. Young or naive characters, and fanatics looking for a new cause, react to you at +2; others will react at -2.
+
+{{Indent}}This is a better disadvantage for NPCs than it is for PCs.
+|}

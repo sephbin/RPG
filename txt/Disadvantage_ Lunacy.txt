@@ -1,0 +1,8 @@
+Disadvantage: Lunacy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LUNACY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}The moon has a dramatic and inconvenient effect on your personality. During the full moon, you are extremely emotional and volatile (-2 to all Will and self-control rolls), while on nights of the new moon, you are very passive (you temporarily suffer from the Laziness disadvantage, p. 142). While the moon is waxing, you are focused and pleasant; while it is waning, you are apathetic and a little touchy. Roleplay it!
+|}

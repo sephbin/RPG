@@ -1,0 +1,12 @@
+Advantage: Sensitive Touch
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SENSITIVE TOUCH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}Your fingertips or equivalent organs are extremely sensitive, allowing you to sense residual heat in a chair, faint vibrations in the floor as someone approaches, etc. You get +4 (in addition to any Acute Touch bonuses) on any task that utilizes the sense of touch; e.g., a Forensics roll to note the similarities or differences between two pieces of fabric, or a Search roll to feel out tiny concealed objects.
+
+{{Indent}}Stethoscopic: You can pick up sounds from the other side of a barrier, or from within an object, by feeling the vibrations they set up. Make a Touch roll to &quot;hear&quot; conversations through walls. Deafness is no obstacle, but soundproofing gives its usual penalties. +50%.
+
+{{Indent}}Ultra-Fine: Your sense of touch lets you &quot;read&quot; print by feeling the outline of the ink. This works even in the dark or if blinded. You also can read computer screens by feeling tiny differences in heat or electric field strength; this requires a Touch roll at -5. +30%.
+|}

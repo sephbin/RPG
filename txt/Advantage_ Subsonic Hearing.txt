@@ -1,0 +1,14 @@
+Advantage: Subsonic Hearing
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUBSONIC HEARING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 or 5 points''&lt;/font&gt;
+|-
+|{{Indent}}You can hear very low-frequency sounds (under 40 Hz), such as the rumble of distant storms, the vibrations from incipient earthquakes, and the approach of stampeding herd beasts, armored vehicles, or dragons. This gives +1 to Tracking skill if your quarry is moving on the ground. Cost depends on your capabilities:
+
+{{Indent}}You can hear very low-frequency sounds only: 0 points.
+
+{{Indent}}You can hear very low-frequency sounds and other sounds: 5 points.
+
+{{Indent}}Note that Subsonic Hearing is included in the cost of Subsonic Speech (below); you cannot take both traits.
+|}

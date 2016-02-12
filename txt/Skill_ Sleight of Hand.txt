@@ -1,0 +1,18 @@
+Skill: Sleight of Hand
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SLEIGHT OF HAND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Filch-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to &quot;palm&quot; small objects, do coin and card tricks, etc. Make a skill roll to perform one piece of simple &quot;stage magic.&quot; A failed roll means you blew the trick
+
+{{Indent}}When you use this skill to steal, you must win a Quick Contest of Sleight of Hand vs. the Vision roll or Observation skill of potential witnesses to perform the theft unnoticed
+
+{{Indent}}You can also use this skill to cheat at cards, dice, etc. A successful Sleight of Hand roll gives from +1 to +5 on your Gambling roll. Any failure causes you to be denounced as a cheater! In both cases, the exact results are up to the GM
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +3 if the light is dim; +3 if you have a confederate to distract attention; +5 if you have prepared in advance (cards up your sleeve, etc.); -3 if the person you want to fool knows Sleight of Hand himself; modifiers for High Manual Dexterity (p. 59) or Ham-Fisted (p. 138).&lt;/i&gt;&lt;/font&gt;
+|}

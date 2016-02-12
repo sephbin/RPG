@@ -1,0 +1,18 @@
+Skill: Physician
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHYSICIAN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-7, First Aid-11, or Veterinary-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to aid the sick and the injured, prescribe drugs and care, etc. Make a skill roll to hasten natural recovery from injury (see Recovery, p. 423), and whenever the GM requires a roll to test general medical competence or knowledge. Apply physiology modifiers (p. 181) if your patient is of a different species from
+
+{{Indent}}you
+
+{{Indent}}At TL4 and below, this skill does not exist in most game worlds. Instead, use Esoteric Medicine (p. 192), Pharmacy (Herbal) (above), or both
+
+{{Indent}}At TL5+, medical knowledge is divided between Pharmacy (Synthetic) and Physician. A physician knows a great deal about drugs. He can identify most drugs fairly easily (at -5 without laboratory facilities but +3 if he takes the risk of smelling/tasting the substance), but he cannot formulate them unless he also learns Pharmacy
+|}

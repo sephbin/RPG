@@ -1,0 +1,10 @@
+Advantage: Protected Sense
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PROTECTED SENSE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/sense''&lt;/font&gt;
+|-
+|{{Indent}}One of your ranged senses is protected against overload. It rapidly adapts to the most intense of stimuli, allowing you to function normally after a maximum of two seconds of impairment. You will never suffer permanent damage to that sense as a result of excessive sensory input, and you get +5 to rolls to resist temporary damage and Sense-Based attacks targeting that sense.
+
+{{Indent}}Protected Senses cost 5 points apiece. Protected Vision resists glare and eye damage from lasers, and lets Dark Vision, Infravision, and Night Vision adjust instantly from bright light to darkness. Protected Hearing protects against loud noises. Protected Taste/Smell filters out strong odors and tastes (but not toxins). The GM may permit other Protected Senses (Detect, Scanning Sense, etc.), with suitable justification.
+|}

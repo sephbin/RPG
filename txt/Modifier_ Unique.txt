@@ -1,0 +1,8 @@
+Modifier: Unique
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNIQUE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-0.25''&lt;/font&gt;
+|-
+|{{Indent}}You may only take this limitation in conjunction with Breakable or Can Be Stolen. Normally, you can replace a broken or stolen gadget - although this might require significant time and effort (GM's decision). If the item is Unique, you cannot replace it! Character points spent for the item are lost for good if it is broken or stolen.
+|}

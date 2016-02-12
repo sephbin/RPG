@@ -1,0 +1,18 @@
+Skill: Acting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ACTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Performance-2, or Public Speaking-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to counterfeit moods, emotions, and voices, and to lie convincingly over a period of time. A successful Acting roll lets you pretend to feel something that you do not. The GM may also require an Acting roll whenever you try to fool someone, play dead in combat, etc
+
+{{Indent}}Impersonation is a special type of acting. To impersonate someone, you must first successfully disguise yourself (see Disguise, p. 187) - unless your victims cannot see you!
+
+{{Indent}}Note that Acting is not the same Fast-Talk (the art of the &quot;quick con&quot;) or Performance (the skill of screen and stage acting)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 for every point of IQ you have over the person you are trying to fool (or the smartest one in the group), or -1 for every point of difference if your victim is smarter than you; -3 for Low Empathy (p. 142); -1 to -4 for Shyness (p. 154); -5 for Truthfulness (p. 159), but only if you are trying to deceive someone. For impersonation only: -5 if you are not well acquainted with your subject; -5 if those you wish to fool are acquaintances of the subject (-10 for close acquaintances).&lt;/i&gt;&lt;/font&gt;
+|}

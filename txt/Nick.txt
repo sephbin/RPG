@@ -1,0 +1,36 @@
+Nick
+'''Nick's Character'''&lt;br/&gt;
+Human Summoner (Broodmaster) 1&lt;br/&gt;
+N Medium humanoid (human)&lt;br/&gt;
+'''Init '''+1; '''Senses '''Perception +0&lt;br/&gt;
+----
+'''Defense'''&lt;br/&gt;
+----
+'''AC '''11, touch 11, flat-footed 10 (+1 Dex)&lt;br/&gt;
+'''hp '''8 (1d8)&lt;br/&gt;
+'''Fort '''+0, '''Ref '''+1, '''Will '''+2&lt;br/&gt;
+----
+'''Offense'''&lt;br/&gt;
+----
+'''Speed '''30 ft.&lt;br/&gt;
+'''Melee '''unarmed strike -1 (1d3-1/×2)&lt;br/&gt;
+'''Spell-Like Abilities'''&lt;br/&gt;
+:7/day—''summon monster''&lt;br/&gt;
+'''Summoner (Broodmaster) Spells Known '''(CL 1st; concentration +5):&lt;br/&gt;
+----
+'''Statistics'''&lt;br/&gt;
+----
+'''Str '''8, '''Dex '''12, '''Con '''10, '''Int '''14, '''Wis '''10, '''Cha '''18&lt;br/&gt;
+'''Base Atk '''+0; '''CMB '''-1; '''CMD '''10&lt;br/&gt;
+'''Feats '''Extra Evolution, Resilient Eidolon&lt;br/&gt;
+'''Traits '''scholar of ruins, self-taught scholar&lt;br/&gt;
+'''Skills '''Knowledge (arcana) +6, Knowledge (dungeoneering) +7, Knowledge (planes) +6, Spellcraft +6 (+7 to decipher scrolls), Use Magic Device +8&lt;br/&gt;
+'''Languages '''Common&lt;br/&gt;
+'''Other Gear '''150 GP&lt;br/&gt;
+----
+'''Special Abilities'''&lt;br/&gt;
+----
+'''Resilient Eidolon''' When you are knocked unconscious, fall asleep, or are killed, your eidolon remains with you&lt;br/&gt;
+'''Summon Monster I (7/day) (Sp)''' Standard action summon lasts minutes, but only 1 active at a time and can't use with eidolon.&lt;br/&gt;
+
+[[Eidolon 1]]

@@ -1,0 +1,21 @@
+Advantage: Speak With Animals
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPEAK WITH ANIMALS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''25 points''&lt;/font&gt;
+|-
+|{{Indent}}You can converse with animals. The quality of information you receive depends on the beast's IQ and the GM's decision on what the animal has to say. Insects and other tiny creatures might only be able to convey emotions such as hunger and fear, while a chimp or a cat might be able to engage in a reasonably intelligent discussion. It takes one minute to ask one question and get the answer - if the animal decides to speak at all. The GM may require a reaction roll (+2 to reactions if you offer food).
+
+{{Indent}}The GM is free to rule that alien, unnatural, or mythical beasts don't count as &quot;animals&quot; for the purpose of this advantage.
+
+{{Indent}}Sapience: The animals you converse with temporarily function as if they had your IQ. They are still limited to their natural perceptions, but can frame these in terms you can grasp. For instance, if an ant sensed 10 sets of footfalls and the scent of humans when the sun was low, it might say, &quot;Ten men came past here before sundown.&quot; +40%.
+
+{{Indent}}Universal: You can speak with any nonsapient creature, however alien, supernatural, or weird. Universal is mutually exclusive with Specialized. +20%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Specialized: You can only communicate with certain animals. &quot;All land animals&quot; (including birds, insects, and land-dwelling mammals and reptiles) or &quot;All aquatic animals&quot; (including amphibians, fish, mollusks, crustaceans, and cetaceans) is -40%; one class (e.g., &quot;Mammals&quot; or &quot;Birds&quot;), -50%; one family (e.g., &quot;Felines&quot; or &quot;Parrots&quot;), -60%; one species (e.g., &quot;House Cats&quot; or &quot;Macaws&quot;), -80%.
+|}

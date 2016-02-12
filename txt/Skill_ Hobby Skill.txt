@@ -1,0 +1,14 @@
+Skill: Hobby Skill
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HOBBY SKILL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX or IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-4 or IQ-4, depending on the controlling attribute.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}Many fields of study have little to do with adventuring or making a living - but people study them nonetheless. Each of these is a separate Hobby Skill. Those that require agility or a delicate touch (e.g., juggling, kite flying, needlepoint, and origami) are DX/Easy skills that default to DX-4, while those that focus on knowledge and trivia (e.g., comic books, rock music, science fiction, and tropical fish) are IQ/Easy skills that default to IQ-4
+
+{{Indent}}A few points in a Hobby Skill can make roleplaying more fun - and possibly come in handy once in a while. You do not need a teacher to learn or improve a Hobby Skill. However, you cannot learn skills defined elsewhere in this chapter as Hobby Skills
+|}

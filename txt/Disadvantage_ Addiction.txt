@@ -1,0 +1,48 @@
+Disadvantage: Addiction
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ADDICTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You are addicted to a drug, which you must use daily or suffer withdrawal. The value of this disadvantage depends on the cost, effects, and legality of the drug:
+
+{{Indent}}Cost (per day)
+
+{{Indent}}Cheap (up to 0.1% of average starting wealth): -5 points.
+
+{{Indent}}Expensive (up to 0.5% of average starting wealth): -10 points.
+
+{{Indent}}Very expensive (more than 0.5% of average starting wealth): -20 points.
+
+{{Indent}}Effects
+
+{{Indent}}Incapacitating or hallucinogenic: -10 points.
+
+{{Indent}}Highly addictive (-5 on withdrawal roll): -5 points.
+
+{{Indent}}Totally addictive (-10 on withdrawal roll): -10 points.
+
+{{Indent}}Legality
+
+{{Indent}}Illegal: +0 points.
+
+{{Indent}}Legal: +5 points.
+
+{{Indent}}Examples: Tobacco is cheap, highly addictive, and legal; a chain-smoker has a -5-point Addiction. Heroin is very expensive, incapacitating, totally addictive, and illegal; a heroin addict has a -40-point Addiction.
+
+{{Indent}}Non-Chemical Addictions: You can take Addiction to an activity instead of a drug - for instance, telepathic contact or spending time in virtual reality. If this costs money, price the Addiction based on its daily cost. If it is free (e.g., telepathic contact), treat it as &quot;Cheap&quot; if it you can do it almost anywhere (telepathic contact with anyone) or as &quot;Expensive&quot; if restrictive conditions apply (telepathic contact with one specific person). Such Addictions almost always cause psychological dependency (see Withdrawal, below).
+
+{{Indent}}Effects of Drugs
+
+{{Indent}}A stimulating drug leaves you feeling energized . . . until it wears off. Then you are depressed and irritable. An incapacitating drug renders you unconscious (or just blissfully, uselessly drowsy) for about two hours. A hallucinogenic drug renders you useless for work or combat, though you might be active and talkative. Some drugs (e.g., tobacco) have none of these effects, while others have unique effects. Side effects are also possible. For detailed rules, see Addictive Drugs (p. 440).
+
+{{Indent}}Withdrawal
+
+{{Indent}}Sometimes, voluntarily or otherwise, you must try to give up your Addiction. Addiction to a drug that causes psychological dependency is a mental disadvantage; withdrawal from such a drug requires a series of Will rolls, and may result in mental problems. Addiction to a drug that induces physiological dependency is a physical disadvantage; withdrawal is a function of your HT, and may cause physical injury. For details, see Drug Withdrawal (p. 440). Should you successfully withdraw from an Addiction, you must immediately buy off this disadvantage.
+
+{{Indent}}Minor Addictions
+
+{{Indent}}For an Addiction worth only -5 points, the GM may rule that the expense, stigma, and detrimental long-term effects of use are the whole of the disadvantage, and waive the usual withdrawal rules. This is appropriate for such drugs as tobacco and caffeine. If forced to go without, you must make a Will or HT roll as usual, but the only effects on a failure are general anxiety, irritability, or restlessness. This manifests as a temporary -1 to DX, IQ, self-control rolls, or reaction rolls (GM's choice) - not as insanity or injury. Successive failures prolong the duration of the effects; they do not increase the size of the penalty. If you can make 14 successful rolls in succession, you must buy off your Addiction.
+
+{{Indent}}It is also possible to create a 0- point Addiction using these rules. Such Addictions are always Minor Addictions, and you may take them as -1-point quirks (see Quirks, p. 162).
+|}

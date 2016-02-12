@@ -1,0 +1,91 @@
+Detect
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;
+'''''DETECT'''''
+&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;
+''Variable''
+&lt;/font&gt;
+|-
+|
+You can detect a specific substance
+or condition, even when it is shielded
+from the five human senses. This
+requires one second of concentration,
+after which the GM will secretly make
+a Sense roll for you (see Sense Rolls,
+p. 358). The range modifiers from the
+Size and Speed/Range Table (p. 550)
+apply. You may buy a special Acute
+Sense (p. 35) to improve the roll,
+thereby increasing your effective
+range.
+
+On a success, the GM tells you the
+direction to the nearest significant
+source of the substance, and give you
+a clue as to the quantity present. On a
+failure, you sense nothing.
+
+Detect also includes the ability to
+analyze what you detect. This requires
+an IQ roll; the better the roll, the more
+precise the details. For instance, if you
+had Detect (Metal), you could tell gold
+from iron on a successful IQ roll, and
+might learn details – such as whether
+the gold is in the form of ore or bars,
+and its precise purity – on a critical
+success.
+
+The base cost of Detect is as
+follows:
+
+''Rare'' (sorceresses, fire magic, zombies,
+gold, radar, radio): 5 points.
+Occasional (spellcasters, magic,
+undead, precious metal, electric fields,
+magnetic fields, radar and radio): ''10
+points.''
+
+''Common'' (humans, supernatural
+phenomena, supernatural beings,
+metal, electric and magnetic fields): ''20
+points.''
+
+''Very Common'' (all life, all supernatural
+phenomena and beings, all minerals,
+all energy): ''30 points.''
+
+Note that the ability to detect certain
+phenomena can often justify
+other advantages. For instance, Detect
+(Magnetic Fields) could explain
+Absolute Direction.
+
+'''Special Enhancements'''
+
+''Precise:'' On a successful Sense roll,
+you also learn the distance to whatever
+you detect. ''+100%.''
+
+''Signal Detection:'' You can detect an
+active transmission of some sort, such
+as a radio, radar, or laser; see Scanning
+Sense (p. 81) and Telecommunication
+(p. 91). You suffer no range penalties,
+but must be within twice the signal’s
+own range and (if the signal is directional)
+within in its path. ''+0%.''
+
+'''Special Limitations'''
+
+''Vague:'' You can only detect the
+presence or absence of the target substance.
+Direction and quantity are
+revealed only on a critical success, and
+you cannot analyze what you detect.
+This limitation is mutually exclusive
+with Precise. ''-50%.''
+|}

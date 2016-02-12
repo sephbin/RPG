@@ -1,0 +1,32 @@
+Skill: Environment Suit
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENVIRONMENT SUIT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-5 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is training in the use of a specific class of protective suit. Suits designed to shield the wearer from environmental or battlefield hazards frequently incorporate gadgets (such as autoinjectors and sensors) and lifesupport equipment. Some suits even contain motors to enhance ST or Move. As a result, you do not merely wear such gear - you operate it
+
+{{Indent}}Roll against Environment Suit skill to get into or out of your suit quickly. A successful roll halves the time required. To activate a specific subsystem of a suit, or to gauge whether a suit is in good repair, make an IQbased skill roll instead
+
+{{Indent}}When rolling against DX or any DX-based skill while suited up, use the lower of your Environment Suit skill and your actual skill level. For instance, if you have DX 14, Stealth- 15, and Vacc Suit-13, you will function at DX 13 and Stealth-13 while wearing a spacesuit. Particularly ungainly suits might give -1 or more to DX on top of this, regardless of skill level. On the other hand, some sleek, ultra-tech suits might not limit skills at all!
+
+{{Indent}}However, Environment Suit is strictly the skill of donning and operating the suit. Familiarity with and knowledge of dangerous environments is covered by other skills: Free Fall, Hazardous Materials, Survival, etc
+
+{{Indent}}Each suit type requires its own skill. Examples include:
+
+{{Indent}}&lt;i&gt;Battlesuit:&lt;/i&gt; All kinds of powered battle armor and exoskeletons. Battle armor and exoskeletons are similar but not identical. If you only have experience with one, you are at -2 to operate the other until you gain familiarity (see Familiarity, p. 169)
+
+{{Indent}}&lt;i&gt;Diving Suit:&lt;/i&gt; All types of hard diving suits (as opposed to the wetsuits and drysuits used with Scuba skill). This includes &quot;open dress&quot; gear at TL5 and &quot;hard hat&quot; gear at TL6, both of which use a sealed helmet and supplied air, but not always a full, sealed suit. At TL7+, this skill covers true underwater &quot;hardsuits.&quot; The GM may require Swimming rolls to maneuver while wearing such a suit. &lt;i&gt;Default:&lt;/i&gt; Scuba-2
+
+{{Indent}}&lt;i&gt;NBC Suit:&lt;/i&gt; All forms of hazardous materials (&quot;HazMat&quot;) gear - including sealed, unpowered body armor that can be buttoned down against nuclear-biological-chemical (NBC) threats. Without this skill, you run the risk of misusing the equipment and being exposed to contamination. To improvise NBC gear, make an IQbased skill roll at -5 to -15 to skill
+
+{{Indent}}&lt;i&gt;Vacc Suit:&lt;/i&gt; Any kind of spacesuit. In addition to true vacuum suits, this includes suits intended for use in highpressure, corrosive, and poisonous atmospheres
+
+{{Indent}}Battlesuit, NBC Suit, and Vacc Suit default among themselves at -2. Diving Suit defaults to or from any other Environment Suit skill at -4
+
+{{Indent}}Note that unpowered, unsealed body armor never requires an Environment Suit skill
+|}

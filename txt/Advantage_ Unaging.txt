@@ -1,0 +1,15 @@
+Advantage: Unaging
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNAGING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You never grow old naturally and cannot be aged unnaturally. Your age is fixed at any point you choose and will never change. You never have to make aging rolls.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Age Control: You can &quot;age&quot; in either direction at will, at up to 10 times the normal rate. +20%.
+|}

@@ -1,0 +1,36 @@
+Advantage: Injury Tolerance
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INJURY TOLERANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have fewer physiological weaknesses than ordinary living beings. The cost of this advantage depends on the precise frailties eliminated. Note that some forms of Injury Tolerance include others, and that Diffuse, Homogenous, and Unliving are mutually incompatible.
+
+{{Indent}}Diffuse: Your body is fluid or particulate, composed of a swarm of smaller entities, or perhaps made of pure energy. This makes you immune to crippling injuries and reduces the damage you suffer from most physical blows; see Injury to Unliving, Homogenous, and Diffuse Targets (p. 380). Most foes (GM's decision) cannot slam or grapple you! Diffuse includes all the benefits of No Blood, No Brain, and No Vitals. 100 points.
+
+{{Indent}}Homogenous: Your body has no vulnerable internal organs, bones, muscles, or other mechanisms. As a result, you are less susceptible to piercing and impaling attacks; see Injury to Unliving, Homogenous, and Diffuse Targets (p. 380). Homogenous includes the benefits of No Brain and No Vitals. This trait is intended for entities such as iron golems, trees, and slimes. 40 points.
+
+{{Indent}}No Blood: You do not rely upon a vital bodily fluid (like blood) for survival. You do not bleed (see Bleeding, p. 420), are unaffected by blood-borne toxins, and are immune to attacks that rely on cutting off blood to part of your body. 5 points.
+
+{{Indent}}No Brain: Your brain - if you have one - is distributed throughout your body, or isn't your true seat of consciousness. Your opponents cannot target it for extra damage. You may have a head, but a blow to the skull or eye is treated no differently than a blow to the face (except that an eye injury can still cripple that eye). 5 points.
+
+{{Indent}}No Eyes: You lack eyes or other vulnerable optics, but can somehow see despite this (unless of course you suffer from Blindness, p. 124). As you have no eyes, they cannot be attacked. You are also immune to blinding attacks. 5 points.
+
+{{Indent}}No Head: You have no head at all. This includes the benefits of No Brain. As well, you lack &quot;skull&quot; and &quot;face&quot; hit locations, and have no need for head armor. You can still see, speak, hear, smell, taste, etc. unless you take the appropriate disadvantages. Specify how you do this (supernaturally, technologically, via organs on your torso, etc.). It is common - but not mandatory - for those with No Head to have No Neck, No Eyes, or both. 7 points.
+
+{{Indent}}No Neck: You have no neck. As a result, you have no &quot;neck&quot; hit location, and cannot be decapitated, choked, or strangled. 5 points.
+
+{{Indent}}No Vitals: You have no vital organs (such as a heart or engine) that attackers can target for extra damage. Treat hits to the &quot;vitals&quot; or &quot;groin&quot; as torso hits. 5 points.
+
+{{Indent}}Unliving: Your body is not composed of living flesh. You take reduced damage from piercing and impaling attacks, but are not quite as resilient as if you were Homogenous; see Injury to Unliving, Homogenous, and Diffuse Targets (p. 380). This trait is intended mainly for machines and corporeal undead. 20 points.
+
+{{Indent}}Damage Reduction: You divide the injury you suffer by 2, 3, or 4 after subtracting DR from damage and applying wounding modifiers. Unmodified, this trait reduces all injury - but except in high-powered supers games, the GM should consider requiring the Limited modifier; see Limited Defenses (p. B46). It would be fair to restrict heroes to &quot;Common,&quot; &quot;Occasional,&quot; or even &quot;Rare&quot; classes, or to damage types directly related to their powers. 50 points for a divisor of 2, 75 points for 3, 100 points for 4.
+
+{{Indent}}Independent Body Parts: See Independent Body Parts (p. 52) for this complex form of Injury Tolerance, intended for undead and fantasy monsters. 35 points.
+
+{{Indent}}Unbreakable Bones: Your bones are nearly indestructible, or you have alternative structural support that's difficult to damage (e.g., internal force fields). Damage to limbs and extremities still causes injury, subject to the usual maximums, but the injury needed to cripple these body parts is twice normal; that is, the amount usually required to dismember. This represents damage to the covering, not the &quot;skeleton.&quot; Crippling is at worst lasting; you never suffer permanent crippling or dismemberment (see pp. B421-422). The GM may rule that injury that destroys your body (-10xHP) breaks your skeleton, but since you're dead, this is a special effect. If this protection extends to your vitals and brain, add No Vitals and No Brain: your vitals and brain are in their usual locations, but your indestructible skeleton encloses them and prevents severe injury effects. 10 points.
+
+{{Indent}}Infiltration: For Diffuse only. Your body is a fluid that can flow through the tiniest of holes. In addition to the usual benefits of Diffuse, you can ooze through porous barriers and narrow cracks. You can't shapeshift, stretch abnormally, or sprout new body parts - just seep under doors, through screens, etc. +40%.
+
+{{Indent}}Swarm: For Diffuse only. You're a coordinated swarm of tiny creatures. You can scatter by taking a Concentrate maneuver. Your outer perimeter travels at your best applicable Move; maximum radius is 1/2 mile (buy Area Effect to change this). While scattered, only area-effect, cone, and explosion attacks can injure you, and only in proportion to the area they blanket; e.g., an attack that covers 5% of your area does 5% normal damage. You can focus your senses on any point within your area; changing viewpoints requires a Ready maneuver. Otherwise, treat this state as Insubstantiality (p. 55). To resume your normal form, you must contract to your usual size (at your Move score) and then take a Concentrate maneuver. Swarm includes Infiltration. +80% if you can't affect the material world; +160% if you can.
+|}

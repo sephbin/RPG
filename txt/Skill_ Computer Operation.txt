@@ -1,0 +1,16 @@
+Skill: Computer Operation
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COMPUTER OPERATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use a computer: call up data, run programs, play games, etc. It is the only computer skill needed by most end users. Learn Computer Programming (below) to write software and Electronics Repair (Computers) (p. 190) to troubleshoot hardware
+
+{{Indent}}This skill only exists in game worlds with computers. Individuals from settings without computers cannot even use it by default until they have had time to gain familiarity with computers! In settings where it is possible to &quot;jack&quot; your brain into a computer, Computer Operation includes the ability to use a neural interface, but new users initially suffer a -4 penalty for unfamiliarity (see Familiarity, p. 169)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 or more for an unfamiliar computer, operating system, or program.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,21 @@
+Advantage: Discriminatory Smell
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DISCRIMINATORY SMELL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}Your sense of smell is far beyond the human norm, and can register distinctive odors for practically everything you may encounter. This allows you to recognize people, places, and things by scent. You may memorize a scent by sniffing it for at least one minute and making a successful IQ roll. On a failure, you must wait at least one full day before making a repeated attempt.
+
+{{Indent}}You get +4 (in addition to any Acute Taste and Smell bonuses) on any task that utilizes the sense of smell, and receive +4 to Tracking skill.
+
+{{Indent}}If you actually become ill when exposed to the odor of a particular substance, take the Temporary Disadvantage limitation (p. 115). The most common effect is Revulsion (p. 151), but the GM may choose to allow other temporary disadvantages.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Emotion Sense: You can detect a person or animal's emotional state by odor. This functions as the Empathy advantage (p. 51), but you must be within 2 yards of the subject. +50%.
+
+{{Indent}}Profiling: You possess an extensive mental database of sensory &quot;signatures&quot; that you can quickly compare to new sensory impressions. This doubles the bonus to analyze and recognize targets (but not to sense or track them) to +8. As a side benefit, all attempts to memorize new signatures succeed automatically - there's no need for an IQ roll. +50%.
+|}

@@ -1,0 +1,24 @@
+Advantage: Psi Static
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PSI STATIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points''&lt;/font&gt;
+|-
+|{{Indent}}You are a psionic &quot;null.&quot; Psionic abilities cannot directly affect you or anything you are carrying or wearing. For instance, a telekinetic could throw a rock at you, but he could not levitate you or grab a sword from your hand.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Area Effect: You emit static in an area centered on you. The first level of Area Effect extends your static to everything within one yard. Each level after the first doubles this radius as usual; see Area Effect (p. 102). +50%/level.
+
+{{Indent}}Switchable: You can switch this advantage off in order to allow friendly psis to affect you or operate within your area of effect. +100%.  
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Resistible: Your ability is not absolute. A psi can &quot;burn&quot; through your static and affect those protected by it by winning a Quick Contest of Will with you. If the attacking psi ability already requires a Quick Contest, the attacker rolls only once but the target gets +5 to resist. -50%.
+|}

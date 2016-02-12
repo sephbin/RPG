@@ -1,0 +1,18 @@
+Advantage: Digital Mind
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DIGITAL MIND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points''&lt;/font&gt;
+|-
+|{{Indent}}You are a sentient computer program - possibly an artificial intelligence or an &quot;upload&quot; of a living mind. By default, you inhabit a body that includes a computer with Complexity equal to at least half your IQ; see Computers (p. 472).
+
+{{Indent}}You are completely immune to any power defined as &quot;Telepathic,&quot; and to magic spells that specifically affect living minds. However, computer viruses and abilities that affect Digital Minds can affect you; you can be taken offline (or even stored, unconscious, as data); and those with Computer Hacking or Computer Programming skill can gain access to your data . . . and possibly read or alter your consciousness!
+
+{{Indent}}You are likely to have the Machine meta-trait (p. 263), but this is not mandatory, as you could be a computer- like mind inside an organic body (e.g., a bio-computer or a brain implant). The Reprogrammable disadvantage (p. 150) is also common for Digital Minds, as is the Automaton meta-trait (p. 263), but you do not have to possess either trait. Many advantages are also possible but not automatic:
+
+{{Indent}}Computing Power: If you operate faster than a human mind, buy Enhanced Time Sense (p. 52). If you can add advantages or skills temporarily by running programs, buy Modular Abilities (p. 71).
+
+{{Indent}}Copies: If you can run multiple copies of your mind on a single computer system, buy Compartmentalized Mind (p. 43). If you can create loyal copies that run on other systems, buy Duplication (p. 50) with the Digital limitation. If you have copies backed up offline, buy Extra Life (p. 55).
+
+{{Indent}}Uploading: If you can actively &quot;upload&quot; yourself into other computers, buy Possession (p. 75) with the Digital limitation. If you can do this easily, buy extra bodies as Puppets (p. 78).
+|}

@@ -1,0 +1,83 @@
+Enhanced Move
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;
+'''''ENHANCED MOVE'''''
+&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;
+''20 points/level''
+&lt;/font&gt;
+|-
+|
+You can really move! Each level of
+Enhanced Move doubles your top
+speed in one environment: Air,
+Ground, Space, or Water. You may
+also take a half-level of Enhanced
+Move, either alone or with any whole
+number of levels; this costs 10 points
+and multiplies Move by 1.5.
+
+
+''Example 1: A super buys Enhanced Move 4 (Ground), for 80 points. He multiplies his Move by 2 x 2 x 2 x 2 = 16. If his Basic Move were 8, he could run at 128 yards/second (262 mph).''
+
+''Example 2: An avian race has Enhanced Move 2.5 (Air), for 50 points. All members of the race multiply their top airspeed by 2 x 2 x 1.5 = 6.''
+
+
+Your multiplied Move is your top
+speed. Record it in parentheses after
+your Enhanced Move trait; for
+instance, the super in the example
+above would write “Enhanced Move 4
+(Ground Speed 128).” You can always
+choose to accept a slightly lower top
+speed if you want your speed to match
+that of a real-world or fictional creature
+or vehicle with a known top
+speed. This does not give you back any
+points.
+
+Enhanced Move does not affect
+Basic Speed, Basic Move, or Dodge.
+Its benefits apply only when moving
+along a relatively straight, smooth
+course (see Sprinting, p. 354). It does
+have some defensive value, however:
+those who attack you with ranged
+attacks must take your speed into
+account when calculating speed/range
+modifiers (see p. 550).
+
+Most forms of Enhanced Move
+have prerequisites. Enhanced Move
+(Water) requires Amphibious (p. 40)
+or Aquatic (p. 145). Enhanced Move
+(Air) requires Flight (p. 56). Enhanced
+Move (Space) requires Flight with the
+Space Flight or Newtonian Space
+Flight enhancement, and affects
+movement in space – not airspeed. To
+move faster in air and in space, buy
+both Enhanced Move (Air) and
+Enhanced Move (Space).
+
+----
+'''Special Enhancements'''
+
+''Handling Bonus:'' You get a bonus
+to DX or vehicle operation skill (e.g.,
+Driving) for the sole purpose of maintaining
+control at speeds above your
+Basic Move. ''+5%'' per +1, to a
+maximum of +5.
+
+
+'''Special Limitations'''
+
+''Handling Penalty:'' You have a
+penalty to DX or vehicle operation
+skill at high speeds. ''-5%'' per -1, to a
+maximum of -5.
+|}
+
+[[Category:GURPS Advantages]]

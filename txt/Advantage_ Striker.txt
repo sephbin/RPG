@@ -1,0 +1,32 @@
+Advantage: Striker
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STRIKER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5, 6, 7, or 8 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a body part that you can use to strike an aimed blow, but not to manipulate objects (see Extra Arms, p. 53) or walk on (see Extra Legs, p. 54). This might be a set of horns or protruding tusks, a heavy tail, a stinger, or any number of other natural weapons.
+
+{{Indent}}Your Striker can attack at reach C (&quot;close combat only&quot;), inflicting thrust damage at +1 per die; e.g., 2d-1 becomes 2d+1. Damage is crushing or piercing for 5 points, large piercing for 6 points, cutting for 7 points, or impaling for 8 points. See Innate Attack (p. 61) for details.
+
+{{Indent}}Roll against DX or Brawling to hit with your Striker. You can also use it to parry as if you had a weapon. Use the higher of (DX/2) + 3 or your Brawling parry.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Long: Your Striker is long relative to your body. This increases your effective SM for the purpose of calculating reach (see Size Modifier and Reach, p. 402). +100% per +1 to SM if you can attack at any reach from C to maximum, or +75% per +1 to SM if you can only attack at maximum reach (and never in close combat).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cannot Parry: You cannot parry with your Striker. -40%.
+
+{{Indent}}Clumsy: Your Striker is unusually inaccurate. This is common for tails and similar Strikers aimed from outside your usual arc of vision. -20% per -1 to hit.
+
+{{Indent}}Limited Arc: Your Striker can only attack straight ahead, straight behind, etc. Specify a direction when you buy the Striker. If your target isn't in the right place, and you cannot maneuver to put him there, you cannot attack him at all. -40%.
+
+{{Indent}}Weak: Your Striker is unusually blunt or light, or simply incapable of using your full ST. It inflicts only basic thrust damage, without the +1 per die. -50%.
+|}

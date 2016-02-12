@@ -1,0 +1,12 @@
+Disadvantage: Unique
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNIQUE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You exist only in one timeline. If a time paradox occurs, you have no memory of it. If it is particularly severe, you are likely to vanish. In most settings, you would be unaware of this danger until it happened . . . and then nobody would even remember you! Thus, this disadvantage is usually inappropriate for PCs.
+
+{{Indent}}In an alternate-world campaign, being Unique means that you do not exist in any form in an alternate world, even one very much like your own. This deprives you of the chance to befriend &quot;yourself&quot; when you visit such a world. There is one benefit, though: you are effectively Zeroed (p. 100) at no point cost in any alternate world.
+
+{{Indent}}Unique is only a disadvantage in campaigns in which paradoxes or changes in history - erasing past events or whole timelines - are possible. See Temporal Inertia (p. 93) for the opposite of this trait.
+|}

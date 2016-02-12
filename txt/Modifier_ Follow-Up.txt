@@ -1,0 +1,16 @@
+Modifier: Follow-Up
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FOLLOW-UP'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your attack's effects are delivered by a &quot;carrier.&quot; Use this to represent poison on a dart, an explosive in an armor-piercing shell, etc. Pick a different attack as the carrier. This can be either body weaponry (e.g., Claws or Teeth) or an Innate Attack (usually one that does cutting, impaling, or piercing damage).
+
+{{Indent}}A Follow-Up attack need only list its damage amount and type. All other details depend on the carrier attack. The Follow-Up attack only hits if the carrier attack hits. If the carrier attack penetrates the target's DR, DR has no effect on the Follow-Up attack's damage or HT rolls.
+
+{{Indent}}If the carrier attack is a natural weapon, such as Claws or Teeth, Follow-Up is a +0% enhancement. (Exception: On a passive carrier attack such as Spines, Follow-Up is a -50% limitation.)
+
+{{Indent}}If the carrier attack is an Innate Attack, the cost of Follow-Up depends on the modifiers on the carrier attack. The cost of Follow-Up equals the sum of the costs of whichever of the following modifiers apply to the carrier attack: Always On, Aura, Cone, Drifting, Emanation, Emergencies Only, Extra Recoil, Guided, Homing, Increased Range, Jet, Limited Use, Malediction, Melee Attack, Preparation Required, Rapid Fire, Reduced Range, Takes Extra Time, Takes Recharge, Unconscious Only, Uncontrollable, or Unreliable. If none of these modifiers apply to the carrier attack, Follow-Up costs +0%. Note that the Follow-Up attack itself cannot take any of these modifiers. Only its carrier attack may have them.
+
+{{Indent}}Follow-Up is a &quot;penetration modifier&quot;; you cannot combine it with other penetration modifiers (although the carrier attack can have them).
+|}

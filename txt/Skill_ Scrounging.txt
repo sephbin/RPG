@@ -1,0 +1,14 @@
+Skill: Scrounging
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SCROUNGING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Perception-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to find, salvage, or improvise useful items that others can't locate. Each attempt takes an hour. You do not necessarily steal your booty; you just locate it - somehow - and then acquire it by any means necessary. Note that if you find something that is &quot;nailed down,&quot; you must decide how to try to get it (which might require a roll on another skill)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: As the GM sees fit, for the rarity of the item sought.&lt;/i&gt;&lt;/font&gt;
+|}

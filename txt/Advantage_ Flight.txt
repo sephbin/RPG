@@ -1,0 +1,48 @@
+Advantage: Flight
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FLIGHT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''40 points''&lt;/font&gt;
+|-
+|{{Indent}}You can fly. The &quot;default&quot; is fullfledged, self-powered flight without wings or gliding surfaces. This works at any altitude where there is still significant atmosphere - but in the upper atmosphere, you'll need a way to survive in very thin, cold air (e.g., Doesn't Breathe and Temperature Tolerance). You cannot fly in a trace atmosphere or vacuum.
+
+{{Indent}}Your flight Move is Basic Speed x 2 (drop all fractions). As explained in Move in Other Environments (p. 18), you can adjust this for ±2 points per ±1 yard/second. For very high speeds, take Enhanced Move (Air). If you do not have any of the Controlled Gliding, Gliding, Lighter Than Air, Small Wings, Space Flight Only, or Winged Flight limitations, you can also &quot;fly&quot; at half-speed underwater. Flight includes the ability to hover at Move 0 as well.
+
+{{Indent}}Flight does not confer the ability to do complex acrobatics and tight turns; for that, buy Aerobatics skill (p. 174). Flight skill (p. 195) improves endurance.
+
+{{Indent}}You can alter most of the above assumptions through special modifiers.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Newtonian Space Flight: As Space Flight (below), except that your space Move - or your space top speed, if you have Enhanced Move (Space) - is actually your &quot;delta-v&quot;: the total velocity change you can manage in space before running out of reaction mass. For instance, you could accelerate up to your delta-v and stay there (like a missile), or to half your delta-v and then decelerate to a stop at the end of your trip (like a conventional spacecraft). Once you have made velocity changes equal to your delta-v, you must refuel before you can change your velocity in space again. +25%.
+
+{{Indent}}Space Flight: You can fly in space or a vacuum (such as on the moon). Your space Move is Basic Speed x 2. If you want to be able to accelerate constantly to reach a higher top speed, like a rocket, buy Enhanced Move (Space) (p. 52). This will let you accelerate or decelerate each turn by an amount equal to your space Move, up to your enhanced top speed. For a &quot;realistic&quot; space move that lets you accelerate indefinitely in a vacuum (up to the speed of light), you'll want Enhanced Move 25-27 (Space). This is incompatible with all other special modifiers except Space Flight Only. +50%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cannot Hover: You must always move at least 1/4 your top airspeed (round up) when flying. This is incompatible with Controlled Gliding and Gliding. -15%.
+
+{{Indent}}Controlled Gliding: Like Gliding (below) in most respects, but you can gain altitude by riding updrafts or &quot;thermals.&quot; A typical ascent rate is one yard per second. You can locate thermals, if any are present, on a successful IQ or Meteorology roll (one attempt per minute). -45%.
+
+{{Indent}}Gliding: You cannot gain altitude. With a running leap, you can launch yourself with an air Move equal to Basic Move. Each turn, you can change velocity by up to 10 yards/second x local gravity in Gs (Earth's gravity is 1G). To accelerate, you must descend by 1 yard for each 1 yard/second added to velocity; top speed is Basic Move x 4 (but you can go faster if towed). To decelerate, you must fly level. If you do not descend at least 1 yard, you automatically decelerate by 1 yard/second that turn. When working out turning radius, your basic air Move is 10 x local gravity in Gs. Each level of Enhanced Move (Air) either doubles top speed or halves deceleration in level flight (e.g., one level means you only lose 0.5 yard/second in level flight); specify which when you buy it. -50%.
+
+{{Indent}}Lighter Than Air: You fly by becoming lighter than air (or gaseous). A wind moves you 1 yard/second, in the direction it is blowing, per 5 mph of wind speed. If the wind happens to be blowing in the direction you wish to travel, this adds to your Move; otherwise, your Move goes down as you fight against the breeze. -10%.
+
+{{Indent}}Low Ceiling: You cannot fly very high. This does not limit speed in any way, but the GM may require Aerobatics rolls to dodge obstacles near the ground. A 30-foot ceiling is -10%; a 10-foot ceiling is -20%; and a 5-foot ceiling is -25%.
+
+{{Indent}}Small Wings: As Winged (below), except that your wingspan is no more than half your height. You use your wings to steer and to stabilize your flight - not to lift. If your wings are crippled in flight, roll against Aerobatics skill (or default) to land safely. -10%.
+
+{{Indent}}Space Flight Only: You can only take this in conjunction with Space Flight or Newtonian Space Flight. You can fly only in space; you have air Move 0 in atmosphere. You require a boost to reach space from any planet with an atmosphere, and are incapable of atmospheric reentry. -75%.
+
+{{Indent}}Winged: You use large wings or skin flaps to fly. Wingspan is at least twice your height. In order to take off, land, or maneuver, you must have an open area with a radius equal to your wingspan in all directions. If your wings are bound, or if a wing is crippled (more than 1/3 of your wings, if you have more than two), you cannot fly. Treat wings as arms for the purpose of targeting and crippling. If you wish to strike blows or manipulate objects with your wings, you must pay for them as Strikers or Extra Arms in addition to the cost of Flight. -25%.
+
+{{Indent}}Planetary: Your Flight works by &quot;pushing off&quot; against a planet's gravitational or magnetic field. It's useless in the absence of a planet. This is incompatible with all types of Space Flight. -5%.
+
+{{Indent}}Requires Surface: You fly by &quot;pushing off&quot; of surfaces. You can stay airborne for at most five seconds. After that, you must push off again by moving close enough to a rigid surface (wall, bamboo cane, etc.) - or any surface, even water, in a cinematic game - to touch it with part of your body. This doesn't require a maneuver. Otherwise, you start to fall! -20%.
+|}

@@ -1,0 +1,10 @@
+Modifier: Ranged
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RANGED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+40%''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement gives range to an advantage that normally affects your immediate area, or that requires a touch to affect others. By default, it has 1/2D 10, Max 100, Acc 3, RoF 1, Shots N/A, and Recoil 1. Duration is 10 seconds, unless the ability lists another duration (like Neutralize or Possession) or is instantaneous (like Healing), and you cannot use the ability again until all existing effects have worn off. You can apply other modifiers to change the ranged combat statistics and duration.
+
+{{Indent}}This enhancement is normally restricted to Healing, Mana Damper, Mana Enhancer, Neutralize, Possession, and Psi Static. The GM is free to allow it on other traits, but it should never modify body weaponry (such as Strikers or Vampiric Bite) or abilities that already have a range.
+|}

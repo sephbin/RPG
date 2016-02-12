@@ -1,0 +1,34 @@
+Advantage: Radiation Tolerance
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RADIATION TOLERANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your cells or circuits are resistant to radiation. The cost of this advantage depends on the divisor of the effective dose of radiation you receive - after dividing by the Protection Factor (PF) of artificial protection such as armor.
+
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+!Divisor||Cost
+|- style=&quot;background-color: #ffffff;&quot;
+|2||5 points
+|-
+|5||10 points
+|- style=&quot;background-color: #ffffff;&quot;
+|10||15 points
+|-
+|20||20 points
+|- style=&quot;background-color: #ffffff;&quot;
+|50||25 points
+|-
+|100||30 points
+|- style=&quot;background-color: #ffffff;&quot;
+|200||35 points
+|-
+|500||40 points
+|- style=&quot;background-color: #ffffff;&quot;
+|1,000||45 points
+|}
+
+
+{{Indent}}Extended: Your divisor also affects your dose of a particular variety of weird radiation. It might divide character points worth of mutations, or multiply exposure time required before you see effects. Details are up to the GM. +30% per type of radiation.
+|}

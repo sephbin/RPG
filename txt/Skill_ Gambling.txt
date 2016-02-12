@@ -1,0 +1,16 @@
+Skill: Gambling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GAMBLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Mathematics (Statistics)-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is skill at playing games of chance. A successful Gambling roll can (among other things) tell you if a game is rigged, identify a fellow gambler in a group of strangers, or &quot;estimate the odds&quot; in any tricky situation. When you gamble against the house, make a skill roll (the GM will secretly modify this roll if the odds are poor!). When you gamble against someone else, roll a Regular Contest of Gambling (p. 197) until one of you wins
+
+{{Indent}}Sleight of Hand skill (p. 221) is helpful if you want to cheat! To spot a cheater, roll a Quick Contest of your Gambling or Vision roll, whichever is higher, vs. your opponent's Sleight of Hand skill (for card or dice tricks) or IQ (for other kinds of cheating)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 to +5 for familiarity with the game being played; -1 to -5 if the game is rigged against you; -3 for Killjoy (p. 140), since you don't care if you win or lose.&lt;/i&gt;&lt;/font&gt;
+|}

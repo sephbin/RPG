@@ -1,0 +1,20 @@
+Skill: Group Performance
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GROUP PERFORMANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to arrange a performance and direct a group of performers in its execution - in rehearsal, in a studio, or before a live audience. A successful roll means the performance is pleasing. You must specialize in a particular performing art. All specialties have prerequisites: the specific skills listed below, plus any one of Diplomacy, Intimidation, or Leadership
+
+{{Indent}}&lt;i&gt;Choreography:&lt;/i&gt; The ability to instruct and lead a group of dancers. &lt;i&gt;Prerequisite:&lt;/i&gt; Dancing. &lt;i&gt;Default:&lt;/i&gt; Dancing-2
+
+{{Indent}}&lt;i&gt;Conducting:&lt;/i&gt; The ability to coordinate a group of musicians. Choirs, swing bands, symphony orchestras, etc. are different familiarities; see Familiarity (p. 169). &lt;i&gt;Prerequisites:&lt;/i&gt; Any two Musical Instrument skills, or one Musical Instrument and Singing. &lt;i&gt;Defaults:&lt;/i&gt; Musical Instrument-2 or Singing-2
+
+{{Indent}}&lt;i&gt;Directing:&lt;/i&gt; The ability to direct a group of actors. Film, opera, television, and theater are different familiarities. &lt;i&gt;Prerequisite:&lt;/i&gt; Performance. &lt;i&gt;Default:&lt;/i&gt; Performance-5
+
+{{Indent}}&lt;i&gt;Fight Choreography:&lt;/i&gt; Similar to Choreography, but for Stage Combat (p. 222) instead of Dancing. &lt;i&gt;Prerequisite:&lt;/i&gt; Stage Combat. &lt;i&gt;Default:&lt;/i&gt; Stage Combat-2
+|}

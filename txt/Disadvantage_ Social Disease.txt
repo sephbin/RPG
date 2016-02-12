@@ -1,0 +1,8 @@
+Disadvantage: Social Disease
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOCIAL DISEASE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have contracted a contagious, antibiotic-resistant bacteria, retrovirus, or similar disease. This is only transmitted by close, unprotected physical contact. Those who know about it react to you at -1 and automatically resist your seduction attempts. The disease isn't fatal - at least not immediately - but may produce physical symptoms (left to the imagination of the player or GM).
+|}

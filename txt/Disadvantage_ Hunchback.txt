@@ -1,0 +1,12 @@
+Disadvantage: Hunchback
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HUNCHBACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a spinal deformity that forces you into a twisted or hunched position, usually resulting in a noticeable hump or lump on one or both shoulders. This reduces height by 6&quot; without changing weight or build. Normal clothing and armor will fit badly, giving you -1 to DX; to avoid this, you must pay an extra 10% for specially made gear.
+
+{{Indent}}Most people find you disturbing to see and react at -1. This penalty is cumulative with regular appearance modifiers (see Physical Appearance, p. 21), and you may have no better than Average appearance. Your appearance is also distinctive, which gives you -3 to Disguise or Shadowing skill, and +3 to others' attempts to identify or follow you.
+
+{{Indent}}Realistic hunchbacks should have the Bad Back disadvantage (p. 123) as well, but this is not required.
+|}

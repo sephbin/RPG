@@ -1,0 +1,12 @@
+Skill: Linguistics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LINGUISTICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the principles upon which languages are based. A successful skill roll lets you identify a language from a snatch of speech or writing. As well, make a skill roll once per month when learning a language without a teacher. On a success, you learn at full speed rather than at 1/4 speed (see Learning Languages, p. 25)
+|}

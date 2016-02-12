@@ -1,0 +1,18 @@
+Skill: Stealth
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STEALTH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-5 or IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to hide and to move silently. A successful roll lets you conceal yourself anywhere except in a totally bare room, or move so quietly that nobody will hear you, or follow someone without being noticed. (To follow someone through a crowd, use Shadowing, p. 219.)
+
+{{Indent}}If someone is specifically on the alert for intruders, the GM will roll a Quick Contest between your Stealth and the sentinel's Perception
+
+{{Indent}}You can also use this skill to stalk game. A successful roll (and about 30 minutes) gets you within 30 yards of most animals. Another roll, at -5, gets you within 15 yards
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: A penalty equal to your encumbrance level. -5 to hide in an area without &quot;natural&quot; hiding places, or +3 or more if there are many hiding places. -5 to move silently if you are moving faster than Move 1. -5 to fool those with Discriminatory Smell (e.g., dogs).&lt;/i&gt;&lt;/font&gt;
+|}

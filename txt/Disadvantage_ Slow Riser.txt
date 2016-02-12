@@ -1,0 +1,8 @@
+Disadvantage: Slow Riser
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SLOW RISER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You are not a &quot;morning person.&quot; For one hour after you awaken from any sleep longer than a one-hour nap, you have -2 on all self-control rolls and -1 to IQ and IQ-based skills. Furthermore, whenever the GM assesses attribute penalties for missed sleep, you suffer an extra -1.
+|}

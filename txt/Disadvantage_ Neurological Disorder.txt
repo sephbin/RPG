@@ -1,0 +1,16 @@
+Disadvantage: Neurological Disorder
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NEUROLOGICAL DISORDER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''3''&lt;/font&gt;
+|-
+|{{Indent}}You suffer from one of several neurological disorders that cause tremors, involuntary movements, facial contortions, etc. Point value depends on severity:
+
+{{Indent}}Mild: Your condition is obvious to anyone who observes you for more than a few seconds. You are at -2 to tasks that involve fine manipulation (see High Manual Dexterity, p. 59), and such tasks take twice the normal time. You also have -2 to social skills such as Acting, Leadership, Performance, Public Speaking, and Sex Appeal in any situation where your condition would be apparent (GM's decision). -15 points.
+
+{{Indent}}Severe: You find it difficult to function in normal society. You are at -4 to tasks that involve fine manipulation, and such tasks take four times as long. Your DX and Basic Move cannot exceed your racial average (DX 10 and Move 5 for a human), and might be lower. You get -4 to social skills whenever your condition becomes apparent. -35 points.
+
+{{Indent}}Crippling: You find it almost impossible to function in normal society. You are at -6 to tasks that involve fine manipulation, and such tasks take six times as long. Your DX and Basic Move cannot exceed 80% of your racial average (DX 8 and Move 4 for a human), and might be considerably lower. You get -6 to social skills most of the time. -55 points.
+
+{{Indent}}Many other symptoms are possible, including gross motor impairment (buy down DX or Move), involuntary vocalizations (treat as Noisy, p. 146), and facial contortions (reduce appearance level; see Physical Appearance, p. 21). Violent tics and profane involuntary vocalizations might qualify as Odious Personal Habits (p. 22).
+|}

@@ -1,0 +1,64 @@
+Advantage: Shapeshifting: Alternate Form
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHAPESHIFTING: ALTERNATE FORM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You can physically change into one or more forms different from your native form. To shift between forms, you must concentrate for 10 seconds. To speed this up, add Reduced Time (p. 108).
+
+{{Indent}}Fatigue, injury, crippling, and afflictions carry over between forms - although HP and FP losses scale in proportion to the HP and FP of the form. For instance, if you suffer 10 HP of damage and a broken leg in a form that has 20 HP, you will have 5 HP of damage and a broken leg when you switch to a form that has only 10 HP.
+
+{{Indent}}If you are knocked out or killed, you immediately revert to your native form (which will also be unconscious or dead). In addition, you must specify a single, reasonably common external influence that can force you to return to your native form against your will. This should suit the advantage's origin: a Dispel Magic spell if your ability is magical, exorcism if a spirit power, strong magnetic fields if technological, etc.
+
+{{Indent}}Shapeshifting comprises two different traits: Alternate Form and Morph.
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Alternate Form'''&lt;/font&gt;
+
+{{Indent}}Variable
+
+{{Indent}}Like the werewolf of folklore, you can assume a specific form other than your own. This can be anything built with points: humanoid, animal, robot, etc. Create your alternate form as a racial template (p. 260); however, you can switch it &quot;on&quot; and &quot;off.&quot; This template need not be a &quot;stock&quot; template. For instance, if you wish to retain human intelligence in beast form, you could shift into a template that lacks the beast's low IQ (although this increases the template cost and hence the cost of Alternate Form). The GM is the final judge of what templates are allowed as Alternate Forms.
+
+{{Indent}}While it is turned on, your Alternate Form's racial template replaces your native racial template. Apply its racial traits - attribute modifiers, racial advantages and disadvantages, etc. - instead of those of your native race. Personal traits (including all attribute levels, advantages, disadvantages, and skills bought over and above racial norms) remain intact, although your skill levels are affected by changes to the controlling attribute scores.
+
+{{Indent}}If the Alternate Form's racial template has traits that conflict with your personal traits, the traits of your Alternate Form take precedence. For instance, if you become a dolphin with No Manipulators, you will temporarily lose personal advantages that affect your hands, such as High Manual Dexterity, while you are in dolphin form - and some skills (for instance, Lockpicking) will be relatively useless, although you do remember them.
+
+{{Indent}}If you have a single Alternate Form, it costs 15 points for a racial template worth no more than your native racial template. A more powerful form costs 15 points plus 90% of the difference in cost between your native template and that of your Alternate Form.
+
+{{Indent}}If you have multiple forms, pay full cost for the most expensive form. The less powerful Alternate Forms cost a flat 15 points apiece. Minimum cost per form is still 15 points.
+
+{{Indent}}Example: Consider four racial templates: a -100-point &quot;cuddly critter,&quot; a 0-point human, an 80-point &quot;ravenous beast,&quot; and a 100-point troll. A human who can turn into a cuddly critter pays 15 points, as the cuddly critter template is worth less than his native template. A cuddly critter who can turn into a human pays 15 + (0.9 x 100) = 105 points, since the human racial template is worth 100 points more than his own. A human who can become a troll also pays 15 + (0.9 x 100) = 105 points. A human who can assume any of the other three templates would pay full cost for his most expensive form, the troll: 105 points. The ravenous beast and cuddly critter forms would cost the minimum 15 points apiece. Total cost would be 135 points.
+
+{{Indent}}Were-Creatures: To create the classic &quot;were-creature,&quot; start by purchasing any trait that applies in both forms - Infectious Attack, Vulnerability (Silver), etc. - as a personal trait. Next, buy an animal template as an Alternate Form. Since most beast templates are worth 0 or fewer points, this will usually cost 15 points, but powerful creatures (e.g., bears and tigers) may cost more. If the beast form is savage, the template should include such traits as Berserk, Bestial, and Bloodlust. Finally, apply limitations such as Emergencies Only (p. 112), Unconscious Only (p. 115), and Uncontrollable (p. 116) to Alternate Form, as applicable. If you can only change during the full moon, add a -40% Trigger limitation (p. 115) as well.
+
+{{Indent}}Shapeshifting Races: When creating an entire race that has Alternate Form, work out the details of Alternate Form last. Total the cost of all the race's traits other than Alternate Form, subtract this total from the cost of the template the race transforms into, and use the difference to calculate the cost of Alternate Form for the race. Add the cost of Alternate Form to that of the race's other abilities to determine final racial cost.
+
+{{Indent}}Example: Forest Dwarves can turn into sapient bears. Excluding Alternate Form, the racial traits of Forest Dwarves total 25 points. The bear template is worth 125 points. The difference is 125 - 25 = 100 points. Thus, the cost of Alternate Form is 15 + (0.9 x 100) = 105 points. This makes the Forest Dwarf template worth 25 + 105 = 130 points.
+
+{{Indent}}Elemental Supers: The ability to become flame, stone, water, and so on often shows up in the comics. Buy this as Alternate Form with the appropriate elemental meta-trait (p. B262) as the target &quot;racial template.&quot; The GM may even permit players to create custom meta-traits for new elements. Most elemental supers have Absorptive Change at the &quot;No encumbrance&quot; level (+5%) for their costume, plus Active Change (+20%) or Reduced Time 4 (+80%).
+
+{{Indent}}Transforming Machines: Robots or vehicles that can become other robots or vehicles are a comic-book standby. This is a standard Alternate Form that switches one machine template for another. Add Active Change (+20%) for transformers that can keep moving while changing. There's no need for Absorptive Change if all passengers and cargo are within the machine's Payload (p. B74).
+
+{{Indent}}Were-Creatures: Werewolves and similar beings use Alternate Form to assume an animal template. Weres who can control their beast form might choose to retain IQ and do away with bestial mental traits - but this significantly elevates template cost. Those who change involuntarily during the full moon have Uncontrollable Trigger (a dangerous ability that triggers under occasional circumstances, for -15%) and Unconscious Only (-20%), and often Minimum Duration, One Night (-10%). Reciprocal Rest (+30%) is common . . . the were-form appears rested and ready to rampage!
+
+{{Indent}}Absorptive Change: Only for Alternate Form. You &quot;absorb&quot; worn and carried items into your Alternate Form. These reappear when you change back. Without this modifier, you must leave your equipment behind when you change, and worn items too small for your Alternate Form risk destruction. Cost depends on encumbrance level: +5% for None, +10% for Light, +15% for Medium, +20% for Heavy, or +25% for Extra- Heavy. The GM decides what's left behind if your encumbrance exceeds your capacity. Apply this modifier separately to each form that can absorb equipment.
+
+{{Indent}}Active Change: Your transformation takes the usual amount of time, but you needn't concentrate during this time - you can move and act. You have the abilities of the form you're changing from until the transition is complete. (GMs who enjoy extra detail can average the forms' statistics, or even use a weighted average to reflect how far along the change has come.) +20%.
+
+{{Indent}}Non-Reciprocal Damage: Only for Alternate Form. Injury you suffer in one form doesn't affect any of your other forms - although wounds only heal while you're in the form that sustained them, unless you also take Reciprocal Rest. +50%.
+
+{{Indent}}Once On, Stays On: This is identical to the general modifier of the same name (see p. 109), but with a special rule for Alternate Form: it counts as a +50% modifier on the basic 15 points and raises the form-specific cost from 90% to 100% of the difference in template costs.
+
+{{Indent}}Reciprocal Rest: Only for Alternate Form. Your dormant forms can rest while they're out of sight. Time spent dormant counts toward FP recovery and the sleep needs of that form. In conjunction with Non-Reciprocal Damage, these forms can even recover HP and recuperate from crippling injuries. This doesn't preclude dormant forms being aware of and remembering the active form's actions. +30%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cosmetic: You can only change your outward appearance. Your abilities and racial template are unaffected. -50%. This limitation includes Mass Conservation, but not Retains Shape.
+
+{{Indent}}Projected Form: Only for Alternate Form. Your Alternate Form is a separate entity - perhaps a physical manifestation of your soul. When you use your ability, your native form falls into a trance and your Alternate Form appears nearby (within 10 yards). This is a real, physical form with no special restrictions on its actions. To dismiss it and awaken, it must be within 10 yards of your native form. If either form is wounded or killed, so is the other form; see Projection (p. 44) for details. -50%
+|}

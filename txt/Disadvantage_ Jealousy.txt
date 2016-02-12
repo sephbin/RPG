@@ -1,0 +1,8 @@
+Disadvantage: Jealousy
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''JEALOUSY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You react poorly toward those who seem smarter, more attractive, or better off than you! You resist any plan proposed by a &quot;rival,&quot; and hate it if someone else is in the limelight. (Jealousy goes well with Megalomania.) If an NPC is jealous, the GM will apply a -2 to -4 reaction penalty toward the victim(s) of his jealousy.
+|}

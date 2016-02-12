@@ -1,0 +1,14 @@
+Modifier: Respiratory Agent
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESPIRATORY AGENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+50%''&lt;/font&gt;
+|-
+|{{Indent}}Your attack must be inhaled to have any effect, but it ignores all DR. Only Doesn't Breathe and Filter Lungs protect completely - although a victim who makes a Sense roll to notice the attack in time may hold his breath (see Holding Your Breath, p. 351). To make your attack less noticeable, take Low Signature (p. 106).
+
+{{Indent}}You may only add this enhancement to an Affliction or to an Innate Attack that inflicts toxic or fatigue damage, and you must combine it with one of Area Effect (p. 102), Cone (p. 103), or Jet (p. 106). Persistent (p. 107) is common but not required.
+
+{{Indent}}Respiratory Agent is a &quot;penetration
+
+{{Indent}}modifier&quot;; you cannot combine it with other penetration modifiers, such as Follow-Up (p. 105).
+|}

@@ -1,0 +1,10 @@
+Disadvantage: Frightens Animals
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FRIGHTENS ANIMALS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}Animals react to you with fear and aggression. Horses do not permit you to ride them, dogs shy away from you or attack savagely, and your mere scent is enough to panic most creatures. You get -4 on all reaction rolls made by animals. Anyone who sees how animals react to you - and those with Animal Empathy - reacts to you at -1. Note that guards or police with guard animals, &quot;sniffer&quot; dogs, etc. decide how to deal with you based on the animal's reaction roll, not their own!
+
+{{Indent}}If your disadvantage is due to lycanthropy, vampirism, or a similar trait, observers get +1 on all rolls to deduce your secret!
+|}

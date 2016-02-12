@@ -1,0 +1,16 @@
+Modifier: Cosmic
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COSMIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your ability operates on a &quot;higher level&quot; than is usual in your game world. This allows it to work under all circumstances, and possibly even ignore opposing powers! The value of the enhancement depends on the underlying trait:
+
+{{Indent}}Ability other than an attack or a defense. Your ability is not subject to the usual built-in restrictions. For instance, your Healing might cure otherwise &quot;incurable&quot; diseases, your Insubstantiality might allow you to penetrate barriers that would block other insubstantial beings, or your Shapeshifting might be immune to negation by external forces. +50%.
+
+{{Indent}}Defense or countermeasure. Your defensive trait provides its usual benefits against offensive abilities modified with the Cosmic enhancement. +50%.
+
+{{Indent}}Attack with a lingering special effect. Your attack has an enduring effect that only another Cosmic power can counteract; e.g., a burning Innate Attack that sets fires that water cannot extinguish, or a toxic Innate Attack that inflicts Cyclic (below) damage that medical technology cannot halt. This does not negate the target's protection! DR still affects Innate Attack, a HT roll is still allowed for a Resistible (p. 115) attack, etc. +100%.
+
+{{Indent}}Irresistible attack. Your attack does negate the target's protection; e.g., an Innate Attack that ignores DR, or Mind Control that ignores Mind Shield. The target may still attempt an active defense against the attack, if applicable. You cannot combine this enhancement with other &quot;penetration modifiers,&quot; such as Follow-Up (p. 105). +300%.
+|}

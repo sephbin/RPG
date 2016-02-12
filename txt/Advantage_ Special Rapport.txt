@@ -1,0 +1,14 @@
+Advantage: Special Rapport
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPECIAL RAPPORT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a unique bond with another person. This acts as a potent version of Empathy (p. 51) that works only with one person, without regard to distance. You always know when your partner is in trouble, in pain, lying, or in need of help, no matter where he is. This requires no IQ roll. Your partner receives the same benefits with respect to you.
+
+{{Indent}}Both partners in a Special Rapport must buy this advantage. Your partner need not be a lover, or even a close friend, but the GM has the final say. In particular, the GM may wish to forbid PCs from buying Special Rapports with powerful NPCs who would otherwise qualify as Patrons (or allow it, but require an Unusual Background).
+
+{{Indent}}One-Way: Your link lets you sense the status of your partner without him having this advantage and being able to sense your condition. +20%.
+
+{{Indent}}Transferable: You have a link that you can actively &quot;attach&quot; to anyone. Your subject must be present. Attachment requires a minute and an IQ roll. Success means you and your subject have a Special Rapport until you reassign your link. To have multiple links, buy more than one Special Rapport with Transferable. Transferable often accompanies One- Way. +100% to affect only your own race; +150% to affect any living being or all Digital Minds; +250% to affect any sapient being, living or machine. Add -50% if the subject must be willing or helpless for the initial attachment.
+|}

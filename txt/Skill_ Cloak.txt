@@ -1,0 +1,16 @@
+Skill: Cloak
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CLOAK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-5, Net-4, or Shield (any)-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of using a cloak or a cape as a weapon. It covers the use of two types of cloak: the waist-length &quot;light cloak&quot; (any cloak, cape, or coat weighing less than 5 lbs.) and the fulllength &quot;heavy cloak&quot; (any cloak weighing 5 lbs. or more)
+
+{{Indent}}Offensively, you can use a cloak to entangle an opponent - see Special Melee Weapon Rules (p. 404) for details. You can also snap a cloak in your opponent's face or simply use it to block his vision, either of which counts as a Feint maneuver
+
+{{Indent}}Defensively, a cloak works much like a shield. It provides a Defense Bonus (+1 if light, +2 if heavy) and gives a Block defense equal to (skill/2) + 3, rounded down. A cloak is not as robust as a shield, though! A light cloak has only DR 1 and 3 HP, while a heavy cloak has DR 1 and 5 HP
+|}

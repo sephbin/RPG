@@ -1,0 +1,16 @@
+Skill: Surgery
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SURGERY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: First Aid-12, Physician-5, Physiology-8, or Veterinary-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: First Aid or Physician.&lt;/font&gt;
+|-
+|{{Indent}}This is skill at using invasive medical techniques to treat sickness or injury. Roll once per operation. On a success, the operation proceeded without complications. On a failure, the patient took damage - 2d for a simple amputation, 3d for other procedures. Surgery rolls can also facilitate recovery from wounds; see Surgery (p. 424)
+
+{{Indent}}This skill represents general surgical expertise, which is relatively rare in real life. Most surgeons have an optional specialty (p. 169) in a certain part of the body (brain, heart, etc.) or a specific type of surgery (cosmetic surgery, microsurgery, transplant surgery, etc.)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); physiology modifiers (p. 181); -3 if the area or equipment cannot be properly cleaned and sterilized; -3 for head or chest surgery; -5 for undiagnosed problems. If you lack Physician skill, you are at -5 to do anything but &quot;field-expedient&quot; surgery (e.g., stitch wounds or extract arrowheads, bullets, and shrapnel).&lt;/i&gt;&lt;/font&gt;
+|}

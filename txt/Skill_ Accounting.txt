@@ -1,0 +1,14 @@
+Skill: Accounting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ACCOUNTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Finance-4, Mathematics (Statistics)-5, or Merchant-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to keep books of account, to examine the condition of a business, etc. A successful Accounting roll (requires at least two hours of study, and possibly months to audit a large corporation) can tell you whether financial records are correct, and possibly reveal evidence of forgery, tampering, and similar criminal activity
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: The time modifiers under Time Spent (p. 346) often apply; the Talents (p. 89) of Business Acumen and Mathematical Ability both provide a bonus.&lt;/i&gt;&lt;/font&gt;
+|}

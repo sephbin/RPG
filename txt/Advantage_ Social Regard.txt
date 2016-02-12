@@ -1,0 +1,18 @@
+Advantage: Social Regard
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOCIAL REGARD'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points per +1 reaction''&lt;/font&gt;
+|-
+|{{Indent}}You are a member of a class, race, sex, or other group that your society holds in high regard. To be an advantage, this must be obvious to anyone who meets you. This is the opposite of Social Stigma (p. 155); membership in a given social group cannot result in both Social Regard and Social Stigma.
+
+{{Indent}}Social Regard costs 5 points per +1 to reaction rolls, to a maximum of +4. This is not a Reputation, despite the similarities in cost and effect. You are treated well because of what you are, not because of who you are. Think of it as &quot;privilege by association.&quot;
+
+{{Indent}}The way you are treated on a good reaction roll will depend on the type of Regard:
+
+{{Indent}}Feared: Others will react to you much as if you had successfully used Intimidation skill (p. 202). Those who like you stand aside, while those who dislike you flee rather than risk a confrontation. You are met with silent deference, and perhaps even respect, but never friendly familiarity. Examples: a god among men or an Amazon warrior.
+
+{{Indent}}Respected: You receive polite and obsequious deference, much as if you had high Status (p. 28), regardless of your actual Status. Social interactions other than combat usually go smoothly for you - but there will be times when the kowtowing gets in the way. Examples: a member of a priest caste or a ruling race.
+
+{{Indent}}Venerated: Total strangers react to you in a caring way. They give up seats, let you ahead of them in lines, and receive your every word as pearls of wisdom. They also take great pains to prevent you from putting yourself in danger or even discomfort - even when you need to do so! Example: an elderly person in many societies.
+|}

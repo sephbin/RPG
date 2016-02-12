@@ -1,0 +1,10 @@
+Disadvantage: Electrical
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ELECTRICAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}Your body contains unshielded electronics, or relies on electrical power for its vital energy. This makes you susceptible to attacks that only affect electrical systems, such as spells, advantages, and ultra-tech weapons that drain power or produce &quot;surge&quot; effects, and the electromagnetic pulse from a nuclear blast. A critical hit from an electrical attack causes you to &quot;short-circuit,&quot; rendering you unconscious in addition to any other damage effects.
+
+{{Indent}}This disadvantage usually accompanies the Machine meta-trait (p. 263), but this is not required. Afflictions and Innate Attacks that only affect those with this trait are possible. Apply the -20% Accessibility limitation &quot;Only on Electrical&quot; to all such attacks.
+|}

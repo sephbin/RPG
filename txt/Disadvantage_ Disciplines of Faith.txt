@@ -1,0 +1,18 @@
+Disadvantage: Disciplines of Faith
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DISCIPLINES OF FAITH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 to -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You live by a strict set of rules in order to achieve a greater understanding of your faith. This might be a personal decision or a requirement of your religion. Such rules are optional in many faiths, though - indeed, some religions might forbid them as excesses! Disciplines of Faith are often a prerequisite for abilities that channel divine power: Power Investiture, True Faith, etc.
+
+{{Indent}}Some examples of Disciplines of Faith:
+
+{{Indent}}Asceticism: You have renounced the comforts of society to lead a life of self-denial and self-discipline. This often involves some sort of isolation in bleak, austere settings. It might even involve sporadic bouts of severe selfpunishment to excise the mortal taint of earthly desire. You must try to transcend all need for worldly possessions, and in any event cannot have aboveaverage Wealth, or Status beyond that granted by your Religious Rank (if any). -15 points.
+
+{{Indent}}Monasticism: You lead a life apart from worldly concerns. You are completely devoted to religious pursuits, which often involves the denial of ego and self. You must spend at least 75% of your time sequestered from the world, and cannot have above-average Wealth, or Status beyond that granted by your Religious Rank (if any). -10 points.
+
+{{Indent}}Mysticism: You engage in deep meditation and trance-like contemplation, with the aim of obtaining a closer union with the divine. You spend most of your time engaged in these rituals, complete with chanting and any other necessary trappings. Individuals other than devout co-religionists will consider you a bit mad, and will react at -2. -10 points.
+
+{{Indent}}Ritualism: You adhere strictly to elaborate rituals regarding every aspect of life - from waking to eating to bathing to sex. Each ritual has its proper place, time, words, trappings, and ceremony. Your fundamental belief is that, through the perfect performance of these rituals, you bring each aspect of your life closer to the divine. -5 points.
+|}

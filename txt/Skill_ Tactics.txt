@@ -1,0 +1,18 @@
+Skill: Tactics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TACTICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Strategy (any)-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to outguess and outmaneuver the enemy in small-unit or personal combat. In most settings, only the military teaches this skill
+
+{{Indent}}When commanding a small unit, roll against Tactics to place your troops correctly for an ambush, know where to post sentries, etc. At the GM's option, a successful roll might even provide clues as to immediate enemy plans. To outmaneuver enemy units, you must win a Quick Contest of Tactics with their leader. All of this only applies when you lead a group small enough that you can give each warrior orders personally - or through at most one subordinate. Thus, radio and similar technologies can greatly enhance your command abilities!
+
+{{Indent}}In personal combat, you may make a Tactics roll before the fight begins if you had any time to prepare. On a success, you start the fight in an advantageous position - e.g., behind cover or on higher ground - as determined by the GM. The better the roll, the greater your advantage. If you fail, or do not attempt a Tactics roll, you are in a random location (or one of the GM's choosing) when combat begins. Fighters without Tactics skill always start combat this way
+
+{{Indent}}Even in an ambush or similar &quot;surprise&quot; situation, the GM will use the better of your Tactics skill and your Perception to see if you spotted the danger on time
+|}

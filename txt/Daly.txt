@@ -1,0 +1,31 @@
+Daly
+'''Daly'''&lt;br/&gt;
+Serpentine &lt;br/&gt;
+NN Small outsider&lt;br/&gt;
+'''Init '''+4; '''Senses '''darkvision 60 ft.; Perception +4&lt;br/&gt;
+----
+'''Defense'''&lt;br/&gt;
+----
+'''AC '''17, touch 15, flat-footed 13 (+4 Dex, +1 size, +2 natural)&lt;br/&gt;
+'''hp '''10 ()&lt;br/&gt;
+'''Fort '''+0, '''Ref '''+7, '''Will '''+3&lt;br/&gt;
+----
+'''Offense'''&lt;br/&gt;
+----
+'''Speed '''20 ft., climb 40 ft.&lt;br/&gt;
+'''Melee '''bite +2 (1d6-1) and&lt;br/&gt;
+:tail slap -3 (1d4-1) and&lt;br/&gt;
+:unarmed strike +2 (1d2-1 nonlethal)&lt;br/&gt;
+----
+'''Statistics'''&lt;br/&gt;
+----
+'''Str '''8, '''Dex '''18, '''Con '''11, '''Int '''7, '''Wis '''10, '''Cha '''11&lt;br/&gt;
+'''Base Atk '''+2; '''CMB '''+0; '''CMD '''14 (can't be tripped)&lt;br/&gt;
+'''Skills '''Acrobatics +5 (+7 to balance, +1 jump), Climb +8, Escape Artist +5, Perception +4, Stealth +12;''' Racial Modifiers '''tail&lt;br/&gt;
+'''Languages '''Common&lt;br/&gt;
+----
+'''Special Abilities'''&lt;br/&gt;
+----
+'''Climbing (40 feet)''' You have a Climb speed.&lt;br/&gt;
+'''Darkvision (60 feet)''' You can see in the dark (black and white vision only).&lt;br/&gt;
+'''Tail (Ex)''' Tail grants +2 Acrobatics checks for balance.&lt;br/&gt;

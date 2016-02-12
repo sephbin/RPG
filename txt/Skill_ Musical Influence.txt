@@ -1,0 +1,20 @@
+Skill: Musical Influence
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MUSICAL INFLUENCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Musical Ability 1 and either Musical Instrument or Singing at 12+.&lt;/font&gt;
+|-
+|{{Indent}}This cinematic skill allows you to influence the emotions of others by playing a musical instrument or singing. In some settings, this is a magical or psionic talent, or a special form of hypnotism, and works with any instrument, as well as with voice. In other settings, this skill is associated with a specific type of magical or ultra-tech instrument
+
+{{Indent}}To attempt Musical Influence, you must first get your audience to sit and listen to your performance. You must also make a successful Musical Instrument or Singing roll. You may then roll against your Musical Influence skill. On a success, you can adjust the reaction roll of your audience - to you or to anyone present - up or down by an amount equal to your margin of success, to a maximum of +3 (+4 for critical success)
+
+{{Indent}}If you have only a few seconds, or if the audience is not paying full attention to your performance, you may adjust reaction rolls by ±1 at most, regardless of your margin of success
+
+{{Indent}}Listeners who do not wish to be influenced may resist with Will. Hard of Hearing (p. 138) gives +4 to resist, and those with Deafness (p. 129) are completely immune. However, some science-fiction devices generate vibrations that affect the body, in which case a listener's sense of hearing is irrelevant
+
+{{Indent}}It is up to the GM to determine whether this skill works on animals as well as sapient beings. In classic fantasy, it just might!
+|}

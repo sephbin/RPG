@@ -1,0 +1,12 @@
+Advantage: Zeroed
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ZEROED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You do not officially exist. Even the highest authorities in the land know nothing about you. In a fantasy setting, you are a &quot;mysterious wanderer&quot;; magical divination cannot discover conclusive details about your past or true identity. In a high-tech world, you don't appear in the public records - and if computer databases exist, they contain no evidence of your existence. You must provide a reason for this; e.g., your parents hid you away at birth, you are legally dead, or you somehow managed to destroy all the records (explain how!).
+
+{{Indent}}To maintain this status, you must deal strictly in cash or commodities. Credit and bank accounts must be blind (keyed to pass-code, not a person - the &quot;Swiss bank account&quot;) or set up through a Temporary Identity (see p. 31).
+
+{{Indent}}If the authorities investigate you, they will initially assume that there has been an error. They will become increasingly concerned as no information can be found about your life. Eventually, they will attempt to apprehend you. If they can't find you, then they're likely to give up. But if they catch you, you are in for a thorough interrogation, possibly involving torture, mind probes, or worse. After all, a nonperson has no rights . . . and it will be very difficult for your allies to prove that you are being held, as you don't officially exist!
+|}

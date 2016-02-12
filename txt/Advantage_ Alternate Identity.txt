@@ -1,0 +1,16 @@
+Advantage: Alternate Identity
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ALTERNATE IDENTITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 or 15 points per identity''&lt;/font&gt;
+|-
+|{{Indent}}You have multiple, seemingly legal identities. Each time you purchase this trait, your fingerprints (or other biometrics used to verify identity in your world) are registered under another name, and you have an extra set of identity documents (birth certificate, licenses, passport, etc.) good enough to pass close inspection. These identities may also have valid credit cards and bank accounts, but you must supply the money - additional wealth is not included in the package!
+
+{{Indent}}If an intelligence or law-enforcement agency attempts to identify you with no clue as to your name - for instance, using biometrics or photoanalysis - there is an equal chance for each of your identities to come up. The search will stop . . . unless they have reason to believe you are a ringer. If the search continues, your other identities will eventually surface, and you will be unmasked. Once a government agency determines who you really are, your Alternate Identities are lost for good.
+
+{{Indent}}There are two types of Alternate Identity:
+
+{{Indent}}Legal: Some spies and undercover policemen - and even supers, in settings where they are backed by the government - may have a legal Alternate Identity. This requires at least 10 points in Legal Enforcement Powers, Legal Immunity, Police Rank, Security Clearance, etc.; the GM sets the precise prerequisites. If a super has official permission to conceal his original name (e.g., to protect his family) and to hold property in his &quot;super&quot; name, then that is a legal Alternate Identity combined with a Secret Identity (see p. 153). 5 points.
+
+{{Indent}}Illegal: A criminal or foreign agent may have an illegal Alternate Identity. This has the advantage of being completely unknown when you first start out, and of course it cannot be revoked by the government. On the other hand, should it ever be discovered, you will face a stiff fine, a jail sentence, or execution, depending on the time and place. 15 points.
+|}

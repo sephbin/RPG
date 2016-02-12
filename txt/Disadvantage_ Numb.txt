@@ -1,0 +1,12 @@
+Disadvantage: Numb
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NUMB'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You have no sense of touch. You have a limited degree of pressure sense - enough to feel your weight and stand up and walk without falling over - but you cannot distinguish textures by touch at all. Feats that depend on touch alone (e.g., touch-typing, or untying your hands behind your back) are impossible for you.
+
+{{Indent}}When performing a task that requires hand-eye coordination, you suffer all the effects of one level of Ham-Fisted (p. 138) unless you take twice as long to perform the action and can clearly see what you're doing. If you also have Ham-Fisted, add its effects.
+
+{{Indent}}You experience pain, temperature, and shock as acutely as anyone else, unless you also have High Pain Threshold (p. 59), but you won't know where you were injured without looking. Instead, you feel pain as generalized shock throughout your entire body. As a result, you cannot perform First Aid on yourself if you can't see the injury.
+|}

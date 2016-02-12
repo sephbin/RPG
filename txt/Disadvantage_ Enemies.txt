@@ -1,0 +1,70 @@
+Disadvantage: Enemies
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENEMIES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}An &quot;Enemy&quot; is an NPC, group of NPCs, or organization that actively works against you, personally, on your adventures. Some Enemies want to kill you . . . others have more devious goals.
+
+{{Indent}}Determine the nature of your Enemy when you create your character, and explain to the GM why the Enemy is after you. The GM is free to fill in additional details as he sees fit.
+
+{{Indent}}Three factors determine the disadvantage value of an Enemy: its power, its intent, and its frequency of appearance.
+
+{{Indent}}Power
+
+{{Indent}}The more powerful the Enemy, the more points it is worth as a disadvantage. The GM sets this value. Note that when your Enemy is an organization, the point value is based on the number of individuals who are after you - not on the total size of the group!
+
+{{Indent}}One person, less powerful than the PC (built on about 50% of the PC's starting points). -5 points.
+
+{{Indent}}One person, equal in power to the PC (built on about 100% of the PC's starting points), or a small group of less-powerful people (3 to 5 people). Examples: A mad scientist, or the four brothers of the man you killed in a duel. -10 points.
+
+{{Indent}}One person, more powerful than the PC (built on at least 150% of the PC's starting points), or a mediumsized group of less-powerful people (6 to 20 people). Examples: a single superhuman or a city police department (which numbers in the hundreds, but they're not all after you at once). -20 points.
+
+{{Indent}}A large group of less-powerful people (21 to 1,000 people), or a mediumsized group that includes some formidable or superhuman individuals. Examples: the FBI or the Mafia. -30 points.
+
+{{Indent}}An entire government, a whole guild of powerful wizards, an organization of supers, or some other utterly formidable group. -40 points.
+
+{{Indent}}Special Cases
+
+{{Indent}}There are two special cases for which you should adjust the costs given above before multiplying for intent and frequency of appearance:
+
+{{Indent}}Evil Twin: Your Enemy looks and sounds like you, and perhaps even uses your name, but acts completely opposite. Often, others will think you suffer from Split Personality (p. 156), and react appropriately (-3 to reactions). You might never meet your Evil Twin, but you will hear about him - usually when you're taking the blame for something you didn't do. Normally, an Evil Twin has exactly the same skills and abilities as you, but his mental disadvantages are opposite or skewed. This makes him an even match: a -10-point Enemy. If he is more capable than you, he is worth extra points, because he is better equipped to make you look insane, and you are less able to predict and thwart his actions.
+
+{{Indent}}Evil Twin is more skilled than you or possesses abilities that you do not (GM decides): -5 points.
+
+{{Indent}}Evil Twin is more skilled than you and possesses abilities that you do not (GM decides): -10 points.
+
+{{Indent}}Unknown: You know you have an Enemy, but you have no idea who it is. Tell the GM the power level of your Enemy. He will create the Enemy in secret and give you no details whatsoever! The advantage of surprise increases your Enemy's effective power level, and hence its disadvantage value. -5 points.
+
+{{Indent}}Intent
+
+{{Indent}}The more unpleasant the Enemy's intentions, the more you multiply its worth in points.
+
+{{Indent}}Watcher: Your Enemy stalks you or spies on you. This is annoying, and makes it hard to keep secrets, but it is rarely more than a minor inconvenience. Examples: an aggressive journalist dogging a politician, detectives shadowing a suspected criminal. x1/4.
+
+{{Indent}}Rival: Your Enemy wishes to upstage or inconvenience you, or plays cruel practical jokes on you (this is typical of most Evil Twins), but stops short of anything that would do lasting harm. Examples: a politician's bitter political rival, detectives harassing a suspected criminal. x1/2.
+
+{{Indent}}Hunter: The Enemy intends to arrest, bankrupt, injure, or otherwise harm you in some lasting way - or simply wants to kill you. Examples: an assassin gunning for a politician, detectives out to arrest a suspected criminal. x1.
+
+{{Indent}}Frequency of Appearance
+
+{{Indent}}Choose a frequency of appearance, as explained under Frequency of Appearance (p. 36). Roll at the beginning of each adventure, or at the start of each session of a continuing adventure.
+
+{{Indent}}Limits on Enemies
+
+{{Indent}}You may not take more than two Enemies, or claim more than -60 points in Enemies. (If the whole U.S. government is out to get you, the fact that your old college professor has lost his mind, and is also after you, pales to insignificance.)
+
+{{Indent}}Enemies in Play
+
+{{Indent}}If the dice indicate that an Enemy should show up, the GM must decide how and where the Enemy becomes involved. If an Enemy is very powerful, or if a number of different Enemies show up at the same time, this may influence the whole adventure.
+
+{{Indent}}If you take an extremely powerful Enemy, you are likely to be jailed or killed before long. So it goes. You can get a 60-point bonus by taking Enemy (FBI, 12 or less; Hunter), but your every adventure will be that of a hunted criminal. Even with an extra 60 points, your career may be short.
+
+{{Indent}}If you start with a weak Enemy, or play cleverly, you might manage to eliminate your foe or permanently change his attitude toward you. But as the saying goes, &quot;There ain't no such thing as a free lunch.&quot; If you get rid of an Enemy, you have three choices:
+
+{{Indent}}1. Pay enough character points to buy off the original bonus you got for that Enemy.
+
+{{Indent}}2. Take a disadvantage to make up for the point bonus. For instance, you might have been kicked in the head during the final battle, leaving you partially deaf. Or a giant spider might have attacked you, leaving you with arachnophobia. The new disadvantage should have the same point cost as your former Enemy (or less, if you want to buy off part of the disadvantage). If you cannot think of a good substitute disadvantage, the GM will be more than happy to supply one!
+
+{{Indent}}3. Take a new Enemy of equal value. You might have destroyed the fiendish Dr. Scorpion - but his brother is continuing his evil work.
+|}

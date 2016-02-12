@@ -1,0 +1,12 @@
+Disadvantage: Divine Curse
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DIVINE CURSE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You suffer from a curse placed by a god or similar supernatural force. The curse might be on just you, on your entire family, or even on your nation or race.
+
+{{Indent}}Divine Curse can take any form the GM desires. It can be a continuing commandment (e.g., &quot;You may never sleep at night,&quot; -10 points), a misfortune (e.g., &quot;Every child born to you will die young,&quot; -5 points), or even a particularly nasty disadvantage such as Berserk, Blindness, or Epilepsy (at the usual cost). What makes it distinct from other disadvantages is the potential for removal. The curse was given for a reason, and you can try to uncover this reason and atone in play, thereby lifting the curse.
+
+{{Indent}}The GM should judge the point value of Divine Curse on a case-bycase basis, using existing disadvantages as guidelines: the more encompassing or debilitating the curse, the higher its value. Curses that result in standard disadvantages should never be worth more points than those disadvantages. Price commandments as if they were Vows. The terms of atonement will often be nearly as bad as the curse itself, or require great effort to discover and satisfy. Halve the point value if this is not the case.
+|}

@@ -1,0 +1,14 @@
+Disadvantage: Magic Susceptibility
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MAGIC SUSCEPTIBILITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-3 points/level''&lt;/font&gt;
+|-
+|{{Indent}}Magic is more likely to affect you. Add your Magic Susceptibility to the skill of anyone casting a spell on you, and subtract it from your roll to resist any spell that you can resist. For instance, if you have Magic Susceptibility 4, wizards have +4 to cast spells on you and you get -4 to resist.
+
+{{Indent}}Magic Susceptibility only makes you more vulnerable to spells cast directly on you. It does not affect Missile spells, attacks by magic weapons, or information-gathering spells that aren't cast directly on you. It also has no effect on supernatural powers other than magic; e.g., divine miracles, psionics, or the innate powers of spirits. Magic Susceptibility works normally against Area spells; do not double its effects as you would those of Magic Resistance (p. 67).
+
+{{Indent}}Magic Susceptibility, and its precise level, can be recognized by any mage who looks at your aura or by anyone who casts a spell on you. You may have no more than five levels of Magic Susceptibility.
+
+{{Indent}}You can combine Magic Susceptibility with Magery but not with Magic Resistance.
+|}

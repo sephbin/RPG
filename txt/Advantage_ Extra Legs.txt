@@ -1,0 +1,30 @@
+Advantage: Extra Legs
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXTRA LEGS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}If you can walk on a limb but cannot use it to manipulate objects, it is a leg in GURPS (for legs that double as arms, see Extra Arms, p. 53). A normal leg can kick for thrust/crushing damage at your usual reach (1 yard for a human). The human norm is two legs, which costs 0 points. It costs points to have more than two legs:
+
+{{Indent}}Three or four legs: If you lose a leg, you can continue to move at half Move (round down). Loss of a second leg causes you to fall. 5 points.
+
+{{Indent}}Five or six legs: Each leg lost reduces Move by 20% until only three legs are left. At that point, your Move is 40% normal. Loss of another leg causes you to fall. 10 points.
+
+{{Indent}}Seven or more legs: Each leg lost reduces Move by 10% until only three legs are left. At that point, your Move is 40% normal. Loss of another leg causes you to fall. 15 points.
+
+{{Indent}}You can apply the following modifiers to all your legs:
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Long: Your legs are longer in proportion to your body than human legs relative to the human body. This increases your effective SM for the purpose of calculating reach when kicking (see Size Modifier and Reach, p. 402) and when clambering over obstacles. +100% per +1 to SM.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Cannot Kick: You cannot use your legs to kick for damage. -50%. Modifying Beings With Two Legs The modifiers above can be applied to creatures with only two legs. Point cost is equal to 1/10 the percentile modifier. For instance, a human with Cannot Kick (-50%) would have a -5- point disadvantage.
+|}

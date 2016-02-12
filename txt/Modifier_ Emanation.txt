@@ -1,0 +1,8 @@
+Modifier: Emanation
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EMANATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-0.2''&lt;/font&gt;
+|-
+|{{Indent}}You may only take this limitation in conjunction with Area Effect (p. 102). It means the effect has no range or Accuracy, but radiates from your body (without affecting you, if the effect is a bad one). This is incompatible with Melee Attack and ranged attack modifiers.
+|}

@@ -1,0 +1,16 @@
+Skill: Speed-Reading
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SPEED-READING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to read much faster than normal. Whenever time is of the essence (for instance, when reading the instructions on a parachute as you fall), multiply your reading speed by a factor of 1 + (skill/10); e.g., Speed-Reading-12 would give a factor of 2.2. Make a skill roll to determine whether you retain what you have read
+
+{{Indent}}On a failure, your recall is shaky. Every time you try to remember or use what you read, you must make an IQ roll at a penalty equal to your margin of failure. Roll at +5 if you have Eidetic Memory, or +10 for Photographic Memory. If this roll fails, you cannot recall the information; on a critical failure, you recall badly flawed information but believe it to be true! To eliminate this IQ roll, you must go back and reread the material slowly
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Language modifiers (p. 24).&lt;/i&gt;&lt;/font&gt;
+|}

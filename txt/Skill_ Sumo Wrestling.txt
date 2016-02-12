@@ -1,0 +1,14 @@
+Skill: Sumo Wrestling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUMO WRESTLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This unarmed combat skill represents any training at grabbing, shoving, and tripping - not just the traditional Japanese sport of sumo. Roll against the higher of DX or Sumo Wrestling to hit with a grapple, slam, or shove, or to make or resist a takedown. If you know this skill at DX+1 level, add +1 to ST whenever you make or resist a grapple or takedown, and whenever you attempt to break free, and +1 per die to your damage when you slam or shove. These bonuses increase to +2 if you know Sumo at DX+2 or better
+
+{{Indent}}When you defend with bare hands, Sumo Wrestling allows you to parry once per turn. You must use both hands. Your Parry score is (skill/2) + 3, rounded down. This parry is meant to ward off slams, grapples, and barehanded slaps. You parry at -2 vs. kicks and -3 vs. weapons. For complete rules for parrying barehanded, see Parrying Unarmed (p. 376)
+|}

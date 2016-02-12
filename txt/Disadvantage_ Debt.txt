@@ -1,0 +1,17 @@
+Disadvantage: Debt
+
+
+
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DEBT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-1 point/level''&lt;/font&gt;
+|-
+|{{Indent}}You owe money. This could represent a loan, back taxes, child support, or alimony . . . or “hush money” paid to blackmailers . . . or “protection money” extorted by gangsters. You must make a monthly payment equal to 1% of your starting wealth (adjusted for wealth level) per level of this trait, to a maximum of 20%. Debt can accompany any wealth level above Dead Broke; plenty of multimillionaires owe significant amounts of money!
+
+{{Indent}}Your monthly payment is deducted from your monthly earnings at your job. If your job cannot cover your Debt, you have to pay out of your cash reserves, take a second job, or steal.
+
+{{Indent}}If you cannot pay – or choose not to pay – there will be trouble. For bank loans, this means repossession of your worldly goods. For alimony, child support, fines, or taxes, this means a court date. And if you owe money to the mob, you might end up being strongarmed into criminal activities . . . or staring down the barrel of a shotgun. The GM should be creative!
+
+{{Indent}}It is assumed that you cannot easily rid yourself of this obligation. It takes more than money to buy off Debt – you must pay off the points and work out a logical in-game explanation with the GM.
+|}

@@ -1,0 +1,14 @@
+Skill: Flight
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FLIGHT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Flight advantage (p. 56)
+
+{{Indent}}This skill represents training for endurance flying. Use the better of Flight or HT when rolling to avoid fatigue due to flying. When traveling long distances, a successful Flight roll increases the distance traveled by 20%. If a group of fliers is traveling together, all must make the Flight roll in order to get the increased distance
+|}

@@ -1,0 +1,20 @@
+Disadvantage: Supernatural Features
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUPERNATURAL FEATURES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''03/05/2014''&lt;/font&gt;
+|-
+|{{Indent}}You have disturbing features that mark you as a demon, vampire, or other supernatural being. You can pass for a normal mortal to casual observers, but closer inspection reveals that you are not quite right. This might give away your secret to the trained eye.
+
+{{Indent}}Supernatural Features differ from Unnatural Features (p. 22) in that they aren't usually obvious; they only become apparent under a specific set of circumstances. When they are noticed, though, they result in a reaction penalty. They also give those who know what to look for a bonus to any skill roll (against Hidden Lore, Occultism, etc.) made to identify your true nature.
+
+{{Indent}}Supernatural Features can accompany appearance levels Hideous through Transcendent (see Physical Appearance, p. 21). You cannot get points for Supernatural Features if you are Monstrous or Horrific, however. If you look that scary, you're not hiding any secrets!
+
+{{Indent}}No Body Heat: You are cold to the touch. -1 on reaction rolls made by those who touch you, shake your hand, kiss you, etc.; +1 on all rolls to deduce your secret. -5 points (-1 point if you can gain warmth temporarily; e.g., after feeding, for a vampire).
+
+{{Indent}}No Reflection: You produce no reflection. You do not show up in mirrors, still water, and similar reflective surfaces, and technological devices such as cameras do not display your image. In some places and times, people will assume that you have no soul! -2 on reaction rolls made by those who notice; +2 on all rolls to deduce your secret. -10 points.
+
+{{Indent}}No Shadow: You produce no shadow, regardless of the intensity or direction of the light source. -2 on reaction rolls made by those who notice; +2 on all rolls to deduce your secret. -10 points.
+
+{{Indent}}Pallor: You look like a corpse, with bloodless skin, sunken eyes, etc. -2 on reaction rolls made by anyone who can see you without makeup in good light; +2 on all rolls to deduce your secret. -10 points (-5 points if you can gain the flush of life temporarily; e.g., after feeding, for a vampire).
+|}

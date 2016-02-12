@@ -1,0 +1,22 @@
+Advantage: Catfall
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CATFALL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You subtract five yards from a fall automatically (treat this as an automatic Acrobatics success - don't check again for it). In addition, a successful DX roll halves damage from any fall. To enjoy these benefits, your limbs must be unbound and your body free to twist as you fall.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Feather Fall: You always enjoy the benefits of Catfall, even if bound and dropped on your head. +20%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Parachute: You have a natural parachute, such as wings or skin flaps. This works like unmodified Catfall for falls that take two seconds or more, but deploys too slowly to affect shorter falls (distances of 6 x g yards or less). Your parachute needs open air in a radius equal to your height to function; it's worthless if falling down a narrow passage, and is of no use in &quot;very thin&quot; or thinner atmospheres. -30%.
+|}

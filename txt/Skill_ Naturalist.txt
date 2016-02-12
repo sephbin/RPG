@@ -1,0 +1,14 @@
+Skill: Naturalist
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NATURALIST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Biology-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill - crucial for fantasy druids and rangers - represents practical (as opposed to scientific) knowledge of nature in its many forms. It includes just enough Biology to tell dangerous plants and animals from benign ones; just enough Geology to locate a cave to shelter in; and just enough Meteorology to know when to take shelter. Roll vs. skill to do any of these things
+
+{{Indent}}In settings where it is possible to visit other worlds, you must specialize by planet. The specialties for planets of the same type (see Planet Types, p. 180) default to one another at -4. Any larger difference results in no default
+|}

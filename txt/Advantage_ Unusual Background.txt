@@ -1,0 +1,14 @@
+Advantage: Unusual Background
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNUSUAL BACKGROUND'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This is a &quot;catch-all&quot; trait that the GM can use to adjust the point total of any character with special abilities that are not widely available in the game world. &quot;Special abilities&quot; might mean cinematic traits, magic spells, exotic advantages (for a human), supernatural advantages (for anyone), or almost anything else - it depends on the setting. Players are free to suggest Unusual Backgrounds to the GM, but the GM decides whether a proposed Unusual Background is acceptable, and if so, what its cost and benefits are.
+
+{{Indent}}Example 1: &quot;Raised by wizards&quot; to justify access to magic spells might be a 0-point special effect in a fantasy world where magic is common, a 10- point Unusual Background in a conspiracy campaign where magic is known but kept secret, and a 50-point Unusual Background - or simply forbidden - in a horror game where a PC who wields supernatural power would reduce the suspense.
+
+{{Indent}}Example 2: &quot;Daughter of the God of Magic&quot; to justify the Unkillable advantage would be an Unusual Background in any setting, and would be worth as much as the advantage itself - 50 points or more - if the GM allowed it at all.
+
+{{Indent}}Not every unusual character concept merits an Unusual Background. The GM should only charge points when the character enjoys a tangible benefit. For instance, it would be unusual for a human to be raised by wolves, but unless this gave him special capabilities (such as Speak with Animals), it would be background color, worth 0 points.
+|}

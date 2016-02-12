@@ -1,0 +1,8 @@
+Disadvantage: Gluttony
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GLUTTONY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are overly fond of good food and drink. Given the chance, you must always burden yourself with extra provisions. You should never willingly miss a meal. Make a self-control roll when presented with a tempting morsel or good wine that, for some reason, you should resist. If you fail, you partake - regardless of the consequences.
+|}

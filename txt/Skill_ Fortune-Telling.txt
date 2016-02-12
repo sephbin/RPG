@@ -1,0 +1,20 @@
+Skill: Fortune-Telling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FORTUNE-TELLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Fast-Talk-3, or Occultism-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the art of interviewing someone in order to learn more about his lifestyle and personality, and then using this information to make an &quot;educated guess&quot; about his future that you can pass off as supernatural divination. Suitable props - star charts, tea leaves, etc. - can enhance the illusion. Knowledge of traditional occult or religious beliefs (especially those of your subject) can also lend an air of legitimacy
+
+{{Indent}}With the GM's permission, you can sometimes use Fortune-Telling in place of Fast-Talk (by making predictions that guide the subject toward a particular course of action), or Interrogation or Psychology (by asking the subject leading questions under the pretense of telling his fortune). This is only possible if the subject believes you are a genuine fortune- teller and you take the time to do a full &quot;reading&quot; for him
+
+{{Indent}}You must specialize in a particular mantic art. Available specialties include Astrology, Augury (interpretation of natural omens, such as flocks of birds), Crystal Gazing, Dream Interpretation, Feng Shui, Palmistry, and Tarot
+
+{{Indent}}This skill is not a paranormal talent, and the GM is under no obligation to supply you with hints of future events. You might wish to learn this skill if you have actual divinatory abilities, though, as it enables you to present your predictions in a culturally acceptable way. &quot;I saw it in the stars&quot; may be less likely to get you burned as a witch than &quot;I cast a spell&quot;!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 for Sensitive or +3 for Empathy (p. 51); any Charisma bonus; -3 if using Fortune-Telling in place of Fast-Talk, Interrogation, or Psychology.&lt;/i&gt;&lt;/font&gt;
+|}

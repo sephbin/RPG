@@ -1,0 +1,16 @@
+Skill: Esoteric Medicine
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ESOTERIC MEDICINE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Perception-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of treating illness and injury with techniques grounded in esoteric theory rather than analytical science. It is usually associated with a magical or spiritual tradition. The particulars vary by tradition, but might include acupuncture, massage, alchemical or herbal preparations, or such exercises as breath control and meditation
+
+{{Indent}}The effectiveness of Esoteric Medicine relative to Physician (p. 213) is up to the GM. It might be more effective (especially if it can channel real supernatural power), equivalent but different, or less effective. It should always be at least as good as First Aid (p. 195) - the attentions of a trained healer of any kind are preferable to bleeding to death! In TL5+ settings, Esoteric Medicine is often perceived as &quot;quack&quot; medicine, regardless of actual effectiveness
+
+{{Indent}}This skill might represent Ayurvedic medicine, chi treatment, Hermetic medicine, yin/yang healing, or any other historical or fictional healing discipline. In settings where multiple forms of treatment exist, healers must specialize in one specific tradition
+|}

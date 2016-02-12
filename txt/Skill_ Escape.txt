@@ -1,0 +1,16 @@
+Skill: Escape
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ESCAPE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: DX-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to slip out of ropes, handcuffs, and similar restraints. The first attempt to escape takes one minute; each subsequent attempt takes 10 minutes
+
+{{Indent}}The GM may apply a penalty for particularly secure bonds. For instance, modern police handcuffs would give -5 to Escape. You suffer only half these penalties if you dislocate the restrained limb (usually an arm). This requires (20 - skill) minutes of concentration, minimum one minute and a Will roll. However, if you fail your Escape roll by 3 or more when dislocating a limb, the limb suffers 1d damage. On a critical failure, you automatically take enough damage to cripple the limb!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +3 for Flexibility or +5 for Double-Jointed (p. 56); any bonus for Slippery (p. 85).&lt;/i&gt;&lt;/font&gt;
+|}

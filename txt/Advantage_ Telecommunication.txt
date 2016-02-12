@@ -1,0 +1,64 @@
+Advantage: Telecommunication
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TELECOMMUNICATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You can communicate over long distances without speaking aloud. You can send words at the speed of ordinary speech or pictures at the speed at which you could draw them. To establish contact requires one second of concentration and an IQ roll. After that, no concentration is required. You can maintain multiple contacts, but the IQ roll is at a cumulative -1 per contact after the first.
+
+{{Indent}}Telecommunication works amid even the loudest noises, although interference and jamming can disrupt your signal. Those with suitable equipment may attempt to locate, intercept, or jam your transmission. This requires an Electronics Operation (Communications) roll for an electromagnetic signal, an Electronics Operation (Psychotronics) roll for a psionic signal, and so forth.
+
+{{Indent}}Each variety of Telecommunication is a separate advantage with its own benefits and drawbacks. Some forms have limited range, which you can adjust using Increased Range (p. 106) or Reduced Range (p. 115).
+
+{{Indent}}Infrared Communication: You communicate using a modulated infrared beam. Base range is 500 yards in a direct line of sight. The short range and line-of-sight requirement make jamming and eavesdropping almost impossible under normal circumstances. You can only communicate with those who have this advantage or an infrared communicator. 10 points.
+
+{{Indent}}Laser Communication: You communicate using a modulated laser beam. Base range is 50 miles in a direct line of sight. The narrow beam and line-of-sight requirement make it extremely hard to eavesdrop on you. You can only communicate with people who have this advantage or a laser communicator. 15 points.
+
+{{Indent}}Radio: You communicate using radio waves. Base range is 10 miles. Your signal is omnidirectional, but because you can shift frequencies, eavesdroppers must still roll vs. Electronics Operation (Communications) to listen in. A side benefit of this ability is that you can receive AM, FM, CB, and other ordinary radio signals on an IQ roll (takes one second). Note that radio-frequency &quot;noise&quot; from lightning and unshielded electronics can interfere with Radio. Radio does not work at all underwater. 10 points.
+
+{{Indent}}Telesend: You can transmit thoughts directly to others via magic, psi, or other exotic means (be specific!). Your subject receives your thoughts even if he lacks this ability. Range is theoretically unlimited, but the IQ roll to use this ability takes the range penalties given under Long- Distance Modifiers (p. 241). If you cannot see or otherwise sense your subject, you have an additional penalty: -1 for family, lovers, or close friends; -3 for casual friends and acquaintances; or -5 for someone met only briefly. 30 points.
+
+{{Indent}}Directional Sound: You communicate using a laser-thin sound beam. Base range is 100 yards in a direct line of sight. Jamming and eavesdropping require specialized equipment - and even then, the short range and line-ofsight requirement give -5 to attempts. Obscurants (e.g., fog and smoke) and electrical &quot;noise&quot; have no effect. You can only communicate with those who have this advantage or a directional- sound communicator. 5 points.
+
+{{Indent}}Gravity-Ripple Comm: You communicate using gravity waves. Base range is 1,000 miles. Your signal is omnidirectional, and as with Radio, eavesdroppers must roll against Electronics Operation (Communications) to listen in. Jamming is impossible - although intense gravity sources (neutron stars, pulsars, black holes, etc.) can disrupt your signal. Gravity waves reach underwater and penetrate solid objects at no penalty. You can only communicate with people who have this advantage or a gravity- ripple communicator. 20 points.
+
+{{Indent}}Neutrino Comm: You communicate using a modulated beam of neutrinos (or similar particles). Base range is 1,000 miles in a straight line. The beam is impossible to jam or intercept, and functions in any environment - it can reach underwater or penetrate solid objects at no penalty, and isn't blocked by the horizon. You can only communicate with people who have this advantage or a neutrino communicator. 25 points.
+
+{{Indent}}Sonar Comm: You communicate using modulated sonar. Base range is three miles underwater. The signal is omnidirectional, and anyone with this advantage or equivalent equipment can hear you. The only way to jam this ability continuously is with powerful, specialized equipment - although explosions can cause transient interference. In air, Sonar Comm has a range of 50 yards multiplied by air pressure in atm. It doesn't work at all in vacuum. At the GM's option, Sonar Comm is equivalent to Ultrasonic Speech. 10 points.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Broadcast: This enhancement is only available for Telesend. It lets you send your thoughts to everyone in a radius around you. This requires an IQ roll at the long-distance modifier for the desired radius, plus an additional -4. +50%.
+
+{{Indent}}Short Wave: This is only available for Radio. You can bounce your signal off a planet's ionosphere (if the planet has one). This lets you transmit to (or receive from) any point on the planet. Note that solar flares, weather, etc. can disrupt short-wave communications. +50%.
+
+{{Indent}}Universal: Your messages are automatically translated into your subject's language. The GM may limit this enhancement to individuals from advanced tech levels, or restrict it to Telesend. +50%.
+
+{{Indent}}Video: You are not limited to simple pictures! You can transmit real-time video of anything you can see. +40%.
+
+{{Indent}}Burst: Not available for Directional Sound or Sonar Comm. You transmit a high-speed &quot;blip&quot; that conveys information much faster than you could speak or draw. +30% for 10x normal speed, +60% for 100x, +90% for 1,000x, and so on. Each factor of 10 gives -1 to attempts to intercept the transmission.
+
+{{Indent}}FTL: Your signal travels faster than the speed of light, letting you communicate with little or no &quot;light lag.&quot; The GM decides what kinds of Telecommunication can have this modifier and what it represents in each case: a beam of FTL energy for Radio or Gravity-Ripple Comm, a stream of FTL particles for Neutrino Comm, etc. A &quot;hyperspace tunnel&quot; that carries ordinary signals might suit any kind of Telecommunication. Recommended signal speed is 0.1 parsec/ day, to a maximum range in parsecs equal to 1/5,000 ordinary range in miles, but the GM can adjust this to suit the setting. Only individuals with the same ability or equivalent technology can receive the FTL signal. +120%.
+
+{{Indent}}Secure: Your signal employs security measures that make it difficult to interpret if intercepted. Eavesdroppers must win a Quick Contest of IQ (if using Telecommunication) or Electronics Operation (if using technology) against your IQ to understand the content of the transmission. If they lose, they get garbage. +20%.
+
+{{Indent}}Sensie: You can transmit your sensory impressions in real time. This is possible for any form of Telecommunication save Directional Sound or Sonar Comm - but with anything other than Telesend, the recipient needs a specially equipped receiver to get the &quot;full experience.&quot; +80%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Racial: Your ability only works on those of your own race or a very similar race, per Mind Reading (p. 69). -20%.
+
+{{Indent}}Receive Only: You can receive but not send. This limitation is not available for Telesend. -50%.
+
+{{Indent}}Send Only: You can send but not receive. This limitation is not available for Telesend. -50%.
+
+{{Indent}}Telepathic: Your ability is part of the Telepathy psi power (see p. 257). -10%.
+
+{{Indent}}Vague: You cannot send speech or pictures. You can only send a simple code (e.g., Morse code) - or general concepts and emotions, in the case of Telesend. -50%.
+|}

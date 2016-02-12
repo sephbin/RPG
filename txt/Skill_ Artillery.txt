@@ -1,0 +1,38 @@
+Skill: Artillery
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ARTILLERY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to use a heavy weapon, such as a trebuchet or a howitzer, for indirect fire - that is, to put fire onto a target area via a high ballistic arc or similar path. For direct fire, use Gunner skill (p. 198). Roll against Artillery skill to bombard the target
+
+{{Indent}}Loaders can make ST-based Artillery rolls to improve the rate of fire of certain crew-served heavy weapons. See the appropriate weapon description for details
+
+{{Indent}}You must specialize by weapon type. The available specialties vary by TL, but include one or more of:
+
+{{Indent}}&lt;i&gt;Beams:&lt;/i&gt; Any kind of heavy energy weapon that is fired from orbit, bounced off a mirror, or otherwise used against targets you cannot see
+
+{{Indent}}&lt;i&gt;Bombs:&lt;/i&gt; All kinds of unpowered, free-falling munitions
+
+{{Indent}}&lt;i&gt;Cannon:&lt;/i&gt; Any kind of heavy projectile weapon - bombard, howitzer, naval gun, etc
+
+{{Indent}}&lt;i&gt;Catapult:&lt;/i&gt; Any kind of indirect-fire mechanical siege engine, such as a trebuchet
+
+{{Indent}}&lt;i&gt;Guided Missile:&lt;/i&gt; Any kind of seeking or remotely piloted missile
+
+{{Indent}}&lt;i&gt;Torpedoes:&lt;/i&gt; Any kind of powered underwater projectile
+
+{{Indent}}There is no default between specialties, some of which (e.g., Torpedoes) cover weapons that bear little or no resemblance to true artillery. Artillery is a single skill only because all the weapons it covers use the same rules
+
+{{Indent}}The weapons covered by each specialty will vary by TL. For instance, Artillery (Cannon) would cover primitive bombards at TL3, brass cannon at TL4, breech-loading howitzers at TL6, and orbital railguns at TL9+
+
+{{Indent}}Familiarity is crucial here! Artillery (Cannon) covers both 81mm infantry mortars and 406mm naval guns, but going from one to the other will give -2 for weapon type (81mm vs. 406mm), -2 for fire-control (visual spotting vs. fire-direction center), and -2 for mount (bipod vs. naval turret), for a total of -6 to skill until you familiarize yourself with all the differences
+
+{{Indent}}Note that Forward Observer skill (p. 196) is generally required to designate targets for Artillery skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: All relevant combat modifiers; -2 for an unfamiliar firecontrol system (e.g., map coordinates when you're used to satellite imagery) or mount (e.g., a naval turret when you're used to emplaced guns), or for an unfamiliar weapon of a known type (e.g., 155mm when you are used to 203mm); -4 or more for a weapon in bad repair.&lt;/i&gt;&lt;/font&gt;
+|}

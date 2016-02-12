@@ -1,0 +1,12 @@
+Skill: Freight Handling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FREIGHT HANDLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of supervising the loading and unloading of vehicles (laborers do not require this skill - just their foreman). A successful skill roll cuts the time required by 20%. Also roll against Freight Handling skill any time there is doubt as to whether an item of cargo was lost or damaged; on a success, it made the journey intact
+|}

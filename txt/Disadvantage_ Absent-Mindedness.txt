@@ -1,0 +1,16 @@
+Disadvantage: Absent-Mindedness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ABSENT-MINDEDNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have trouble focusing on anything not of immediate interest. You have -5 on all IQ and IQ-based skill rolls, save those for the task you are currently concentrating on. If no engaging task or topic presents itself, your attention will drift to more interesting matters in five minutes, and you will ignore your immediate surroundings until something catches your attention and brings you back. Once adrift in your own thoughts, you must roll against Perception-5 in order to notice any event short of personal physical injury.
+
+{{Indent}}You may attempt to rivet your attention on a boring topic through sheer strength of will. To do so, make a Will-5 roll once every five minutes. &quot;Boring topics&quot; include small talk, repetitive manual tasks, guard duty, driving on an empty highway . . .
+
+{{Indent}}Absent-minded individuals also tend to forget trivial tasks (like paying the bills) and items (like car keys and checkbooks). Whenever it becomes important that you have performed such a task or brought such an item, the GM should call for a roll against IQ-2. On a failure, this detail slipped your attention.
+
+{{Indent}}Example: An absent-minded detective is in a shootout. He was involved in gunplay earlier in the day, in which he fired four rounds, so the GM calls for an IQ-2 roll. The detective fails the roll, and discovers too late that he forgot to reload his weapon, so his revolver has only two bullets left!
+
+{{Indent}}This is the classic disadvantage for eccentric geniuses.
+|}

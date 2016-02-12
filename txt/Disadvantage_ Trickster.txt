@@ -1,0 +1,10 @@
+Disadvantage: Trickster
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TRICKSTER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You crave the excitement of outwitting dangerous foes. This is not ordinary practical joking. Playing simple tricks on innocent or harmless folk is no fun at all - it has to be perilous! There may be no need for this at all (in fact, there probably isn't), but you need the thrill of a battle of wits and dexterity.
+
+{{Indent}}Make a self-control roll each day. If you fail, you must try to trick a dangerous subject: a skilled warrior, a dangerous monster, a whole group of reasonably competent opponents, etc. If you resist, you get a cumulative -1 per day to your self-control roll until you finally fail a roll!
+|}

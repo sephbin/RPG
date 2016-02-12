@@ -1,0 +1,12 @@
+Disadvantage: Odious Personal Habits
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ODIOUS PERSONAL HABITS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5, -10, or -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You usually or always behave in a fashion repugnant to others. An Odious Personal Habit (OPH) is worth -5 points for every -1 to reaction rolls made by people who notice your problem. Specify the behavior when you create your character, and work out the point value with the GM.
+
+{{Indent}}Examples: Body odor, constant scratching, or tuneless humming would give -1 to reactions, and are worth -5 points apiece. Constant bad puns or spitting on the floor would give -2 to reactions, worth -10 points apiece. We leave -15-point habits (-3 to reactions) to the imagination of those depraved enough to want them!
+
+{{Indent}}The reaction penalty for an OPH applies only to members of your race. It is up to the GM to handle the reactions of other races. A constant drool will irritate other humans, but a Martian might not even notice – and a troll might think it was cute! Of course, an entire race can behave in a manner repugnant to most other races. These “Odious Racial Habits” are priced identically to OPHs.
+|}

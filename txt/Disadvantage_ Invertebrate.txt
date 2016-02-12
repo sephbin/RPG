@@ -1,0 +1,10 @@
+Disadvantage: Invertebrate
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INVERTEBRATE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-20 points''&lt;/font&gt;
+|-
+|{{Indent}}You have no spine, exoskeleton, or other natural body support. Use your full Basic Lift for the purpose of pushing, but only 1/4 your BL to calculate the weight you can lift, carry, or pull. This trait has a small side benefit, however: you can squeeze through much smaller openings than your size might suggest!
+
+{{Indent}}Note that this trait differs somewhat from the biological term &quot;invertebrate.&quot;
+|}

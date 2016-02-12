@@ -1,0 +1,12 @@
+Skill: Jumping
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''JUMPING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents trained jumping ability. When you attempt a difficult jump, roll against the higher of Jumping or DX. In addition, you may use half your Jumping skill (round down) instead of Basic Move when calculating jumping distance. For instance, Jumping-14 would let you jump if you had Basic Move 7. See Jumping (p. 352)
+|}

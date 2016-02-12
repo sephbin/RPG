@@ -1,0 +1,22 @@
+Skill: Lasso
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LASSO'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of throwing the lariat:
+
+{{Indent}}a long rope or thong with a sliding
+
+{{Indent}}noose at one end. Its intended purpose
+
+{{Indent}}is to snare animals, but it can also
+
+{{Indent}}entangle opponents in combat - see
+
+{{Indent}}Special Ranged Weapons (p. 410)
+|}

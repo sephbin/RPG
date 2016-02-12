@@ -1,0 +1,98 @@
+Skill: Melee Weapon
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MELEE WEAPON'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Varies''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is not one skill, but an entire collection of skills - one per class of closely related melee weapons. Melee Weapon skills are based on DX, and default to DX-4 if Easy, DX-5 if Average, or DX-6 if Hard. See specific skill descriptions for other defaults
+
+{{Indent}}Make a Melee Weapon roll to hit an opponent in combat. You may also use these skills to parry. Your Parry defense is (skill/2) + 3, rounded down
+
+{{Indent}}Melee weapons fall into broad categories on the basis of overall balance and function. When a rule refers to one of these categories, it applies to all weapons in that category and all Melee Weapon skills used to wield them. For instance, &quot;fencing weapons&quot; means &quot;all weapons used with any of Main-Gauche, Rapier, Saber, or Smallsword skill.&quot;
+
+{{Indent}}Fencing Weapons
+
+{{Indent}}Fencing weapons are light, onehanded weapons, usually hilted blades, optimized for parrying. If you have a fencing weapon, you get an improved retreating bonus when you parry - see Retreat (p. 377). Furthermore, you have half the usual penalty for parrying more than once with the same hand (see Parrying, p. 376)
+
+{{Indent}}Note that fencing weapons are light and likely to break when used to parry a heavier weapon. They cannot parry flail weapons at all! You must be relatively mobile to capitalize on their speed and maneuverability: all attacks and parries take a penalty equal to your encumbrance level (e.g., Heavy encumbrance gives -3 to hit or to parry)
+
+{{Indent}}The skills in this category default to one another at -3. They also default to sword skills, as noted below
+
+{{Indent}}Main-Gauche (DX/Average): Any weapon normally wielded with Knife or Jitte/Sai skill (see below), used in the &quot;off&quot; hand. With this skill, you may ignore the penalty for using the &quot;off&quot; hand on defense (attacks are still at -4) and the -1 for parrying with a knife. To wield a knife as a primary weapon, use Knife skill. &lt;i&gt;Defaults:&lt;/i&gt; Jitte/Sai-4 or Knife-4
+
+{{Indent}}Rapier (DX/Average): Any long (over 1 yard), light thrusting sword. &lt;i&gt;Default:&lt;/i&gt; Broadsword-4
+
+{{Indent}}Saber (DX/Average): Any light cutand- thrust sword. Note that cavalry sabers are quite heavy, and use Broadsword instead. &lt;i&gt;Defaults:&lt;/i&gt; Broadsword-4 or Shortsword-4
+
+{{Indent}}Smallsword (DX/Average): Any short (up to 1 yard), light thrusting sword or one-handed short staff (such as the sticks used in the martial arts arnis, escrima, and kali). &lt;i&gt;Default:&lt;/i&gt; Shortsword-4
+
+{{Indent}}Flails
+
+{{Indent}}A flail is any flexible, unbalanced weapon with its mass concentrated in the head. Such a weapon cannot parry if you have already attacked with it on your turn. Because flails tend to wrap around the target's shield or weapon, attempts to block them are at -2 and attempts to parry them are at -4. Fencing weapons and knives cannot parry them at all! An unarmed fighter can parry a flail, but at -4 in addition to any penalty for parrying unarmed
+
+{{Indent}}The skills in this category default to one another at -3
+
+{{Indent}}Flail (DX/Hard): Any one-handed flail, such as a morningstar or nunchaku. &lt;i&gt;Default:&lt;/i&gt; Axe/Mace-4
+
+{{Indent}}Two-Handed Flail (DX/Hard): Any two-handed flail. &lt;i&gt;Defaults:&lt;/i&gt; Kusari-4 or Two-Handed Axe/Mace-4
+
+{{Indent}}Impact Weapons
+
+{{Indent}}An impact weapon is any rigid, unbalanced weapon with most of its mass concentrated in the head. Such a weapon cannot parry if you have already attacked with it on your turn
+
+{{Indent}}The skills in this category default to one another at -3
+
+{{Indent}}Axe/Mace (DX/Average): Any shortor medium-length, one-handed impact weapon, such as an axe, hatchet, knobbed club, or pick. &lt;i&gt;Default:&lt;/i&gt; Flail-4
+
+{{Indent}}Two-Handed Axe/Mace (DX/Average): Any long, two-handed impact weapon, such as a baseball bat, battleaxe, maul, or warhammer. &lt;i&gt;Defaults:&lt;/i&gt; Polearm-4 or Two-Handed Flail-4
+
+{{Indent}}Pole Weapons
+
+{{Indent}}Pole weapons are long (usually wooden) shafts, often adorned with striking heads. All require two hands
+
+{{Indent}}Polearm (DX/Average): Any very long (at least 2 yards), unbalanced pole weapon with a heavy striking head, including the glaive, halberd, poleaxe, and countless others. Polearms become unready after an attack, but not after a parry. &lt;i&gt;Defaults:&lt;/i&gt; Spear-4, Staff-4, or Two- Handed Axe/Mace-4
+
+{{Indent}}Spear (DX/Average): Any long, balanced pole weapon with a thrusting point, including spears, javelins, tridents, and fixed bayonets. &lt;i&gt;Defaults:&lt;/i&gt; Polearm-4 or Staff-2
+
+{{Indent}}Staff (DX/Average): Any long, balanced pole without a striking head. This skill makes good use of the staff's extensive parrying surface when defending, giving +2 to your Parry score. &lt;i&gt;Defaults:&lt;/i&gt; Polearm-4 or Spear-2
+
+{{Indent}}Swords
+
+{{Indent}}A sword is a rigid, hilted blade with a thrusting point, cutting edge, or both. All swords are balanced, and can attack and parry without becoming unready
+
+{{Indent}}Broadsword (DX/Average): Any balanced, 2- to 4-foot blade wielded in one hand - broadsword, cavalry saber, scimitar, etc. This skill also covers any stick or club of similar size and balance to these blades, as well as bastard swords, katanas, and longswords used one-handed. &lt;i&gt;Defaults:&lt;/i&gt; Force Sword-4, Rapier-4, Saber-4, Shortsword-2, or Two-Handed Sword-4
+
+{{Indent}}Force Sword (DX/Average): Any sword with a &quot;blade&quot; made of energy instead of matter. This generally refers to an ultra-tech weapon that projects energy from a powered hilt, but extends to similar effects produced using magic or psionics. &lt;i&gt;Default:&lt;/i&gt; any sword skill at -3
+
+{{Indent}}Jitte/Sai (DX/Average): Any tined, one-handed sword designed to catch rigid weapons. Jitte/Sai weapons are built for disarming, and give +2 in the Quick Contest to disarm an opponent (see Knocking a Weapon Away, p. 401). Furthermore, if you attempt to disarm on the turn immediately after you parry your opponent's weapon, you need not roll to hit his weapon first. Just state that you are attempting to disarm and move directly to the Quick Contest! This still counts as an attack. &lt;i&gt;Defaults:&lt;/i&gt; Force Sword-4, Main- Gauche-4, or Shortsword-3
+
+{{Indent}}Knife (DX/Easy): Any rigid, hilted blade less than one foot long, from a pocketknife to a bowie knife. A knife has a very small parrying surface, which gives you -1 to your Parry score. &lt;i&gt;Defaults:&lt;/i&gt; Force Sword-3, Main- Gauche-3, or Shortsword-3
+
+{{Indent}}Shortsword (DX/Average): Any balanced, one-handed weapon 1-2 feet in length - including the shortsword and any club of comparable size and balance (e.g., a police baton). &lt;i&gt;Defaults:&lt;/i&gt; Broadsword-2, Force Sword-4, Jitte/Sai-3, Knife-4, Saber-4, Smallsword-4, or Tonfa-3
+
+{{Indent}}Two-Handed Sword (DX/Average): Any balanced, two-handed blade over 4 feet in length: greatswords, zweihanders, etc. This skill also covers quarterstaffs wielded like swords, as well as bastard swords, katanas, and longswords used two-handed. &lt;i&gt;Defaults:&lt;/i&gt; Broadsword-4 or Force Sword-4
+
+{{Indent}}Whips
+
+{{Indent}}A whip is a flexible weapon made from a length of chain, leather, wire, etc. A whip can be up to seven yards long - but note that a whip two yards or more in length cannot strike at one yard or closer, and is slow to ready after an attack. A whip tends to wind around its target, making it an excellent disarming and entangling weapon. However, a whip's lack of rigidity makes it a poor parrying weapon. For details, see Special Melee Weapon Rules (p. 404)
+
+{{Indent}}The skills in this category default to one another at -3
+
+{{Indent}}Force Whip (DX/Average): Any whip made of pure energy instead of matter. These are usually ultra-tech devices that project energy from a powered hilt, but magical or psi-tech versions are possible. Most force whips can lash the target but not ensnare him
+
+{{Indent}}Kusari (DX/Hard): A weighted chain wielded in two hands. &lt;i&gt;Default:&lt;/i&gt; Two-Handed Flail-4
+
+{{Indent}}Monowire Whip (DX/Hard): A whip made of a weighted length of monomolecular wire attached to a handle
+
+{{Indent}}Whip (DX/Average): Any ordinary whip
+
+{{Indent}}Other Weapons
+
+{{Indent}}Some hand weapons defy easy classification. For instance:
+
+{{Indent}}Tonfa (DX/Average): A tonfa is a baton with a protruding handle on one side. It can function as a baton, but you can also grasp it by the handle and hold it against the forearm in close combat. This grip lets you jab for thrust+1 crushing damage and parry close-combat attacks at (skill/2) + 3, rounded down. Roll vs. skill to change grips. On a success, the grip change is a free action. On a failure, you must spend the entire turn changing grips. A critical failure means you throw your weapon away! Default: Shortsword-3
+|}

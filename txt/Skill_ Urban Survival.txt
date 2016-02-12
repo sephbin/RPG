@@ -1,0 +1,12 @@
+Skill: Urban Survival
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''URBAN SURVIVAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Perception-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This talent covers the physical part of staying alive in a city environment, whether it's overpopulated or empty. (The social problems of city survival are covered by Streetwise skill.) A successful skill roll allows you to find clean rainwater; locate manholes from above or below; quickly locate building entrances, exits, stairwells, etc.; recognize and avoid physically dangerous areas, such as crumbling buildings; make and read city maps; find your way out of strange city areas; find a warm place to sleep outside in cold weather; and locate common types of buildings or businesses without asking anyone, just by your &quot;feel&quot; for the way cities are laid out
+|}

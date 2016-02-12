@@ -1,0 +1,8 @@
+Modifier: Unconscious Only
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNCONSCIOUS ONLY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-0.2''&lt;/font&gt;
+|-
+|{{Indent}}You may only take this limitation in conjunction with Uncontrollable (below). You cannot consciously activate your ability at all; it can only come into play under GM control, as a result of stress. Like Uncontrollable, you may buy this off later on, as you gain control over your ability.
+|}

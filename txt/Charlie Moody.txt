@@ -1,0 +1,14 @@
+Charlie Moody
+Charlie Moody (106RA - 132RA)
+Charlie’s death is commemorated in the naming of the island he died on; Moody Island
+
+{{#widget:Google Spreadsheet
+|key=1R_iRZHvj4eZJX5kwaBlr20O8tEiDXaAjYBwHYT80ZqQ
+|width=526
+|height=1000
+}}
+
+&lt;verbatim&gt;EmmettSheet&lt;/verbatim&gt;
+
+[[Category:PCs]]
+&lt;iframe width=&quot;&lt;!--{$width|escape:'html'|default:500}--&gt;&quot; height=&quot;&lt;!--{$height|escape:'html'|default:300}--&gt;&quot; frameborder=&quot;0&quot; src=&quot;https://docs.google.com/spreadsheets/d/1GD9HNilt4uRAdU2FEMy-5ALfKJ31FiT3LRY24zGtnEk/edit#gid=1941026117&quot;&gt;&lt;/iframe&gt;

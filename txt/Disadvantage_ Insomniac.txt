@@ -1,0 +1,14 @@
+Disadvantage: Insomniac
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INSOMNIAC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 or -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You go through periods where falling asleep is very difficult. During such an episode, you must make a HT- 1 roll once per night. On a success, you fall asleep easily, ending that episode of insomnia. On a failure, you lose two hours of sleep that night (and suffer all the usual effects; see Missed Sleep, p. 426) and the episode continues for another night. On a critical failure, you get no sleep that night. Point value depends on severity:
+
+{{Indent}}Mild: The GM secretly rolls 3d for the number of days between episodes. -10 points.
+
+{{Indent}}Severe: The GM rolls 2d-1 for the number of days between episodes. -15 points.
+
+{{Indent}}Regardless of severity, whenever you suffer prolonged stress, the GM can require a HT roll. Failure means an episode starts immediately.
+|}

@@ -1,0 +1,10 @@
+Disadvantage: Night Blindness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NIGHT BLINDNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have poor night vision. If the vision or combat penalty for poor lighting is between -1 and -4 for most people, your penalty is the worse of double the usual penalty or -3. If the usual penalty is -5 or worse, you function as though you were completely blind (see Blindness, p. 124). If you have Acute Vision (p. 35), it only applies in situations with no darkness penalty.
+
+{{Indent}}This trait is mutually exclusive with both Night Vision (p. 71) and Dark Vision (p. 47).
+|}

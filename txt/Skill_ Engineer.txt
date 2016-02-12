@@ -1,0 +1,54 @@
+Skill: Engineer
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENGINEER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: Special.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Mathematics (Applied) at TL5+, plus others as noted.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to design and build technological devices and systems. A successful roll lets you design a new system, diagnose a glitch, identify the purpose of a strange device, or improvise a gadget to solve a problem. Time required for each attempt is up to the GM
+
+{{Indent}}Note that engineers are designers and inventors; they are not necessarily skilled at the routine operation or maintenance of the things they design! For instance, Engineer (Small Arms) lets you design a new assault rifle, but you need Armoury skill to maintain it and Guns skill to shoot it
+
+{{Indent}}You must specialize. Possible fields include:
+
+{{Indent}}&lt;i&gt;Artillery:&lt;/i&gt; Designing whatever passes for artillery at your TL, from trebuchets to smart missiles. &lt;i&gt;Default:&lt;/i&gt; Armoury (Heavy Weapons)-6
+
+{{Indent}}&lt;i&gt;Civil:&lt;/i&gt; Planning highways, aqueducts, buildings, etc. &lt;i&gt;Default:&lt;/i&gt; Architecture-6
+
+{{Indent}}&lt;i&gt;Clockwork:&lt;/i&gt; Designing wind-up gadgetry - watches, mechanical men, and the like. &lt;i&gt;Default:&lt;/i&gt; Mechanic (Clockwork)-6
+
+{{Indent}}&lt;i&gt;Combat:&lt;/i&gt; Building or removing fortifications, trenches, etc. &lt;i&gt;Default:&lt;/i&gt; Explosives (Demolition)-6
+
+{{Indent}}&lt;i&gt;Electrical:&lt;/i&gt; Designing electrical systems, such as power cells and transmission lines. &lt;i&gt;Default:&lt;/i&gt; Electrician-6
+
+{{Indent}}&lt;i&gt;Electronics:&lt;/i&gt; Designing and building electronic apparatus, from computers to starship sensor arrays. (The specific technologies involved - vacuum tubes, transistors, photonics, etc. - will depend on the tech level.) &lt;i&gt;Default:&lt;/i&gt; Electronics Repair (any)-6
+
+{{Indent}}&lt;i&gt;Materials:&lt;/i&gt; Concocting new structural materials. &lt;i&gt;Prerequisites:&lt;/i&gt; Chemistry or Metallurgy. &lt;i&gt;Defaults:&lt;/i&gt; Chemistry-6 or Metallurgy-6
+
+{{Indent}}&lt;i&gt;Microtechnology:&lt;/i&gt; Designing micromachines. &lt;i&gt;Default:&lt;/i&gt; Mechanic (Micromachines)-6
+
+{{Indent}}&lt;i&gt;Mining:&lt;/i&gt; Designing underground structures. &lt;i&gt;Defaults:&lt;/i&gt; Explosives (Demolition)-6 or Geology (any)-6
+
+{{Indent}}&lt;i&gt;Nanotechnology:&lt;/i&gt; Designing nanomachines. &lt;i&gt;Default:&lt;/i&gt; Mechanic (Nanomachines)-6
+
+{{Indent}}&lt;i&gt;Parachronic:&lt;/i&gt; Designing apparatus for crossing dimensions or timelines
+
+{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Physics. &lt;i&gt;Default:&lt;/i&gt; Electronics Operation (Parachronic)- 6, but there is no default if your society has not discovered dimensional travel
+
+{{Indent}}&lt;i&gt;Psychotronics:&lt;/i&gt; Designing psionic technology, such as telepathic shields and amplifiers. &lt;i&gt;Default:&lt;/i&gt; Electronics Operation (Psychotronics)-6, but there is no default for individuals from backgrounds where psionics do not exist
+
+{{Indent}}&lt;i&gt;Robotics:&lt;/i&gt; Designing robotics and cybernetics. &lt;i&gt;Default:&lt;/i&gt; Mechanic (Robotics)-6
+
+{{Indent}}&lt;i&gt;Small Arms:&lt;/i&gt; Designing personal firearms, such as guns and portable rocket launchers. &lt;i&gt;Default:&lt;/i&gt; Armoury (Small Arms)-6
+
+{{Indent}}&lt;i&gt;Temporal:&lt;/i&gt; Designing time machines. &lt;i&gt;Prerequisite:&lt;/i&gt; Physics. &lt;i&gt;Default:&lt;/i&gt; Electronics Operation (Temporal)-6, but there is no default for individuals from backgrounds without time travel!
+
+{{Indent}}&lt;i&gt;Vehicle Type:&lt;/i&gt; Designing a single, broad class of vehicle. Examples include Engineer (Automobiles), Engineer (Ships), and Engineer (Starships). &lt;i&gt;Default:&lt;/i&gt; Mechanic (same vehicle type)-6
+
+{{Indent}}Engineer specialties normally default to one another at -4; however, the GM is free to rule that in his campaign, there is no default between exotic specialties (Nanotechnology, Parachronic, Psychotronics, etc.) and more mundane ones (Civil, Combat, Mining, etc.)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345). Up to +5 to build a gadget if you can give the GM a good description of what you want it to do.&lt;/i&gt;&lt;/font&gt;
+|}

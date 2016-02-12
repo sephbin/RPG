@@ -1,0 +1,12 @@
+Disadvantage: Guilt Complex
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GUILT COMPLEX'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You feel personally responsible for those who play a significant role in your life. This includes adventuring companions, employers, subordinates, Allies, Dependents, and those toward whom you have a Duty or a Sense of Duty. If anything bad happens to someone like this, you will be wracked by anxiety and guilt - even if there was nothing you could have done to avert the disaster.
+
+{{Indent}}If the mishap was not your fault, you will suffer the effects of Chronic Depression (p. 126) for (15 - Will) days, minimum one day. Use your Will as your effective self-control number. If the mishap was your fault, the effects of Chronic Depression will last (20 - Will) days, minimum two days, and your effective self-control number is Will-3.
+
+{{Indent}}Others may attempt to help you overcome your feelings of guilt by making Fast-Talk or Psychology rolls. The GM is free to modify their rolls, depending on how convincing they sounded. Roleplay it!
+|}

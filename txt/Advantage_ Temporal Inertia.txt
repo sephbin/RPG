@@ -1,0 +1,12 @@
+Advantage: Temporal Inertia
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TEMPORAL INERTIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are strongly rooted in probability. If history changes, you can remember both versions. If you are involved in a genuine time paradox, you are not erased, even if the rest of your world is! You have a place in the new timeline, whatever it is, and remember all your experiences - even the ones that never happened. (In an extreme case, you have two complete sets of memories, and must make an IQ roll any time you have to distinguish between them under stress . . . you might need Acting skill to stay out of the lunatic asylum.)
+
+{{Indent}}There is a drawback: there is a &quot;you&quot; in any parallel or split timeline you encounter, and he is as similar to you as the timeline allows.
+
+{{Indent}}This trait is only worthwhile in a campaign in which paradoxes or changes in history - erasing past events or whole timelines - are possible. See Unique (p. 160) for the opposite of this advantage.
+|}

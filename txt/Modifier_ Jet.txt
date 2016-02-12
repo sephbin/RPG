@@ -1,0 +1,12 @@
+Modifier: Jet
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''JET'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+0%''&lt;/font&gt;
+|-
+|{{Indent}}Your attack is a continuous stream, like a flamethrower. Treat it as a melee weapon with a very long reach rather than as a ranged weapon. Do not apply penalties for target range and speed.
+
+{{Indent}}An attack with Jet has no Acc, and has 1/2D 5 and Max 10 instead of its usual range. Increased Range increases range by 100% per level instead of its usual effects.
+
+{{Indent}}Jet is incompatible with Area Effect, Aura, Cone, Follow-Up, Melee Attack, and Rapid Fire.
+|}

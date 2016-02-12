@@ -1,0 +1,36 @@
+Advantage: Wild Talent
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WILD TALENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''20 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can simply do things without knowing how. Once per game session per level of this advantage, you may attempt a roll against any skill, using your score in the appropriate attribute: IQ for IQ-based skills, DX for DX-based skills, etc. You do not incur any default penalties, but situational and equipment modifiers apply normally, as do any modifiers for advantages or disadvantages. Tech level is irrelevant: a TL3 monk could make an IQ roll to use Computer Programming/TL12!
+
+{{Indent}}Wild Talent does apply to skills that normally have no default, provided you meet any advantage requirements. For instance, you could cast unknown magic spells provided you had Magery, or use unknown cinematic martial-arts skills provided you have Trained By A Master.
+
+{{Indent}}Wild Talent has no effect on skills you already know.
+
+{{Indent}}Hidden Gifts: Wild Talent could be a spontaneous manifestation of unrealized natural aptitude - or skills from a past life. Under stress, these gifts emerge in what's usually a learning experience. Take Retention (+25%), Emergencies Only (-30%), and Focused (-20%) in the area of aptitude. A &quot;natural spell-caster&quot; with Magery needs Focused, Magical, while someone who uses Reawakened (p. B80) to recall past lives has Focused, Past Lives.
+
+{{Indent}}Telepresence: Someone with Digital Mind or the Machine meta-trait might be able to ask a &quot;remote operator&quot; with useful skills to take control of his body for the duration of a task. He remains aware of what his body is doing, but he has no access to his operator's knowledge. Add External (-20%), and use Focused (-20%) to limit skills to those known by the remote operator(s).
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Retention: You can learn the skills you use! To do so, you must have one unspent character point available when you attempt the skill roll. On a success, you may buy the skill at the one-point level. You cannot improve a skill learned this way for one month, during which time you use it at -2. On a critical success, you can start improving the skill immediately, and there is no -2. On a failure, you cannot learn the skill; on a critical failure, you also lose your unspent character point! Regardless of success, if you lack any of the skill's prerequisites, your skill is at -4 until you acquire them, and you cannot improve the skill in the interim. This enhancement does not let you learn skills from a TL higher than your own. +25%.
+
+{{Indent}}Wild Ability: Only for those with powers. In addition to unknown skills, you can use abilities you don't have. Any such ability must be part of one of your powers, and can't have modifiers other than those required by the power it belongs to (for instance, its power modifier). You get one &quot;use&quot; of the ability - which means exactly what it does for Limited Use (p. B112). If the ability comes in dice or levels, you produce effects equal to one level or 30 points worth, whichever is better. +50%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Emergencies Only: Your Wild Talent only works in life-threatening situations, such as mortal combat. To use it, you must ask for a particular result related to your predicament. Your request must be specific (e.g., &quot;Get him away from me.&quot;), but you cannot specify a skill (e.g., &quot;Use Judo&quot; or &quot;Cast the Command spell&quot;). The GM will then choose a skill that could bring about the desired result. He is not limited to mundane skills; he may choose a spell if you have Magery, a cinematic martial-arts skill if you have Trained By A Master, and so forth. Once the GM has chosen, roll against the governing attribute, as usual. If the GM feels you already have skills equal to the task, he will advise you on which skill to use. This still counts as one of your uses of Wild Talent! -30%.
+
+{{Indent}}Focused: You can only use (and if you have Retention, learn) one specific class of skills. Options include Mental (mundane skills based on IQ, Perception, or Will), Physical (mundane skills based on ST, DX, or HT), Magical (spells), and Chi (cinematic martial-arts skill). -20%.
+
+{{Indent}}External: Some remote party communicates the necessary skills to you. Specify whether they use radio, telepathy, or something else (for ideas, see Telecommunication, p. B91). Enemies might be able to jam the signal, compromise the person at the other end, etc. -20%.
+|}

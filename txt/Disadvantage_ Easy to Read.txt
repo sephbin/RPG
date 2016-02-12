@@ -1,0 +1,12 @@
+Disadvantage: Easy to Read
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EASY TO READ'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}Your body language betrays your true intentions. This is not the same as Truthfulness (p. 159). You have no moral problem with lying, and may even possess Fast-Talk at a high level, but your face or stance gives the game away.
+
+{{Indent}}Easy to Read gives others +4 on all Empathy, Body Language, and Psychology rolls to discern your intentions or the truth of your words. As well, they get +4 to their IQ, Detect Lies, and Gambling rolls in any Quick Contest with your Acting, Fast-Talk, or Gambling skill when you try to lie or bluff. (If you also have Truthfulness, your Fast-Talk skill is at -5 on top of this.) This is a crippling disadvantage for a would-be spy, con man, or gambler!
+
+{{Indent}}This is a mental disadvantage, despite its physical manifestations; with enough practice, you can &quot;buy it off.&quot;
+|}

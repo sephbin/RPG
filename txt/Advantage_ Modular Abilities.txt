@@ -1,0 +1,50 @@
+Advantage: Modular Abilities
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MODULAR ABILITIES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have a pool of character points that you can reallocate under certain conditions. You may rearrange these points to add a skill (spell, technique, etc.) or mental advantage temporarily - or to improve such a trait, if you already have it. When you do, you lose any abilities to which those points were previously assigned.
+
+{{Indent}}This advantage comes in &quot;slots.&quot; A slot can hold one skill or mental advantage at a time. Each slot has a fixed base cost, plus a cost per point in the pool for that slot. Both costs depend on the type of Modular Abilities you have.
+
+{{Indent}}Computer Brain: Your abilities are actually computer programs. The GM decides whether a program exists for a given ability. If you have Telecommunication (p. 91), you may download programs, usually from a network. How long this takes depends on the speed of data transfer in the setting - a second per character point works well. In some worlds, you must pay for such programs; $100 per character point is typical. Cost per slot: 6 points base + 4 points per point of abilities.
+
+{{Indent}}Chip Slots: As above, but the programs come on physical chips that you must plug into a socket - usually in your skull. It takes three seconds to insert or remove a chip. Chips typically have negligible weight, but cost $100 to $1,000 per point of abilities. Cost per slot: 5 points base + 3 points per point of abilities.
+
+{{Indent}}Super-Memorization: You gain new abilities through rapid study. This takes a second per character point. You can &quot;forget&quot; a memorized ability instantly. You can only memorize abilities if you have a suitable reference work (book, film, tape, etc.). The GM determines the cash cost of such works. Cost per slot: 5 points base + 3 points per point of abilities.
+
+{{Indent}}Cosmic Power: You simply wish new abilities into being. This takes one second per ability. Unlike other Modular Abilities, you only ever have one &quot;slot,&quot; and can rearrange your points into as many or as few abilities as you wish, to the limit of your advantage. 10 points per point of abilities.
+
+{{Indent}}Example: Alex buys two Chip Slots at a base cost of 5 points/slot. This costs 10 points. One slot can hold a chip with a single ability worth up to 2 points, and costs 6 points. The other can hold up to 5 points, and costs 15 points. Total cost is 31 points. This appears on Alex's character sheet as &quot;Chip Slots 2 (2, 5).&quot; Alex will have to buy, borrow, or steal the chips he uses - but he need not pay character points for them.
+
+{{Indent}}Use Preparation Required (p. 114) to increase the time needed to rearrange your points, and Limited Use (p. 112) to represent an ability that you forget immediately after using it.
+
+{{Indent}}Chip Slots: Use this for cyborgs with removable hardware. This usually means &quot;skill chips,&quot; but with the Physical enhancement, sockets for standardized equipment modules - &quot;Gadget Slots&quot; - are an option. Add Limited if these sockets can only accept a specific type of equipment.
+
+{{Indent}}Computer Brain: This is for AIs and cyborgs with implanted computers, who download programs instead of plugging them in. The Physical enhancement rarely makes sense, but the Virtual limitation is common and definitely allowed for those who can only use their abilities online or in &quot;cyberspace.&quot;
+
+{{Indent}}Cosmic Power: Ideal for gods and supers! The Physical enhancement is common. Use Limited to confine gods to a &quot;sphere of influence&quot; or restrict supers to an element. If they shape existing matter or energy, and are powerless without it, add Environmental (p. 110) instead.
+
+{{Indent}}Super-Memorization: This suits wizards and cinematic geniuses. Physical is rarely appropriate, as few physical advantages are &quot;memorized.&quot; Limited frequently restricts use to spells, languages, or specific classes of skills.
+
+{{Indent}}Divine Inspiration: Your abilities are minor wishes granted by a Higher Power. You can request nearly any ability at any time (add Physical or Social to have more options). However, your deity - as played by the GM - occasionally overrules you. Reallocating points requires at least a second of prayer per character point. Cost per slot: 6 points base + 4 points per point of abilities.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Physical: Your ability is not limited to skills and mental advantages. +50% for physical advantages only, or +100% for any mental or physical ability.
+
+{{Indent}}Social: You can add social advantages. Work out how you do this with the GM. If you somehow alter records, the GM may limit available traits to Alternate Identity, Clerical Investment, Independent Income, Legal Enforcement Powers, Legal Immunity, Rank, Security Clearance, Tenure, and Zeroed. +0% for social advantages only; +50% for any mental or social ability. To add any ability, combine Social, +50% with Physical, +100%; other combinations are forbidden.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Spells Only: Your ability only works with magic spells, which must usually be &quot;memorized&quot; from a grimoire. This is mutually exclusive with Physical. -20%.
+
+{{Indent}}Virtual: The abilities gained only apply in virtual reality, astral space, or another limited realm. -50%.
+|}

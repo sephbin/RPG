@@ -1,0 +1,20 @@
+Skill: Meteorology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''METEOROLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of the weather, and the ability to predict it. It includes familiarity with technological aids such as barometers and satellite maps, but you can still function without your instruments. (If you can't, you're a meter-reader, not a meteorologist!)
+
+{{Indent}}When you wish to predict the weather, the GM rolls against your skill in secret. On a success, he tells the truth; on a failure, he answers randomly, or lies. Each skill roll predicts the weather for one day. If one day's roll fails, subsequent ones can't succeed. For instance, a three-day forecast would require three skill rolls: the first for tomorrow, the second for the next day, and the third for the day after that
+
+{{Indent}}A successful roll also allows you to deduce what sort of general climate to expect when you visit a new area
+
+{{Indent}}At TL4 or less, this skill is called Weather Sense, and you get +2 to skill in your home area. At TL5 and up, Meteorology is a scientific skill, and you must specialize by planet type; see Planet Types (p. 180) for details
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Time is a major factor! There is no penalty to predict tomorrow's weather, but you have -1 for 2 days, -2 for 3 days, -4 for 4 days, -6 for 5 days, and an additional -2 per day for each further day. Instrumentation becomes useful with the development of the barometer at TL4, after which equipment modifiers (p. 345) apply. You must know this skill at better than default to claim bonuses for good equipment.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,12 @@
+Disadvantage: Cannot Speak
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CANNOT SPEAK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 or -25 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a limited capacity for speech. This trait comes in two levels:
+
+{{Indent}}Cannot Speak: You can make vocal sounds (bark, growl, trill, etc., as appropriate), but your speech organs are incapable of the subtle modulations required for language. You may still have the Mimicry or Voice advantage, or the Disturbing Voice disadvantage (but not Stuttering). Most animals have this trait. -15 points.
+
+{{Indent}}Mute: You cannot vocalize at all. All communications with others must be nonverbal: writing, sign language, Morse code, telepathy, etc. Time spent communicating this way counts at full value for study of the related skills (see Chapter 9). No roll is required (or allowed!) when you try to communicate with PCs who don't know your sign language - roleplay this on your own! You cannot have any other voicerelated traits. -25 points.
+|}

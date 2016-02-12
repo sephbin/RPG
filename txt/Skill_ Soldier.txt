@@ -1,0 +1,20 @@
+Skill: Soldier
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOLDIER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents a combination of basic military training - the lessons taught at &quot;boot camp&quot; or its equivalent in your game world - and actual combat experience. Only those who have served in an army, militia, etc. are likely to know it
+
+{{Indent}}The GM may require a Soldier roll whenever circumstances would test your battlefield discipline (knowing when to shoot, use concealment, take cover, etc.) or skill at practical field survival (e.g., keeping your feet dry and eating when you get the chance). Roll daily during prolonged military action. Failure means an inconvenience - perhaps a minor piece of equipment fails. Critical failure indicates a disaster: &quot;friendly fire&quot; incident, trench foot, etc
+
+{{Indent}}Soldier includes basic lessons in many fields covered by other skills. For instance, a TL8 soldier learns to strip his rifle without learning Armoury (Small Arms), to use a radio without learning Electronics Operation (Comm), to dig a foxhole without learning Engineer (Combat), and so forth. In a situation where someone with one of those skills would roll at +4 or better for a routine task (see Task Difficulty, p. 345), the GM may let you roll against Soldier skill instead. You do not receive the bonus that someone with the fullfledged skill would get, but you do suffer any situational penalties
+
+{{Indent}}Soldier can only substitute for skill rolls to do things that would be a believable part of basic training. This means the routine use of standard equipment by ordinary troops - not research, improvisation, or design, and never the operation of new or secret technologies! Soldier cannot replace weapon skills, either; you must buy all such skills separately
+
+{{Indent}}&lt;i&gt;Example:&lt;/i&gt; If someone with Electronics Operation (Comm) would be at +4 to call HQ on a standard-issue radio, you could do so with a successful Soldier roll. However, you could not use Soldier to fix a broken radio, use an enemy radio, or transmit coded signals
+|}

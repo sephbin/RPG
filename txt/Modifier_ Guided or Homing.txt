@@ -1,0 +1,16 @@
+Modifier: Guided or Homing
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GUIDED OR HOMING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You can guide your attack - or perhaps it &quot;homes in&quot; by itself! Use this enhancement to create guided missiles and supernatural effects such as magical javelins that seek your foes.
+
+{{Indent}}Guided: You steer your attack to the target using your own skill. This lets you ignore all range penalties to hit! If the target is so distant that your attack needs multiple turns to reach it (see below), you must take a Concentrate maneuver each turn. If you lose sight of the target while the attack is en route, your attack automatically misses. +50%.
+
+{{Indent}}Homing: Your attack steers itself. Decide how it seeks its target: with ordinary vision or a sensory advantage such as Detect (p. 48), Infravision (p. 60), Night Vision (p. 71), Scanning Sense (p. 81), or Vibration Sense (p. 96). The attack uses this sense for the purpose of combat modifiers; e.g., radar ignores darkness but can be jammed. To &quot;lock on,&quot; you must Aim at the target and make an unmodified skill roll. Do not roll against your skill to hit. Instead, use the attack's skill of 10 - plus Accuracy, if you made your skill roll - and ignore all range penalties. Homing costs a base +50%, plus 1% per point the chosen homing mechanism would cost if bought as an advantage (without any modifiers); e.g., Infravision costs 10 points, making Homing (Infravision) +60%. Ordinary vision uses the base +50%.
+
+{{Indent}}If a Guided or Homing attack has a 1/2D statistic, read this as the attack's speed in yards/second. The attack can hit a target at up to its 1/2D range on the turn you launch it. It requires multiple turns to reach more distant targets. Do not halve damage, but defer the attack roll until the attack reaches its target.
+
+{{Indent}}For more information, see Guided and Homing Weapons (p. 412).
+|}

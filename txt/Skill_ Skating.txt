@@ -1,0 +1,12 @@
+Skill: Skating
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SKATING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}When you are moving on skates, this skill replaces Hiking skill (p. 200) for routine travel and Running skill (p. 218) for racing. The GM may also require DX-based skill rolls in combat or chases, or for hazardous maneuvers, conditions, or speeds. Under those circumstances, any failure indicates a fall, while critical failure results in 1d-2 damage to a randomly chosen limb
+|}

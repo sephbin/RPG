@@ -1,0 +1,26 @@
+Disadvantage: Weakness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WEAKNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You suffer injury merely by being in the presence of a particular substance or condition (which cannot be a food item or something equally easy to avoid). This injury comes off your HP directly, regardless of your DR or defensive advantages. The more quickly you take damage, the more points your Weakness is worth:
+
+{{Indent}}[[pic]]
+
+{{Indent}}Multiply the base value to reflect the rarity of the damaging substance or condition: Rare (e.g., exotic radiation or minerals): x1/2.
+
+{{Indent}}O c c a s i o n a l (e.g., microwave radiation, intense normal cold, airborne pollen): x1.
+
+{{Indent}}Common (e.g., smoke, nearby magic, horses, loud noises): x2.
+
+{{Indent}}Very Common (e.g., sunlight, living plants): x3. Example: An anaerobic organism takes 1d per minute from oxygen. The base value of a Weakness that inflicts 1d per minute is -20 points. Since oxygen is &quot;Very Common,&quot; final cost is -60 points.
+
+{{Indent}}You may not take more than two types of Weakness without GM permission.
+
+{{Indent}}Special Limitations
+
+{{Indent}}Fatigue Only: Your Weakness drains FP instead of HP. -50%.
+
+{{Indent}}Variable: Your Weakness is sensitive to received intensity. You may specify one relatively common class of barriers that halves the rate at which you take damage (e.g., heavy clothing or sunscreen, for sunlight). On the other hand, intense sources (GM's decision) double the rate at which you suffer harm! -40%.
+|}

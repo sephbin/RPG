@@ -1,0 +1,16 @@
+Disadvantage: Honesty
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HONESTY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You must obey the law, and do your best to get others to do so as well. In an area with little or no law, you do not &quot;go wild&quot; - you act as though the laws of your own home were in force. You also assume that others are honest unless you know otherwise (make an IQ roll to realize someone might be dishonest if you haven't seen proof).
+
+{{Indent}}This is a disadvantage, because it often limits your options! Make a selfcontrol roll when faced with the &quot;need&quot; to break unreasonable laws; if you fail, you must obey the law, whatever the consequences. If you manage to resist your urges and break the law, make a second self-control roll afterward. If you fail, you must turn yourself in to the authorities!
+
+{{Indent}}You may fight (or even start a fight, if you do it in a legal way). You may even kill in a legal duel or in selfdefense - but you may never murder. You may steal if there is great need, but only as a last resort, and you must attempt to pay your victims back later. If you are jailed for a crime you did not commit, but treated fairly and assured of a trial, you will not try to escape.
+
+{{Indent}}You always keep your word. (In a war, you may act &quot;dishonestly&quot; against the enemy, but you will not be happy about it!) However, you are allowed to lie if it does not involve breaking the law. Truthfulness (p. 159) is a separate disadvantage.
+
+{{Indent}}Honesty has its rewards, of course. If you stay alive and in one place long enough for your honesty to become known, the GM should give you +1 on any noncombat reaction roll - or +3 if a question of trust or honor is involved. This is essentially a free Reputation (see Reputation, p. 26).
+|}

@@ -1,0 +1,12 @@
+Disadvantage: Reprogrammable
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REPROGRAMMABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can be programmed to obey a master. If you have Slave Mentality (p. 154), you must obey slavishly, and remain strictly within the letter of your master's commands. If you lack Slave Mentality, you may interpret his orders creatively, as long as you remain within either their letter or spirit (your choice). If you are nonsentient (IQ 0), you have no interest in doing anything but following your programming!
+
+{{Indent}}You may have both Duty and Reprogrammable. If so, you must do your best to fulfill both obligations. Should the two come into conflict, your programming always comes first.
+
+{{Indent}}This trait is most appropriate for golems, mindless undead, robots, and similar automata. It is rarely suitable for PCs, and the GM may choose to forbid it entirely.
+|}

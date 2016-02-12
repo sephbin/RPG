@@ -1,0 +1,42 @@
+Disadvantage: Dependency
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DEPENDENCY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You must regularly ingest a substance (e.g., a drug or magic potion), touch or carry an object (e.g., a holy shrine or magical amulet), or spend time in an environment (e.g., your coffin or your home country, planet, or plane) in order to survive. If you fail to do so, you start to lose HP and will eventually die. Point value depends on the rarity of the item you depend on:
+
+{{Indent}}Rare (cannot be bought; must be found or made): -30 points.
+
+{{Indent}}Occasional (very expensive or hard to find): -20 points.
+
+{{Indent}}Common (expensive, somewhat hard to find): -10 points.
+
+{{Indent}}Very Common (available almost anywhere): -5 points.
+
+{{Indent}}Add -5 points to these values for items that are illegal in your game world.
+
+{{Indent}}Apply a multiplier based on the frequency with which you must receive the item:
+
+{{Indent}}Constantly: You must carry and use the substance at all times - for example, an exotic atmosphere. Lose 1 HP per minute without the substance. x5.
+
+{{Indent}}Hourly: Lose 1 HP per 10 minutes after missing an hourly dose. x4.
+
+{{Indent}}Daily: Lose 1 HP per hour after missing a daily dose. x3.
+
+{{Indent}}Weekly: Lose 1 HP per six hours after missing a weekly dose. x2.
+
+{{Indent}}Monthly: Lose 1 HP per day after missing a monthly dose. x1.
+
+{{Indent}}Seasonally: Lose 1 HP per three days after missing a seasonal dose (a &quot;season&quot; is three months for this purpose). x1/3 (drop all fractions). Yearly: Lose 1 HP per two weeks after missing a yearly dose. x1/10 (drop all fractions).
+
+{{Indent}}If you need to touch an object or spend time in an environment, you must do so for time equal to your damage interval in order to avoid damage. For instance, to avoid losing 1 HP per hour to a daily Dependency on rest in your coffin, you must spend at least one hour per day in your coffin. To avoid losing 1 HP every two weeks to a yearly Dependency on visiting your home planet, you must visit your home planet for at least two weeks per year.
+
+{{Indent}}With the GM's permission, normal humans may take this disadvantage to represent the special requirements of certain chronic illnesses.
+
+{{Indent}}Not every life-support requirement qualifies as Dependency. Use Maintenance (p. 143) if you require skilled care - not a substance, object, or environment - to avoid HT loss (not injury). Use Restricted Diet (p. 151) for special dietary requirements that result in slow starvation as opposed to rapid HP loss when you are forced to do without.
+
+{{Indent}}Special Enhancements
+
+{{Indent}}Aging: You age unnaturally without the item you depend on. For each HP lost, you also age two years (even if you are normally Unaging). +30%.
+|}

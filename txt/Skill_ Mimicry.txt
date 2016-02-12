@@ -1,0 +1,22 @@
+Skill: Mimicry
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MIMICRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to imitate voices. The Voice advantage (p. 97) gives +2 to skill. You must specialize:
+
+{{Indent}}&lt;i&gt;Animal Sounds:&lt;/i&gt; Lets you emulate a lion's roar, a wolf's howl, a frog's croak, etc. You can only imitate animals that have distinctive sounds. Make a skill roll to attract animals of the type mimicked - or predators that normally hunt those animals - if any are nearby. To fool people, you must win a Quick Contest of Mimicry vs. the listeners' Naturalist-3 or Perception-6. &lt;i&gt;Default:&lt;/i&gt; Naturalist-6
+
+{{Indent}}&lt;i&gt;Bird Calls:&lt;/i&gt; Allows you to reproduce the whistles, chirps, and other sounds made by birds. Otherwise, this works as Animal Sounds. &lt;i&gt;Default:&lt;/i&gt; Naturalist-6
+
+{{Indent}}&lt;i&gt;Speech:&lt;/i&gt; Enables you to imitate vocal sounds. This does not allow you to converse in a foreign language, but if you have heard it, you can reproduce the sound of it. If you are trying to mimic a specific person, roll at -3. Treat this roll as a Quick Contest vs. the IQ of anyone who knows the person mimicked well. &lt;i&gt;Defaults:&lt;/i&gt; Acting-6 or Linguistics-4
+
+{{Indent}}Animal Sounds and Bird Calls default to one another at -6. There is no default between these specialties and Speech
+
+{{Indent}}Note that if you have the Mimicry advantage (p. 68), there is no need to learn this skill!
+|}

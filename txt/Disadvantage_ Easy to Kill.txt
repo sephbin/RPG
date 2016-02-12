@@ -1,0 +1,8 @@
+Disadvantage: Easy to Kill
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EASY TO KILL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-2 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You have a health problem or structural weakness that leaves you prone to catastrophic system failure if you suffer enough damage. Each level of Easy to Kill gives -1 to HT rolls made for survival at -HP or below, and on any HT roll where failure would mean instant death (e.g., heart failure). This does not affect most normal HT rolls - only those to avoid certain death. You may not reduce your HT roll below 3. For instance, if you have HT 10, you are limited to Easy to Kill 7.
+|}

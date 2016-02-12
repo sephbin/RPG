@@ -1,0 +1,24 @@
+Disadvantage: Lame
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LAME'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 to -30 points''&lt;/font&gt;
+|-
+|{{Indent}}This disadvantage assumes that you are a member of a race with legs. If your entire race is legless, see No Legs (p. 145).
+
+{{Indent}}You have some degree of impaired mobility:
+
+{{Indent}}Crippled Legs: You have all of your legs, but some of them are damaged. For a human, this means one bad leg. You are at -3 to use any skill that requires the use of your legs, including all Melee Weapon and unarmed combat skills (but not ranged combat skills). You must reduce your Basic Move to half your Basic Speed (round down), but you get full points for this (see Basic Move, p. 17). -10 points.
+
+{{Indent}}Missing Legs: You have lost some, but not all, of your legs. For a human, this means you have one leg. You are at -6 to use any skill that requires the use of your legs. Using crutches or a peg leg, you can stand up and walk slowly. You must reduce Basic Move to 2, but you get full points for this. You can still kick, but between the standard -2 for a kick and the -6 for this disadvantage, you do so at DX-8! Without your crutches or peg leg, you cannot stand, walk, or kick. -20 points.
+
+{{Indent}}Legless: You are missing all of your legs, no matter how many you started out with. You are at -6 to use any skill that requires the use of your legs, and you cannot stand, kick, or walk at all. You must reduce Basic Move to 0, but you get full points for this. -30 points.
+
+{{Indent}}Paraplegic: You have all of your legs, but they are paralyzed. The effects and point value are identical to Legless. Unlike a Legless character, you can be struck in the legs for damage. This is balanced by the fact that it isn't inconceivable that you could regain the use of your legs (a Legless character is out of luck). -30 points.
+
+{{Indent}}Technological Assistance
+
+{{Indent}}A muscle-powered wheelchair or wheeled platform has ground Move equal to 1/4 your ST (round down), but cannot pass through narrow doorways, negotiate staircases or steep curbs, enter most vehicles, etc.
+
+{{Indent}}If you have advanced prosthetics that cancel this disadvantage while worn, apply a Mitigator limitation (p. 112) to Lame and any reduced Basic Move. If surgery or ultra-tech replacement parts eliminate this disadvantage completely, you must pay back the points you received for Lame and reduced Basic Move.
+|}

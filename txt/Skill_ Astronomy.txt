@@ -1,0 +1,14 @@
+Skill: Astronomy
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ASTRONOMY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Mathematics (Applied)
+
+{{Indent}}This is the study of stars and other extraplanetary objects. An astronomer could answer questions about the Sun, the planets of the solar system, etc. An amateur who can locate stars and use a telescope, but not perform involved calculations, has an optional specialty (p. 169): Astronomy (Observational). This specialty does not require Mathematics as a prerequisite
+|}

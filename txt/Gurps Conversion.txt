@@ -1,0 +1,105 @@
+Gurps Conversion
+==Racial Templates==
+====DWARF====
+''40 points''
+
+'''''Attribute Modifiers [10]:'''''
+HT+1 [10].
+
+'''''Secondary Characteristic Modifiers [9]:'''''
+FP+3 [9]; Will+1 [5]; Basic Move-1 [-5].
+
+'''''Advantages [40]:'''''
+[[Alcohol Tolerance]] [1]; [[Artificer]] 1 [10]; [[Detect]] Gold (Vague, -50%) [3]; [[Damage Resistance]] 1 (Tough Skin, -40%) [3]; [[Extended Lifespan]] 1 [2]; [[Lifting ST]] 2 [6]; [[Night Vision]] 5 [5]; Pickaxe Penchant 1* [5]; [[Resistant|Resistant to Poison]] (+3) [5].
+
+'''''Perks [1]:'''''
+Dwarven Gear† [1].
+
+'''''Disadvantages [-20]:'''''
+[[Greed]] (12) [-15]; [[Stubbornness]] [-5].
+
+Features: Armour isn't interchangeable with human armour.
+* Pickaxe Penchant: You’re a natural at fighting, bashing, and mining with axes and picks. This Talent adds to Axe/Mace, Forced Entry, Prospecting, Thrown Weapon (Axe/Mace), and Two-Handed Axe/Mace. Only dwarves can have it, and may buy up to three more levels at character creation. Reaction bonus: Miners. 5 points/level.
+† Dwarven Gear: 10% off the final price of gear qualified as “dwarven” – armour, rations, shields, weapons, whetstones, etc.
+
+{{Asbjorn}}
+
+==Class Abilities==
+====Rage/Alternate Form [20]====
+*'''Single [[Alternate Form]] [15]'''
+*'''Template [-4]'''
+** +2 ST [20]
+** +2 HT [20]
+** +2 HP [4]
+** [[Fearlessness]] 3 [6]
+** -2 DX [-40]
+** [[Beserk]] (Always On) [-14]
+* '''Fatigue 2 [-10%]'''
+* '''Reduced Time 5 [+100%]'''
+* '''Trigger [-10%]'''
+** Take Damage
+
+===Rage/Alternate Form (Removed Beserk) [49]===
+*'''Single Alternate Form [15]'''
+*'''Template [12]'''
+** +2 ST [20]
+** +2 HT [20]
+** +2 HP [4]
+** Fearlessness 3 [6]
+** -2 DX [-40]
+* '''Fatigue 2 [-10%]'''
+* '''Reduced Time 5 [+100%]'''
+* '''Trigger [-10%]'''
+** Take Damage
+
+==Bestiary==
+===Giant Praying Mantis===
+36 Points
+
+'''''Attributes [-36]'''''
+
+ST 16 [54]; DX 9 [-20]; IQ 1 [-180]; HT 12 [20]
+
+Damage 1d+1/2d+2; Basic Lift 97 lbs.; HP 20 [8]; Will 10 [45]; Per 10 [45]; FP 11 [-3]; Siz Mod +1
+Basic Speed 5.25; Basic Move 4 [-5]; Air Move 8; Ground Move 4
+
+Block 0; Dodge 8; Parry 0
+DR: 2
+
+Bite (skill 9; 1d cut)
+Grapple (effective DX 12; effective ST 22)
+
+'''''Advantages [118]'''''
+
+[[Arm DX]] 3 (Two arms; One Attack Only (Grappling), -60%) [20]
+[[Damage Resistance]] 2 (Shell; Can't Wear Armor, -40%) [6]
+[[Dark Vision]] [25]
+[[Extra Legs]] (4 Legs; Cannot Kick, -50%) [3]
+[[Flight]] (Cannot Hover, -15%; Winged, -25%) [24]
+[[High Pain Threshold]] [10]
+[[Injury Tolerance]] (No Vitals) [5]
+[[Lifting ST]] 6 (Size, -10%) [17]
+Racial Skill Bonus 1 (Stealth) [2]
+[[Single-Minded]] [5]
+[[Teeth]] (Sharp Teeth) [1]
+
+'''''Disadvantages [-54]'''''
+
+[[Bestial]] [-10]
+[[Cannot Speak]] [-15]
+[[Ham-Fisted]] (-2) [-10]
+[[Hidebound]] [-5]
+[[Loner]] (6 or less) [-10]
+[[Reduced Air Move]] -2 [-4]
+[[Taboo Trait]] (Fixed IQ) [0]
+
+'''''Skills [8]'''''
+
+Stealth DX/A - DX+3 12 [8]
+includes: +1 from 'Racial Skill Bonus (Stealth)'
+
+Stats [-36] Ads [118] Disads [-54] Quirks [0] Skills [8] = Total [36]
+
+Giant Praying Mantis' are around 9 feet in length and are excellent solitary predators. They stand perfectly still until prey comes within range, at which point they grapple (usually for the torso), after which the prey is attacked with the bite (often aimed at the neck). They can also carry off anyone of ST 11 or less or anyone they have managed to pin (pg 371). They can also attempt to crush the torso of anyone of Size 0 or less (see Choke, pg 371).
+
+[[Category:GURPS]]

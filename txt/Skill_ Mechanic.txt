@@ -1,0 +1,106 @@
+Skill: Mechanic
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MECHANIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Engineer (same)-4, or Machinist-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to diagnose and fix ordinary mechanical problems. A successful skill roll will let you find or repair one problem
+
+{{Indent}}You must pick a specialty from within one of these four categories:
+
+{{Indent}}&lt;i&gt;Machine Type:&lt;/i&gt; Any one class of nonvehicular machine. Types include Micromachines (miniature machinery, invisible to the naked eye; TL9+), Nanomachines (molecular-scale machinery; TL10+), and Robotics (robots and automated factories; TL7+)
+
+{{Indent}}&lt;i&gt;Motive System Type:&lt;/i&gt; Any one type
+
+{{Indent}}of propulsion system, regardless of
+
+{{Indent}}vehicle type. Types include Legged,
+
+{{Indent}}Tracked, Wheeled, Rockets, and
+
+{{Indent}}Reactionless Thrusters
+
+{{Indent}}&lt;i&gt;Power Plant Type:&lt;/i&gt; Any one type
+
+{{Indent}}of power plant, no matter what it
+
+{{Indent}}powers. Types include Clockwork,
+
+{{Indent}}Steam Engine, Gasoline Engine,
+
+{{Indent}}Diesel Engine, Gas Turbine, Fuel Cell,
+
+{{Indent}}Fission Reactor, Fusion Reactor, and
+
+{{Indent}}Antimatter Reactor
+
+{{Indent}}&lt;i&gt;Vehicle Type:&lt;/i&gt; The controls, hull,
+
+{{Indent}}motive system, power plant, transmission,
+
+{{Indent}}and even the paint job of one specific
+
+{{Indent}}type of vehicle listed under a vehicle-
+
+{{Indent}}operation skill such as Driving
+
+{{Indent}}(p. 188), Piloting (p. 214), or
+
+{{Indent}}Submarine (p. 223)
+
+{{Indent}}Mechanic specialties default to one
+
+{{Indent}}another at -4, although the GM may
+
+{{Indent}}modify this for particularly close or distant
+
+{{Indent}}specialties. The systems covered by
+
+{{Indent}}each specialty vary by TL. For instance,
+
+{{Indent}}Mechanic (Light Airplane) covers single-
+
+{{Indent}}engine biplanes at early TL6, small
+
+{{Indent}}private jets at TL7, and so forth
+
+{{Indent}}Familiarity is very important here
+
+{{Indent}}For instance, Mechanic7 (Light
+
+{{Indent}}Airplane) covers both propeller-powered
+
+{{Indent}}seaplanes and small private jets,
+
+{{Indent}}but going from one to the other gives
+
+{{Indent}}you -2 for an unfamiliar item (proppowered
+
+{{Indent}}plane to jet) and -2 for an
+
+{{Indent}}unfamiliar implementation (seaplane
+
+{{Indent}}to regular plane), for a net -4 to skill
+
+{{Indent}}until you familiarize yourself with all
+
+{{Indent}}the differences
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -2 for an unfamiliar item&lt;/i&gt;&lt;/font&gt;
+
+{{Indent}}within your specialty (e.g., a barge
+
+{{Indent}}when you're used to battleships), or
+
+{{Indent}}for an unfamiliar implementation
+
+{{Indent}}(e.g., a powerboat engine when you're
+
+{{Indent}}used to automobile engines); equipment
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;modifiers (p. 345).&lt;/i&gt;&lt;/font&gt;
+|}

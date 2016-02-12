@@ -1,0 +1,14 @@
+Skill: Biology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BIOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Naturalist-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the scientific study of the structure, behavior, and habitats of living organisms. You must specialize in the life of a particular planet type (see box). If you do not specify a planet type, your native planet type is assumed. The IQ default applies only to the planet type you grew up on. The default between different planet-type specialties is -4
+
+{{Indent}}At TL6+, most biologists have an optional specialty (p. 169) as well. The most common options are biochemistry (the study of the chemical reactions that sustain life), botany (the study of plants), ecology (the study of environments), genetics (the study of heredity and genomes), marine biology (the study of ocean life), microbiology (the study of microscopic organisms), and zoology (the study of animals), but more obscure specialties are possible
+|}

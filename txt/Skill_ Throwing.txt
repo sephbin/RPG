@@ -1,0 +1,14 @@
+Skill: Throwing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''THROWING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: DX-3 or Dropping-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to throw any small, relatively smooth object that fits in the palm of your hand. Examples include baseballs, hand grenades, and rocks. (Boomerangs, javelins, knives, etc. require their own specialized skills; see Thrown Weapon, below.) Roll against skill to hit. Furthermore, if you know Throwing at DX+1 level, add +1 to ST when figuring throwing distance (but not damage). Add +2 to ST for Throwing at DX+2 or better
+
+{{Indent}}If you do not have this skill, roll against your default to hit a specific target, but against full DX to lob an object into a general area
+|}

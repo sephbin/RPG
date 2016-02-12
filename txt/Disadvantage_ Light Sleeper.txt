@@ -1,0 +1,10 @@
+Disadvantage: Light Sleeper
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIGHT SLEEPER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You do not sleep as soundly or as easily as most people. Whenever you must sleep in an uncomfortable place, or whenever there is more than the slightest noise, you must make a HT roll in order to fall asleep. On a failure, you can try again after one hour, but you will suffer all the usual effects of one hour of missed sleep (see Missed Sleep, p. 426).
+
+{{Indent}}You usually wake up if there is activity going on around you (but you are stunned unless you have Combat Reflexes). If you wish to continue sleeping, you must fail a Sense roll. If you wake up, you must make HT rolls to get back to asleep, as above. This can occasionally be to your advantage, but the most likely effect is that you miss sleep whenever inconsiderate companions trade watches or return from a night on the town.
+|}

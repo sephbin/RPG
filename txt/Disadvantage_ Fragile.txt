@@ -1,0 +1,20 @@
+Disadvantage: Fragile
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FRAGILE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You are susceptible to wounding effects that do not apply to normal humans. Attacks do not injure you any more than usual (that's Vulnerability, p. 161), but enough penetrating damage can trigger results more catastrophic than stunning, unconsciousness, or bleeding. Possibilities include:
+
+{{Indent}}Brittle: You are brittle (like a creature of ice or crystal) or rotten (like a decaying undead monster). Whenever an injury cripples one of your limbs or extremities, it breaks off. If you can make a HT roll, it falls off in one piece; otherwise, it shatters or liquefies irrecoverably. Furthermore, should you fail any HT roll to avoid death, you are instantly destroyed - you shatter, melt, decay to goo, etc., and instantly go to -10xHP. -15 points.
+
+{{Indent}}Combustible: Your body burns more easily than flesh. Perhaps it is dry, resinous, or made of wood. Make a HT roll to avoid catching fire whenever you receive a major wound from a burning or explosive attack. You catch fire automatically if such an attack inflicts 10+ HP of injury. Once aflame, you suffer 1d-1 injury per second until you extinguish the fire by immersion in water, rolling on the ground (takes 3 seconds), etc. -5 points.
+
+{{Indent}}Explosive: Your body contains explosives, compressed gas, or something else unstable. On any critical failure on the HT roll for a major wound, you explode! You also explode if you fail any HT roll to avoid death by 3+. Treat this as a 6dx(HP/10) crushing explosion. The blast instantly reduces you to -10xHP, regardless of the damage it inflicts. -15 points.
+
+{{Indent}}Flammable: Your body contains something highly flammable: gasoline, hydrogen gas, etc. Make a HT roll to avoid catching fire, with effects as per Combustible, after a major wound from any kind of attack. Roll at -3 for a burning or explosive attack, -3 if the attack struck the vitals, and -6 if both. Once you are burning, a critical failure on any HT roll to avoid death means you explode as described for Explosive. You may be Combustible as well. If so, any burning or explosive attack that inflicts either a major wound or 10+ HP of injury automatically sets you ablaze. -10 points.
+
+{{Indent}}Unnatural: You are summoned, conjured, or a magical or weird-science &quot;construct&quot; (e.g., demon, golem, or undead). You automatically fail the HT roll to stay alive if reduced to -HP or below, as that much damage severs your ties with the force that animates you. -50 points.
+
+{{Indent}}It sometimes makes sense to take more than one of the above (in particular, Explosive and Flammable often occur together). The GM must personally approve any combination of Fragile with Injury Tolerance (p. 60), as these traits are in many ways opposites.
+|}

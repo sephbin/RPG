@@ -1,0 +1,10 @@
+Disadvantage: Lifebane
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIFEBANE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You have a supernatural aura of death about you. Grass dies in your footprints and will never grow there again, larger plants wilt instantly in your presence, and insects and other tiny creatures die if they get within a yard of you. Your aura has no effect on animals that weigh more than a few ounces, on very large plants such as trees (but the leaves closest to you might die, and a tree you pass daily for years will eventually be affected), on ordinary life forms controlled by supernatural means (e.g., insect swarms conjured up using magic), or on supernatural entities of any kind.
+
+{{Indent}}Lifebane gives -2 on reaction rolls made by anyone in a position to notice it. If it stems from demonic powers, vampirism, etc., observers get +2 on all rolls to deduce your secret! This trait makes it difficult to use stealthor invisibility-related abilities outdoors, too: +2 on rolls to locate you in most outdoor environments. It has its side benefits, however. For instance, you need never buy insect repellent!
+|}

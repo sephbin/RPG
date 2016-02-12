@@ -1,0 +1,14 @@
+Disadvantage: Dwarfism
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DWARFISM (-1 SM)'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You are abnormally short for your species. Regardless of ST, your height falls below the lowest value on the Build Table – under 4’4,” for a human. This gives you Size Modifier -1. Choose your weight from the first line of the Build Table and reduce it by 15%.
+
+{{Indent}}You have -1 to Basic Move (short legs). In combat, your reach is reduced by 1 yard. This is partly because you have short arms and partly because you must use scaled-down weapons (regardless of your ST, your arms lack the leverage to control fullsized weapons).
+
+{{Indent}}You get -2 to Disguise – or to Shadowing, if your are trying to follow someone in a crowd. In backward settings, the GM may require you to take a Social Stigma if you suffer from Dwarfism.
+
+{{Indent}}A member of any race may be a dwarf. Scale down height by a factor of 0.75 from the racial average, and modify racial SM by -1. Otherwise, the rules remain the same.
+|}

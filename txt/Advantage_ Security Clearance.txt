@@ -1,0 +1,20 @@
+Advantage: Security Clearance
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SECURITY CLEARANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}A government agency or corporation trusts you with access to sensitive information that would otherwise be &quot;off limits&quot; to someone of your Rank or Status. For instance, a general &quot;cleared&quot; for military secrets commensurate with his Military Rank would not have to buy Security Clearance separately, but a civilian with exactly the same level of access would have to pay points for the privilege.
+
+{{Indent}}Point cost depends on your degree of access:
+
+{{Indent}}* You have access to a relatively narrow range of secrets on a &quot;need to know&quot; basis. Example: a strategic bomber pilot, who might know secrets about aircraft, weapons, and targets. 5 points.
+
+{{Indent}}* You have either free access to a narrow range of secrets or &quot;need to know&quot; access to a broad range of secrets. Example: a counterintelligence officer, who would have limited access to many secrets, as part of his job is to protect them. 10 points.
+
+{{Indent}}* You have free access to a broad range of secrets. Example: a cinematic secret agent, who will know almost any secret the plot requires him to know. 15 points.
+
+{{Indent}}Halve these values (round up) if the organization that grants the Security Clearance is of relatively minor importance (e.g., a small corporation or municipal government).
+
+{{Indent}}You cannot receive a security clearance without a thorough background check. The GM is free to forbid this advantage to any PC who has a suspicious past (including such traits as Debt or Secret) or an unstable personality (for instance, Paranoia or Sadism).
+|}

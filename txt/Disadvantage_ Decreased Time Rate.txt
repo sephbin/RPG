@@ -1,0 +1,8 @@
+Disadvantage: Decreased Time Rate
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DECREASED TIME RATE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''02/01/2014''&lt;/font&gt;
+|-
+|{{Indent}}This is the disadvantageous counterpart to Altered Time Rate (p. 38). You experience time half as fast as normal: one subjective second for every two real seconds that pass. You only get a turn every two seconds in combat! (Gaming groups that enjoy extra detail might wish to give characters with Decreased Time Rate &quot;halfturns&quot; instead: splitting a Move maneuver across two turns, declaring an Attack maneuver one turn and rolling to hit the next, etc.)
+|}

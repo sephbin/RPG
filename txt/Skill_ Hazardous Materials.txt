@@ -1,0 +1,16 @@
+Skill: Hazardous Materials
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HAZARDOUS MATERIALS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of transporting, storing, and disposing of hazardous materials (&quot;HazMat&quot;). It includes preparing the records that accompany HazMat shipments; applying and identifying warning labels and markings; and knowledge of countermeasures, antidotes, and containment and decontamination procedures. (To operate personal protective gear, use the NBC Suit skill, p. 192.)
+
+{{Indent}}You must specialize by type of HazMat. Common specialties are Biological, Chemical, and Radioactive, but more exotic options (e.g., Magical or Nanotech) may exist in some settings. Mundane specialties default to one another at -5; exotic specialties often have no default at all
+
+{{Indent}}Whenever you deal with HazMat in any capacity, roll against the lower of the skill used for the task (Driving, Freight Handling, etc.) and the applicable Hazardous Materials specialty or default. Note that the IQ-5 default represents any layman's knowledge of household hazards. HazMat professionals deliberately keep certain aspects of this skill (notably HazMat markings) obscure to avoid alarming the general public. The default does not apply when dealing with such things
+|}

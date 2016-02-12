@@ -1,0 +1,16 @@
+Skill: Electrician
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ELECTRICIAN'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Engineer (Electrical)-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of building, maintaining, and repairing electrical systems. Make a skill roll to diagnose an electrical fault, wire a building or vehicle, etc. Adventuring uses include damage control in combat (e.g., to restore power to a damaged vehicle system) and cutting the power to a building prior to clandestine activities
+
+{{Indent}}Note that electrical and electronic systems are not the same thing. The equivalent skill for electronics is Electronics Repair (p. 190)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345).&lt;/i&gt;&lt;/font&gt;
+|}

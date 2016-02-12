@@ -1,0 +1,10 @@
+Disadvantage: G-Intolerance
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''G-INTOLERANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 or -20 points''&lt;/font&gt;
+|-
+|{{Indent}}You function well under a narrow range of gravities. For a normal human, the penalties for non-native gravity accrue in increments of 0.2G; see Different Gravity (p. 350). An increment of 0.1G is worth -10 points. An increment of 0.05G is worth -20 points.
+
+{{Indent}}This disadvantage is only allowed in campaigns that feature regular space travel.
+|}

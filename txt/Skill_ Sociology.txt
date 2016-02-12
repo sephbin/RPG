@@ -1,0 +1,12 @@
+Skill: Sociology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SOCIOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Anthropology-3, or Psychology-4.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the study of societies and social relationships. A successful skill roll lets you judge how well a large group of people will work together; deduce the social pressures contributing to a crime wave, revolution, war, etc.; or predict the most probable outcome of dissimilar societies coming into contact
+|}

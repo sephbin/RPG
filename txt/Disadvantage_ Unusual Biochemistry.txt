@@ -1,0 +1,16 @@
+Disadvantage: Unusual Biochemistry
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNUSUAL BIOCHEMISTRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''03/01/2014''&lt;/font&gt;
+|-
+|{{Indent}}You can subsist on human food, but your biochemistry is sufficiently different from that of humans that drugs intended for humans don't work or have unpredictable effects. Drugs that are specific to your biochemistry work normally, but cost 10 times as much as usual.
+
+{{Indent}}When you receive a drug intended for humans, roll 1d:
+
+{{Indent}}1-3 - Normal effect.
+
+{{Indent}}4-5 - Normal effect, plus an additional harmful effect of the GM's choosing: lose 1d FP (sickness and nausea), suffer an amplified version of the drug's usual negative side effects, etc.
+
+{{Indent}}6 - No effect at all.
+|}

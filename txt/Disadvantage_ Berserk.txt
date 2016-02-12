@@ -1,0 +1,24 @@
+Disadvantage: Berserk
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BERSERK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You tend to rampage out of control when you or a loved one is harmed, making frenzied attacks against whoever or whatever you see as the cause of the trouble. If you also suffer from Bad Temper (above), any stress may trigger Berserk.
+
+{{Indent}}Make a self-control roll any time you suffer damage over 1/4 your HP in the space of one second, and whenever you witness equivalent harm to a loved one. If you fail, you go berserk. You go berserk automatically if you fail a self-control roll for Bad Temper! You may deliberately go berserk by taking the Concentrate maneuver and making a successful Will roll. Once you are berserk, the following rules apply:
+
+{{Indent}}* If armed with a hand weapon, you must make an All-Out Attack each turn a foe is in range. If no foe is in range, you must use a Move maneuver to get as close as possible to a foe - and if you can Move and Attack, or end your Move with a slam, you will.
+
+{{Indent}}* If the enemy is more than 20 yards away, you may attack with a ranged weapon if you have one, but you may not take the Aim maneuver. If using a gun, you blaze away at your maximum rate of fire until your gun is empty. You cannot reload unless your weapon - and your Fast-Draw skill - lets you reload &quot;without thought&quot; (can take no more than one second). Once your gun is empty, you must either draw another gun or charge into melee combat.
+
+{{Indent}}* You are immune to stun and shock, and your injuries cause no penalty to your Move score. You make all rolls to remain conscious or alive at +4 to HT. If you don't fail any rolls, you remain alive and madly attacking until you reach -5xHP. Then you fall - dead!
+
+{{Indent}}* When you down a foe, you may (if you wish) attempt another self-control roll to see if you snap out of the berserk state. If you fail (or do not roll), you remain berserk and attack the next foe. Treat any friend who attempts to restrain you as a foe! You get to roll again each time you down a foe, and you get one extra roll when no more foes remain. If you are still berserk, you start to attack your friends . . .
+
+{{Indent}}Once you snap out of the berserk state, all your wounds immediately affect you. Roll at normal HT to see whether you remain conscious and alive.
+
+{{Indent}}Special Enhancements
+
+{{Indent}}Battle Rage. You go berserk in any combat situation, regardless of whether you have been injured. To avoid this, you must make a self-control roll when you first enter combat (even a barroom brawl or a boxing match). +50%.
+|}

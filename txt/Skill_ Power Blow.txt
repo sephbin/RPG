@@ -1,0 +1,18 @@
+Skill: Power Blow
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POWER BLOW'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to draw on your inner strength to deliver a devastating blow in melee combat. Roll once per attack. Power Blow costs 1 FP per attempt, successful or not
+
+{{Indent}}If successful, double your ST for damage purposes for the next attack only. This attack takes all normal modifiers, and must occur immediately after the Power Blow roll. If you know Power Blow at better than skill 20, you can triple your ST by accepting an extra -10 to the skill roll
+
+{{Indent}}You can also use this skill in noncombat situations. For instance, you could use Power Blow to double or triple your ST momentarily in order to move a heavy object. Such feats cost 1 FP and require a skill roll, as described above
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -10 if used instantly, dropping to -5 after 1 turn of concentration, -4 after 2 turns, -3 after 4 turns, -2 after 8 turns, -1 after 16 turns, and no penalty after 32 turns.&lt;/i&gt;&lt;/font&gt;
+|}

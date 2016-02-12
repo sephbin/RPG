@@ -1,0 +1,16 @@
+Skill: Boxing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BOXING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of trained punching. Roll against Boxing to hit with a punch. Boxing does not improve kicking ability - use Brawling (p. 182) or Karate (p. 203) for that
+
+{{Indent}}Boxing improves damage: if you know Boxing at DX+1 level, add +1 per die to basic thrust damage when you calculate punching damage. Add +2 per die if you know Boxing at DX+2 or better! Work out damage ahead of time and record it on your character sheet
+
+{{Indent}}When you defend with bare hands, Boxing allows you to parry two different attacks per turn, one with each hand. Your Parry score is (skill/2) + 3, rounded down. Boxing parries are at -2 vs. kicks and -3 vs. weapons other than thrusting attacks. Boxing also gives an improved retreating bonus when you parry; see Retreat (p. 377). For more on barehanded parries, see Parrying Unarmed (p. 376)
+|}

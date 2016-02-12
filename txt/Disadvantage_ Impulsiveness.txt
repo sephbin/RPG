@@ -1,0 +1,8 @@
+Disadvantage: Impulsiveness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''IMPULSIVENESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You hate talk and debate. You prefer action! When you are alone, you act first and think later. In a group, when your friends want to stop and discuss something, you should put in your two cents' worth quickly - if at all - and then do something. Roleplay it! Make a self-control roll whenever it would be wise to wait and ponder. If you fail, you must act.
+|}

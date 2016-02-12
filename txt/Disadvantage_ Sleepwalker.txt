@@ -1,0 +1,12 @@
+Disadvantage: Sleepwalker
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SLEEPWALKER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You walk in your sleep (&quot;somnambulate&quot;). This is merely annoying or embarrassing under most circumstances (unless you fall down the stairs), but it can be very dangerous to sleepwalk while encamped in hostile territory!
+
+{{Indent}}If sleepwalking would matter during an adventure, the GM will make a self-control roll for you whenever you go to sleep. If you fail, you sleepwalk sometime during the night. You wake up after walking for 1d minutes, or if someone awakens you. The GM will make DX rolls to see if you trip while going down stairs or walking over rough ground - if this happens, you wake up suddenly and are mentally stunned.
+
+{{Indent}}You are considered to be in a hypnagogic state while sleepwalking, and thus are very susceptible to telepathic influences. If you possess supernatural abilities, you might use these while sleepwalking (e.g., if you have Warp, you might &quot;sleepwarp&quot; instead).
+|}

@@ -1,0 +1,8 @@
+Disadvantage: Low Self-Image
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOW SELF-IMAGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You lack self-confidence and underrate your abilities to such a degree that it interferes with your performance. You are at -3 to all skill rolls whenever you believe that the odds are against you or others expect you to fail (GM's judgment). For instance, if you're a mechanic, you have no penalty to repair an engine in your shop . . . but you are at -3 to make the same repairs on the road, in the rain, with only a portable tool kit, and an enemy hot on your trail - on top of the usual modifiers that would apply in that situation!
+|}

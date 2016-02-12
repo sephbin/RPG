@@ -1,0 +1,16 @@
+Modifier: Malediction
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MALEDICTION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your attack is not a conventional ranged attack; it works more like a Regular spell (p. 239). It lacks Malf., 1/2D, Max, Acc, RoF, Shots, and Recoil statistics, and cannot have any enhancement or limitation that modifies those statistics. Most importantly, the target's DR has no effect on the attack's damage, resistance roll, or other effects!
+
+{{Indent}}Malediction requires a Concentrate maneuver rather than an Attack maneuver to use. It can target any victim you can see or otherwise clearly perceive. To determine if the attack succeeds, roll against your Will, applying the range penalties detailed below. Your foe may choose to resist; if so, resolve the attack as a Quick Contest of Will. You must win to affect the victim.
+
+{{Indent}}When enhancing an Affliction, the Quick Contest above replaces the usual resistance roll. You roll against Will, but your target rolls against HT - or other attribute, if the attack has Based on (Different Attribute) - modified as usual for the Affliction. For instance, an Affliction that allows a HT-1 roll to resist would result in a Quick Contest of your Will vs. the target's HT-1.
+
+{{Indent}}The value of Malediction depends on the range modifiers it uses. If it takes -1 per yard of range, like a Regular spell, it costs +100%. If it uses the range penalties on the Size and Speed/Range Table (p. 550), it costs +150%. And if it uses the penalties given under Long-Distance Modifiers (p. 241), it costs +200%.
+
+{{Indent}}Malediction is a &quot;penetration modifier&quot;; you cannot combine it with other penetration modifiers, nor with modifiers that apply only to conventional ranged attacks.
+|}

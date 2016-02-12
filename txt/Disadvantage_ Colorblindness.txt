@@ -1,0 +1,8 @@
+Disadvantage: Colorblindness
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''COLORBLINDNESS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You cannot see any colors at all (this is total colorblindness). In any situation requiring color identification (e.g., gem buying, livery identification, or pushing the red button to start the motor), the GM should give you appropriate difficulties. Certain skills are always harder for you. In particular, you are at -1 on most Artist, Chemistry, Driving, Merchant, Piloting, and Tracking rolls.
+|}

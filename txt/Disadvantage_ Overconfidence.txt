@@ -1,0 +1,14 @@
+Disadvantage: Overconfidence
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''OVERCONFIDENCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You believe that you are far more powerful, intelligent, or competent than you really are. You may be proud and boastful or just quietly determined, but you must roleplay this trait.
+
+{{Indent}}You must make a self-control roll any time the GM feels you show an unreasonable degree of caution. If you fail, you must go ahead as though you were able to handle the situation! Caution is not an option.
+
+{{Indent}}You receive +2 on all reaction rolls from young or naive individuals (who believe you are as good as you say you are), but -2 on reactions from experienced NPCs.
+
+{{Indent}}Overconfidence is like Megalomania (p. 144) on a smaller scale. Robin Hood was overconfident - he challenged strangers to quarterstaff duels. Hitler was a megalomaniac - he invaded Russia! Heroes are rarely megalomaniacal but often overconfident.
+|}

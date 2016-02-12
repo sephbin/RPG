@@ -1,0 +1,10 @@
+Disadvantage: Indecisive
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INDECISIVE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points*''&lt;/font&gt;
+|-
+|{{Indent}}You find it difficult to make up your mind. As long as there is a single path before you, you are fine, but as soon as there is a choice, you begin to dither. Make a self-control roll whenever a choice confronts you, modified downward by the number of alternatives you can see: -2 if there are two choices, -3 if there are three, etc. If you fail, you do nothing. Roll again every minute (or every second in combat or a similar high-stress situation) until you make up your mind, after which you may act normally until the next time you face a decision.
+
+{{Indent}}If you are Indecisive and Confused (p. 129), you must roll as described above to decide on a course of action. When you finally succeed, you must make another self-control roll - this one for Confused - to see whether you can act on your decision immediately.
+|}

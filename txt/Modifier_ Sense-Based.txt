@@ -1,0 +1,16 @@
+Modifier: Sense-Based
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SENSE-BASED'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your attack is channeled through your victim's senses, allowing it to ignore DR! You must specify the sense(s) affected. Examples include vision, hearing, smell, and exotic senses such as Detect. This is worth +150%, plus an extra +50% per sense after the first; e.g., Vision and Hearing-Based would be +200%.
+
+{{Indent}}Your attack only affects someone who is using the targeted sense. For instance, a Vision-Based attack cannot affect a blind subject or someone with his eyes closed, while a Smell-Based attack doesn't work underwater or on a target with a gas mask. Advantages (such as Protected Sense, p. 78) and equipment that protect the sense in question either negate the attack completely or, in the case of attacks that allow a roll to resist (such as Afflictions, Maledictions, and Resistible attacks), give a bonus to the resistance roll.
+
+{{Indent}}The most common Sense-Based attack is an Affliction that knocks out the sense it is based on; for instance, Affliction (Blindness; Vision-Based) for a blinding flash. However, Sense- Based attacks can also be deadly, like a banshee's wail or basilisk's gaze.
+
+{{Indent}}Sense-Based is a &quot;penetration modifier&quot;; you cannot combine it with other penetration modifiers, such as Follow-Up (p. 105).
+
+{{Indent}}Exception: You can combine Sense- Based with Malediction (p. 106). In conjunction with Malediction, or when added to an ability that already ignores DR (e.g., Mind Control or Mind Reading), Sense-Based becomes a limitation. It is worth -20% if it works through one sense, -15% if two senses, or -10% if three senses. If it works through more than three senses, it is not a significant limitation.
+|}

@@ -1,0 +1,8 @@
+Disadvantage: Charitable
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CHARITABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are acutely aware of others' emotions, and feel compelled to help those around you - even legitimate enemies. Make a self-control roll in any situation where you could render aid or are specifically asked for help, but should resist the urge. If you fail, you must offer assistance, even if that means violating orders or walking into a potential trap.
+|}

@@ -1,0 +1,84 @@
+Skill: Enthrallment
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ENTHRALLMENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Will/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Charisma 1 and Public Speaking at 12+.&lt;/font&gt;
+|-
+|{{Indent}}Bards in fantasy can often influence others through storytelling. The GM may choose to represent this ability using the four Enthrallment skills described below. Depending on the setting, these skills might be magical, psionic, or a cinematic form of hypnotism. Each has a time requirement, FP cost, and duration, and requires two skill rolls to use
+
+{{Indent}}At the outset of the tale, roll vs. Public Speaking skill; if you can't grab your audience's attention early on, you won't have much of a chance of controlling them by the end. On a success, proceed to the Enthrallment skill roll; critical success gives +1 on that roll. On a failure, you may still attempt the Enthrallment roll, but at a penalty equal to your margin of failure. Critical failure means your Enthrallment attempt fails automatically
+
+{{Indent}}After the time required to enthrall has passed, roll a Quick Contest of your Enthrallment skill vs. the Will of each audience member. If you win, you affect your audience - see the individual skill description for effects. If you lose or tie, there is no effect. However, if you critically fail, your audience instantly turns hostile!
+
+{{Indent}}You may never learn these skills at a skill level higher than your Public Speaking skill
+
+{{Indent}}&lt;i&gt;Audience Size:&lt;/i&gt; An &quot;audience&quot; can be one listener or a hundred - as many as can hear the tale. However, the number of audience members that you can enthrall at one sitting is limited to your Charisma level squared, to a maximum of 25 people at Charisma 5
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: All four Enthrallment skills are at -3 for Low Empathy (p. 142). If the player actually tells a good tale, the GM should reward him with +1 to +3 to the Public Speaking and Enthrallment rolls!&lt;/i&gt;&lt;/font&gt;
+
+{{Indent}}Captivate
+
+{{Indent}}Will/Hard
+
+{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Suggest at 12+
+
+{{Indent}}This skill allows you to tell a story so skillfully that those listening lose their will and do whatever you want them to do. In effect, they believe themselves to be in the tale, and are vulnerable to being manipulated by you, the teller of the tale
+
+{{Indent}}If you win the Quick Contest, the audience becomes intensely loyal to you. They follow any direct order you give. In the absence of a direct order, they act in your best interest, as they understand it. If you tell someone to do something very hazardous, or that goes against his usual code of behavior (GM's decision), he gets a Will-5 roll to break the captivation. Otherwise, he is your loyal supporter for all intents and purposes
+
+{{Indent}}&lt;i&gt;Time:&lt;/i&gt; 30 minutes of uninterrupted storytelling
+
+{{Indent}}&lt;i&gt;Fatigue Cost:&lt;/i&gt; 8 FP, whether successful or not
+
+{{Indent}}&lt;i&gt;Duration:&lt;/i&gt; Captivation lasts until the subject becomes unconscious or falls asleep, you become unconscious or fall asleep, you attack the subject, or the subject loses half his HP to injury
+
+{{Indent}}Persuade
+
+{{Indent}}Will/Hard
+
+{{Indent}}This ability allows you to bring an audience over to your point of view, granting you a bonus to your reaction rolls with them. You may use this skill whenever a reaction roll is called for
+
+{{Indent}}If you win the Quick Contest, add your margin of victory to any reaction roll those in the audience make regarding you - for any reason - to a maximum of +3 (+4 on a critical success). If you critically fail, the best possible reaction is Poor (see p. 560)
+
+{{Indent}}&lt;i&gt;Time:&lt;/i&gt; 1 minute
+
+{{Indent}}&lt;i&gt;Fatigue Cost:&lt;/i&gt; 2 FP, whether successful or not
+
+{{Indent}}&lt;i&gt;Duration:&lt;/i&gt; Until you do something to change the audience's opinion!
+
+{{Indent}}Suggest
+
+{{Indent}}Will/Hard
+
+{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Persuade at 12+
+
+{{Indent}}This ability lets you give your audience a single, simple suggestion. A suggestion should have no complex grammatical clauses - just a subject, verb, object, and at most two modifiers. &quot;Kill the king!&quot; is acceptable; &quot;Kill the king if he doesn't accede to our demands!&quot; is not. A given subject gets +5 to resist if your suggestion goes against his personal safety, and +3 if it goes against his beliefs, convictions, or knowledge
+
+{{Indent}}If you win the Quick Contest, the audience members try to act on the suggestion to the best of their abilities - each assuming that the idea was his own
+
+{{Indent}}&lt;i&gt;Time:&lt;/i&gt; 20 minutes of uninterrupted storytelling
+
+{{Indent}}&lt;i&gt;Fatigue Cost:&lt;/i&gt; 6 FP, whether successful or not
+
+{{Indent}}&lt;i&gt;Duration:&lt;/i&gt; 10 minutes - or longer, if you continue to talk to the audience and can make a successful Suggest roll every 10 minutes! Once the suggestion lapses, audience members only wonder why they acted the way they did if the suggestion was something they would never have done normally
+
+{{Indent}}Sway Emotions
+
+{{Indent}}Will/Hard
+
+{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Persuade at 12+
+
+{{Indent}}This ability allows you to instill the audience with any one emotion. Allowed emotions include anger, boredom, depression, disgust, fear, greed, hate, jealousy, joy, love, lust, patriotism, peace, sadness, and unrest
+
+{{Indent}}If you win the Quick Contest, your audience experiences the emotion you select. How they act as a result is up to the GM
+
+{{Indent}}&lt;i&gt;Time:&lt;/i&gt; 10 minutes of uninterrupted storytelling
+
+{{Indent}}&lt;i&gt;Fatigue Cost:&lt;/i&gt; 4 FP, whether successful or not
+
+{{Indent}}&lt;i&gt;Duration:&lt;/i&gt; One hour
+|}

@@ -1,0 +1,126 @@
+Talent
+
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;'''TALENT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|
+You have a natural aptitude for a
+set of closely related skills. “Talents”
+come in levels, and give the following
+benefits:
+*A bonus of +1 per level with all affected skills, even for default use. This effectively raises your attribute scores for the purpose of those skills only; thus, this is an inexpensive way to be adept at small class of skills. (Generalists will find it more costeffective to raise attributes.)
+
+*A bonus of +1 per level on all reaction rolls made by anyone in a position to notice your Talent, if he would be impressed by your aptitude (GM’s judgment). To receive this bonus, you must demonstrate your Talent – most often by using the affected skills.
+
+*A reduction in the time required to learn the affected skills in play, regardless of how you learn them. Reduce the time required by 10% per level of Talent; e.g., Animal Friend 2 would let you learn animal-related skills in 80% the usual time. This has no effect on the point cost of your skills. You may never have more than four levels of a particular Talent. However, overlapping Talents can give skill bonuses (only) in excess of +4.
+
+'''Cost of Talents'''
+
+The cost of a Talent depends on the
+size of the group of skills affected:
+:Small (6 or fewer related skills): ''5 points/level.''
+:Medium (7 to 12 related skills): ''10 points/level.''
+:Large (13 or more related skills): ''15 points/level.''
+Skills with multiple specialties are
+considered to be one skill for this purpose.
+Once you buy a Talent, the list of
+affected skills is fixed. (Exception: The
+GM may rule that a Talent affects new
+skills appearing in later GURPS supplements,
+or skills he invents in the
+course of the campaign, if the Talent
+would logically be of value to those
+skills.)
+
+----
+
+'''Examples of Talents'''
+
+The following Talents are considered
+standard, and exist in most campaigns:
+
+''Animal Friend:'' Animal Handling,
+Falconry, Packing, Riding, Teamster,
+and Veterinary. Reaction bonus: all
+animals. ''5 points/level.''
+
+''Artificer:'' Armoury, Carpentry,
+Electrician, Electronics Repair,
+Engineer, Machinist, Masonry,
+Mechanic, and Smith. Reaction bonus:
+anyone you do work for. ''10 points/level.''
+
+''Business Acumen:'' Accounting,
+Administration, Economics, Finance,
+Gambling, Market Analysis,
+Merchant, and Propaganda. Reaction
+bonus: anyone you do business with.
+''10 points/level.''
+
+''Gifted Artist:'' Artist, Jeweler,
+Leatherworking, Photography, and
+Sewing. Reaction bonus: anyone buying
+or critiquing your work. ''5 points/level.''
+
+''Green Thumb:'' Biology, Farming,
+Gardening, Herb Lore, and Naturalist.
+Reaction bonus: gardeners and sentient
+plants. ''5 points/level.''
+
+''Healer:'' Diagnosis, Esoteric
+Medicine, First Aid, Pharmacy,
+Physician, Physiology, Psychology,
+Surgery, and Veterinary. Reaction
+bonus: patients, both past and present.
+''10 points/level.''
+
+''Mathematical Ability:'' Accounting,
+Astronomy, Cryptography, Engineer,
+Finance, Market Analysis, Mathematics,
+and Physics. Reaction bonus:
+engineers and scientists. ''10 points/level.''
+
+''Musical Ability:'' Group
+Performance (Conducting), Musical
+Composition, Musical Influence,
+Musical Instrument, and Singing.
+Reaction bonus: anyone listening to or
+critiquing your work. ''5 points/level.''
+
+''Outdoorsman:'' Camouflage,
+Fishing, Mimicry, Naturalist,
+Navigation, Survival, and Tracking.
+Reaction bonus: explorers, nature
+lovers, and the like. ''10 points/level.''
+
+''Smooth Operator:'' Acting,
+Carousing, Detect Lies, Diplomacy,
+Fast-Talk, Intimidation, Leadership,
+Panhandling, Politics, Public
+Speaking, Savoir-Faire, Sex Appeal,
+and Streetwise. Reaction bonus: con
+artists, politicians, salesmen, etc. –
+but only if you are not trying to
+manipulate them. ''15 points/level.''
+
+----
+
+'''Custom Talents'''
+
+At the GM’s option, you may create
+your own Talent with a custom skill
+list. However, the GM’s word is law
+when determining which skills are
+“related” and how may points the
+Talent is worth. Talents should always
+be believable inborn aptitudes. For
+instance, Sports Talent might make
+sense – some athletes really do seem to
+have a gift – but the GM ought to forbid
+Ninja Talent or Weapon Talent
+(but see Weapon Master, p. 99).
+|}
+
+[[Category:GURPS Advantages]]

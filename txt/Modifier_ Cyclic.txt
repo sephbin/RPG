@@ -1,0 +1,38 @@
+Modifier: Cyclic
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CYCLIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This enhancement is only available for Innate Attacks that inflict burning, corrosion, fatigue, or toxic damage. It represents an attack that persists on the victim: acid, disease, liquid fire, poison, etc. (For attacks that linger in the environment, see Persistent, p. 107.)
+
+{{Indent}}A Cyclic attack damages its target normally - but once the target has been exposed, the attack damages him again each time a set interval passes! All penetration modifiers (e.g., Contact or Follow-Up) continue to apply; for instance, a Cyclic attack with Follow-Up continues to ignore DR. Worst of all, the victim cannot recover HP or FP lost to a Cyclic attack until the attack stops damaging him!
+
+{{Indent}}You must specify a reasonably common set of circumstances that halt any further damage from your attack. For instance, to halt cyclic corrosion or burning damage, the victim might have to wash the acid off or roll on the ground to extinguish the flames, taking one or more seconds and a DX or IQ roll. Fatigue or toxic damage might require drugs or medical care (use Physician skill). Details are up to the GM.
+
+{{Indent}}The base value of Cyclic depends on the damage interval.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Interval||Modifier
+|-
+|1 second||+100%
+|-
+|10 seconds||+50%
+|-
+|1 minute||+40%
+|-
+|1 hour||+20%
+|-
+|1 day||+10%
+|}
+
+{{Indent}}Burning or corrosion attacks shouldn't have intervals longer than 10 seconds. At the GM's option, someone taking damage at one-second intervals might have to make a Fright Check!
+
+{{Indent}}Multiply the base value by the number of cycles after the first. The GM should consider limiting large numbers of cycles to attacks that do less than 1d damage.
+
+{{Indent}}Cyclic attacks are often Resistible (p. 115); if so, an extra resistance roll is allowed for each cycle, with a success preventing any further damage. If the attack is Resistible, halve the value of Cyclic.
+
+{{Indent}}Some Cyclic attacks are contagious. While affected, the victim can inadvertently infect others, per Illness (p. 442). This increases the final cost of the enhancement, after all other factors: +20% for a &quot;mildly contagious&quot; attack or +50% for a &quot;highly contagious&quot; one.
+
+{{Indent}}These factors are cumulative. For instance, a resistible disease with 31 daily cycles would cost +10% x 30 x 1/2 = +150%. If it were highly contagious, it would cost +200%.
+|}

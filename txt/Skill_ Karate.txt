@@ -1,0 +1,18 @@
+Skill: Karate
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''KARATE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents any advanced training at unarmed striking, not just the Okinawan martial art of karate. Roll against Karate to hit with a punch (at no -4 for the &quot;off&quot; hand), or Karate-2 to hit with a kick. You cannot use Karate to attack with claws, teeth, etc., or with a blackjack - use Brawling (p. 182) for that. Karate skill does let you make several special attacks, however; see Special Unarmed Combat Techniques (p. 403)
+
+{{Indent}}Karate improves damage: if you know Karate at DX level, add +1 per die to basic thrust damage when you calculate damage with Karate attacks: punches, kicks, elbow strikes, etc. Add +2 per die if you know Karate at DX+1 or better! Work out damage ahead of time and record it on your character sheet
+
+{{Indent}}Karate allows you to parry two different attacks per turn, one with each hand. Your Parry score is (skill/2) + 3, rounded down. This parry is not at the usual -3 for parrying a weapon barehanded, greatly reducing the likelihood of injury when you defend against an armed foe. In addition, Karate gives an improved retreating bonus when you parry; see Retreat (p. 377). For more on parrying barehanded, see Parrying Unarmed (p. 376)
+
+{{Indent}}To use Karate, any hand with which you wish to strike or parry must be empty (but you are free to wear heavy gauntlets, brass knuckles, etc. to increase damage). Because Karate relies heavily on footwork, all Karate attacks and parries take a penalty equal to your encumbrance level. For instance, Heavy encumbrance would give you -3 to hit or to parry an enemy attack
+|}

@@ -1,0 +1,22 @@
+Modifier: Mitigator
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MITIGATOR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You may only apply this limitation to a disadvantage. A particular item or substance - the mitigator - temporarily negates your disadvantage. The more effective the mitigator, the fewer points you get for the disadvantage. Use the following guidelines:
+
+{{Indent}}Mitigator is vulnerable, and easily stolen, broken, or misplaced (e.g., a pair of glasses). -60%.
+
+{{Indent}}Mitigator is a drug or other treatment that you must take daily. -60%.
+
+{{Indent}}Mitigator is a weekly treatment. -65%.
+
+{{Indent}}Mitigator is a monthly treatment. -70%.
+
+{{Indent}}This assumes your treatments are available at pharmacies. If you require a special (and possibly expensive) prescription, add +5% to the values above; e.g., -70% becomes -65%. If you can only get your treatments from one specific source, such as an experimental drug program, add +10%; e.g., -70% becomes -60%.
+
+{{Indent}}Example 1: Bad Sight is worth -25 points. Glasses cure Bad Sight while worn, but are breakable, for a -60% Mitigator limitation. This reduces Bad Sight to -10 points.
+
+{{Indent}}Example 2: Jan has AIDS, and would die in a month without treatment. This level of Terminally Ill is normally worth -100 points. Fortunately, Jan is on an experimental drug plan that is holding him in remission. The treatments are weekly (-65%) but impossible to find outside his program (+10%), for a -55% Mitigator limitation. This reduces Terminally Ill to -45 points. As long as Jan stays with the program, his countdown to death is halted.
+|}

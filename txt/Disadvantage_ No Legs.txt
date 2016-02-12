@@ -1,0 +1,24 @@
+Disadvantage: No Legs
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NO LEGS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}This disadvantage assumes that your race lacks legs. If your race has legs, but you are missing yours, see Lame (p. 141).
+
+{{Indent}}You are a member of a legless race. There are several different forms of this trait, but in all cases, you cannot kick, cannot be struck in the legs in combat, and need not wear leg armor. The point costs below assume that the benefit of having no legs for foes to target in combat balances the drawback of being unable to kick.
+
+{{Indent}}Aerial: You cannot move on land,
+
+{{Indent}}but you can hover, glide, or fly. You must purchase the Flight advantage (p. 56). Calculate Basic Speed as usual and use twice this value to determine your basic air Move, as described for Flight. Your ground Move is 0. 0 points.
+
+{{Indent}}Aquatic: You cannot move on land, but you are adapted to movement on or in water, like a ship or a fish. Calculate Basic Move and use this as your basic water Move. Your ground Move is 0. You suffer no skill penalties for working in or under water. 0 points. If your mobility depends on fins, masts, paddles, or sails that you can't armor, or you can't dive: -5 points. If both: -10 points.
+
+{{Indent}}Bounces, Rolls, or Slithers: You move on land without using legs, like a snake or a wheel-form robot. Work out Basic Move and use it as your ground Move, just as a legged character would. 0 points.
+
+{{Indent}}Semi-Aquatic: You &quot;walk&quot; on flippers, like a seal. Use Basic Move as your basic water Move and 1/5 this as your ground Move - that is, reverse the normal relationship between ground and water Move. You suffer standard skill penalties in the water. 0 points.
+
+{{Indent}}Sessile: Your base is anchored where you sit, like a tree or a building. You can't move under your own power in any environment, and lack the option of using a moving platform (although you can be moved, with considerable effort). Your Basic Move is automatically 0, and you get no extra points for this. You can still have manipulators. If so, you wield weapons at no DX penalty, because unlike those with the Lame disadvantage, you have a very stable base! -50 points.
+
+{{Indent}}Tracked or Wheeled: You have tracks or wheels instead of legs. Specify how many - one to four, or any higher even number. If using hit locations, treat each track or wheel as if it were a leg. You can neither jump nor negotiate obstacles that require arms and legs working together (e.g., a ladder or rope). You always leave a visible trail (giving others a Tracking bonus: +1 for Wheeled, +2 for Tracked). Tracks are also noisy (+2 to all Hearing rolls to detect you), but let you handle rough terrain more easily. Tracked and Wheeled do not reduce Move; in fact, you may buy up to three levels of Enhanced Move (Ground). This disadvantage usually accompanies the Machine meta-trait (p. 263). -20 points.
+|}

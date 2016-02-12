@@ -1,0 +1,8 @@
+Disadvantage: Bad Smell
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BAD SMELL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10 points''&lt;/font&gt;
+|-
+|{{Indent}}You exude an appalling odor that you cannot remove, such as the stench of death and decay. This causes a -2 reaction from most people and animals (although pests or carrion-eating scavengers might be unusually attracted to you!). You can mask the smell with perfumes, but the overpowering amount needed results in the same reaction penalty.
+|}

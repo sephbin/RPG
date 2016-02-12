@@ -1,0 +1,16 @@
+Modifier: Uncontrollable
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNCONTROLLABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10% or -30%''&lt;/font&gt;
+|-
+|{{Indent}}Your ability tends to manifest itself at undesirable or inappropriate times. Whenever the GM rules that you are in a stressful situation - including any situation that requires a Fright Check or a self-control roll for a mental disadvantage - you must make a Will roll to keep your ability under control, even if you did not intend to use it! You need only roll once per stressful situation, but a roll of 14+ always fails, regardless of Will.
+
+{{Indent}}On a failure, the GM takes over your ability, playing it as though it were an entity of a prankish or hostile nature. The actions of your ability will often reflect your &quot;suppressed desires,&quot; as reflected in your quirks and mental disadvantages.
+
+{{Indent}}An ability that cannot inflict damage - for instance, Flight or Jumper - will activate unexpectedly. This is inconvenient and embarrassing, but not overly dangerous. After each uncontrolled act, you get another Will roll to control your power. This goes on until you make a Will roll. In this case, Uncontrollable is worth -10%.
+
+{{Indent}}A harmful ability goes after obvious foes first, and will never turn on you . . . but nobody else is safe! After each uncontrolled act (or before an attack on a Dependent or other loved one), you get another Will roll to control your power. This continues until you make a Will roll or destroy everything around you! For destructive powers, Uncontrollable is worth -30%.
+
+{{Indent}}You may buy this limitation off later on, as you gain control over your ability.
+|}

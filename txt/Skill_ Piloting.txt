@@ -1,0 +1,54 @@
+Skill: Piloting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PILOTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to operate a specific type of aircraft or spacecraft. The default is to IQ, because it takes intelligence to figure out the controls in an emergency, but when you learn this skill, always base it on DX
+
+{{Indent}}Roll against Piloting for takeoffs and landings, and in any hazardous situation. Failure by 1 indicates a rough job; failure by more indicates damage to the vehicle. A critical failure is a crash! If you have skill 15+, a critical failure requires an immediate second roll. Only if the second roll is a failure does a mishap occur. Otherwise, it was a &quot;near thing,&quot; averted by experience. Air combat requires frequent Piloting rolls as well
+
+{{Indent}}Make an IQ-based Piloting roll for basic map reading or practical meteorology, or to recall aviation laws and regulations
+
+{{Indent}}Remotely piloted vehicles (RPVs) use this skill if the pilot uses some form of telepresence to mimic actually being in the cockpit. Otherwise, make a DX-based roll against the appropriate skill for the task the RPV is performing (e.g., Forward Observer for a surveillance drone)
+
+{{Indent}}You must specialize:
+
+{{Indent}}&lt;i&gt;Aerospace:&lt;/i&gt; Any vehicle capable of atmospheric flight to and from orbit. &lt;i&gt;Defaults:&lt;/i&gt; High-Performance Airplane- 2 or other Piloting at -4
+
+{{Indent}}&lt;i&gt;Autogyro:&lt;/i&gt; Any rotor-equipped aircraft that uses its rotors for lift but not thrust. &lt;i&gt;Defaults:&lt;/i&gt; Helicopter-3, any Airplane specialty at -4, or other Piloting at -5
+
+{{Indent}}&lt;i&gt;Contragravity:&lt;/i&gt; Any aircraft that relies on ultra-tech or magical levitation. &lt;i&gt;Defaults:&lt;/i&gt; Vertol-3 or other Piloting at -5
+
+{{Indent}}&lt;i&gt;Flight Pack:&lt;/i&gt; Any &quot;strap-on&quot; aircraft. &lt;i&gt;Defaults:&lt;/i&gt; Vertol-4 or other Piloting at -5
+
+{{Indent}}&lt;i&gt;Glider:&lt;/i&gt; Any kind of unpowered, winged aircraft. &lt;i&gt;Defaults:&lt;/i&gt; Light Airplane or Ultralight at -2, or other Piloting at -4
+
+{{Indent}}&lt;i&gt;Heavy Airplane:&lt;/i&gt; Any winged aircraft weighing over 10 tons and flying at 600 mph or slower. &lt;i&gt;Defaults:&lt;/i&gt; High- Performance Airplane or Light Airplane at -2, or other Piloting at -4
+
+{{Indent}}&lt;i&gt;Helicopter:&lt;/i&gt; Any aircraft that uses rotors for both lift and thrust. &lt;i&gt;Defaults:&lt;/i&gt; Autogyro-2, Vertol-4, or other Piloting at -5
+
+{{Indent}}&lt;i&gt;High-Performance Airplane:&lt;/i&gt; Any winged aircraft capable of flying faster than 600 mph. &lt;i&gt;Defaults:&lt;/i&gt; Aerospace, Heavy Airplane, or Light Airplane at -2, or other Piloting at -4
+
+{{Indent}}&lt;i&gt;High-Performance Spacecraft:&lt;/i&gt; Any space vehicle capable of accelerations of 0.1G or more. &lt;i&gt;Defaults:&lt;/i&gt; Aerospace-4 or Low-Performance Spacecraft-2
+
+{{Indent}}&lt;i&gt;Light Airplane:&lt;/i&gt; Any winged aircraft weighing 10 tons or less and flying at 600 mph or slower. &lt;i&gt;Defaults:&lt;/i&gt; Glider, Heavy Airplane, High-Performance Airplane, or Ultralight at -2, or other Piloting at -4
+
+{{Indent}}&lt;i&gt;Lighter-Than-Air:&lt;/i&gt; Any kind of airship or balloon. &lt;i&gt;Default:&lt;/i&gt; other Piloting at -5
+
+{{Indent}}&lt;i&gt;Lightsail:&lt;/i&gt; Any spacecraft that uses a lightsail, regardless of thrust. &lt;i&gt;Default:&lt;/i&gt; Low-Performance Spacecraft-4
+
+{{Indent}}&lt;i&gt;Low-G Wings:&lt;/i&gt; Muscle-powered strap-on wings used in a low-gravity environment with an atmosphere. Learn Flight (p. 195) for endurance flying. &lt;i&gt;Default:&lt;/i&gt; Glider-4
+
+{{Indent}}&lt;i&gt;Low-Performance Spacecraft:&lt;/i&gt; Any space vehicle that accelerates at less than 0.1G. &lt;i&gt;Defaults:&lt;/i&gt; Aerospace-4 or High-Performance Spacecraft-2
+
+{{Indent}}&lt;i&gt;Ultralight:&lt;/i&gt; Any winged aircraft weighing 0.5 tons or less and flying at 200 mph or slower. &lt;i&gt;Defaults:&lt;/i&gt; Glider or Light Airplane at -2, other Airplane specialties at -4, or other Piloting at -5
+
+{{Indent}}&lt;i&gt;Vertol:&lt;/i&gt; Any aircraft that flies by brute-force application of thrust rather than by using rotors or wings. &lt;i&gt;Defaults:&lt;/i&gt; Contragravity-3, Helicopter- 4, or other Piloting at -5
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +1 for 3D Spatial Sense (p. 34); +1 for Perfect Balance (p. 74). -2 for an unfamiliar vehicle within your specialty (e.g., a twin-engine plane when you are used to singleengine craft); -2 or more for unusually primitive or extremely complex controls; -4 or more for a plane in bad repair; -2 or more for bad flying conditions.&lt;/i&gt;&lt;/font&gt;
+|}

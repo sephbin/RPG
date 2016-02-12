@@ -1,0 +1,22 @@
+Skill: Pressure Points
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PRESSURE POINTS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None*.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master.&lt;/font&gt;
+|-
+|{{Indent}}* May default to Esoteric Medicine-4 in a cinematic campaign
+
+{{Indent}}This is the art of striking pressure points in order to disable an opponent. To use this ability, you must make a successful attack with Karate (or other appropriate combat skill; see below). This attack is at -2 in addition to any hit location modifier (see Hit Location, p. 398). If at least one point of damage penetrates the target's DR, roll a Quick Contest of Pressure Points vs. the victim's HT
+
+{{Indent}}If you win, you temporarily disable your target. A limb is paralyzed and effectively crippled for 5d seconds. A hit to a torso pressure point interferes with the victim's breathing, resulting in suffocation (see Suffocation, p. 436); he may roll against HT every second to recover. A hit to the face stuns the victim; he gets an IQ roll every second to recover. A blow to the skull blinds the victim for 2d seconds; see Blindness (p. 124)
+
+{{Indent}}You can also use Pressure Points with Judo. Roll the Quick Contest described above after successfully applying a lock. This is in addition to any other effects of the lock
+
+{{Indent}}The GM may permit warriors to learn specialties of this skill for use with crushing weapons. Examples include Pressure Points (Bow) for use with blunt arrows, Pressure Points (Shortsword) for use with a baton, and Pressure Points (Staff) for use with a staff
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Physiology modifiers (p. 181).&lt;/i&gt;&lt;/font&gt;
+|}

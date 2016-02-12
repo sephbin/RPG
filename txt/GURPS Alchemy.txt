@@ -1,0 +1,60 @@
+GURPS Alchemy
+==FORMS OF ELIXIR==
+There are four physical forms of elixir, each with different properties:
+
+Potion: Liquid form, taken by drinking. One dose of potion affects one man-sized creature instantly. Potions lose their power in a day if left open or mixed with other things.
+
+Powder: Solid form. A powder must be eaten in food, or dissolved in drink, to be effective; it takes effect in 2d minutes. Powders can last a long time; there is only a 50% chance per year that a given powder loses its power while exposed to air. Powders mixed with food or drink last a month.
+
+Pastille: A thumbnail-sized tablet, kept in a sealed vial. When lit, it instantly flashes into flame and begins to fill an area 3 yards across and 8 feet high with smoke. Indoors, this smoke lingers about a minute; outdoors, it disperses within about 10 seconds. Anyone within the affected area suffers the elixir’s effects in 2d seconds. To avoid the smoke’s effects, hold your breath (see Holding Your Breath, p. B351). An unburnt pastille lasts a month if exposed to air, but is destroyed instantly upon contact with water.
+
+The creation of elixirs in pastille form requires double the usual time and cost.
+
+Ointment: A cream or jelly. If touched, it sinks into the skin, taking immediate effect – a dose of ointment on a weapon or doorknob only affects the first person to touch it. Lasts a week if exposed to air; neutralized by water.
+
+==MAGIC RESISTANCE==
+Anyone with the Magic Resistance advantage gets a resistance roll of HT+MR when dosed with any elixir – even a beneficial one. If he rolls HT+MR exactly, the potion takes half effect (the GM determines the details). If he rolls less than HT+MR, the potion has no effect!
+
+===Speed===
+Increases Basic Speed and Move by 1. Up to three doses of this elixir may be taken at once, for increased effect, but roll separately for the time each dose lasts.
+
+Duration: 3dx4 minutes.
+
+Form: Any but pastille.
+
+Cost: $550/$850.
+
+Recipe: $200; 3 weeks; defaults to Alchemy-1.
+
+===Weakness===
+Each dose taken (up to 4) reduces ST by 3.
+
+Duration: 1d hours.
+
+Form: Any, but pastille effect only lasts 1d minutes.
+
+Cost: $400/$700.
+
+Recipe: $50; 2 weeks; defaults to Alchemy-1.
+
+===Healing===
+Heals 1d hits of injury – or, if HP is normal, restores 1d lost FP. Repeated doses have full effect.
+
+Duration: Instant.
+
+Form: Any but pastille.
+
+Cost: $120/$250.
+
+Recipe: $50; 1 week; defaults to Alchemy-1.
+
+===Death===
+A poison, doing 4d damage; a successful HT roll reduces this to 2d damage. Symptoms include numbness and paralysis. A second dose will not be effective until an hour after the first. Illegal almost everywhere!
+
+Duration: Instant.
+
+Form: Any.
+
+Cost: $500/$800.
+
+Recipe: $100; 2 weeks; defaults to Alchemy-1.

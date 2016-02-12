@@ -1,0 +1,25 @@
+Advantage: Terror
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''TERROR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''30 points + 10 points per -1 to Fright Check''&lt;/font&gt;
+|-
+|{{Indent}}You can unhinge the minds of others. There are many way this effect can manifest: a chilling howl, mind-warping body geometry, or even divine awe or unbearable beauty. When you activate this ability, anyone who sees you or hears you (choose one when you buy this trait) must roll an immediate Fright Check (see Fright Checks, p. 360).
+
+{{Indent}}Modifiers: All applicable modifiers under Fright Check Modifiers (p. 360). You can buy extra penalties to this Fright Check for 10 points per -1 to the roll. Your victims get +1 per Fright Check after the first within 24 hours.
+
+{{Indent}}If a victim succeeds at his Fright Check, he will be unaffected by your Terror for one hour.
+
+{{Indent}}Add the Melee Attack limitation (p. 112) if your Terror affects only those you touch.
+
+{{Indent}}Active: Your Terror doesn't affect everyone nearby - it's a direct mental attack on one victim. Your target must be within 10 yards (modified by Increased or Reduced Range), and able to see or hear you. You must take a Concentrate maneuver to affect him. Roll a Quick Contest of Will with your subject. He's at -1 for each -1 to Fright Checks you bought. If you win, roll 3d for the result, as usual, but add your margin of victory instead of his margin of failure. +0%.
+
+{{Indent}}Presence: Your physical presence within 10 yards is enough to cause Fright Checks, even if your victims can neither see you nor hear you. You could be locked in a coffin and still terrify those who stray too close. Each level of Area Effect doubles your radius, but the GM should consider forbidding huge areas. +25%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Always On: You cannot turn off your Terror to engage in normal social activities. This limitation often accompanies the extreme levels of Appearance - usually Hideous or worse, but possibly also Transcendent! -20%.
+|}

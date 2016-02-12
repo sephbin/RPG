@@ -1,0 +1,16 @@
+Modifier: Symptoms
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SYMPTOMS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Symptoms are effects that occur if the cumulative damage (HP or FP loss) inflicted by the enhanced Innate Attack exceeds a fraction of the victim's basic HP or FP. The victim does not get a HT roll to resist Symptoms! The GM should consider limiting Symptoms to attacks that inflict 1d damage or less.
+
+{{Indent}}Choose Symptoms from the following effects described as enhancements for Affliction (p. 35): Advantage, Attribute Penalty, Disadvantage, Irritant, and Negated Advantage. If the threshold for the Symptom is 2/3 the victim's basic HP, use the cost under Affliction. If the threshold is 1/2 basic HP, double this cost. If it's 1/3 basic HP, triple this cost.
+
+{{Indent}}Example: Blindness is worth +50% as an Affliction, but as a Symptom that occurs when the victim has lost half his HP to an Innate Attack, it is a +100% enhancement.
+
+{{Indent}}Unlike Afflictions, Symptoms abate only when the damage that caused them is healed. In the example above, the Blindness would only end when the victim's HP healed past the halfway point.
+
+{{Indent}}An Innate Attack can have multiple Symptoms, representing different effects that that occur at different damage thresholds.
+|}

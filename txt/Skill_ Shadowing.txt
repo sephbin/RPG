@@ -1,0 +1,18 @@
+Skill: Shadowing
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SHADOWING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Observation-5, or Stealth-4 (on foot only).&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to follow another person through a crowd without being noticed. (In the wilderness, use Tracking and Stealth.) Roll a Quick Contest every 10 minutes: your Shadowing vs. the subject's Vision roll. If you lose, you lost the subject; if you lose by more than 5, you were seen
+
+{{Indent}}Once the subject is aware you are shadowing him, roll a Quick Contest every five minutes: your Shadowing skill vs. his Shadowing or Stealth skill. If he wins, he eludes you. If he loses by more than 5, he thinks he eluded you. If you critically fail, you lose him and follow the wrong person
+
+{{Indent}}Following someone in a vehicle is harder than shadowing on foot. Use the same rules, but you roll at -2 (and may not use your Stealth default)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -3 if the subject knows you. Distinctive appearance gives a penalty - see Build (p. 18), Unnatural Features (p. 22), and specific disadvantages (e.g., Hunchback, p. 139) for details. If you belong to a visibly different race than most of the people around you, the penalty is up to the GM; it is never smaller in magnitude than the difference between your Size Modifier and that of those around you.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,20 @@
+Skill: Invisibility Art
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INVISIBILITY ART'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master, and both Hypnotism and Stealth at 14+.&lt;/font&gt;
+|-
+|{{Indent}}This is the fabled skill, often attributed to ninja and other martial-arts masters, of being able to stand in plain sight without being noticed. It requires one second of concentration to activate. After that time, roll a Quick Contest once per second: your Invisibility Art vs. the Vision roll of each person who can see you
+
+{{Indent}}Viewers must apply the current darkness penalty to their Vision roll. A viewer who is concentrating on something else or otherwise distracted is at -3; one who is specifically looking for intruders gets +3. If someone sees you and raises the alarm, by pointing and crying out, those who believe the warning get +3 on their next roll
+
+{{Indent}}If you win, that person is unable to see you for one second. Otherwise, he can see you normally. Once someone notices you, he is unaffected by this skill until you can get out of sight somehow (which might be as easy as stepping into a shadow), whereupon you may try again
+
+{{Indent}}Note that this skill does not work at all in combat. In particular, if you attack anyone, you will immediately become visible to everyone!
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +3 if you use a smoke bomb or flash grenade before you attempt your roll (you appear to vanish in a cloud of smoke). Your movement modifies your skill roll rather than viewers' Vision rolls: no modifier if you stand still (Move 0), -1 if you move at a slow walk (Move 1), -2 at a fast walk (Move 2), or -5 at a run (Move 3+). If you stand perfectly still (requires a successful Breath Control or Meditation roll), you get +1.&lt;/i&gt;&lt;/font&gt;
+|}

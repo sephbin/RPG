@@ -1,0 +1,48 @@
+Skill: Artist
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ARTIST'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents talent at a visual art. A successful roll might let you create a recognizable likeness of a person or an object, or a work beautiful enough to sell (the GM should not allow a default roll for this use!). Time required is up to the GM
+
+{{Indent}}Artist is based on IQ, but there are many situations in which the GM could logically ask for a DX-based roll, in which case modifiers for High Manual Dexterity (p. 59) or Ham- Fisted (p. 138) would apply. In rare cases, even a ST-based Artist roll might make sense - for instance, to work with a physically tough material
+
+{{Indent}}You must specialize in an art form. Common specialties include:
+
+{{Indent}}&lt;i&gt;Body Art:&lt;/i&gt; Tattooing, piercing, and scarification. Both this specialty and Painting suffice for henna or temporary tattoos, but cosmetic surgery requires Surgery skill (p. 223)
+
+{{Indent}}&lt;i&gt;Calligraphy:&lt;/i&gt; Beautiful and decorative handwriting. You need not be literate!
+
+{{Indent}}&lt;i&gt;Drawing:&lt;/i&gt; All forms of charcoal, ink, pastel, and pencil work
+
+{{Indent}}&lt;i&gt;Illumination:&lt;/i&gt; Decorating written text with miniature paintings and pictures
+
+{{Indent}}&lt;i&gt;Illusion:&lt;/i&gt; Creating believable or evocative illusions. &lt;i&gt;Prerequisite:&lt;/i&gt; magical or psionic illusion ability of some kind
+
+{{Indent}}&lt;i&gt;Interior Decorating:&lt;/i&gt; Creating pleasing building interiors by selecting appropriate paints, fixtures, and furniture. &lt;i&gt;Default:&lt;/i&gt; Architecture-3
+
+{{Indent}}&lt;i&gt;Painting:&lt;/i&gt; All forms of painting, whether on paper, canvas, or a wall, and whether with tempera, oil-based paint, or something more exotic (like blood)
+
+{{Indent}}&lt;i&gt;Pottery:&lt;/i&gt; Working with various sorts of ceramics - especially clay
+
+{{Indent}}&lt;i&gt;Scene Design:&lt;/i&gt; Designing sets for the stage. &lt;i&gt;Default:&lt;/i&gt; Architecture-3
+
+{{Indent}}&lt;i&gt;Sculpting:&lt;/i&gt; Creating three-dimensional art from ivory, stone, metal, etc
+
+{{Indent}}&lt;i&gt;Woodworking:&lt;/i&gt; All forms of fine woodwork, including cabinet-making
+
+{{Indent}}and decorative carving. &lt;i&gt;Default:&lt;/i&gt; Carpentry-3
+
+{{Indent}}Calligraphy, Drawing, Illumination, and Painting default to one another at -2, and to or from Body Art at -4. Interior Decorating, Scene Design, and Woodworking default among themselves at -4. All other Artist specialties default to one another at -6
+
+{{Indent}}An artist of any kind can take a further optional specialty (p. 169) in a particular medium or technique
+
+{{Indent}}Many Artist specialties are used to earn a living rather than to create fine art, and some people regard them as &quot;craft&quot; skills, not &quot;art&quot; skills. It is up to you whether you focus on beauty, realism, or functionality
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -2 if the medium is unfamiliar (e.g., tempera when you are used to oils); -5 if the medium is difficult (e.g., marble, for a sculptor).&lt;/i&gt;&lt;/font&gt;
+|}

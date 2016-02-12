@@ -1,0 +1,8 @@
+Disadvantage: Kleptomania
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''KLEPTOMANIA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are compelled to steal - not necessarily things of value, but anything you can get away with. Make a self-control roll whenever you are presented with a chance to steal, at up to -3 if the item is especially interesting to you (not necessarily valuable, unless you are poor or have Greed). If fail, you must try to steal it. You may keep or sell stolen items, but you may not return or discard them.
+|}

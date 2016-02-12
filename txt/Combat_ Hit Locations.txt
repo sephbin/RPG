@@ -1,0 +1,34 @@
+Combat: Hit Locations
+[[Category:GURPS Combat]]
+{| class=&quot;wikitable&quot;
+!Skull:
+|The skull gets an extra DR 2, the wounding modifier for all attacks increases to x4, knockdown rolls are at -10, and critical hits use the Critical Head Blow Table (p. 556). Exception: None of these effects apply to toxic damage.
+!Torso:
+| 
+|-
+!Eye:
+|Impaling, piercing, and tight-beam burning attacks can specifically target the eye. Injury over HP/10 blinds the eye; otherwise, treat as a skull hit without the extra DR 2! (As with skull hits, toxic damage has no special effect.)
+!Vitals:
+|The heart or lungs (from the front) or the kidneys (from behind). Certain attacks can target the vitals for increased damage. Increase the wounding modifier for an impaling or any piercing attack to x3. Increase the wounding modifier for a tight-beam burning attack (see box) to x2. Other attacks cannot target the vitals.
+|-
+!Face:
+|Many helmets have an open face, allowing this attack to ignore armor DR! Knockdown rolls are at -5, and critical hits use the Critical Head Blow Table. Corrosion damage (only) gets a x1.5 wounding modifier . . . and if it inflicts a major wound, it also blinds one eye (both eyes on damage greater than full HP).
+!Groin:
+|The lower torso. Jackets and light armor don’t always cover this area. Treat as a torso hit, except that human males (and the males of similar species) suffer double the usual shock from crushing damage (to a maximum of -8), and get -5 to knockdown rolls.
+|-
+!Neck:
+|Increase the wounding multiplier of crushing and corrosion attacks to x1.5, and that of cutting damage to x2. The GM may rule that anyone killed by a cutting blow to the neck is decapitated!
+!
+|
+|-
+| 
+|-
+!Arm:
+
+Leg:
+|A good way to disable without killing! Against a living target, reduce the wounding multiplier of large piercing, huge piercing, and impaling damage to x1. Any major wound (loss of over 1/2 HP from one blow) cripples the limb – but damage beyond the minimum required to inflict a crippling injury is lost. Note: The penalty to hit an arm with a shield is -4.
+!Hand:
+
+Foot:
+|As for an arm or leg, but damage over 1/3 HP in one blow inflicts a crippling major wound (excess damage is still lost). This gives you a chance to cripple the foe with little real damage. However, your foe might just switch hands (or hop) and finish you off! Note: The penalty to hit a hand holding a shield is -8.
+|}

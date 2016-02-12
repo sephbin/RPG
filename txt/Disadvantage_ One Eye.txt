@@ -1,0 +1,10 @@
+Disadvantage: One Eye
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ONE EYE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have only one eye. Either you are missing an eye (in which case you may wear a glass eye or cover the missing eye with a patch) or you have only a single, cyclopean eye. You suffer -1 to DX in combat and on any task involving hand-eye coordination, and -3 on ranged attacks (unless you Aim first) and on rolls to operate any vehicle faster than a horse and buggy.
+
+{{Indent}}Some cultures regard those who are missing an eye as unattractive. If this is generally true in your game world, losing an eye will also reduce your appearance by one level (see Physical Appearance, p. 21). If you start with this trait, assume that it is already factored into your appearance - do not apply an additional reaction modifier.
+|}

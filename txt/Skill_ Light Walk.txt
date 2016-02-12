@@ -1,0 +1,16 @@
+Skill: Light Walk
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIGHT WALK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master, and both Acrobatics and Stealth at 14+.&lt;/font&gt;
+|-
+|{{Indent}}This skill allows you to exert very little pressure when you walk. On a successful Light Walk roll, you leave no visible tracks. Tracking rolls to follow you automatically fail unless they rely on something more than sight; thus, a human tracker would be baffled, but bloodhounds would suffer no penalty at all
+
+{{Indent}}You can also attempt to walk over fragile surfaces without falling through. Maximum Move under such circumstances is 1/3 normal (GM's decision). Thin ice would require an unmodified Light Walk roll, while rice paper would require a roll at -8!
+
+{{Indent}}Finally, a successful Light Walk roll can give a bonus to Stealth when your intention is to move quietly. This bonus equals half your margin of success, rounded down. Minimum bonus is +1
+|}

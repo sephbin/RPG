@@ -1,0 +1,18 @@
+Skill: Forward Observer
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''FORWARD OBSERVER'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5, Artillery (any)-5, and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of being a &quot;spotter&quot; for artillery. It includes locating targets (with map and compass at TL6-, global positioning systems and satellite imagery at TL7+), marking targets (using smoke, a laser designator, etc.), matching ordnance to target for best effect, and calling in corrections to any fire you personally observe
+
+{{Indent}}Failure means the ordnance misses the target; critical failures result in severe &quot;collateral damage&quot; or &quot;friendly fire&quot; incidents. The very worst critical failures (GM's decision) drop the ordnance on your position!
+
+{{Indent}}At higher tech levels, Forward Observer is less about observing targets and more about operating specialized technology such as drones, GPS, and laser designators. To remotely pilot a drone or use a laser designator to direct &quot;smart&quot; munitions onto a target, make a DX-based skill roll. At TL7+, Forward Observer defaults to Electronics Operation (any)-5
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Equipment modifiers (p. 345); -2 if you are unfamiliar with the artillery (e.g., aircraft bombs when you are used to naval guns); -3 per 500 yards between you and the target - but divide the actual range by the magnification of any vision aid first.&lt;/i&gt;&lt;/font&gt;
+|}

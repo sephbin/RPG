@@ -1,0 +1,8 @@
+Disadvantage: Low TL
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LOW TL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points/TL below campaign TL''&lt;/font&gt;
+|-
+|{{Indent}}Your personal TL is below that of the campaign world. You start with no knowledge (or default skill) relating to equipment above your personal TL. You will be able to learn DX-based technological skills (pertaining to vehicles, weapons, etc.) in play, if you can find a teacher, but fundamental differences in thinking prevent you from learning IQ-based technological skills. To overcome this limitation, you must buy off this trait, increasing your personal TL. This usually requires a lengthy period of re-education (see Chapter 9).
+|}

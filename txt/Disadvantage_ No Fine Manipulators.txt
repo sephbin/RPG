@@ -1,0 +1,14 @@
+Disadvantage: No Fine Manipulators
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NO FINE MANIPULATORS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''03/01/2014''&lt;/font&gt;
+|-
+|{{Indent}}Your body lacks hands and possibly limbs. Point value depends on the extent of your limitation:
+
+{{Indent}}No Fine Manipulators: You have no body part more agile than paws or hooves. You cannot use your limbs to make repairs, pick locks, tie knots, wield weapons, etc., or even to grasp firmly. You may only select this trait if you have nothing approaching the human hand in terms of overall versatility. If you have a beak, tongue, prehensile tail, etc. that is as good as a hand, you do not have No Fine Manipulators! -30 points.
+
+{{Indent}}No Manipulators: You have no limbs. The only way for you to manipulate objects is to push them around with your body or head. You can still move, and are capable of rolling, wriggling, bouncing, etc. at your Basic Move unless you buy it down to 0. -50 points.
+
+{{Indent}}Note that this trait is limited to nonhumans and supers. Either level qualifies you to buy ST and DX with the -40% No Fine Manipulators limitation.
+|}

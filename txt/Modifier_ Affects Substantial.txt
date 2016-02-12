@@ -1,0 +1,10 @@
+Modifier: Affects Substantial
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''AFFECTS SUBSTANTIAL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+40%''&lt;/font&gt;
+|-
+|{{Indent}}Your ability affects substantial targets even when you are insubstantial. It also affects insubstantial creatures normally. (Do not add this enhancement to magical or psi abilities; these can already affect the substantial world at -3.)
+
+{{Indent}}Note to GMs: This enhancement is very powerful. It lets insubstantial characters affect the material world with little fear of retribution. Feel free to disallow it, restrict it to NPCs, or to make sure that lots of foes have the Affects Insubstantial enhancement!
+|}

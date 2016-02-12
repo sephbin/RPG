@@ -1,0 +1,22 @@
+Disadvantage: Susceptible
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUSCEPTIBLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You are extremely sensitive to a particular class of noxious items or substances; e.g., disease or poison. You have a penalty to all HT rolls to resist the negative effects of these things. You do not suffer extra damage, however; for that, see Vulnerability (p. 161).
+
+{{Indent}}If you are exposed to trace quantities of an item to which you are Susceptible - a dose so tiny that it would not affect most people - you must roll against HT+1, modified by your usual penalty for this disadvantage. If you fail, you suffer half the effects (fatigue, injury, attribute loss, period of incapacitation, etc.) you would suffer from a full dose. For instance, Susceptible to Poison would require a roll if you ingested highly diluted industrial waste in drinking water, while Susceptible to Disease would require a roll if you received a &quot;live&quot; vaccine (one that contains weakened microbes). Should there be any doubt as to exposure or effects, the GM's decision is final.
+
+{{Indent}}Point cost depends on the item's rarity in the environment:
+
+{{Indent}}Very Common (e.g., Disease, Poison): -4 points/-1 to HT rolls.
+
+{{Indent}}Common (e.g., Bacteria, Gases): -2 points/-1 to HT rolls.
+
+{{Indent}}Occasional (e.g., Intestinal Disease, Ingested Poison): -1 point/-1 to HT rolls.
+
+{{Indent}}You may not take more than five levels of Susceptible to a given item, or more than two separate Susceptible disadvantages, without the GM's permission. You cannot take more levels of Susceptible than would reduce your effective HT to 3. For instance, if your HT is 7, you are limited to four levels of Susceptible. If you have any form of Resistant (p. 80) that protects against a given item, you cannot also be Susceptible to that item.
+
+{{Indent}}This trait can simulate many common health problems. Use Susceptible to Disease for a weak immune system, Susceptible to Ingested Poison for a tendency not to vomit up noxious substances (a &quot;weak vomit reflex&quot;), etc.
+|}

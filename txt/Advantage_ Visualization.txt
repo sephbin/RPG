@@ -1,0 +1,16 @@
+Advantage: Visualization
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''VISUALIZATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can improve your chances at a task by visualizing yourself successfully performing it. The closer your mental picture is to the actual circumstances, the greater the bonus. The visualization must be detailed and must involve a clear and specific action. This makes it useless in combat, where the situation changes faster than you can visualize it.
+
+{{Indent}}To use this talent, you must concentrate for one minute. You, the player, must describe the scene you visualize (which can include senses other than sight) and the results you hope to achieve. Then make an IQ roll.
+
+{{Indent}}You get a +1 bonus to the action you visualized for every point by which you succeed - if the circumstances correspond almost exactly to the visualization. If they are not quite the same, which will almost always be true, halve the bonus (minimum +1). And if something is clearly different, divide the bonus by 3 (no minimum). The GM can assess a further bonus of up to +2, or a penalty of any size, for a good or bad description!
+
+{{Indent}}Blessing: You can improve the odds of success of any task undertaken by a sapient being just by &quot;thinking good thoughts&quot; for a minute beforehand. You must be able to see or touch the beneficiary. When he rolls for his task, he gains the Visualization bonus. You can only have one bonus pending at a time - for yourself or someone else - but you can cancel this to assist another task. +100% if you can affect your rolls and those of others; +0% if you can aid others but not yourself.
+
+{{Indent}}Cursing: You can project &quot;negative energy&quot; to reduce others' odds of success. You must be able to see or touch your victim for a full minute while you visualize him failing at his task. Without special abilities of his own, he won't know that you're cursing him. When he carries out his task, he suffers a penalty equal in size to your usual bonus. You can only have one curse active at a time, but you can cancel it to curse another task. Your advantage doesn't affect you at all, and you can't combine Cursing with Blessing. If you can also produce beneficial effects, buy Visualization a second time without Cursing, and possibly with Blessing. +100%.
+|}

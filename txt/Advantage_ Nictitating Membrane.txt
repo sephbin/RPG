@@ -1,0 +1,8 @@
+Advantage: Nictitating Membrane
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NICTITATING MEMBRANE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''1 point/level''&lt;/font&gt;
+|-
+|{{Indent}}You have a transparent lens over your eyes that you can open and close like an eyelid. This lets you see normally underwater, and protects your eyes from sand, irritants, etc. Each level of Nictitating Membrane provides your eyes (only) with DR 1 and adds +1 to all HT rolls concerned with eye damage.
+|}

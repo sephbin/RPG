@@ -1,0 +1,14 @@
+Skill: Wrestling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WRESTLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents training at grappling and pinning. Roll against the higher of DX or Wrestling to hit with a grapple, or to make or resist a takedown. Furthermore, if you know Wrestling at DX+1 level, add +1 to ST for the purpose of making or resisting any choke, grapple, neck snap, takedown, or pin, and whenever you attempt to break free. Add +2 to ST for Wrestling at DX+2 or better
+
+{{Indent}}When you defend with bare hands, Wrestling allows you to parry once per turn. You must use both hands. Your Parry score is (skill/2) + 3, rounded down. This parry is at -3 vs. weapons. For complete rules for parrying barehanded, see Parrying Unarmed (p. 376)
+|}

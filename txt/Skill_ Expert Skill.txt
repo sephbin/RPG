@@ -1,0 +1,36 @@
+Skill: Expert Skill
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''EXPERT SKILL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}An Expert Skill represents crossdisciplinary knowledge of a single, narrow theme. When answering factual questions on that theme, you may substitute a roll against your Expert Skill for any IQ-based roll against any skill that has a default. Expert Skills do not exempt you from Cultural Familiarity (p. 23) or Language (p. 23) requirements, and never provide the ability to do practical tasks. Experts sometimes complement Expert Skills with related Area Knowledge skills (p. 176), but you must learn these separately
+
+{{Indent}}You must specialize by theme, and the GM is free to forbid any theme he feels is too broad. Some examples:
+
+{{Indent}}&lt;i&gt;Computer Security:&lt;/i&gt; Expertise at combating computer intrusion (&quot;hacking&quot;). Can stand in for Computer Operation, Cryptography, or Electronics Operation to spot &quot;holes&quot; in the security of a computer system. Use Computer Programming to patch or exploit such holes
+
+{{Indent}}&lt;i&gt;Conspiracy Theory:&lt;/i&gt; The study of interlocking networks of conspiracies. Can substitute for Anthropology, Geography, History, Literature, or Occultism to answer questions about conspiracies, and can also work as Intelligence Analysis for this purpose (only). This does not include hidden inner secrets, which are the province of Hidden Lore (p. 199)
+
+{{Indent}}&lt;i&gt;Egyptology:&lt;/i&gt; The study of ancient Egypt. Can function as Anthropology, Archaeology, History, Linguistics, or Occultism for that purpose
+
+{{Indent}}&lt;i&gt;Epidemiology:&lt;/i&gt; The study of the spread of disease. Can serve as Biology, Diagnosis, Forensics, Geography, or Mathematics when deducing how a disease was spread
+
+{{Indent}}&lt;i&gt;Hydrology:&lt;/i&gt; The study of a planet's water. Can be used in place of Biology, Chemistry, Geography, Geology, or Meteorology to answer questions about precipitation, flooding, irrigation, etc
+
+{{Indent}}&lt;i&gt;Military Science:&lt;/i&gt; General expertise on military capabilities. Can substitute for Artillery, Armoury, Strategy, or Tactics to answer questions about - but not use - weapons or strategies
+
+{{Indent}}&lt;i&gt;Natural Philosophy:&lt;/i&gt; A general skill that usually replaces specific science skills (which might not even exist yet!) for scholars at TL1-4. Can be used in place of any science skill (e.g., Biology or Physics) to answer questions about how the universe is believed to work
+
+{{Indent}}&lt;i&gt;Political Science:&lt;/i&gt; The academic study of politics. Can substitute for Geography, History, Law, Politics, or Sociology when performing political analysis
+
+{{Indent}}&lt;i&gt;Psionics:&lt;/i&gt; The study of the psionic mind and brain. Can function as Biology, Diagnosis, Physician, Physiology, or Psychology when dealing with psi phenomena in living beings. Cannot substitute for Electronics Operation, Electronics Repair, and Engineer specialties that deal with psychotronics
+
+{{Indent}}&lt;i&gt;Thanatology:&lt;/i&gt; The esoteric study of death. Can stand in for Anthropology, Archaeology, Occultism, or Theology when dealing with death and the dead
+
+{{Indent}}&lt;i&gt;Xenology:&lt;/i&gt; General knowledge of the known races in your setting. Can substitute for Anthropology, History, Physiology, or Psychology to identify a member of a race different from your own, or to answer general questions about the race and its culture
+|}

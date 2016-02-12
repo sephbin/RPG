@@ -1,0 +1,43 @@
+Temperature Tolerance
+{| style=&quot;color: black; width=260 style=&quot;border-collapse: separate; border-spacing:10; border: 2px solid #000; padding:10&quot;
+| &lt;font size=&quot;3&quot;&gt;
+'''''TEMPERATURE TOLERANCE'''''
+&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;
+''1 point/level''
+&lt;/font&gt;
+|-
+|
+Every character has a temperature
+“comfort zone” within which he suffers
+no ill effects (such as FP or HP
+loss) due to heat or cold. For ordinary
+humans, this zone is 55° wide and falls
+between 35° and 90°. For nonhumans,
+the zone can be centered anywhere,
+but this is a 0-point feature for a zone
+no larger than 55°. A larger zone is an
+advantage. Each level of Temperature
+Tolerance adds HT degrees to your
+comfort zone, distributed in any way
+you wish between the “cold” and “hot”
+ends of the zone.
+
+Temperature Tolerance confers no
+special resistance to attacks by fire or
+ice unless the only damage is a result
+of a rise or fall in the ambient temperature.
+In particular, it cannot help you
+if your body temperature is being
+manipulated.
+
+In a realistic campaign, the GM
+should limit normal humans to
+Temperature Tolerance 1 or 2.
+However, high levels of this trait are
+likely for nonhumans with fur or a
+heavy layer of fat.
+|}
+
+[[Category:GURPS Advantages]]

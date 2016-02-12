@@ -1,0 +1,35 @@
+Gutz
+'''Gútz'''&lt;br/&gt;
+Mantis, Giant &lt;br/&gt;
+N Medium vermin&lt;br/&gt;
+'''Init '''+2; '''Senses '''darkvision 60 ft.; Perception +1&lt;br/&gt;
+----
+'''Defense'''&lt;br/&gt;
+----
+'''AC '''15, touch 12, flat-footed 13 (+2 Dex, +3 natural)&lt;br/&gt;
+'''hp '''12 ()&lt;br/&gt;
+'''Fort '''+3, '''Ref '''+2, '''Will '''+1&lt;br/&gt;
+----
+'''Offense'''&lt;br/&gt;
+----
+'''Speed '''30 ft., climb 30 ft., fly 40 ft. (average)&lt;br/&gt;
+'''Melee '''2 claws +1 (1d4 plus grab) and&lt;br/&gt;
+:unarmed strike +1 (1d3 nonlethal)&lt;br/&gt;
+----
+'''Statistics'''&lt;br/&gt;
+----
+'''Str '''10, '''Dex '''15, '''Con '''10, '''Int '''—, '''Wis '''12, '''Cha '''7&lt;br/&gt;
+'''Base Atk '''+1; '''CMB '''+1 (+5 grapple); '''CMD '''13 (21 vs. trip)&lt;br/&gt;
+'''Tricks '''Attack, Flank&lt;br/&gt;
+'''Skills '''Climb +8&lt;br/&gt;
+'''SQ '''attack, flank, lunge&lt;br/&gt;
+----
+'''Special Abilities'''&lt;br/&gt;
+----
+'''Attack [Trick]''' The animal will attack on command.&lt;br/&gt;
+'''Climbing (30 feet)''' You have a Climb speed.&lt;br/&gt;
+'''Darkvision (60 feet)''' You can see in the dark (black and white vision only).&lt;br/&gt;
+'''Flank [Trick]''' Attempts to attack and flank indicated enemy.&lt;br/&gt;
+'''Flight (40 feet, Average)''' You can fly!&lt;br/&gt;
+'''Grab: Claw (Medium) (Ex)''' You can start a grapple as a free action if you hit with the designated weapon.&lt;br/&gt;
+'''Lunge (Ex)''' A giant mantis's limbs are capable of reaching much farther than normal for a creature of its size. As a full attack action, it can make a single attack with its claws at double its normal reach. When a giant mantis attacks with a claw in this manner&lt;br/&gt;

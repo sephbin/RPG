@@ -1,0 +1,16 @@
+Skill: Body Control
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BODY CONTROL'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master, Breath Control, and Meditation.&lt;/font&gt;
+|-
+|{{Indent}}This ability lets you affect involuntary bodily functions such as heart rate, blood flow, and digestion. One use of this skill is to enter a deathlike trance, during which only those who can win a Quick Contest of Diagnosis vs. your Body Control skill even realize that you are alive. This requires (30 - skill) seconds of concentration, minimum one second
+
+{{Indent}}You can also use this skill to flush poisons from your body. To do so, you must first roll against Poisons (or Alchemy, Pharmacy, etc., as appropriate) to identify the poison. You cannot attempt this roll until you know you have been poisoned. In most cases, you only discover this when the first symptoms show! A successful Body Control roll - adjusted by any modifier to the HT roll to resist the poison - flushes the poison in 1d hours, after which it has no further effect
+
+{{Indent}}Finally, you may use the higher of this skill and basic HT to resist any Affliction, magic spell, or psionic attack that is normally resisted by HT
+|}

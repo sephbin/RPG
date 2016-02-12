@@ -1,0 +1,26 @@
+Disadvantage: Maintenance
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''MAINTENANCE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You require skilled attention at regular intervals to avoid HT loss. Examples include a robot that needs a mechanic, a chronically ill person who needs a doctor's attention, or a god that requires devout prayer.
+
+{{Indent}}Decide on the care you require and the skill needed to provide it. Possibilities include electronic maintenance (use Electronics Repair), mechanical maintenance (use Mechanic), medical care (use Physician), and physical repairs (use Carpentry, Electrician, etc.). You may specify an advantage or disadvantage instead; e.g., a god might require worshippers with Disciplines of Faith. You can split Maintenance between multiple skills; for instance, a robot might require Electronics Repair and Mechanic.
+
+{{Indent}}Those who maintain you must have access to the appropriate facilities: a mechanic needs tools, worshippers must pray at a temple, etc. No resources are consumed, however; for that, take Dependency (p. 130).
+
+{{Indent}}Each installment of maintenance takes one hour. The base point value depends on the number of people needed to perform it:
+
+{{Indent}}[[pic]]
+
+{{Indent}}Add another -10 points per full doubling of the number of people required; e.g., a god that requires 10,000 worshippers would have a base -130-point disadvantage. Extra manhours of maintenance may substitute for extra people, if the GM approves.
+
+{{Indent}}The frequency with which you require maintenance modifies this base cost.
+
+{{Indent}}[[pic]]
+
+{{Indent}}If you miss a maintenance period, your HT attribute drops by 1 and you must make a HT roll. Failure results in some additional incapacity of the GM's choosing. Critical failure means a potentially fatal outcome; e.g., a human might suffer a heart attack, or a vehicle's brakes might fail while it is moving.
+
+{{Indent}}To restore lost HT and capabilities requires suitable intervention and skill rolls (repairs if you're a machine, surgery if you're a living being, etc.). If you require an unusual form of maintenance, this might call for exotic measures!
+|}

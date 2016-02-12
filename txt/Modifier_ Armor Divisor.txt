@@ -1,0 +1,22 @@
+Modifier: Armor Divisor
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''ARMOR DIVISOR'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your attack can pierce more armor than its base damage would indicate.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Armor Divisor||Modifier
+|-
+|(2)||+50%
+|-
+|(3)||+100%
+|-
+|(5)||+150%
+|-
+|(10)||+200%
+|}
+
+{{Indent}}Only Innate Attacks and Afflictions can have this enhancement. Armor Divisor is a &quot;penetration modifier&quot;; you cannot combine it with other penetration modifiers, such as Contact Agent (p. 103) and Follow-Up (p. 105).
+|}

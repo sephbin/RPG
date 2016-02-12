@@ -1,0 +1,8 @@
+Advantage: High Manual Dexterity
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HIGH MANUAL DEXTERITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''5 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You have remarkably fine motor skills. Each level (to a maximum of four) gives +1 to DX for tasks that require a delicate touch. This includes all DX-based rolls against Artist, Jeweler, Knot-Tying, Leatherworking, Lockpicking, Pickpocket, Sewing, Sleight of Hand, and Surgery, as well as DX-based rolls to do fine work with Machinist or Mechanic (e.g., on clockwork). This bonus doesn't apply to IQbased tasks or large-scale DX-based tasks, nor does it apply to combatrelated die rolls of any kind.
+|}

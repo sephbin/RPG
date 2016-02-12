@@ -1,0 +1,20 @@
+Skill: Cryptography
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CRYPTOGRAPHY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: Mathematics (Cryptology)- 5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to create and defeat encryption systems, codes, and ciphers. It is of use in wartime, espionage, and even business dealings. It covers all the techniques of your TL, which can range from unsophisticated substitution ciphers to state-of-theart tactical encryption schemes. Knowledge of a specific system, code, or cipher depends on your Security Clearance (p. 82) and allegiances (national, administrative, or both). In many settings, some level of Security Clearance is a prerequisite to learning this skill at all
+
+{{Indent}}Treat an attempt to break an unknown code as a Quick Contest of Cryptography skill between the codebreaker and code-maker. The codebreaker must win to break the code. Repeated attempts are possible, but each attempt takes a day. The codemaker rolls only once, when he first creates the code
+
+{{Indent}}Those with Cryptography skill may take an optional specialty (p. 169) in making or breaking codes. (The codebreaking specialty is often called &quot;cryptanalysis.&quot;)
+
+{{Indent}}Cryptography normally has no IQ default, with two exceptions. Anyone can devise a trivial code or cipher by making an IQ-5 roll. This won't stall a professional for long, of course. Likewise, anyone can make an IQ-5 roll to attempt to break such a trivial code (but not a code devised by someone with Cryptography skill), using the Quick Contest system described above
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Mathematical Ability (p. 90). A computer with appropriate software gives a bonus (provided you know Computer Operation skill): +1 for a home computer, +2 for a minicomputer, +3 or +4 for a mainframe, and +5 or more for a supercomputer. The code-breaker is at +5 if he has a sample of the code with translation, and -5 if the message to be decoded is shorter than 25 words. The codemaker receives a bonus for the time taken to create the code: consult the Size and Speed/Range Table (p. 550), look up the time in days in the Range/Speed column (substituting &quot;days&quot; for &quot;yards&quot;), and use the corresponding bonus.&lt;/i&gt;&lt;/font&gt;
+|}

@@ -1,0 +1,26 @@
+Advantage: Channeling
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''CHANNELING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can become a conduit for the spirit world, allowing spirits to speak through you. To do so, you must enter a trance, achieved through one minute of concentration and a Will roll (at +2 if you have Autotrance, p. 101). You are unaware of the world around you while you are in this state.
+
+{{Indent}}Once you have entered your trance, any spirit in the immediate vicinity can enter your body and use it to speak or write messages. The GM controls what the spirit does or says. The spirit answers questions put to it by others, but it is not bound to tell the truth.
+
+{{Indent}}This is a minor form of possession: the spirit can use your body only to communicate. However, if it has the Possession ability (p. 75), it is considered to be touching you, and can attempt full possession while you are in a trance. You are considered &quot;wary,&quot; and thus get +5 to resist.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Aware: You remain aware of the world when using your ability, and can move and act normally while spirits speak through you. +50%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Specialized: You can only channel one specific class of spirits. Possibilities include angels, demons, elementals, faerie, ghosts, and anything else the GM wishes to allow. -50%.
+|}

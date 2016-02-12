@@ -1,0 +1,12 @@
+Skill: Lifting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''LIFTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the trained ability to use your strength to its best advantage when you lift. Roll once per lift. On a success, increase your Basic Lift by 5% per point by which you made your roll. This has no effect on encumbrance, or on how much you can carry. See Lifting and Moving Things (p. 353)
+|}

@@ -1,0 +1,16 @@
+Skill: Pharmacy
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PHARMACY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 and others.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the skill of preparing medicines to treat illness. (To work with noxious drugs, use Poisons skill, p. 214.) You must specialize:
+
+{{Indent}}&lt;i&gt;Herbal:&lt;/i&gt; The ability to make and administer remedies prepared from plants. Make a Naturalist roll to locate herbs. Before TL5, this is the only specialty available. It replaces Physician (below) and is frequently used in conjunction with Esoteric Medicine (p. 192). At TL5+, this specialty remains available, but Pharmacy (Synthetic) is much more common. &lt;i&gt;Prerequisite:&lt;/i&gt; Naturalist. &lt;i&gt;Defaults:&lt;/i&gt; Biology-5, Herb Lore-5, or Naturalist-5
+
+{{Indent}}&lt;i&gt;Synthetic:&lt;/i&gt; The skill of preparing drugs under &quot;laboratory&quot; conditions. To prescribe drugs, use Physician skill. This specialty is only available at TL5+. &lt;i&gt;Defaults:&lt;/i&gt; Chemistry-5 or Physician-5
+|}

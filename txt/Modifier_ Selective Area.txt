@@ -1,0 +1,8 @@
+Modifier: Selective Area
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SELECTIVE AREA'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''+20%''&lt;/font&gt;
+|-
+|{{Indent}}You may add this enhancement to any Area Effect (p. 102) or Cone (p. 103) attack. It lets you choose which targets within your area are actually affected.
+|}

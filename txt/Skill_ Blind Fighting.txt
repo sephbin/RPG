@@ -1,0 +1,20 @@
+Skill: Blind Fighting
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BLIND FIGHTING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Per/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: Trained By A Master or Weapon Master.&lt;/font&gt;
+|-
+|{{Indent}}You have learned to fight blindfolded or in absolute darkness. As a result, you can &quot;sense&quot; your targets without having to see them
+
+{{Indent}}This skill enables you to use senses other than vision - mainly hearing, but also touch and even smell - to pinpoint exactly where your opponents are. A successful roll allows one melee attack or active defense without any penalties for lighting (even total darkness), blindness (temporary or permanent), or an invisible foe. However, attacks made in total darkness, while blind, or against invisible enemies have an extra -2 to target specific hit locations
+
+{{Indent}}If you also know Zen Archery (p. 228), you can shoot targets without seeing them by making rolls on both skills at -6
+
+{{Indent}}An opponent who knows you possess this ability can foil it by winning a Quick Contest of Stealth-4 vs. your Blind Fighting each turn. If he wins, you cannot detect him. However, Invisibility Art (p. 202) never works on you; it is completely useless against this skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Background noise gives a penalty: -1 for rain, -2 for heavy rain or a storm, -3 for a crowded, noisy area or heavy machinery, -4 for a full football stadium, or -5 in the middle of an artillery barrage. If you cannot hear at all, the roll is at -7, but you may still attempt a roll, as the skill is not completely based on hearing. Add your level of Acute Hearing to the roll. Add the higher of your ESP Talent (p. 256) or Telepathy Talent (p. 257).&lt;/i&gt;&lt;/font&gt;
+|}

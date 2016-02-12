@@ -1,0 +1,12 @@
+Skill: Hiking
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''HIKING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''HT/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: HT-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill represents training for endurance walking, hiking, and marching. It includes knowledge of how to pace yourself in different conditions, and how best to carry a pack. Make a Hiking roll before each day's march; on a success, increase the distance traveled by 20%. The GM may allow bonuses for good maps and good walking shoes, but not for terrain. If a party is traveling together, all must make the Hiking roll in order to get the increased distance. See Hiking (p. 351)
+|}

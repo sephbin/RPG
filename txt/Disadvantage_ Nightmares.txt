@@ -1,0 +1,12 @@
+Disadvantage: Nightmares
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''NIGHTMARES'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points*''&lt;/font&gt;
+|-
+|{{Indent}}You are tormented each night by horrible nightmares. Sometimes they're so harrowing that they affect your efficiency during waking hours. Make a self-control roll each morning upon awakening. If you fail, you suffered nightmares; this costs you 1 FP that you can only recover through sleep. On a roll of 17 or 18, you are left shaking, and are at -1 to all skill and Perception rolls for the entire day.
+
+{{Indent}}These nightmares can be so vivid that they're indistinguishable from reality. The GM might choose to play them out in the game, starting out like a normal scenario and steadily becoming more horrible. The victim should only gradually come to suspect that he is dreaming. Such dreams can have a dramatic effect on the dreamer's waking life, such as temporary Obsessions or Phobias, or even a psychosomatic loss of HP or attribute levels.
+
+{{Indent}}If other PCs are involved in the nightmare, they're completely unaffected by anything that occurs there (but if the nightmare takes a long time to play out, the GM might wish to reward the players with a bonus character point as a token of appreciation for their time - maybe two points if they roleplayed the dream-situation particularly well). It's the GM's option whether to let the other players know in advance that the scenario is a dream. Either way can lead to unique and fascinating roleplaying.
+|}

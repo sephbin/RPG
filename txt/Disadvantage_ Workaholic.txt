@@ -1,0 +1,8 @@
+Disadvantage: Workaholic
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''WORKAHOLIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 points''&lt;/font&gt;
+|-
+|{{Indent}}You tend to drive yourself past your limits, and find it hard to relax and turn away from your work. You always work at least half again as long as a normal working day. This often results in missed sleep (see Missed Sleep, p. 426). Most people regard you with respect at first (+1 to reaction rolls), but you eventually suffer -1 or -2 to reactions - especially from friends and loved ones who rarely get to spend time with you.
+|}

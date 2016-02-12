@@ -1,0 +1,46 @@
+Modifier: Breakable
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''BREAKABLE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your foes can destroy the item. Once destroyed, it will cease to grant you its benefits until repaired. Add the following elements together to find the final limitation value.
+
+{{Indent}}Durability: The easier the object is to break, the greater the limitation. Decide on the gadget's weight and DR.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|DR||Modifier
+|-
+|2 or less||-20%
+|-
+|3-5||-15%
+|-
+|6-15||-10%
+|-
+|16-25||-5%
+|-
+|26 or higher||0%
+|}
+
+{{Indent}}If the object is a machine that can break down (as opposed to a simple artifact, like a ring or a hat), add another -5%. See Damage to Objects (p. 483) to determine HP and the effects of damage.
+
+{{Indent}}Reparability: You can normally repair your gadget if it breaks; the GM chooses the skill(s) needed to make repairs. If you cannot repair it, and it requires inconvenient time, effort, or expense to replace (GM's decision), it is worth an additional -15%.
+
+{{Indent}}Size: The item's Size Modifier affects Vision rolls to identify it out of combat and rolls to hit it in combat.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|SM||Modifier
+|-
+|-9 or less||0%
+|-
+|-7 or -8||-5%
+|-
+|-5 or -6||-10%
+|-
+|-3 or -4||-15%
+|-
+|-1 or -2||-20%
+|-
+|0 or more||-25%
+|}
+|}

@@ -1,0 +1,20 @@
+Modifier: Reduced Range
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REDUCED RANGE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-10%/level''&lt;/font&gt;
+|-
+|{{Indent}}You may add this limitation to any advantage that has a range; e.g., Innate Attack or Scanning Sense. It comes in three levels, depending on the range divisor.
+
+{|style=&quot;width:300px; background-color: #e8ffe7; margin: auto; border-collapse:collapse; text-align:center;&quot;
+|Range Divisor||Modifier
+|-
+|2||-10%
+|-
+|5||-20%
+|-
+|10||-30%
+|}
+
+{{Indent}}If applied to a ranged attack that has a 1/2D range, each level reduces both 1/2D and Max. You may reduce 1/2D only at half value (that is, &quot;Reduced 1/2D&quot; is -5%/level). You may not reduce Max independently.
+|}

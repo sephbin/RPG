@@ -1,0 +1,14 @@
+Skill: Poetry
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POETRY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Writing-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to compose &quot;good&quot; poetry of any type native to your culture, in any language you know. A successful roll lets you write one good poem in an appropriate amount of time (GM's decision). A failed roll might mean that you couldn't get inspired - or that your audience just didn't care for your work (for whatever reason)
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: The time modifiers under Time Spent (p. 346) will often apply; Cultural Familiarity modifiers (p. 23); Language modifiers (p. 23).&lt;/i&gt;&lt;/font&gt;
+|}

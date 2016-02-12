@@ -1,0 +1,12 @@
+Disadvantage: Sadism
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SADISM'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-15 points*''&lt;/font&gt;
+|-
+|{{Indent}}You delight in cruelty . . . mental, physical, or both. Make a self-control roll whenever you have an opportunity to indulge your desires and know you shouldn't (e.g., because the prisoner is one who should be released unharmed). If you fail, you cannot restrain yourself. Those who become aware of your problem react at -3 unless they are from a culture that holds life in little esteem.
+
+{{Indent}}This is a particularly &quot;evil&quot; trait, more appropriate to villainous NPCs than to heroic PCs. The GM may completely prohibit Sadism if he does not want anyone roleplaying it in his campaign.
+
+{{Indent}}It is possible, though despicable, to possess both Bully (p. 125) and Sadism.
+|}

@@ -1,0 +1,238 @@
+Svell Dwarves
+[http://th05.deviantart.net/fs70/PRE/i/2012/364/3/b/dwarf_in_snow_storm_by_zipdraw-d5po1ec.jpg]
+
+== Available Raw Materials ==
+=== Soils ===
+=== Water ===
+Freshwater Lake, Ice, Snow
+=== Surface Stone ===
+=== Wood ===
+Frostsnap Pine, Spruce, Sycamore, Juniper, Silver Birch, Downy Birch, Rowan, Aspen, Goat Willow, Grey Alder, Wych Elm &amp;dagger;, Common Hazel &amp;dagger;, Black Alder &amp;dagger; 
+=== Food ===
+Moose, Red Dear, Fish, Goose, Pheasant, Eggs, Svell Wax Potato, Silver Apple, Clover, Cinnamon, Vanilla, Fell Berry, Boreal Cherry
+=== Ore Veins ===
+Copper &amp;dagger;, Silver &amp;dagger;, Gold &amp;dagger;, Iron, Quartz, Lead &amp;dagger;
+
+== Society ==
+=== Class Specialisation ===
+Dwarf Class Hierarchy
+
+=== Subsistence Patterns ===
+{| class=&quot;wikitable&quot;
+|-
+| Hunter-gatheres
+| 25%
+|-
+| Herders
+| 50%
+|-
+| Fisherfolk
+| 30%
+|-
+| Mixed Economies
+| 20%
+|}
+
+=== Values and Kinship ===
+Patrilineal
+
+=== Language ===
+*Dwarvish
+** Runic
+** Sounds: &amp;atilde;&amp;ccedil;&amp;ecirc;&amp;icirc;&amp;otilde;&amp;oelig;&amp;oslash;&amp;ucirc;&amp;yuml;
+
+*Common
+** Runic
+
+=== Technology ===
+Iron Age
+: ''Sophisticated metalworking methods enable society to master alloys such as iron and create vast quantities of metal objects. Smiths use hot, bellows assisted forges to smelt metals heretofore unworkable. Hard iron (-0), and later steel (+5 to +10), weapons are widespread.''
+
+===Art, Architecture, and Symbolism===
+Significant Numbers
+: 5, 10
+Symbolism and Motifs
+: The Svell Dwarves revere the [[Fell Deer]] for their resilience and strength. Symbolism relating to strength and leadership will have the beasts incorporated somehow into the design, be it carvings, silhouettes or the use of their versatile horns.
+: Svell Dwarves heavily rely upon [[Frostsnap Pine]], using the timber for large and small scale production. The result is a long house style architecture, with large thick posts and stacks of logs to provide superior insulation and water protection. Various dried shrubs and plant needles are used to make thatch rooves while most door thresholds will have a pair of [[Fell Deer]] antlers warding off bad luck.
+=System Conversions=
+As Eorith can be played in various RPG systems, rules have been provided to play a Svell Dwarf in Pathfinder and various d20 systems, GURPS and Rolemaster. Please consider that various capabilities may change from system to system to allow for balanced play. At all times the GURPS version is considered canon.
+==GURPS==
+{{Dwarf, Svell}}
+===Skill Packages===
+
+{{GURPS Fell Deer Sheppard}}
+
+====Master Foreman====
+====Vistekterthoka Guard====
+
+==Rolemaster Stats==
+163 BP
+{| class=&quot;wikitable&quot;
+|-
+| '''Game Mechanic'''
+| '''Value'''
+| '''Pts.'''
+|-
+| Body Development
+| 0&amp;bull;7&amp;bull;4&amp;bull;2&amp;bull;1
+| 13
+|-
+| Channeling PPs
+| 0&amp;bull;6&amp;bull;5&amp;bull;4&amp;bull;3
+| 0
+|-
+| Essence PPs
+| 0&amp;bull;3&amp;bull;2&amp;bull;1&amp;bull;1
+| -20
+|-
+| Mentalism PPs
+| 0&amp;bull;3&amp;bull;2&amp;bull;1&amp;bull;1
+| -20
+|-
+| Lifespan
+| 300 years
+| 3
+|-
+| '''Resistance Roll Modifiers:'''
+| 
+| 
+|-
+| &amp;mdash; Essence
+| +40
+| 16
+|-
+| &amp;mdash; Channeling
+| 0
+| 0
+|-
+| &amp;mdash; Mentalism
+| +40
+| 16
+|-
+| &amp;mdash; Poison
+| +20
+| 10
+|-
+| &amp;mdash; Disease
+| +15
+| 7
+|-
+| Soul Departure
+| 21 rounds
+| 25
+|-
+| '''Starting Languages:'''
+| 3
+| 5
+|-
+| &amp;mdash; Dwarvish
+| (S8/W6)
+| 2
+|-
+| &amp;mdash; Common-speech
+| (S5/W5)
+| 5
+|-
+| &amp;mdash; Asbj&amp;oslash;rn
+| (S4/W4)
+| 3
+|-
+| Required Sleep
+| 6 hours
+| 0
+|-
+| Endurance
+| +20 Exh
+| 7
+|-
+| Recovery Multiplier
+| 0.5 x Norm
+| 10
+|-
+| Race type
+| 1
+| 10
+|-
+| Adolescent skill ranks
+| 64 ranks
+| 14
+|-
+| '''Stat Bonuses:''' 
+|
+|
+|-
+| &amp;mdash; Agility
+| -3
+| -7
+|-
+| &amp;mdash; Constitution
+| +6
+| 45
+|-
+| &amp;mdash; Memory
+| 0
+| 0
+|-
+| &amp;mdash; Reasoning
+| 0
+| 0
+|-
+| &amp;mdash; Self-Discipline
+| +2
+| 5
+|-
+| &amp;mdash; Empathy
+| -4
+| -10
+|-
+| &amp;mdash; Intuition
+| 0
+| 0
+|-
+| &amp;mdash; Presence
+| -4
+| -10
+|-
+| &amp;mdash; Quickness
+| -2
+| -5
+|-
+| &amp;mdash; Strength
+| +3
+| 7
+|-
+| '''Everyman skills:'''
+| 7
+| 7
+|-
+| &amp;mdash; Carpentry, Leather-crafts,&lt;br/&gt; Metal-crafts, Logging, Smithing,&lt;br/&gt; Stone-crafts, and Survival (Alpine)
+| 
+| 
+|-
+| '''Restricted Skills:'''
+| 1
+| -2
+|-
+| &amp;mdash; Swimming
+| 
+| 
+|-
+| Cold Resistance
+| +60
+| 30
+|-
+| Nightvision
+| NA
+| 7
+|-
+| Intolerance
+| Giants/Yeti
+| -10
+|-
+| Available Talent Points
+| 35
+| 
+|}
+
+
+[[Category:Races]]

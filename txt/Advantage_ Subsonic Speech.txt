@@ -1,0 +1,12 @@
+Advantage: Subsonic Speech
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SUBSONIC SPEECH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''0 or 10 points''&lt;/font&gt;
+|-
+|{{Indent}}You can converse using extremely low-frequency sounds. This trait includes Subsonic Hearing, above. Subsonic speech is slow (half-speed), and even if the frequency is shifted into the normal range, subsonic speakers are at -2 to Fast-Talk and any other skill where versatile speaking is important. However, subsonic speech carries twice as far as normal speech. Cost depends on your capabilities:
+
+{{Indent}}You can only communicate via Subsonic Speech: 0 points.
+
+{{Indent}}You can switch between regular speech and Subsonic Speech at will: 10 points.
+|}

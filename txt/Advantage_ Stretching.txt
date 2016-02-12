@@ -1,0 +1,14 @@
+Advantage: Stretching
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''STRETCHING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''6 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You can stretch your body in any direction. Each level of Stretching lets you increase your effective SM by +1 with any body part without increasing your overall SM. You can elongate your arms to increase reach (but not swinging damage, as Stretching gives no extra mass or muscle), your legs to negotiate obstacles, your neck to see over barriers, etc. For more information, see Size Modifier and Reach (p. 402). Your body parts grow or shrink at the rate of ±1 SM per second.
+
+{{Indent}}By itself, Stretching is ideal for machines with telescoping manipulators. A super with a &quot;rubber body&quot; should add some combination of Elastic Skin (p. 51), Double-Jointed (p. 56), Morph (p. 84), and Super Jump (p. 89).
+
+{{Indent}}Force Extension: You can project visible, semisolid force fields that act as extensions of your limbs. Treat this like unmodified Stretching, except that the extensions of your limbs past their physical reach aren't subject to injury. You must still move your limbs as if reaching, kicking, stepping, etc., and you still need a free hand to pick something up or wield a weapon. You're limited to your natural ST and DX, and can't take actions that are impossible with a real limb (e.g., reaching through a wall). This isn't Telekinesis (p. 82), but suits any power that includes it. +50%.
+
+{{Indent}}Limited: You can only stretch certain body parts. &quot;Arms Only&quot; and &quot;Legs Only&quot; are -20%, &quot;Single Limb&quot; is -40%, and &quot;Neck Only&quot; is -50%. The GM may allow other limitations, but &quot;Arms and Legs Only&quot; isn't a meaningful limitation.
+|}

@@ -1,0 +1,8 @@
+Modifier: Inaccurate
+{{Modifier Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INACCURATE'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5%/level''&lt;/font&gt;
+|-
+|{{Indent}}Your attack benefits little from careful aiming. Most attacks start with Accuracy (Acc) 3. Each -1 to Acc is a -5% limitation. You may not reduce Acc below 0.
+|}

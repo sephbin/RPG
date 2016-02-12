@@ -1,0 +1,14 @@
+Skill: Parry Missile Weapons
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PARRY MISSILE WEAPONS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This skill lets you parry thrown or missile weapons with a ready melee weapon. If you are wearing wristbands or gloves with DR 2+, or have at least this much natural DR, you can also parry with your hands. Your Parry score is (skill/2) + 3, rounded down - but based on Parry Missile Weapons skill, not your Melee Weapon or unarmed combat skill
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers (to Parry): +4 to parry large thrown weapons (e.g., axes and spears); +2 to parry small thrown weapons (e.g., knives and shuriken); no modifier to parry arrows; -2 to parry smaller low-tech missiles (e.g., crossbow bolts and blowpipe darts). You cannot parry bullets or similar high-tech projectiles! (Exception: Enhanced Time Sense allows you to parry bullets at -5.)&lt;/i&gt;&lt;/font&gt;
+|}

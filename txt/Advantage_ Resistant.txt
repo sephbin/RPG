@@ -1,0 +1,36 @@
+Advantage: Resistant
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''RESISTANT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You are naturally resistant (or even immune) to noxious items or substances that are not direct, physical attacks. This gives you a bonus on all HT rolls to resist incapacitation or injury from such things.
+
+{{Indent}}The bonus from Resistant applies to all rolls to resist noxious effects within a particular category - usually some combination of disease, poison, and environmental syndromes (altitude sickness, the bends, space sickness, etc.). It also applies to rolls to resist attacks that use these effects. This includes Afflictions with one of Blood Agent, Contact Agent, Follow- Up, or Respiratory Agent, and Innate Attacks that have such modifiers and inflict toxic or fatigue damage.
+
+{{Indent}}Resistant does not protect against effects that Damage Resistance or Protected Sense either stop or provide a HT bonus to resist. This includes Afflictions and Innate Attacks that do not have any of the modifiers given above.
+
+{{Indent}}The base cost for Resistant depends on the rarity of the effects it counteracts:
+
+{{Indent}}Very Common: A broad category within the noxious items described above. Example: Metabolic Hazards (all threats that only affect the living, including all disease and poison, plus such syndromes as altitude sickness, bends, seasickness, and jet lag). 30 points.
+
+{{Indent}}Common: A group of related items encountered as often in nature as in an attack, or some other suitably broad subset of &quot;Very Common.&quot; Example: Poison (all toxins, but not asphyxiants or corrosives) or Sickness (all diseases and environmental syndromes). 15 points.
+
+{{Indent}}Occasional: A group of closely related items more often encountered in nature than as a deliberate attack, or a subset of a &quot;Common&quot; group. Examples: Disease (all bacteria, viruses, fungus infections, etc.) or Ingested Poison. 10 points.
+
+{{Indent}}Rare: A specific item or environmental syndrome, or a subset of an &quot;Occasional&quot; group. Examples: Acceleration (blackouts due to extreme G-forces), Altitude Sickness, Bends (decompression sickness), Seasickness, or Space Sickness; Nanomachines. 5 points.
+
+{{Indent}}Multiply base cost to reflect your degree of resistance:
+
+{{Indent}}You are totally immune to all noxious effects, and never have to make resistance rolls (write this as &quot;Immunity&quot; on your character sheet): x1.
+
+{{Indent}}You have +8 to all HT rolls to resist: x1/2.
+
+{{Indent}}You have +3 to all HT rolls to resist: x1/3.
+
+{{Indent}}Drop all fractions from the final cost.
+
+{{Indent}}An ordinary human could believably have any level of resistance to a mundane &quot;Rare&quot; item, such as Seasickness. He might also have Resistant to Disease (+3) [3], Resistant to Disease (+8) [5], or Resistant to Poison (+3) [5]. Anything more would be superhuman. Golems, robots, undead, and other beings that are not truly &quot;alive&quot; must take Immunity to Metabolic Hazards [30]; this is already included in the Machine meta-trait (p. 263). When in doubt, the GM's word is final.
+
+{{Indent}}Mental Resistance: It is possible to be Resistant to a purely mental threat. This works as described above, except that the bonus applies to resistance rolls against IQ and Will instead of HT. &quot;Psionics&quot; is an allowed category, and is considered Very Common.
+|}

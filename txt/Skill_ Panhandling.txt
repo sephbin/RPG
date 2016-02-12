@@ -1,0 +1,16 @@
+Skill: Panhandling
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PANHANDLING'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Easy''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-4, Fast Talk-2, or Public Speaking-3.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the art of effective begging: who to approach, how to approach them, and how to avoid legal entanglements. Roll once per hour of begging
+
+{{Indent}}On a success, you net $2.00 times your margin of success. On a critical success, you get some sort of unexpected bonus - perhaps someone buys you dinner or gives you a useful or saleable item (e.g., a raincoat or a new pair of shoes). On a failure, you receive nothing. On a critical failure, you are assaulted or have a run-in with the law
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: Any bonus for Charisma (p. 41); +3 for Pitiable (p. 22); -1 to -4 for Shyness (p. 154). You may, if you wish, apply the opposite of your usual appearance modifier - that is, a penalty for being attractive or a bonus for being unattractive - unless you are Horrific or Monstrous (p. 21). The GM may assign a bonus if there is a lot of foot traffic in the area, or a penalty if there is no one around.&lt;/i&gt;&lt;/font&gt;
+|}

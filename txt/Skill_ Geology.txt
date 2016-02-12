@@ -1,0 +1,14 @@
+Skill: Geology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''GEOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6, Geography (Physical)-4, or Prospecting-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the science dealing with the structure of planets - their crust, mantle, and core. A geologist knows about minerals, oil, ores, etc.; about earthquakes and volcanoes; and about fossils. In the field, he can attempt to find water by using an &quot;eye for country&quot; (see Survival, p. 223)
+
+{{Indent}}You must specialize by planet type. See Planet Types (p. 180) for details
+|}

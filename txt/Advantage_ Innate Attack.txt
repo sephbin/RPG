@@ -1,0 +1,94 @@
+Advantage: Innate Attack
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INNATE ATTACK'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You have a natural or built-in attack with which you can inflict physical damage (for nondamaging attacks, see Affliction, p. 35, and Binding, p. 40). Examples include a dragon's fiery breath, a robot's built-in blaster, and a god's ability to hurl lightning bolts.
+
+{{Indent}}By default, this is a ranged attack with 1/2D 10, Max 100, Acc 3, RoF 1, Shots N/A, and Recoil 1, although you can apply modifiers to change these statistics (see pp. 101-116).
+
+{{Indent}}An Innate Attack inflicts 1d damage per level. Its cost per level depends on the type of damage it inflicts:
+
+{{Indent}};Burning (burn): Your attack inflicts damage using flame, an energy beam, or localized electrical burns. It may ignite fires! 5 points/level.
+
+{{Indent}};Corrosion (cor): Your attack involves acid, disintegration, or something similar. For every 5 points of basic damage you inflict, reduce the target's DR by 1, in addition to regular damage. (Living beings heal natural DR at the same rate as HP.) 10 points/level.
+
+{{Indent}};Crushing (cr): Your attack inflicts damage through blunt impact, like a bludgeoning weapon or an explosive blast. It is likely to cause knockback (p. 378), and is more effective at inflicting blunt trauma (p. 379) than other types of damage. 5 points/level.
+
+{{Indent}};Cutting (cut): Your attack inflicts lacerations, like those caused by an axe or broken glass. Multiply penetrating damage by 1.5. Cutting attacks can inflict blunt trauma and cause knockback. 7 points/level.
+
+{{Indent}};Fatigue (fat): Your attack is nonlethal. It might involve a low-amperage electric shock or a &quot;mind blast,&quot; or even inflict a weakening effect such as hypothermia or starvation. It reduces FP, not HP, and cannot affect machines. 10 points/level.
+
+{{Indent}};Impaling (imp): Your attack inflicts stab wounds, like a spear or an arrow. Double penetrating damage in flesh! Impaling attacks can target the eyes and vital organs, can inflict blunt trauma, and may slip through high-tech flexible armor. 8 points/level.
+
+{{Indent}};Piercing: Your attack involves a fast, blunt projectile, such as a bullet, or is sharp but too small to qualify as impaling, like a dart or a stinger. It may inflict blunt trauma, and can target the eyes and vital organs. There are four subclasses of piercing attack:
+
+{{Indent}}Small Piercing (pi-): Use this for very low-energy projectiles (e.g., blowgun darts), or for attacks that tend to punch through the target and leave a small wound channel (e.g., armorpiercing bullets). Against flesh, halve damage that penetrates DR. 3 points/level.
+
+{{Indent}}Piercing (pi): Use this for most rifle and pistol bullets. 5 points/level.
+
+{{Indent}}Large Piercing (pi+): Use this for attacks similar to large-caliber solid bullets, or for smaller projectiles that create large wound channels (e.g., hollow- point bullets). Multiply penetrating damage in flesh by 1.5. 6 points/level.
+
+{{Indent}}Huge Piercing (pi++): Use this for attacks that leave an even larger wound channel than large piercing. Double penetrating damage in flesh! 8 points/level.
+
+{{Indent}};Toxic (tox): Your attack inflicts cellular damage, in the manner of disease, poison, or radiation. It cannot normally affect machines. The modifiers Cyclic (p. 103), Onset (p. 113), and Resistible (p. 115) are usual, but not required. 4 points/level.
+
+{{Indent}};Partial Dice: You do not have to buy wholenumbered dice of damage. Each ±1 to damage counts as ±0.3 dice. Round the final cost up. For instance, an Innate Attack that does 1d+2 damage counts as 1.6 dice. If it were crushing (5 points/die), it would cost 1.6 x 5 &quot; 8 points.
+
+{{Indent}}Some attacks do only 1 point of damage. This counts as 0.25 dice. Once again, round cost up. Such attacks can still be deadly - especially if they involve the Follow-Up (p. 105) or Cyclic (p. 103) enhancement!
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Special Modifiers'''&lt;/font&gt;
+
+{{Indent}}Many special modifiers for Innate Attack appear under Attack Enhancements and Limitations (p. 102). You can use these to create almost any attack - built-in guns, lasers, jets of liquid fire, gale-force winds, etc. - and to duplicate the capabilities of weapons listed in GURPS books.
+
+{{Indent}}Fatigue and toxic attacks intended to simulate poison or disease require modifiers. Noxious agents on Claws (p. 42), Teeth (p. 91), darts, etc. use Follow-Up (p. 105). Gases and sprays use Respiratory Agent (p. 108) or Contact Agent (p. 103), often with Area Effect (p. 102), Cone (p. 103), or Jet (p. 106). Attacks that depend on touch or on skin contact use Blood Agent (p. 102) or Contact Agent, plus one of Aura (p. 102) or Melee Attack (p. 112).
+
+{{Indent}}Regardless of other modifiers, Innate Attacks are treated as ranged attacks unless given the Melee Attack limitation; then they're considered melee weapons.
+
+
+----
+
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Description'''&lt;/font&gt;
+
+{{Indent}}After applying all relevant modifiers, name and describe the attack. You can be as general as &quot;dragon fire&quot; or as specific as &quot;9mm machine pistol cybernetically implanted in right arm.&quot; At the GM's discretion, the description can imply additional noncombat abilities; for instance, a jet of high-pressure water could put out fires. The GM has the final say as to whether your description fits the campaign setting, and may modify the attack if necessary.
+
+{{Indent}}If an ability causes injury and isn't a natural melee weapon (like claws), it's an Innate Attack. Given the variety of attacks possessed by powered heroes in comics, movies, and so on, this covers a lot of ground. The first step when designing any Innate Attack is to choose its damage type:
+
+{{Indent}}Burning: Use this for electricity, flame, heat, and radiation. Examples include fireballs, lasers, lightning bolts, microwaves, and particle beams. Enhance the attack with Explosion (+50%/level) for a fireball, Radiation (+100%) for a particle beam, or Surge (+20%) for lightning. Exotic attacks might require combinations of damage modifiers: Radiation and Surge for charged particle beams, Explosion and Surge for ball lightning, Surge and No Wounding (-50%) for an electromagnetic pulse (EMP) that only harms electrical systems, etc.
+
+{{Indent}}Corrosion: Realistic examples are strong acids and bases. Powerful oxidizers also qualify, and tend to be Incendiary (+10%). Magical, superpowered, and superscience disintegration effects fall into this category, too.
+
+{{Indent}}Crushing: This is most appropriate for attacks that hurl large, blunt chunks of matter, like balls of stone or ice (but not bullets - those are piercing). Superscience force beams qualify as well. Explosives are crushing attacks with both Explosion (+50%/level) and Fragmentation (+15%/die); timed explosives, such as grenades, add Delay (variable).
+
+{{Indent}}Cutting: Cutting attacks nearly always involve blades or shards, which might be made of bone, glass, ice, metal, or any number of other things. Tiny shards that damage mainly as a result of their sharpness have No Blunt Trauma (-20%) and No Knockback (-10%). Cutting attacks are often carriers for venomous Follow- Up attacks.
+
+{{Indent}}Fatigue: Tranquilizers are the obvious real-world example, and have Cyclic, Onset, and Resistible (all highly variable). At higher TLs, sonic and electrical stunners become possibilities. Supernatural options include sleep spells and psionic mind blasts. Fatigue is the only damage type that can have Hazard enhancements (see p. B104). It can't harm inanimate objects, but with Hazard, the GM may let it affect them - Freezing could cool off a cheeseburger, Suffocation might deprive an engine of air, and so on.
+
+{{Indent}}Impaling: The notes for cutting damage apply here as well, but No Knockback isn't allowed - impaling attacks don't cause knockback in the first place.
+
+{{Indent}}Piercing: The most common example is a bullet or bullet-sized projectile. See below for detailed notes on projectiles; see Guns as Innate Attacks (box) to simulate firearms.
+
+{{Indent}}Toxic: Realistic poisons and diseases have Cyclic, Onset, and Resistible (all variable) - but supernatural death touches, evil eyes, etc. also qualify as toxic, and often lack these modifiers. A direct, physical attack that delivers a rad dosage instead of injury has Radiation (+25%).
+
+{{Indent}}Next, define how the attack delivers its damage:
+
+{{Indent}}Beam: Supers and energy weapons frequently project damaging rays. Most are burning, and don't absolutely require modifiers - but lasers have Armor Divisor (2) (+50%) and blasters have Armor Divisor (5) (+150%). Disintegration beams cause corrosion damage, often with Armor Divisor (10) (+200%) or Cosmic (+300%). Force beams are crushing, typically with Double Knockback (+20%); most other crushing beams have No Knockback (-10%). Stun beams inflict fatigue damage. Only &quot;death rays&quot; (supernatural or superscience) are likely to deliver toxic damage. Roll against Innate Attack (Beam) to hit with any kind of beam.
+
+{{Indent}}Curse or Mental Blast: Damaging supernatural effects that bypass DR might do any kind of damage. Use burning for pyrokinetic attacks; fatigue for nonlethal attacks, with Freezing (+20%) for cryokinesis, Missed Sleep (+50%) for a sleep spell, and so on; or toxic for a death spell or telekinetic attack. Add Malediction 1 (+100%) for spells or Malediction 2 (+150%) for psionic abilities. See Affliction (p. 39) for additional notes. Since there's no physical impact, add No Knockback (-10%) if damage is crushing or cutting. Malediction uses a Will roll, not a standard attack roll.
+
+{{Indent}}Field: Most constant, injurious effects that surround the user - sheath of flame, radiation zone, aura of withering, etc. - are burning or toxic, with Aura (+80%), Always On (-40%), and Melee Attack (-30%). Those who attack by emitting an expanding ring of fire, ice, poison, etc. from their body have Area Effect (+50%/level) and Emanation (-20%) instead, with damage type depending on the substance or energy involved. Neither requires a roll to hit - but to use an Aura actively calls for an unarmed melee attack.
+
+{{Indent}}Gas: Lethal gases inflict toxic damage; nonlethal ones, fatigue damage. Fictional breath weapons have Cone (variable), but supers and wizards who can create gas clouds should take Area Effect (+50%/level) instead. Add one of Respiratory Agent (+50%), Blood Agent (+100%), or Contact Agent (+150%) to any gas attack. Drifting (+20%) and Persistent (+40%) are useful for lingering gases - and the GM might even allow these with Cone. Use Innate Attack (Breath) to hit with a Cone. Area Effects that depend on a beam, gaze, or projectile use the appropriate Innate Attack specialty to hit.
+
+{{Indent}}Liquid: Liquids have Cone (variable) or Jet (+0%); fantasy breath weapons with Cone should have Reduced Range, x1/5 (-20%), too. Acids inflict corrosion damage, while flaming liquids cause burning damage; either might be Cyclic (variable), if it sticks to the target. Water jets are crushing - often with Double Knockback (+20%) and No Wounding (-50%). Poisons inflict either fatigue or toxic damage, and have one of Blood Agent (-40% for Jet, +100% for Cone), Contact Agent (-30% for Jet, +150% for Cone), or Respiratory Agent (+50%). Roll against Innate Attack (Beam) or (Breath) to hit with liquids that issue from the hand or mouth, respectively.
+
+{{Indent}}Projectile: Projectiles don't require modifiers, but are among the few attacks that are routinely Guided (+50%), Homing (variable), or lobbed Overhead (+30%). They can deliver almost any kind of damage: burning for fireballs, crushing for stones, impaling for ice spears, and so on. Storms of fire, stones, ice, etc. are common magical and super attacks, and have Area Effect (+50%/level) - with Persistent (+40%) and possibly Wall (+30% or +60%) if they stay in place for some time, and often Bombardment (variable). To emulate firearms, see Guns as Innate Attacks (p. 54). Use Innate Attack (Projectile) to hit.
+
+{{Indent}}Touch: Most natural body weaponry is just Claws, Strikers, or Teeth - but a melee attack that operates independently of the user's ST is an Innate Attack with the Melee Attack limitation (variable). Use this option for an angel who can summon a sword of flame (burning), a robot with a builtin force sword (cutting), or a kung fu master who attacks with a deadly touch (toxic). Add Contact Agent (-30%) to attacks that must strike bare skin, Cosmic (+300%) to supernatural attacks that completely circumvent DR, like the Deathtouch spell (p. B245). Make an unarmed melee attack to hit.
+
+{{Indent}}Venom: Poison on Claws, Teeth, etc. should cause fatigue or toxic damage unless it's very unusual. Such attacks always have Follow-Up (+0%). Make a melee attack to hit with the carrier attack. Finally, if the attack has a chance of causing a baneful effect in addition to injury if it penetrates DR, add Side Effect (variable). This is common for beams that emulate ultra-tech stunners, paralysis guns, and so on. If the attack automatically causes weakness or incapacity after inflicting enough injury, enhance it with Symptoms (variable) instead. Fatigue or toxic attacks that represent venom or poison gas generally have Symptoms.
+|}

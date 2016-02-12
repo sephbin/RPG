@@ -1,0 +1,14 @@
+Advantage: Serendipity
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''SERENDIPITY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points/level''&lt;/font&gt;
+|-
+|{{Indent}}You have the knack of being in the right place at the right time. Each level of this trait entitles you to one fortuitous but plausible coincidence per game session. The details are up to the GM. For instance, the GM might declare that one of the guards you need to talk your way past just happens to be your cousin, or that there is a sports car idling in front of the bank just as you run outside in pursuit of the fleeing bank robbers.
+
+{{Indent}}From time to time, the GM may rule that a single implausible coincidence counts as some or all of your lucky breaks for a given session (e.g., the mechanic at the local garage has all the parts you need to complete your ultra-tech contragrav belt).
+
+{{Indent}}You are free to suggest serendipitous occurrences to the GM, but he gets the final say. Should he reject all your suggestions but fail to work Serendipity into the game session, you will get your lucky breaks next game session.
+
+{{Indent}}Wishing: You can consciously wish for fortuitous coincidences. These must be within the realm of what's plausible in the current situation. For instance, if you were in prison, you could wish for the jailer to drop his key . . . but you couldn't wish to be teleported home. The GM is free to forbid anything that would unbalance the game. Normal usage limits apply. +100% if you can grant wishes for yourself and others; +0% if you can aid others but not yourself.
+|}

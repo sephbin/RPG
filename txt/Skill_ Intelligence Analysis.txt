@@ -1,0 +1,20 @@
+Skill: Intelligence Analysis
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''INTELLIGENCE ANALYSIS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-6 or Strategy (any)-6.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to analyze and interpret intelligence data. It allows you to deduce enemy plans and capabilities, evaluate the accuracy of information, rate the reliability of sources, etc. In most game worlds, only intelligence, military, and security services teach this skill - often only to those with a minimum level of Rank or Security Clearance
+
+{{Indent}}The GM makes all Intelligence Analysis rolls in secret. On a success, he provides details about the significance and accuracy of your data, or insights into what it means in terms of enemy planning. When you encounter deliberately falsified data, the GM rolls a secret Quick Contest: your Intelligence Analysis vs. the enemy's skill at disinformation (Forgery, Propaganda, etc.). If you win, the GM provides details on precisely what is wrong with the information. It is up to you to deduce what this means, however!
+
+{{Indent}}This skill has nothing to do with gathering intelligence. Use Current Affairs (p.186) and Research (p. 217) to sift through public sources; Forensics (p. 196) and Search (p. 219) to find physical clues; Observation (p. 211) for human surveillance; and Electronics Operation (p. 189) to work with the satellite imagery, communications intercepts, and related &quot;technical means&quot; common at TL7+
+
+{{Indent}}You may take an optional specialty (p. 169) in one particular type of intelligence. A useful specialty at TL6+ is Intelligence Analysis (Traffic Analysis): identifying the purpose and organization of targets by examining intercepted communications traffic
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: -1 to -5 for incomplete information; -3 if all your information comes from a single source; -3 for intelligence concerning an arcane scientific or bureaucratic principle, unless you have skill in that area (e.g., Engineer (Electronics) for intelligence regarding a radar installation).&lt;/i&gt;&lt;/font&gt;
+|}

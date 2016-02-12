@@ -1,0 +1,10 @@
+Disadvantage: Quadriplegic
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''QUADRIPLEGIC'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-80 points''&lt;/font&gt;
+|-
+|{{Indent}}You are paralyzed in all your arms and legs, or lack limbs entirely. You can neither manipulate objects nor move yourself without assistance. You suffer all the bad effects of Paraplegic (see Lame, p. 141) and No Manipulators (see No Fine Manipulators, p. 145). If the GM is enforcing a disadvantage limit, Quadriplegic counts against the limit - but you may reduce ST and DX by up to four levels each without the resulting disadvantage points counting against the limit (points gained from further reductions count normally).
+
+{{Indent}}For rules governing prosthetic limbs and surgical cures, see Lame (p. 141) and One Arm (p. 147) for legs and arms, respectively.
+|}

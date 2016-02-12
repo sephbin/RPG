@@ -1,0 +1,42 @@
+Advantage: Regeneration
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REGENERATION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}Your wounds heal in mere hours, minutes, or seconds! To regenerate lost limbs, you will also need Regrowth (below) - but Regeneration will greatly accelerate that ability. Regeneration includes Rapid Healing (p. 79) at no extra cost.
+
+{{Indent}}You cannot have Regeneration if you have Slow Healing (p. 155) or Unhealing (p. 160). Regeneration is compatible with Draining (p. 132), but it does not restore the daily HP loss due to that disadvantage.
+
+{{Indent}}The cost of this trait depends on your regeneration speed:
+
+{{Indent}}Regeneration (Slow): You recover 1 HP every 12 hours, in addition to normal healing. 10 points.
+
+{{Indent}}Regeneration (Regular): You recover 1 HP per hour. 25 points.
+
+{{Indent}}Regeneration (Fast): You recover 1 HP per minute. 50 points.
+
+{{Indent}}Regeneration (Very Fast): You recover 1 HP per second. 100 points.
+
+{{Indent}}Regeneration (Extreme): You recover 10 HP per second. 150 points.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Enhancements'''&lt;/font&gt;
+
+{{Indent}}Heals Radiation: You shed accumulated rads at 10 times the rate at which you heal missing HP. For instance, Regeneration (Regular) removes 10 rads per hour. This will heal &quot;permanent&quot; radiation damage. +40%.
+
+{{Indent}}Fatigue Recovery: Only for Fast or better Regeneration. You regain lost FP at the same rate as you recover HP. +100%.
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Radiation Only: As Heals Radiation, but you only shed rads - you do not heal HP. -60%.
+
+{{Indent}}Fatigue Only: Your ability only aids FP recovery, as described for Fatigue Recovery. It has no effect on injury, and doesn't include Rapid Healing. -0%.
+
+{{Indent}}Limited: Your Regeneration accelerates an advantage, usually without restoring HP. It doesn't include Rapid Healing. &quot;DR Only&quot; speeds the recovery of DR lost as a result of corrosion, the Ablative limitation, etc. &quot;Regrowth Only&quot; repairs limbs, not HP. Find the normal recovery time in days and divide by 3 if Slow; read &quot;days&quot; as &quot;hours,&quot; &quot;minutes,&quot; or &quot;seconds&quot; if Regular, Fast, or Very Fast; or use the Very Fast time divided by 10 if Extreme. &quot;Unkillable Only&quot; does heal HP, but only after you die - and it stops working at positive HP (Unkillable 2) or full HP (Unkillable 3). -40%.
+|}

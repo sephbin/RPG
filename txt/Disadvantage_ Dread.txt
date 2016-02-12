@@ -1,0 +1,16 @@
+Disadvantage: Dread
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''DREAD'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Variable''&lt;/font&gt;
+|-
+|{{Indent}}You suffer from a supernatural aversion that compels you to keep a certain, minimum distance from a particular item or substance. If outside forces bring you and the item you dread closer together than that, you must move away as fast as you can, by the most direct route possible. You may do nothing else until you are beyond the range of your Dread. If you cannot put at least that much distance between yourself and the object of your Dread, your Dread will render you helpless!
+
+{{Indent}}You can instantly sense the presence of the dreaded substance as soon as you enter the forbidden radius. You do not know exactly where it is, but you know what direction it lies in and are compelled to go exactly the other way.
+
+{{Indent}}Base value of Dread is -10 points, which prohibits you from coming within one yard of the dreaded substance. A larger radius gives an additional -1 point per yard, to a maximum of -20 points at 11 yards. Find the final disadvantage value by multiplying the point value for your range to reflect the rarity of the substance, as described for Weakness (p. 161).
+
+{{Indent}}Special Enhancements
+
+{{Indent}}Cannot Be Trapped: You cannot enter the forbidden zone of your own volition, but if carried there by an outside force, you no longer feel your Dread. You can act normally in the forbidden zone until you leave the substance's presence, at which time the prohibition reactivates. -50%.
+|}

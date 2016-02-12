@@ -1,0 +1,16 @@
+Skill: Push
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PUSH'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''DX/Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: None.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}&lt;i&gt;Prerequisite:&lt;/i&gt; Trained By A Master
+
+{{Indent}}This skill allows you to channel your chi in order to &quot;gently&quot; push away an adversary or cause him to lose his balance. Roll against Push skill to hit. This counts as a barehanded attack (see Shove, p. 372), and your target may attempt any legal active defense
+
+{{Indent}}If you hit, use the higher of your ST or your Push skill as your effective ST. Roll swing damage for that ST, and double the result. For instance, if you had ST 10 and Push-15, you would roll swing damage for ST 15 (2d+1), and double it. This damage inflicts knockback (see Knockback, p. 378) but never actual physical injury
+|}

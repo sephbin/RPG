@@ -1,0 +1,14 @@
+Skill: Politics
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''POLITICS'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Average''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Defaults: IQ-5 or Diplomacy-5.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}This is the ability to get into office and get along with other politicians. It has nothing to do with administration! You can only learn Politics in office or by working for someone in office. A successful skill roll will give you +2 on reactions from fellow politicians. The GM may opt to handle an election as a Quick Contest of Politics
+
+{{Indent}}&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;&lt;i&gt;Modifiers: +2 for Voice (p. 97); -3 for Low Empathy (p. 142); -1 to -4 for Shyness (p. 154). In some jurisdictions, money is another important modifier . . .&lt;/i&gt;&lt;/font&gt;
+|}

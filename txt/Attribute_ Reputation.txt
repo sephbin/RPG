@@ -1,0 +1,60 @@
+Attribute: Reputation
+{{Attribute Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''REPUTATION
+'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''Varies''&lt;/font&gt;
+|-
+|{{Indent}}It is possible to be so well-known that your reputation becomes an advantage or a disadvantage. This affects reaction rolls made by NPCs (see p. 494). A reputation has four elements: Details, Reaction Modifier, People Affected, and Frequency of Recognition.
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Details'''&lt;/font&gt;
+
+{{Indent}}The details of your reputation are entirely up to you; you can be known for bravery, ferocity, eating green snakes, or whatever you want. However, you must give specifics. Reputation is, by definition, something noteworthy; there is no such thing as a “generic” reputation.
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Reaction Modifier'''&lt;/font&gt;
+
+{{Indent}}Specify the reaction-roll modifier that you get from people who recognize you. This determines the base cost of your reputation. For every +1 bonus to reaction rolls (up to +4), the cost is 5 points. For every -1 penalty (up to -4), the cost is -5 points.
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''People Affected'''&lt;/font&gt;
+
+{{Indent}}The size of the group of people who might have heard of you modifies the base cost:
+
+{{Indent}}Almost everyone in your game world (but not those from other universes – at least, not until they have met you!): x1.
+
+{{Indent}}Almost everyone in your game world except one large class (everyone but the French, everyone but Elves, everyone but offworld visitors): x2/3 (round down).
+
+{{Indent}}Large class of people (all people of a particular faith, all mercenaries, all tradesmen, etc.): x1/2 (round down). Small class of people (all priests of Wazoo, all literate people in 12th-century England, all mages in modern Alabama): x1/3 (round down).
+
+{{Indent}}If the class of people affected is so small that, in the GM's opinion, you would not meet even one in the average adventure, your reputation isn't worth points. This depends on the setting; for instance, mercenary soldiers are rare in some game worlds, common in others.
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Frequency Of Recognition'''&lt;/font&gt;
+
+{{Indent}}Either your name or your face is enough to trigger a “reputation roll” to see if the people you meet have heard of you. Roll once for each person or small group you meet. For a large group, the GM may roll more than once if he likes. The frequency with which you are recognized modifies the cost of your reputation:
+
+{{Indent}}All the time: x1.
+
+{{Indent}}Sometimes (roll of 10 or less): x1/2 (round down).
+
+{{Indent}}Occasionally (roll of 7 or less): x1/3 (round down).
+Of course, your reputation extends only within a certain area. If you travel far enough away, the GM may require you to “buy off” the disadvantage points you received for a bad reputation. (There is no corresponding bonus for losing a good reputation.)
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Multiple Reputations'''&lt;/font&gt;
+
+{{Indent}}You may have more than one reputation, and your reputations can overlap. The GM should check each one before determining how an NPC reacts to you. Your total reaction modifier from reputations cannot be better than +4 or worse than -4 in a given situation.
+
+----
+{{Indent}}&lt;font size=&quot;3&quot;&gt;'''Multifaceted Reputations'''&lt;/font&gt;
+
+{{Indent}}A single reputation can give different reaction modifiers with different groups, provided the groups do not overlap. Set the reaction modifier for each group, modify the cost for the size of the group, and then add up the resulting costs. Modify this total for frequency of recognition. The reputation is an advantage if the net point cost is positive, a disadvantage if negative. The final point cost may be 0, but you should still record it on your character sheet!
+
+{{Indent}}Example 1: Sir Anacreon has a reputation for fearless monster-slaying. This earns him a +2 reaction from those who recognize him. Everyone has heard of him (no modifier), and he is recognized on a roll of 10 or less (x1/2). He has a 5-point advantage.
+
+{{Indent}}Example 2: The Green Dragon has a reputation as a crimefighter. He gets +3 reactions from honest citizens – which is almost everyone except the large class of dishonest citizens (x2/3) – for 10 points. He receives a -4 reaction from the underworld – a large group (x1/2) – for -10 points. The net point cost for his reputation is 0 points. If his player wished, he could specify a frequency of recognition, but the final cost would still be 0 points.
+
+|}
+[[Category:GURPS Advantages]][[Category:GURPS Disadvantages]]

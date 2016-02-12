@@ -1,0 +1,18 @@
+Skill: Thaumatology
+{{Skill Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''THAUMATOLOGY'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''IQ/Very Hard''&lt;/font&gt;
+|-
+|&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Default: IQ-7*.&lt;/font&gt;
+
+&lt;font color=&quot;#006AFF&quot; size=&quot;2&quot;&gt;Prerequisites: None.&lt;/font&gt;
+|-
+|{{Indent}}* There is no default in a nonmagical setting, or for those who have never witnessed &quot;real&quot; magic
+
+{{Indent}}This is the academic study of magical theory and the &quot;physics&quot; of mana. Anyone may learn this skill, but it is easier for a mage; add Magery to IQ when learning this skill, just as for spells
+
+{{Indent}}The main use for this skill is magical research. When creating a new spell, use the rules for inventing (see Chapter 17), but replace Engineer skill with Thaumatology. A successful skill roll can also identify an unknown spell when you see it cast, deduce the ramifications of a critical success or failure with magic, determine the spells needed to enchant a magic item to perform as desired, etc. The better your roll, the more insight the GM will provide
+
+{{Indent}}This is the study of fantasy magic - fireball spells, rings of power, etc. The equivalent skill for traditional, spiritmediated sorcery is Ritual Magic (p. 218), while holy magic might require Religious Ritual (p. 217) or Theology (p. 226). However, a Thaumatology roll at -5 will allow a thaumatologist to relate these different varieties of magic to &quot;standard&quot; wizardry. Exceptionally weird powers or otherworldly artifacts might give a larger penalty!
+|}

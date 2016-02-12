@@ -1,0 +1,21 @@
+Advantage: Peripheral Vision
+{{Advantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''PERIPHERAL VISION'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have an unusually wide field of vision. You can see a 180° arc in front of you without turning your head, and have 30° of peripheral vision to either side of that. This gives you a 240° &quot;arc of vision&quot; for observation and ranged attacks. The figure above [[pic]] shows the arc of vision for a normal character (white) and for someone with Peripheral Vision (gray plus white).
+
+{{Indent}}If you are playing with a battle map, you can make melee attacks into &quot;side&quot; (&quot;right&quot; and &quot;left&quot;) hexes as well as &quot;front&quot; hexes - although a onehanded attack to the opposite side (e.g., attacking your left hex with your right hand) is clumsy and considered a Wild Swing (see p. 388). You still cannot attack a foe directly behind you except with a Wild Swing.
+
+{{Indent}}This also helps on defense! If you are attacked from a &quot;side&quot; hex, you defend at no penalty. Even against attacks from the rear, your active defense is only at -2.
+
+{{Indent}}Out of combat, you get +3 to all rolls to detect Shadowing attempts or ambushes from behind, and the GM will always make a Vision roll for you to spot dangers &quot;behind your back.&quot;
+
+{{Indent}}
+----
+
+&lt;font size=&quot;3&quot;&gt;'''Special Limitations'''&lt;/font&gt;
+
+{{Indent}}Easy to Hit: Your eyes are on stalks, unusually large, or otherwise more vulnerable to attack. Others can target your eyes from within their arc of vision at only -6 to hit. -20%.
+|}

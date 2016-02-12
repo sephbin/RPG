@@ -1,0 +1,14 @@
+Disadvantage: Unfit
+{{Disadvantage Template}}
+|style=&quot;height:40px; text-align:left;&quot;| &lt;font size=&quot;4&quot;&gt;{{Indent}}'''UNFIT'''&lt;/font&gt;
+|-
+| style=&quot;text-align:right;&quot; | &lt;font size=&quot;3&quot;&gt;''-5 or -15 points''&lt;/font&gt;
+|-
+|{{Indent}}You have worse cardiovascular health than your HT alone would indicate. This comes in two levels:
+
+{{Indent}}Unfit: You get -1 to all HT rolls to remain conscious, avoid death, resist disease or poison, etc. This does not reduce your HT attribute or HT-based skills! As well, you lose FP at twice the normal rate. -5 points.
+
+{{Indent}}Very Unfit: As above, but the penalty to HT rolls is -2. In addition, you recover FP at only half the normal rate. You may not purchase any level of Resistant (p. 80). -15 points.
+
+{{Indent}}In both cases, this disadvantage applies only to FP lost to exertion, heat, etc. It has no effect on FP &quot;spent&quot; to power psi or magic spells.
+|}
