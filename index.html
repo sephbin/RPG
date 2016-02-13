@@ -1,8 +1,56 @@
 <!DOCTYPE html>
 <meta charset="UTF-8"> 
 <html>
+<script src="javascripts/jquery-2.2.0.min.js"></script>
+<script type="text/javascript">
+	var importList = ['abc'];
+			$.each(importList,function(y,z){
+			$.ajax({
+			  url:"data/"+z+".json",
+			  beforeSend: function(xhr){
+			    if (xhr.overrideMimeType){xhr.overrideMimeType("application/json");}},
+			  type:"GET",
+			  dataType:"json",
+			  cache:false,
+			  error: function(a,b,c){console.log(a+b+c);}
+			}).done(function(data){
+				console.log("loaded: "+z+".json");
+				window[z] = data;
+			});
+		});
+</script>
+<head>
+<style type="text/css">
+	body{
+		margin:0px;
+		padding:0px;
+	}
+	div.front{
+		position: absolute;
+		background: #999;
+		opacity:0.5;
+		top:0px;
+		bottom:0px;
+		left:0px;
+		right:0px;
+		padding:50px;
+		}
+	h1,a{
+		margin:0px;
+		text-align: center;
+	}
+</style>
+</head>
 <body>
+<div class="front">
 <h1>Stranger Collective RPG Repository</h1>
 <a href="http://sephbin.github.io/gurps_cs">GURPS Character Sheet</a>
+<div>
+</div>
 </body>
+<script type="text/javascript">
+	$('a').click(function(){$('a').after(
+	abc.content
+	);});
+</script>
 </html>
