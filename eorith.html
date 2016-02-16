@@ -20,7 +20,7 @@
 			});
 		});
 </script>
-<link rel="prefetch-dns" href="eorith.html"> 
+<link rel="prefetch-dns" href="http://sephbin.gitbug.io/strangercollective"> 
 <head>
 <link rel="stylesheet" type="text/css" href="css/jquery.scombobox.css">
 <style type="text/css">
@@ -51,7 +51,6 @@
 		top:0px;
 		bottom:0px;
 		width:100%;
-		background-repeat: no-repeat;
 	}
 	div#parent{
 		position: absolute;
@@ -79,6 +78,7 @@
 		right: 0px;
 		background: #fff;
 		z-index: 0;
+		opacity:.5;
 	}
 	.scombobox-display{
 		text-align: center;
@@ -118,28 +118,20 @@
 <div class="white">
 </div>
 <div class="input">
-<select id="main">
-		<option value="eorith" image="images/eorith.jpg">Eorith</option>
-	    <option value="lafeyette">La Feyette</option>
-	    <option value="maps">Maps</option>
-</select>
 </div>
 </div>
 </body>
 <script type="text/javascript">
+$('body').css("background-image", "url(images/eorith.jpg)");
 $('#main').scombobox({
     showDropDown: false
 });
-$('input').val('');
+
 $('input').change(function(){
-	web = $(this).val();
-	back = $('[value="'+web+'"]').attr('image');
-	console.log(back);
-$('body').css("background-image", "url("+back+")");
 $('div.white').delay(2000).animate({opacity: .5},2000);
 $('input').animate({opacity: 0},2000);
 $('input').delay(4000).queue(function(){
-	window.location.href = web+".html";
+	window.location.href = "http://sephbin.github.io/strangercollective";
 });
 })
 	// $('a').click(function(){$('a').after(
@@ -149,3 +141,4 @@ $('input').delay(4000).queue(function(){
 
 </script>
 </html>
+
