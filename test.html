@@ -1,0 +1,51 @@
+<html>
+<script src="javascripts/jquery-2.2.0.min.js"></script>
+<script src="javascripts/jquery-ui.min.js"></script>
+<script src="javascripts/jquery.transform.js"></script>
+<head>
+	<title></title>
+</head>
+<style type="text/css">
+	.st0{
+	fill:#FFF;
+	filter: drop-shadow(0px 0px 30px rgba(0,0,0,.15));
+	transform-origin: 960px 540px;
+	transform:scale(1);
+	}
+
+</style>
+<body>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<circle delay="2250" class="st0" cx="517" cy="273" r="122"/>
+<circle delay="2200" class="st0" cx="420" cy="190" r="63"/>
+<polygon delay="800" class="st0" points="-219,970 483,887 835,719 985,597 1059,597 1157,733 1449,859 2341,970 2341,1169 1181,1229 -127,1163 "/>
+<polygon delay="400" class="st0" points="2120,903 2120,803 2083,803 2083,889 2043,889 2043,841 2007,841 2007,903 1950,903 1950,880 1913,880 1913,896 1869,896 1869,817 1803,817 1803,874 1743,874 1743,803 1694,803 1694,867 1630,867 1630,839 1598,839 1598,895 1499,895 1499,738 1434,738 1434,903 1297,903 1297,788 1233,788 1233,897 1169,897 1169,850 1115,850 1115,903 960,903 805,903 805,850 751,850 751,897 687,897 687,788 623,788 623,903 486,903 486,738 421,738 421,895 322,895 322,839 290,839 290,867 226,867 226,803 177,803 177,874 117,874 117,817 51,817 51,896 7,896 7,880 -30,880 -30,903 -87,903 -87,841 -123,841 -123,889 -163,889 -163,803 -200,803 -200,903 -457,903 -457,1298 960,1300 2377,1298 2377,903 "/>
+<polygon delay="200" class="st0" points="-87,894 291,894 291,748 345,748 345,874 403,874 403,804 457,804 457,894 541,894 541,860 595,860 595,884 659,884 659,768 757,768 757,852 845,852 845,748 916,748 916,842 1011,842 1011,800 1057,800 1057,882 1203,882 1203,652 1299,652 1299,894 1499,894 1499,726 1593,726 1593,886 1687,886 1687,816 1767,816 1767,894 1995,894 1995,1103 -87,1103 "/>
+</svg>
+
+</body>
+<script type="text/javascript">
+$('.st0').each(function(){
+	var delayTime = 1*$(this).attr('delay');
+	var shade = parseInt((.95+(((delayTime-200)/2250))*.05)*255);
+	console.log(shade);
+	var shading = "rgb(" + shade + "," + shade + "," + shade + ")";
+	var shadow = (((delayTime-200)/2250)*30)-15;
+	var shadowing = "drop-shadow(0px 0px "+shadow+"px rgba(0,0,0,.15))";
+	// $(this).css("fill",shading);
+	$(this).css("filter" , shadowing);
+
+	// console.log(delayTime);
+	$(this).delay(delayTime).animate({transform:"scale(10) translateY(500)", opacity:0},5000,"easeInExpo");
+	//easeInCubic
+	//easeInQuad
+	//easeInExpo
+	//easeOutBounce
+	});
+</script>
+</html>
+
+
+
