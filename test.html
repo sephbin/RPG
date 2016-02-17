@@ -1,3 +1,4 @@
+
 <html>
 <script src="javascripts/jquery-2.2.0.min.js"></script>
 <script src="javascripts/jquery-ui.min.js"></script>
@@ -6,6 +7,10 @@
 	<title></title>
 </head>
 <style type="text/css">
+	/*@keyframes testest {
+	0% { transform:scale(1); }  
+	100% { transform:scale(10); }
+	}*/
 	.st0{
 	fill:#FFF;
 	filter: drop-shadow(0px 0px 30px rgba(0,0,0,.15));
@@ -16,7 +21,7 @@
 </style>
 <body>
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg visibility="hidden" version="1.1" id="eorithanim" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100%" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
 <circle delay="2250" class="st0" cx="517" cy="273" r="122"/>
 <circle delay="2200" class="st0" cx="420" cy="190" r="63"/>
@@ -34,7 +39,7 @@ $('.st0').each(function(){
 	var shading = "rgb(" + shade + "," + shade + "," + shade + ")";
 	var shadow = (((delayTime-200)/2250)*30)-15;
 	var shadowing = "drop-shadow(0px 0px "+shadow+"px rgba(0,0,0,.15))";
-	// $(this).css("fill",shading);
+	$(this).css("fill",shading);
 	$(this).css("filter" , shadowing);
 
 	// console.log(delayTime);
