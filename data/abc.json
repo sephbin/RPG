@@ -1,4 +1,65 @@
 {
+	"adv": [{
 	"title":"Absolute Direction",
-	"content": "ABSOLUTE DIRECTION'''</font> |- | style=text-align:right; | <font size=3>''5 or 10 points''</font> |- |{{Indent}}You have an excellent sense of direction. This ability comes in two levels: {{Indent}}Absolute Direction: You always know which way is north, and you can always retrace a path you have followed within the past month, no matter how faint or confusing. This ability does not work in environments such as interstellar space or the limbo of the astral plane, but it does work underground, underwater, and on other planets. This gives +3 to Body Sense and Navigation (Air, Land, or Sea). (Note: The navigational sense that guides migratory creatures to their destination is too crude to qualify; treat it as a 0-point feature.) 5 points. {{Indent}}3D Spatial Sense: As above, but works in three dimensions. This ability is useful in deep space - although it does not help you if you travel across dimensions. You get the skill bonuses given for Absolute Direction, plus +1 to Piloting and +2 to Aerobatics, Free Fall, and Navigation (Hyperspace or Space). 10 points. {{Indent}} ---- <font size=3>'''Special Limitations'''</font> {{Indent}}Requires Signal: You rely on signals from a navigational satellite network (like Earth's GPS) or similar system. Your ability does not function in the absence of such a system, and it can be jammed. -20%. |}"
+	"points":"5 or 10",
+	"content": "You have an excellent sense of direction. This ability comes in two levels:<br><b>Absolute Direction:</b> You always know which way is north, and you can always retrace a path you have followed within the past month, no matter how faint or confusing. This ability does not work in environments such as interstellar space or the limbo of the astral plane, but it does work underground, underwater, and on other planets. This gives +3 to Body Sense and Navigation (Air, Land, or Sea). (Note: The navigational sense that guides migratory creatures to their destination is too crude to qualify; treat it as a 0-point feature.) 5 points.<br><b>3D Spatial Sense:</b> As above, but works in three dimensions. This ability is useful in deep space - although it does not help you if you travel across dimensions. You get the skill bonuses given for Absolute Direction, plus +1 to Piloting and +2 to Aerobatics, Free Fall, and Navigation (Hyperspace or Space). 10 points.",
+	"spLimits": [{	"name":"Requires Signal",
+					"content":"You rely on signals from a navigational satellite network (like Earth's GPS) or similar system. Your ability does not function in the absence of such a system, and it can be jammed.",
+					"cost":"-20%."
+	}]
+	},{
+	"title":"Absolute Timing",
+	"points":"2 or 5",
+	"content": "You have an accurate mental clock. This ability comes in two levels, both of which are somewhat cinematic:<br>Absolute Timing: You always know what time it is, with a precision equal to the best personal timepieces widely available in your culture (but never better than a few seconds). You can measure elapsed time with equal accuracy. Neither changes of time zone nor sleep interferes with this ability, and you can wake up at a predetermined time if you choose. Being knocked unconscious, hypnotized, etc. may prevent this advantage from working, and time travel will confuse you until you find out what the 'new' time is. 2 points.<br>Chronolocation: As above, but time travel does not interfere - you always know what time it is in an absolute sense. Note that things like Daylight Savings Time and calendar reform can still confuse you! When you travel in time, the GM may tell you, 'You have gone back exactly 92,876.3 days,' and let you - or your character - deal with questions like, 'What about leap year?' 5 points."
+	},{
+		"title":"Accessory",
+		"points":"1",
+		"content": "Your body incorporates a tool or other useful gadget (e.g., a siren or a vacuum cleaner) that provides minor, noncombat benefits not otherwise covered by a specific advantage.",
+		"spLimits": [{	"name":"",
+						"content":"",
+						"cost":""
+					}]
+	},{
+		"title":"Affliction/level",
+		"points":"10",
+		"content": "You have an attack that causes a baneful, nondamaging effect: blindness, paralysis, weakness, etc. This might be an ultra-tech beam weapon, a chemical spray, a supernatural gaze attack, or almost anything else. Specify the details when you buy the advantage.<br>By default, Affliction is a ranged attack with 1/2D 10, Max 100, Acc 3, RoF 1, Shots N/A, and Recoil 1, although you can apply modifiers to change these statistics (see pp. 101- 116).<br>If you hit, your victim gets a HT+1 roll to resist. Apply a penalty equal to the level of the Affliction (so Affliction 1 gives an unmodified HT roll). The victim gets a bonus equal to his DR unless the Affliction has one of the following modifiers: Blood Agent, Contact Agent, Cosmic, Follow-Up, Malediction, Respiratory Agent or Sense-Based. To reduce the effects of DR, add the Armor Divisor enhancement. The victim gets a further +3 if he is beyond 1/2D range.<br>If the victim makes his HT roll, he is unaffected. If he fails, he suffers the effects of the Affliction. By default, he is stunned (see p. 420). He may roll vs. HT+1 once per second to recover, but once again at a penalty equal to the level of the Affliction (DR has no effect on this roll).<br>If your Affliction causes an effect other than stunning, this is a special enhancement (see below). You can inflict more than one effect by giving your Affliction multiple special enhancements. These effects occur simultaneously, except where noted.<br>Successive Afflictions that produce the same effects are not normally cumulative. Use the single worst effect.<br>Use the Special Enhancements below to create specific Afflictions. Many Attack Enhancements and Limitations (p. 102) are also logical. For instance, a blinding flash is Sense- Based (p. 109); most drugs have Follow-Up (p. 105), Blood Agent (p. 102), or Contact Agent (p. 103); supernatural attacks like the 'evil eye' use Malediction (p. 106); and touch attacks call for Melee Attack (p. 112).<br>If an Affliction produces two or more effects due to the special enhancements below, some of these effects may be secondary. Secondary effects occur only if the victim fails his HT roll by 5 or more or rolls a critical failure. A secondary effect is worth 1/5 as much; e.g., Secondary Heart Attack is +60% rather than +300%.<br>Once you have chosen all the modifiers on your Affliction, describe the nature of the attack as detailed for Innate Attack (p. 61).",
+		"spEnhan": [{	"name":"Advantage",
+						"content":"The victim immediately experiences the effects of a specific physical or mental advantage. Advantages with instantaneous effects affect the target once, as soon as he is hit, if he fails his HT roll; e.g., Warp immediately teleports the subject. Advantages that can be switched on and off (such as Insubstantiality) are automatically 'on' for one minute per point by which the victim fails his HT roll, and are not under the subject's control. This is worth +10% per point the advantage is worth; e.g., Insubstantiality would be +800%! If the advantage comes in levels, specify the level.",
+						"cost":""
+					},{	"name":"Attribute Penalty",
+						"content":"The victim suffers temporary attribute loss. This is +5% per -1 to ST or HT, or +10% per -1 to DX or IQ. For instance, an attack that caused DX-3 and IQ-2 would be +50%. Lower all skills based on reduced attributes by a like amount. ST penalties also reduce BL and damage, while IQ reductions also apply to Will and Perception. Secondary characteristics are not otherwise affected; for instance, HT reduction does not affect Basic Speed or FP. Penalties last for one minute per point by which the victim fails his HT roll.",
+						"cost":""
+					},{	"name":"Coma",
+						"content":"The victim collapses, profoundly unconscious, and will likely die in days unless treated; see Mortal Conditions (p. 429).",
+						"cost":"+250%."
+					},{	"name":"Cumulative",
+						"content":"Repeated attacks are cumulative! You must take this in conjunction with Attribute Penalty, or with an Advantage, Disadvantage, or Negated Advantage Enhancement that inflicts a 'leveled' trait.",
+						"cost":"+400%."
+					},{	"name":"Disadvantage",
+						"content":"The victim temporarily gains one or more specific physical or mental disadvantages (but not self-imposed mental disadvantages - see p. 121). This is worth +1% per point the temporary disadvantages are worth; e.g., Paranoia [-10] is worth +10%. If a disadvantage comes in levels, specify the level. The disadvantages last for one minute per point by which the victim fails his HT roll.",
+						"cost":""
+					},{	"name":"Heart Attack",
+						"content":"The victim suffers an incapacitating heart attack, and will die in minutes unless treated; see Mortal Conditions (p. 429).",
+						"cost":"+300%"
+					},{	"name":"Incapacitation",
+						"content":"The victim is incapacitated for a number of minutes equal to the margin of failure on his HT roll. After that, he is stunned until he can make a HT roll (roll once per second). If you combine Incapacitation with other effects (such as Irritant), those effects occur after the Incapacitation wears off; they replace the stunning and last for the same length of time the Incapacitation did. Incapacitation can take the form of any of the following: Daze, +50%; Hallucinating, +50%; Retching, +50%; Agony, +100%; Choking, +100%; Ecstasy, +100%; Seizure, +100%; Paralysis, +150%; Sleep, +150%; or Unconsciousness, +200%. See Incapacitating Conditions (p. 428) for the game effects.",
+						"cost":""
+					},{	"name":"",
+						"content":"",
+						"cost":""
+					}],
+		"spLimits": [{	"name":"",
+						"content":"",
+						"cost":""
+					}]
+	},{
+		"title":"",
+		"points":"",
+		"content": "",
+		"spLimits": [{	"name":"",
+						"content":"",
+						"cost":""
+					}]
+	}
+	]
 }
