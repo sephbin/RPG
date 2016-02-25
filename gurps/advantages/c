@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='catfall.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CATFALL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img16" style="cursor: pointer;" onclick="window.location='chameleon.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CHAMELEON</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='channeling.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CHANNELING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img26" style="cursor: pointer;" onclick="window.location='charisma.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CHARISMA</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='claim_to_hospitality.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CLAIM TO HOSPITALITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='clairsentience.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CLAIRSENTIENCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4" style="cursor: pointer;" onclick="window.location='claws.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CLAWS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img20" style="cursor: pointer;" onclick="window.location='clerical_investment.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CLERICAL INVESTMENT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12" style="cursor: pointer;" onclick="window.location='clinging.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CLINGING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='combat_reflexes.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">COMBAT REFLEXES</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11" style="cursor: pointer;" onclick="window.location='common_sense.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">COMMON SENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='compartmentalized_mind.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">COMPARTMENTALIZED MIND</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='constriction_attack.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CONSTRICTION ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='contact_group.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CONTACT GROUP</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='contacts.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CONTACTS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='cultural_adaptability.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CULTURAL ADAPTABILITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='cultural_familiarity.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CULTURAL FAMILIARITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='cybernetics.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">CYBERNETICS</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

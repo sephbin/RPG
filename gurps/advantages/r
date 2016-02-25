@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='racial_memory.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RACIAL MEMORY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='radiation_tolerance.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RADIATION TOLERANCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img18" style="cursor: pointer;" onclick="window.location='rank.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RANK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img27" style="cursor: pointer;" onclick="window.location='rapid_healing.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RAPID HEALING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img24" style="cursor: pointer;" onclick="window.location='rapier_wit.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RAPIER WIT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='reawakened.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">REAWAKENED</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='recovery.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RECOVERY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img15" style="cursor: pointer;" onclick="window.location='reduced_consumption.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">REDUCED CONSUMPTION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='regeneration.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">REGENERATION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7" style="cursor: pointer;" onclick="window.location='regrowth.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">REGROWTH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img22" style="cursor: pointer;" onclick="window.location='reputation.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">REPUTATION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='resistant.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">RESISTANT</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='hard_to_kill.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HARD TO KILL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='hard_to_subdue.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HARD TO SUBDUE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='healing.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HEALING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='hermaphromorph.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HERMAPHROMORPH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4" style="cursor: pointer;" onclick="window.location='high_manual_dexterity.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HIGH MANUAL DEXTERITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img28" style="cursor: pointer;" onclick="window.location='high_pain_threshold.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HIGH PAIN THRESHOLD</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img26" style="cursor: pointer;" onclick="window.location='high_tl.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HIGH TL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='higher_purpose.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HIGHER PURPOSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='honest_face.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HONEST FACE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='hyperspectral_vision.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">HYPERSPECTRAL VISION</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

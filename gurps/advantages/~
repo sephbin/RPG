@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div>
+<h1>GURPS ADVANTAGES
+</h1>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='zeroed.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ZEROED</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='damage_resistance_.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DAMAGE RESISTANCE </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='danger_sense.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DANGER SENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='daredevil.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DAREDEVIL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img27" style="cursor: pointer;" onclick="window.location='dark_vision.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DARK VISION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='deep_sleeper.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DEEP SLEEPER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11" style="cursor: pointer;" onclick="window.location='destiny.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DESTINY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img20" style="cursor: pointer;" onclick="window.location='detect.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DETECT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='digital_mind.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DIGITAL MIND</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='discriminatory_hearing.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DISCRIMINATORY HEARING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4" style="cursor: pointer;" onclick="window.location='discriminatory_smell.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DISCRIMINATORY SMELL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img21" style="cursor: pointer;" onclick="window.location='discriminatory_taste.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DISCRIMINATORY TASTE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='doesnt_breathe.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DOESNT BREATHE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='doesnt_eat_or_drink.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DOESNT EAT OR DRINK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='doesnt_sleep.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DOESNT SLEEP</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='dominance.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DOMINANCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='duplication.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">DUPLICATION</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
