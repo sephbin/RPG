@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='talent.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TALENT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='teeth.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TEETH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='telecommunication.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TELECOMMUNICATION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='telekinesis.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TELEKINESIS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='telescopic_vision.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TELESCOPIC VISION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img28" style="cursor: pointer;" onclick="window.location='temperature_control.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TEMPERATURE CONTROL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='temperature_tolerance.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TEMPERATURE TOLERANCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img20" style="cursor: pointer;" onclick="window.location='temporal_inertia.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TEMPORAL INERTIA</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img25" style="cursor: pointer;" onclick="window.location='tenure.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TENURE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img22" style="cursor: pointer;" onclick="window.location='terrain_adaptation.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TERRAIN ADAPTATION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='terror.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TERROR</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='trained_by_a_master.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TRAINED BY A MASTER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='true_faith.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TRUE FAITH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img24" style="cursor: pointer;" onclick="window.location='tunneling.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">TUNNELING</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

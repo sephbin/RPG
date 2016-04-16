@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<meta charset="UTF-8"> 
+<html>
+<script src="javascripts/jquery-2.2.0.min.js"></script>
+<script src="javascripts/jquery.scombobox.js"></script>
+<script type="text/javascript">
+	var importList = ['abc'];
+			$.each(importList,function(y,z){
+			$.ajax({
+			  url:"data/"+z+".json",
+			  beforeSend: function(xhr){
+			    if (xhr.overrideMimeType){xhr.overrideMimeType("application/json");}},
+			  type:"GET",
+			  dataType:"json",
+			  cache:false,
+			  error: function(a,b,c){console.log(a+b+c);}
+			}).done(function(data){
+				console.log("loaded: "+z+".json");
+				window[z] = data;
+			});
+		});
+</script>
+<link rel="prefetch-dns" href="http://sephbin.gitbug.io/strangercollective"> 
+<head>
+<link rel="stylesheet" type="text/css" href="css/jquery.scombobox.css">
+<style type="text/css">
+h7{
+	color:#000;
+	font-size: 14pt;
+	position: absolute;
+    right: 0px;
+}
+</style>
+</head>
+
+<body>
+	Heyhey
+</body>
+<script type="text/javascript">
+$(document).ready(function() {
+var htmlInsert = ""
+$.each(abc.adv, function (blah, object) {
+	console.log(object);
+	var spEnhan = "";
+	var spLimits = "";
+	$.each(object.spEnhan, function(k,v) {
+	spEnhan += "<b>" + v.name + ":</b> " + v.content + " <i>" + v.cost + "</i><br>";
+	});
+	$.each(object.spLimits, function(k,v) {
+	spLimits += "<b>" + v.name + ":</b> " + v.content + " <i>" + v.cost + "</i><br>";
+	});
+	var htmlIns = "<h2>" + object.title + "</h2><h7>"+object.points+" points</h7><p>" + object.content + "<br><hr>" + spEnhan + "<br><hr>" + spLimits + "</p>";
+	htmlInsert += htmlIns;
+	// $('body').html(htmlIns);
+	});
+$('body').html(htmlInsert);
+	});
+</script>
+</html>
+

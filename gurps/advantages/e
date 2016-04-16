@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='eidetic_memory.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EIDETIC MEMORY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img26" style="cursor: pointer;" onclick="window.location='elastic_skin.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ELASTIC SKIN</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='empathy.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EMPATHY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img18" style="cursor: pointer;" onclick="window.location='enhanced_defenses.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ENHANCED DEFENSES</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='enhanced_move.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ENHANCED MOVE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='enhanced_time_sense.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ENHANCED TIME SENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img27" style="cursor: pointer;" onclick="window.location='enhanced_tracking.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">ENHANCED TRACKING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='extended_lifespan.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTENDED LIFESPAN</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12" style="cursor: pointer;" onclick="window.location='extra_arms.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA ARMS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img15" style="cursor: pointer;" onclick="window.location='extra_attack.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='extra_head.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA HEAD</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='extra_legs.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA LEGS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='extra_life.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA LIFE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img16" style="cursor: pointer;" onclick="window.location='extra_mouth.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">EXTRA MOUTH</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

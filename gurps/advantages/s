@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img28" style="cursor: pointer;" onclick="window.location='sanitized_metabolism.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SANITIZED METABOLISM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='scanning_sense.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SCANNING SENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='sealed.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SEALED</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='security_clearance.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SECURITY CLEARANCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img24" style="cursor: pointer;" onclick="window.location='see_invisible.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SEE INVISIBLE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='sensitive_touch.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SENSITIVE TOUCH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img27" style="cursor: pointer;" onclick="window.location='serendipity.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SERENDIPITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='shadow_form.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SHADOW FORM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img25" style="cursor: pointer;" onclick="window.location='shapeshifting-_alternate_form.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SHAPESHIFTING- ALTERNATE FORM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='shapeshifting-_morph.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SHAPESHIFTING- MORPH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img16" style="cursor: pointer;" onclick="window.location='shrinking.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SHRINKING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='shtick.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SHTICK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img26" style="cursor: pointer;" onclick="window.location='signature_gear.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SIGNATURE GEAR</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='silence.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SILENCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img21" style="cursor: pointer;" onclick="window.location='single-minded.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SINGLE-MINDED</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img18" style="cursor: pointer;" onclick="window.location='slippery.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SLIPPERY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='snatcher.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SNATCHER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='social_chameleon.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SOCIAL CHAMELEON</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='social_regard.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SOCIAL REGARD</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='speak_underwater.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPEAK UNDERWATER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='speak_with_animals.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPEAK WITH ANIMALS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img20" style="cursor: pointer;" onclick="window.location='speak_with_plants.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPEAK WITH PLANTS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='special_rapport.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPECIAL RAPPORT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img15" style="cursor: pointer;" onclick="window.location='spines.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPINES</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4" style="cursor: pointer;" onclick="window.location='spirit_empathy.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SPIRIT EMPATHY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12" style="cursor: pointer;" onclick="window.location='status.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">STATUS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7" style="cursor: pointer;" onclick="window.location='stretching.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">STRETCHING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11" style="cursor: pointer;" onclick="window.location='striker.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">STRIKER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img22" style="cursor: pointer;" onclick="window.location='striking_st.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">STRIKING ST</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='subsonic_hearing.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUBSONIC HEARING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img28" style="cursor: pointer;" onclick="window.location='subsonic_speech.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUBSONIC SPEECH</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='super_climbing.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUPER CLIMBING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='super_jump.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUPER JUMP</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='super_luck.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUPER LUCK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img24" style="cursor: pointer;" onclick="window.location='supernatural_durability.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">SUPERNATURAL DURABILITY</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

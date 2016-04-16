@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-pc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='../index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS COMBAT MANUEVERS</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='aim.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">AIM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='alloutattack.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                            <a class="buttontext">ALL-OUT ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3 style="cursor: pointer;" onclick="window.location='alloutdefense.html';"">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">ALL-OUT DEFENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4 style="cursor: pointer;" onclick="window.location='attack.html';"">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='comittedattack.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">COMITTED ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='concentrate.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">CONCENTRATE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7" style="cursor: pointer;" onclick="window.location='defensiveattack.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">DEFENSIVE ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='donothing.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">DO NOTHING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='evaluate.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">EVALUATE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='feint.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">FEINT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11" style="cursor: pointer;" onclick="window.location='move.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">MOVE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12 style="cursor: pointer;" onclick="window.location='moveandattack.html';"">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">MOVE AND ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='ready.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">READY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='wait.html';">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a class="buttontext">WAIT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 2nd row verticaly centered images in square columns -->
+
+<!-- <div class="square">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <img class="rs" src="https://farm3.staticflickr.com/2878/10944255073_973d2cd25c.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- <div class="square">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+               <img class="rs" src="https://farm9.staticflickr.com/8461/8048823381_0fbc2d8efb.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <img class="rs" src="https://farm5.staticflickr.com/4144/5053682635_b348b24698.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div>
+ -->
+<!-- 3rd row responsive images in background with centered content -->
+<!-- 
+<div class="square bg img1">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                Centered responsive images as background with centered content over it.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                Again
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                And again
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- END OF LAYOUT, following juts for the demo -->
+
+</body>
+</html>

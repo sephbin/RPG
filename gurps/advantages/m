@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<script type="text/javascript">if (screen.width < 800) {document.location = "index-mob";}
+</script>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='magery.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MAGERY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4" style="cursor: pointer;" onclick="window.location='magic_resistance.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MAGIC RESISTANCE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img15" style="cursor: pointer;" onclick="window.location='mana_damper.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MANA DAMPER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='mana_enhancer.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MANA ENHANCER</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='medium.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MEDIUM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='metabolism_control.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">METABOLISM CONTROL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12" style="cursor: pointer;" onclick="window.location='microscopic_vision.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MICROSCOPIC VISION</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img16" style="cursor: pointer;" onclick="window.location='mimicry.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MIMICRY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='mind_control.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MIND CONTROL</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='mind_probe.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MIND PROBE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7" style="cursor: pointer;" onclick="window.location='mind_reading.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MIND READING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='mind_shield.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MIND SHIELD</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img29" style="cursor: pointer;" onclick="window.location='mindlink.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MINDLINK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='modular_abilities.html';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">MODULAR ABILITIES</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

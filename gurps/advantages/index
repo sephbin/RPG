@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-recpc.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<div class="header">
+<div class="flex img29" style="cursor: pointer;" onclick="window.location='../index';">
+        <div class="table">
+            <div class="table-cell">
+<a class="buttontext">BACK</a>
+</div>
+</div>
+</div>
+<div class="flextitle">
+<h1>GURPS ADVANTAGES</h1>
+</div>
+<div class="flex img26" style="cursor: pointer;" onclick="window.location='file:///C:/Users/Andrew/Downloads/dhcpsrv2.4.4/wwwroot/index';">
+<div class="table">
+            <div class="table-cell">
+<a class="buttontext">HOME</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square bg img8" style="cursor: pointer;" onclick="window.location='0-9';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">0-9</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img17" style="cursor: pointer;" onclick="window.location='a';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">A</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img26" style="cursor: pointer;" onclick="window.location='b';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">B</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img23" style="cursor: pointer;" onclick="window.location='c';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">C</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img22" style="cursor: pointer;" onclick="window.location='d';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">D</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13" style="cursor: pointer;" onclick="window.location='e';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">E</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img20" style="cursor: pointer;" onclick="window.location='f';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">F</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11" style="cursor: pointer;" onclick="window.location='g';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">G</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img27" style="cursor: pointer;" onclick="window.location='h';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">H</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6" style="cursor: pointer;" onclick="window.location='i';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">I</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img25" style="cursor: pointer;" onclick="window.location='j';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">J</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3" style="cursor: pointer;" onclick="window.location='k';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">K</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9" style="cursor: pointer;" onclick="window.location='l';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">L</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img16" style="cursor: pointer;" onclick="window.location='m';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">M</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img28" style="cursor: pointer;" onclick="window.location='n';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">N</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img21" style="cursor: pointer;" onclick="window.location='o';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">O</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5" style="cursor: pointer;" onclick="window.location='p';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">P</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14" style="cursor: pointer;" onclick="window.location='q';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">Q</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12" style="cursor: pointer;" onclick="window.location='r';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">R</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img19" style="cursor: pointer;" onclick="window.location='s';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">S</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2" style="cursor: pointer;" onclick="window.location='t';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">T</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7" style="cursor: pointer;" onclick="window.location='u';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">U</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10" style="cursor: pointer;" onclick="window.location='v';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">V</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img18" style="cursor: pointer;" onclick="window.location='w';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">W</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img24" style="cursor: pointer;" onclick="window.location='x';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">X</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img30" style="cursor: pointer;" onclick="window.location='y';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">Y</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img1" style="cursor: pointer;" onclick="window.location='z';">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a class="buttontext">Z</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

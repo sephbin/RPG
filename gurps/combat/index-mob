@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GURPS Combat Manuevers</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../../css/webstyle.css">
+  <link rel="stylesheet" href="../../css/index.css">
+  <link rel="stylesheet" href="../../css/buttons-mob.css">
+  <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+
+<script type="text/javascript">if (screen.width > 800) {document.location = "index2";}
+</script>
+<div>
+GURPS COMBAT MANUEVERS
+</div>
+<div class="square bg img1">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <a href="aim.html">AIM</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                            <a href="alloutattack.html">ALL-OUT ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3 ">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="alloutdefense.html">ALL-OUT DEFENSE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img4">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="attack.html">ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img5">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="comittedattack.html">COMITTED ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img6">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="concentrate.html">CONCENTRATE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img7">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="defensiveattack.html">DEFENSIVE ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img8">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="donothing.html">DO NOTHING</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img9">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="evaluate.html">EVALUATE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img10">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="feint.html">FEINT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img11">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="move.html">MOVE</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img12">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="moveandattack.html">MOVE AND ATTACK</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img13">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="ready.html">READY</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img14">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">               
+                <a href="wait.html">WAIT</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 2nd row verticaly centered images in square columns -->
+
+<!-- <div class="square">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <img class="rs" src="https://farm3.staticflickr.com/2878/10944255073_973d2cd25c.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- <div class="square">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+               <img class="rs" src="https://farm9.staticflickr.com/8461/8048823381_0fbc2d8efb.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                <img class="rs" src="https://farm5.staticflickr.com/4144/5053682635_b348b24698.jpg"/>
+                Responsive image.
+            </div>
+        </div>
+    </div>
+</div>
+ -->
+<!-- 3rd row responsive images in background with centered content -->
+<!-- 
+<div class="square bg img1">
+   <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                Centered responsive images as background with centered content over it.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img2">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                Again
+            </div>
+        </div>
+    </div>
+</div>
+<div class="square bg img3">
+    <div class="content">
+        <div class="table">
+            <div class="table-cell">
+                And again
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- END OF LAYOUT, following juts for the demo -->
+
+</body>
+</html>
