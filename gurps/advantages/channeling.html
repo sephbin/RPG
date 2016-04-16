@@ -20,3 +20,30 @@ Aware: You remain aware of the world when using your ability, and can move and a
 <hr>
 </p><h3 class="card">Special Limitations</h3><p class="card">
 Specialized: You can only channel one specific class of spirits. Possibilities include angels, demons, elementals, faerie, ghosts, and anything else the GM wishes to allow. -50%.</p,></div></div></body>
+<script src="jquery-2.2.0.min.js"></script>
+<script type="text/javascript">
+a={};
+b={};
+i=0
+$('p').each(function(){
+	var what = $(this).html();
+	var type = $(this).get(0).tagName+i;
+	// console.log(what);
+	b[type] = what;
+	i+=1;
+})
+$('h1').each(function(){
+	var what = $(this).html();
+	// var type = $(this).get(0).tagName;
+	// console.log(what);
+	a.title = what;
+	console.log(a);
+})
+$('h2').each(function(){
+	var what = $(this).html();
+	// var type = $(this).get(0).tagName;
+	// console.log(what);
+	a.points = what;
+	console.log(a);
+})
+</script>
