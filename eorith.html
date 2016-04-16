@@ -114,29 +114,21 @@
 </style>
 </head>
 <body>
-<div class="background">
-<div class="white">
-</div>
-<div class="input">
-</div>
-</div>
 </body>
 <script type="text/javascript">
-// $('body').css("background-image", "url(images/eorith.jpg)");
-$('#main').scombobox({
-    showDropDown: false
-});
 
-$('input').change(function(){
-$('div.white').delay(2000).animate({opacity: .5},2000);
-$('input').animate({opacity: 0},2000);
-$('input').delay(4000).queue(function(){
-	window.location.href = "http://sephbin.github.io/strangercollective";
-});
+window.onload=function(){
+var arrayList = abc.items;
+console.log(arrayList);
+var i = 0;
+$(arrayList).each(function(){
+$('body').append('<a id="'+i+'">'+this.title+'</a><br>');
+i += 1;
 })
-	// $('a').click(function(){$('a').after(
-	// abc.content
-	// );});
+
+
+}
+
 	
 
 </script>
